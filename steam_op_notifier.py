@@ -33,6 +33,7 @@ import requests
 from bs4 import BeautifulSoup
 
 STATE_FILE = Path(__file__).parent / "seen.json"
+LIST_FILE = Path(__file__).parent / "op_games.md"
 SEARCH_URL = "https://store.steampowered.com/search/results/"
 APPDETAILS_URL = "https://store.steampowered.com/api/appdetails"
 PAGE_SIZE = 50
@@ -42,12 +43,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 (OP-notifier; personal use)"}
 
 
 def fetch_op_games() -> dict[str, str]:
-    """Return {appid: name} for all games currently Overwhelmingly Positive.
-
-    Scans Steam search sorted by review score and parses the review
-    tooltip in each result row. Stops early once several consecutive
-    pages contain no OP games (score sort means we've passed them).
-    """
+    """Return {appid: name} for all games currently Overwhelmingly Positive."""
     op: dict[str, str] = {}
     empty_streak = 0
 
@@ -68,7 +64,7 @@ def fetch_op_games() -> dict[str, str]:
             html = r.json().get("results_html", "")
         except Exception as e:
             print(f"WARN: search page {page} failed: {e}", file=sys.stderr)
-            time.sleep(5)
+            time.sleep(10)
             continue
 
         soup = BeautifulSoup(html, "html.parser")
@@ -131,6 +127,15 @@ def save_seen(seen: set[str]) -> None:
     STATE_FILE.write_text(json.dumps(sorted(seen), indent=0))
 
 
+def save_game_list(current: dict[str, str]) -> None:
+    """Write a human-readable list of all current OP games."""
+    games_sorted = sorted(current.items(), key=lambda x: x[1].lower())
+    lines = [f"# Overwhelmingly Positive games ({len(current)})", ""]
+    for appid, name in games_sorted:
+        lines.append(f"- [{name}](https://store.steampowered.com/app/{appid}/)")
+    LIST_FILE.write_text("\n".join(lines))
+
+
 def send_email(subject: str, body: str) -> None:
     user = os.environ["EMAIL_USER"]
     password = os.environ["EMAIL_PASS"]
@@ -177,12 +182,8 @@ def main() -> None:
               "touching state (Steam layout may have changed).")
         sys.exit(1)
 
-list_file = Path(__file__).parent / "op_games.md"
-    list_file.write_text(
-        f"# Overwhelmingly Positive games ({len(current)})\n\n" +
-        "\n".join(f"- [{name}](https://store.steampowered.com/app/{appid}/)"
-                  for appid, name in sorted(current.items(), key=lambda x...
-  
+    save_game_list(current)
+
     if first_run:
         save_seen(set(current.keys()))
         send_email(
