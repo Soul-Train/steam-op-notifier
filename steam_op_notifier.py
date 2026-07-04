@@ -177,6 +177,12 @@ def main() -> None:
               "touching state (Steam layout may have changed).")
         sys.exit(1)
 
+list_file = Path(__file__).parent / "op_games.md"
+    list_file.write_text(
+        f"# Overwhelmingly Positive games ({len(current)})\n\n" +
+        "\n".join(f"- [{name}](https://store.steampowered.com/app/{appid}/)"
+                  for appid, name in sorted(current.items(), key=lambda x...
+  
     if first_run:
         save_seen(set(current.keys()))
         send_email(
