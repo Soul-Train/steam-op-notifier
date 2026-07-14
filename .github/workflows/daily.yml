@@ -2,11 +2,15 @@ name: Steam OP Daily Check
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # daily at 13:00 UTC (9 AM Eastern)
-  workflow_dispatch: {}     # lets you trigger it manually from the Actions tab
+    - cron: "0 1,5,9,13,17,21 * * *"   # every 4 hours (UTC)
+  workflow_dispatch: {}
 
 permissions:
   contents: write
+
+concurrency:
+  group: game-newsletter
+  cancel-in-progress: false
 
 jobs:
   check:
@@ -21,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run notifier
+      - name: Run newsletter
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
@@ -32,6 +36,7 @@ jobs:
         run: |
           git config user.name "op-notifier-bot"
           git config user.email "actions@github.com"
-          git add seen.json op_games.md
-          git diff --cached --quiet || git commit -m "Update seen list"
+          git pull --rebase --autostash
+          git add -A
+          git diff --cached --quiet || git commit -m "Update state"
           git push
