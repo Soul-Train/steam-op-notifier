@@ -81,6 +81,28 @@
 "ts": "2026-07-14T17:22:21.641626+00:00",
 "verdict": "Very Positive"
 },
+"3381010": {
+"desc": "A dynamic NSFW runner with parkour elements, where sex scenes are built into the gameplay. Race ahead, leap over obstacles, collect baskets, and chain combos in NSFW scenes to score points and rise to the top of the leaderboards.",
+"descriptors": [
+1,
+3,
+4,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Sports"
+],
+"name": "Catch Me",
+"pct": 72,
+"price": "$5.99",
+"release": "Jul 19, 2025",
+"total": 178,
+"ts": "2026-07-15T18:01:49.430094+00:00",
+"verdict": "Mostly Positive"
+},
 "3392490": {
 "desc": "Moon River is a short RPG adventure with an emphasis on music and atmosphere. Perhaps some secrets too... Explore the remains of an quiet, empty world &amp; find the river's end.",
 "descriptors": [],
