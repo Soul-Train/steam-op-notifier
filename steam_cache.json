@@ -1,4 +1,23 @@
 {
+"2599270": {
+"desc": "Follow Chud on his fight against Dr Soystein's 'jak army in this spine-tingling survival shooter. NOW FEATURING BADLANDSCHUGS",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Gem Defender: Soyjak Survivors",
+"pct": 95,
+"price": "$3.99",
+"release": "Oct 23, 2023",
+"total": 1195,
+"ts": "2026-07-15T14:44:16.391616+00:00",
+"verdict": "Very Positive"
+},
 "2654990": {
 "desc": "Think you can handle a little romance with creatures from Spanish folklore? \u2764\ufe0f\u200d\ud83d\udd25 Careful: your love life isn\u2019t the only thing at stake at Mythic Love: Iberian Legends.",
 "descriptors": [
@@ -32,6 +51,20 @@
 "release": "Jun 22, 2026",
 "total": 163,
 "ts": "2026-07-14T17:22:28.297777+00:00",
+"verdict": "Very Positive"
+},
+"3213120": {
+"desc": "Machinefall is a post-apocalyptic real time strategy game set on a fully playable global map. Lead humanity\u2019s last survivors as they build bases, gather resources, and wage massive battles against an overwhelming machine swarm. Progress through technological eras from Stone Age to Atomic Age.",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Machinefall",
+"pct": 88,
+"price": "$12.74",
+"release": "Jul 10, 2026",
+"total": 51,
+"ts": "2026-07-15T14:46:47.314663+00:00",
 "verdict": "Very Positive"
 },
 "3278290": {
@@ -93,6 +126,52 @@
 "ts": "2026-07-14T17:22:08.374603+00:00",
 "verdict": "Very Positive"
 },
+"3633760": {
+"desc": "Dopamine-fueled minimalist grid-based game that pushes the boundaries of psychedelic visuals and fast reaction time. KAZ is an action roguelike arcade game where choice of items, buffs, and maluses allows you to unlock cool visuals and themes while showing everybody your skill on the leaderboards",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "KAZ",
+"pct": 97,
+"price": "$5.94",
+"release": "Jul 13, 2026",
+"total": 67,
+"ts": "2026-07-15T14:46:30.097960+00:00",
+"verdict": "Very Positive"
+},
+"3641000": {
+"desc": "In 1936, something terrible happened at Galley House. Decades later, with a strange contraption that reveals echoes of the past, you must uncover the truth behind this grisly mystery.",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "The Incident at Galley House",
+"pct": 98,
+"price": "$17.99",
+"release": "Jul 14, 2026",
+"total": 209,
+"ts": "2026-07-15T14:46:26.684815+00:00",
+"verdict": "Very Positive"
+},
+"3880190": {
+"desc": "Coconut Simulator 2 is a game in which you can become a coconut.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Coconut Simulator 2",
+"pct": 96,
+"price": "$0.99",
+"release": "Nov 15, 2025",
+"total": 567,
+"ts": "2026-07-15T14:44:19.923736+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3880410": {
 "desc": "Glisynth is a rhythm game that uses two types of notes. The Q row on the keyboard is used for yellow notes, while the A row is used for white notes.",
 "descriptors": [],
@@ -107,6 +186,75 @@
 "release": "Jun 26, 2026",
 "total": 92,
 "ts": "2026-07-14T17:21:58.280561+00:00",
+"verdict": "Very Positive"
+},
+"3924280": {
+"desc": "Your very own kitty \u2014 right on your desktop! A cozy idle game where you pet, feed, and play with a fluffy friend to earn purr points. Spend them on hats, toys, and cozy spots to sit. With hundreds of customization items, you can create a kitty that's truly yours \u2014 always by your side.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Pat the Cat",
+"pct": 100,
+"price": "$4.99",
+"release": "Jun 25, 2026",
+"total": 175,
+"ts": "2026-07-15T14:46:23.328304+00:00",
+"verdict": "Very Positive"
+},
+"3957810": {
+"desc": "BEGHOST is a narrative-heavy 2D action-adventure game set in the bowels of a haunted dungeon. Uncover the dungeon's darkest secrets with your ghost girl companion Bee, as you navigate your way through enemies, traps, and more, in a desperate attempt to escape!",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Beghost",
+"pct": 100,
+"price": "$2.69",
+"release": "Jul 8, 2026",
+"total": 54,
+"ts": "2026-07-15T14:46:19.876589+00:00",
+"verdict": "Very Positive"
+},
+"3992580": {
+"desc": "Play as Vroombi, a brave little robo-vacuum who needs to keep Lily's house nice and clean! Clean away dust, dirt and debris in this satisfying twist on an interactive cleaning simulator. What awaits little Vroombi at night? What is Lily scared of?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "7 Nights with Vroombi",
+"pct": 96,
+"price": "$3.99",
+"release": "Jun 25, 2026",
+"total": 98,
+"ts": "2026-07-15T14:46:33.562714+00:00",
+"verdict": "Very Positive"
+},
+"4163030": {
+"desc": "Play the ancient and thrilling game of Chess but with... cats! Lead your furry friends to\u00a0the Purrfect battle of brains and whiskers!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Sports",
+"Strategy"
+],
+"name": "Cat Chess",
+"pct": 92,
+"price": "$5.94",
+"release": "Jul 14, 2026",
+"total": 129,
+"ts": "2026-07-15T14:46:40.502315+00:00",
 "verdict": "Very Positive"
 },
 "4196120": {
@@ -124,6 +272,23 @@
 "release": "Jun 18, 2026",
 "total": 69,
 "ts": "2026-07-14T17:22:14.951657+00:00",
+"verdict": "Very Positive"
+},
+"4297840": {
+"desc": "Mine. Smelt. Upgrade. Repeat. Rock Bottom is an incremental mining game where every swing makes you stronger. Descend through 8 unique layers, unlock devastating abilities, and discover what lies at Rock Bottom",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "Rock Bottom",
+"pct": 88,
+"price": "$7.19",
+"release": "Jul 14, 2026",
+"total": 138,
+"ts": "2026-07-15T14:46:43.950335+00:00",
 "verdict": "Very Positive"
 },
 "4329100": {
@@ -146,6 +311,22 @@
 "ts": "2026-07-14T17:22:01.768119+00:00",
 "verdict": "Very Positive"
 },
+"4478640": {
+"desc": "A unique pixel-art backpack management roguelike. Your backpack isn't just storage\u2014it's your combat core. Item placement, adjacency, and trigger mechanics determine your survival in the dungeon. A mental challenge of spatial planning and strategy.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Backpack Dungeon",
+"pct": 95,
+"price": "$3.19",
+"release": "Jul 14, 2026",
+"total": 80,
+"ts": "2026-07-15T14:46:37.124457+00:00",
+"verdict": "Very Positive"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -159,6 +340,21 @@
 "release": "Jun 28, 2026",
 "total": 51,
 "ts": "2026-07-14T17:22:18.320065+00:00",
+"verdict": "Very Positive"
+},
+"4634560": {
+"desc": "Clean carpets, earn money, and grow stronger in this incremental cleaning game. Scrub, rinse, and squeegee your way to profit\u2014before time resets and you start again.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Carpet Cleaning Simulator",
+"pct": 84,
+"price": "$5.59",
+"release": "Jul 12, 2026",
+"total": 121,
+"ts": "2026-07-15T14:46:50.715345+00:00",
 "verdict": "Very Positive"
 }
 }
