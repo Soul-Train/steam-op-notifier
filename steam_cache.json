@@ -1,4 +1,67 @@
 {
+"1072300": {
+"desc": "Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown in Echo Generation, a turn-based adventure set in the 90s.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Echo Generation: Midnight Edition",
+"pct": 93,
+"price": "$12.49",
+"release": "Jun 19, 2024",
+"total": 162,
+"ts": "2026-07-16T17:59:49.630223+00:00",
+"verdict": "Very Positive"
+},
+"1318690": {
+"desc": "shapez is an easy-going, minimalistic factory building game about the automation of shapes through extraction and satisfying production lines. Adapt to increasingly complex shapes and grow your factory across an infinitely expanding map. Your only limitation is your creativity!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "shapez",
+"pct": 96,
+"price": "$9.99",
+"release": "Jun 7, 2020",
+"total": 15662,
+"ts": "2026-07-16T17:59:54.580187+00:00",
+"verdict": "Overwhelmingly Positive"
+},
+"1729740": {
+"desc": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Luto",
+"pct": 85,
+"price": "$11.99",
+"release": "Jul 21, 2025",
+"total": 1295,
+"ts": "2026-07-16T17:59:44.293449+00:00",
+"verdict": "Very Positive"
+},
+"2015240": {
+"desc": "Face massive hordes of mobs and unleash chaotic abilities that paint the screen with mayhem. Dive into the largest mob density of any 3D ARPG and slay them all. Wield epic powers, create your build, and shape a world of endless possibilities in the action-packed ARPG experience.",
+"descriptors": [],
+"genres": [],
+"name": "Dwarven Realms",
+"pct": 82,
+"price": "$4.89",
+"release": "Sep 27, 2024",
+"total": 3557,
+"ts": "2026-07-16T17:59:59.602007+00:00",
+"verdict": "Very Positive"
+},
 "2252680": {
 "desc": "Congratulations, you\u2019ve bought your own planet! An agrarian rock at the edge of the galaxy that, for some reason, was practically being given away for free. So the time has come to leave your hectic, stressful life in an overcrowded metropolis for a more rural and rewarding life.",
 "descriptors": [],
