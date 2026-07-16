@@ -1,4 +1,36 @@
 {
+"2252680": {
+"desc": "Congratulations, you\u2019ve bought your own planet! An agrarian rock at the edge of the galaxy that, for some reason, was practically being given away for free. So the time has come to leave your hectic, stressful life in an overcrowded metropolis for a more rural and rewarding life.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Farlands",
+"pct": 93,
+"price": "$12.59",
+"release": "Jul 16, 2026",
+"total": 1493,
+"ts": "2026-07-16T10:53:37.220125+00:00",
+"verdict": "Very Positive"
+},
+"2524850": {
+"desc": "Flip, trick and grind your train in a fast-paced, off-the-rails ride through a colourful Japanese dystopia. Outmatch rival gangs, wreck a shady megacorp, and take back the tracks with nothing but skill, speed, and style.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Denshattack!",
+"pct": 98,
+"price": "$17.99",
+"release": "Jul 15, 2026",
+"total": 296,
+"ts": "2026-07-16T10:53:33.961942+00:00",
+"verdict": "Very Positive"
+},
 "2599270": {
 "desc": "Follow Chud on his fight against Dr Soystein's 'jak army in this spine-tingling survival shooter. NOW FEATURING BADLANDSCHUGS",
 "descriptors": [
@@ -225,6 +257,23 @@
 "ts": "2026-07-15T14:46:23.328304+00:00",
 "verdict": "Very Positive"
 },
+"3946120": {
+"desc": "Chasing the Dawn is a pixel-art roguelike strategy game. Enter the dungeon, use wit and luck to navigate dangers, and lead your characters deeper. Manage risks with items and runes, gather resources, and rebuild your village. Their fate is shaped by your every click.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Chasing the Dawn / CTD",
+"pct": 99,
+"price": "$7.19",
+"release": "Jul 13, 2026",
+"total": 70,
+"ts": "2026-07-16T10:53:30.689822+00:00",
+"verdict": "Very Positive"
+},
 "3957810": {
 "desc": "BEGHOST is a narrative-heavy 2D action-adventure game set in the bowels of a haunted dungeon. Uncover the dungeon's darkest secrets with your ghost girl companion Bee, as you navigate your way through enemies, traps, and more, in a desperate attempt to escape!",
 "descriptors": [
@@ -296,6 +345,26 @@
 "ts": "2026-07-14T17:22:14.951657+00:00",
 "verdict": "Very Positive"
 },
+"4220820": {
+"desc": "The world's only fully-loaded conspiracy theorist gun-nut dating simulation. As the prepper, take the mysterious pill Caliber\u2122 to awaken an arsenal of alluring companions and fight against the dark forces determined to tear you apart!",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "Polyarmory: High Calibre Love",
+"pct": 96,
+"price": "Free",
+"release": "Feb 12, 2026",
+"total": 500,
+"ts": "2026-07-16T10:51:39.942975+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4297840": {
 "desc": "Mine. Smelt. Upgrade. Repeat. Rock Bottom is an incremental mining game where every swing makes you stronger. Descend through 8 unique layers, unlock devastating abilities, and discover what lies at Rock Bottom",
 "descriptors": [],
@@ -311,6 +380,21 @@
 "release": "Jul 14, 2026",
 "total": 138,
 "ts": "2026-07-15T14:46:43.950335+00:00",
+"verdict": "Very Positive"
+},
+"4323800": {
+"desc": "&quot;Guardian of the Sacred Seal&quot; is a story-driven adventure game centered on the concept: \u201cTo be unconditionally loved by a yandere young man.\u201d In the otherworldly paradise of Gokurakud\u014d, a young girl partners with a mysterious man to handle seemingly ordinary requests that hide deeper secrets.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Free To Play"
+],
+"name": "Guardian of the Sacred Seal",
+"pct": 98,
+"price": "$16.99",
+"release": "Jul 14, 2026",
+"total": 64,
+"ts": "2026-07-16T10:53:27.441210+00:00",
 "verdict": "Very Positive"
 },
 "4329100": {
@@ -377,6 +461,23 @@
 "release": "Jul 12, 2026",
 "total": 121,
 "ts": "2026-07-15T14:46:50.715345+00:00",
+"verdict": "Very Positive"
+},
+"4881550": {
+"desc": "GEL RUN is a colorful obstacle-course adventure where being flexible is your greatest power.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "GEL RUN",
+"pct": 88,
+"price": "$0.59",
+"release": "Jul 10, 2026",
+"total": 68,
+"ts": "2026-07-16T10:53:40.530004+00:00",
 "verdict": "Very Positive"
 }
 }
