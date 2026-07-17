@@ -32,6 +32,22 @@
 "ts": "2026-07-16T17:59:54.580187+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1696770": {
+"desc": "An impossible locked-room murder: Captain Mortuga lies dead beside an ancient cauldron aboard the world\u2019s strangest submarine, crewed by sketchy suspects. A handcrafted point-and-click with sharp humour and tricky puzzles. Dive into the next mystery from the creators of Tangle Tower &amp; Crow Country.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "The Mermaid Mask",
+"pct": 100,
+"price": "$17.99",
+"release": "Jul 16, 2026",
+"total": 59,
+"ts": "2026-07-17T07:15:05.242289+00:00",
+"verdict": "Very Positive"
+},
 "1729740": {
 "desc": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
 "descriptors": [
@@ -60,6 +76,23 @@
 "release": "Sep 27, 2024",
 "total": 3557,
 "ts": "2026-07-16T17:59:59.602007+00:00",
+"verdict": "Very Positive"
+},
+"2195120": {
+"desc": "Step into the role of a hands-on mayor and build your town from the ground up. Plan neighborhoods, automate logistics, and grow your community\u2014all while juggling workers, infrastructure, and day-to-day chaos to create your dream town. Play solo for total control, or bring friends for co-op mayhem.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Go-Go Town!",
+"pct": 94,
+"price": "$20.99",
+"release": "Jul 16, 2026",
+"total": 2201,
+"ts": "2026-07-17T07:15:18.536051+00:00",
 "verdict": "Very Positive"
 },
 "2252680": {
@@ -113,6 +146,25 @@
 "ts": "2026-07-15T14:44:16.391616+00:00",
 "verdict": "Very Positive"
 },
+"2646720": {
+"desc": "Face the Ancient Gods! Set the sails of your flying pirate ship and embark on a roguelite adventure in the steampunk world of Dead Weight. Explore floating islands in search of loot. Choose a class and enjoy turn-based tactical combat on tiny battlefields where every step matters.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Dead Weight",
+"pct": 94,
+"price": "$9.74",
+"release": "Jul 16, 2026",
+"total": 88,
+"ts": "2026-07-17T07:15:21.797867+00:00",
+"verdict": "Very Positive"
+},
 "2654990": {
 "desc": "Think you can handle a little romance with creatures from Spanish folklore? \u2764\ufe0f\u200d\ud83d\udd25 Careful: your love life isn\u2019t the only thing at stake at Mythic Love: Iberian Legends.",
 "descriptors": [
@@ -148,6 +200,23 @@
 "ts": "2026-07-14T17:22:28.297777+00:00",
 "verdict": "Very Positive"
 },
+"2845270": {
+"desc": "\ud83d\udc7d\ud83d\udef8 100 Aliens Cats - \ud83d\udc3e Join the cutest adventure in the Aliens themed locations full of cats! Explore the charming hand-drawn artwork of aliens places and Cats as you embark on a quest to find 100 adorable cats hidden throughout the game. \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\u274c Can you find them all? \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udc08\u2705",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "100 Aliens Cats",
+"pct": 96,
+"price": "Free",
+"release": "Jun 9, 2024",
+"total": 2102,
+"ts": "2026-07-17T07:13:16.661595+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3213120": {
 "desc": "Machinefall is a post-apocalyptic real time strategy game set on a fully playable global map. Lead humanity\u2019s last survivors as they build bases, gather resources, and wage massive battles against an overwhelming machine swarm. Progress through technological eras from Stone Age to Atomic Age.",
 "descriptors": [],
@@ -174,6 +243,56 @@
 "release": "Jun 30, 2026",
 "total": 251,
 "ts": "2026-07-14T17:22:21.641626+00:00",
+"verdict": "Very Positive"
+},
+"3312130": {
+"desc": "A Town Builder + Factory Sim where you fully automate a tropical village and feed a giant volcano. Use conveyor belts, trains, boats, zip lines, pipes, water wheels and more to produce massive amounts of items and keep everyone happy!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Factory Town 2: Paradise",
+"pct": 93,
+"price": "$22.49",
+"release": "Jul 14, 2026",
+"total": 60,
+"ts": "2026-07-17T07:15:35.026539+00:00",
+"verdict": "Very Positive"
+},
+"3371260": {
+"desc": "A Magic Tower-style Strategy RPG with alchemy and progression. Play as Tasia and explore lost ruins with your companions. No unwinnable dead ends \u2014 plan your days freely, build your loadout, gather resources, and uncover the truth behind the [Calamity].",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Requiem of Reuinis",
+"pct": 93,
+"price": "$10.19",
+"release": "Jul 15, 2026",
+"total": 57,
+"ts": "2026-07-17T07:15:31.747720+00:00",
+"verdict": "Very Positive"
+},
+"3372060": {
+"desc": "Traverse the depths of Hell and beat its toughest demons on your way to Heaven in this horde survival deck-building game inspired by Dante's Divine Comedy.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Hell Maiden",
+"pct": 91,
+"price": "$9.99",
+"release": "Jul 16, 2026",
+"total": 329,
+"ts": "2026-07-17T07:15:45.075633+00:00",
 "verdict": "Very Positive"
 },
 "3381010": {
@@ -270,6 +389,90 @@
 "release": "Jul 14, 2026",
 "total": 209,
 "ts": "2026-07-15T14:46:26.684815+00:00",
+"verdict": "Very Positive"
+},
+"3685900": {
+"desc": "Save people from terrible paranormal dangers as a support operator of a secret SCP-like organization! Ask questions, give advice and watch the consequences of your choices... multiple endings in each story ;-)",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Creepy Support",
+"pct": 85,
+"price": "$3.99",
+"release": "Jul 14, 2026",
+"total": 55,
+"ts": "2026-07-17T07:15:51.728139+00:00",
+"verdict": "Very Positive"
+},
+"3690490": {
+"desc": "Become the last conductor and rule over the final train society in a frozen world. Gather, expand, and forge your train while building powerful synergies with mighty artifacts. Your position\u2014and the safety of your passengers\u2014now rests in your hands.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Frostrain 2",
+"pct": 92,
+"price": "$8.79",
+"release": "Jul 16, 2026",
+"total": 207,
+"ts": "2026-07-17T07:15:38.508475+00:00",
+"verdict": "Very Positive"
+},
+"3712080": {
+"desc": "Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Funnel Runners",
+"pct": 87,
+"price": "$13.49",
+"release": "Jul 16, 2026",
+"total": 381,
+"ts": "2026-07-17T07:15:48.463007+00:00",
+"verdict": "Very Positive"
+},
+"3808690": {
+"desc": "You are a disease. Infect the human body as a lone pathogen in this cellular roguelike shooter. Collect organelles to evolve your parasite in a microscopic arms race against your host's immune system. Conquer a beautiful, procedurally generated world of tiny proportions.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Pathogenic",
+"pct": 96,
+"price": "$7.99",
+"release": "Jul 16, 2026",
+"total": 283,
+"ts": "2026-07-17T07:15:11.914961+00:00",
+"verdict": "Very Positive"
+},
+"3869850": {
+"desc": "Navigate the internet's dark net, searching for pieces of a puzzle that once combined will clear your outstanding debt. Scan strange websites for info, hack into PCs while defending your own, and buy/sell goods &amp; services, all while avoiding threats in this strategic, suspenseful horror game.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Welcome to the Game III",
+"pct": 92,
+"price": "$17.99",
+"release": "Jul 16, 2026",
+"total": 95,
+"ts": "2026-07-17T07:15:41.796110+00:00",
 "verdict": "Very Positive"
 },
 "3880190": {
@@ -374,6 +577,21 @@
 "ts": "2026-07-15T14:46:33.562714+00:00",
 "verdict": "Very Positive"
 },
+"4042330": {
+"desc": "Set in 1972 (Showa 47), this story follows a high school student on his yearly summer visit to his grandparents\u2019 rural home. Spending quiet, nostalgic days with his sister and the villagers, he begins to believe this peaceful summer might last\u2026 until an encounter in the mountains changes everything.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "Be Missed and Remembered: The Letter from Mayoiga",
+"pct": 96,
+"price": "$16.19",
+"release": "Jul 9, 2026",
+"total": 69,
+"ts": "2026-07-17T07:15:25.165043+00:00",
+"verdict": "Very Positive"
+},
 "4163030": {
 "desc": "Play the ancient and thrilling game of Chess but with... cats! Lead your furry friends to\u00a0the Purrfect battle of brains and whiskers!",
 "descriptors": [],
@@ -406,6 +624,21 @@
 "release": "Jun 18, 2026",
 "total": 69,
 "ts": "2026-07-14T17:22:14.951657+00:00",
+"verdict": "Very Positive"
+},
+"4210580": {
+"desc": "Ore Factory Squad is a co-op mining and factory-building game with procedural mining and fun at its core! Play alone or with friends, buy properties, dig deep for valuable resources, complete contracts, upgrade and automate production lines and grow your factory from zero to industry!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Ore Factory Squad \u26cf\ufe0f",
+"pct": 92,
+"price": "$9.74",
+"release": "Jul 16, 2026",
+"total": 131,
+"ts": "2026-07-17T07:15:28.462470+00:00",
 "verdict": "Very Positive"
 },
 "4220820": {
@@ -443,6 +676,23 @@
 "release": "Jul 14, 2026",
 "total": 138,
 "ts": "2026-07-15T14:46:43.950335+00:00",
+"verdict": "Very Positive"
+},
+"4309120": {
+"desc": "You can't save him... but what if you could meet him again? Unquiet Grey is a heartbreaking timeloop visual novel about a troubled young woman and the kind-hearted musician she loves through countless lifetimes.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Free To Play"
+],
+"name": "Unquiet Grey",
+"pct": 96,
+"price": "Free",
+"release": "Jun 26, 2026",
+"total": 50,
+"ts": "2026-07-17T07:15:15.208627+00:00",
 "verdict": "Very Positive"
 },
 "4323800": {
@@ -496,6 +746,21 @@
 "ts": "2026-07-15T14:46:37.124457+00:00",
 "verdict": "Very Positive"
 },
+"4512570": {
+"desc": "Grab your axe, hop on the handcar, and lose yourself in the forest. Chop trees, upgrade your gear, and enjoy the ride - alone or with a friend",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "A Game About Chopping Trees",
+"pct": 85,
+"price": "$7.19",
+"release": "Jul 15, 2026",
+"total": 227,
+"ts": "2026-07-17T07:15:55.051678+00:00",
+"verdict": "Very Positive"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -524,6 +789,23 @@
 "release": "Jul 12, 2026",
 "total": 121,
 "ts": "2026-07-15T14:46:50.715345+00:00",
+"verdict": "Very Positive"
+},
+"4643090": {
+"desc": "Lilith has returned from the fantasy world to become your desktop companion. Watch her wander freely across your screen with lively animations and dynamic real-time behaviors. Spend cozy everyday moments together as she keeps you company and eases the stress of daily life.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "The NOexistenceN of Lilith",
+"pct": 98,
+"price": "$1.79",
+"release": "Jul 16, 2026",
+"total": 321,
+"ts": "2026-07-17T07:15:08.591860+00:00",
 "verdict": "Very Positive"
 },
 "4881550": {
