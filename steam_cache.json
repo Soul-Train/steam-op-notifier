@@ -15,6 +15,26 @@
 "ts": "2026-07-16T17:59:49.630223+00:00",
 "verdict": "Very Positive"
 },
+"1272160": {
+"desc": "A narrative-driven hardcore RPG set in a gritty world ruled by real but unrelenting gods. Set out on a challenging lifetime journey, where every choice has a price and entails consequences. Will you become an inquisitor, a judge, or conspire against the old order? Dare to decide!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "The Life and Suffering of Sir Brante",
+"pct": 89,
+"price": "Free",
+"release": "Mar 4, 2021",
+"total": 9752,
+"ts": "2026-07-17T17:58:44.763997+00:00",
+"verdict": "Very Positive"
+},
 "1318690": {
 "desc": "shapez is an easy-going, minimalistic factory building game about the automation of shapes through extraction and satisfying production lines. Adapt to increasingly complex shapes and grow your factory across an infinitely expanding map. Your only limitation is your creativity!",
 "descriptors": [],
