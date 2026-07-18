@@ -115,6 +115,23 @@
 "ts": "2026-07-17T07:15:18.536051+00:00",
 "verdict": "Very Positive"
 },
+"2219390": {
+"desc": "Discover and colonize the world, Allocate your labor force, Monopolize markets, Fight tactical battles, Survive the age of imperialism...",
+"descriptors": [
+5
+],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "Imperial Ambitions",
+"pct": 85,
+"price": "$17.99",
+"release": "Jul 13, 2026",
+"total": 52,
+"ts": "2026-07-18T03:52:24.375091+00:00",
+"verdict": "Very Positive"
+},
 "2252680": {
 "desc": "Congratulations, you\u2019ve bought your own planet! An agrarian rock at the edge of the galaxy that, for some reason, was practically being given away for free. So the time has come to leave your hectic, stressful life in an overcrowded metropolis for a more rural and rewarding life.",
 "descriptors": [],
@@ -202,6 +219,22 @@
 "ts": "2026-07-14T17:22:24.928602+00:00",
 "verdict": "Very Positive"
 },
+"2708880": {
+"desc": "Become a Ghost Keeper and lead your fearsome minions against the living. Use diverse scare tactics, manage demonic creatures and harness dozens of skills. Oh, and don\u2019t let the Brotherhood catch you! The ultimate scaring experience begins\u2026",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Ghost Keeper",
+"pct": 85,
+"price": "$7.79",
+"release": "Jul 16, 2026",
+"total": 67,
+"ts": "2026-07-18T03:52:17.713072+00:00",
+"verdict": "Very Positive"
+},
 "2840000": {
 "desc": "Lumina Veil, a horror game with a modern twist! Step into the shoes of a popular streamer on a journey into a strange new game. As you dive deeper, you'll find yourself escaping the isolation of your own world, only to discover that the lines between fantasy and reality are beginning to blur.",
 "descriptors": [
@@ -236,6 +269,54 @@
 "total": 2102,
 "ts": "2026-07-17T07:13:16.661595+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3041280": {
+"desc": "In this short visual novel, four prisoners on death row are cleared of all charges. But the prison has a quota to meet. The four are put in a room and asked to decide among themselves over the course of an hour... who will be the one to die?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Free To Play"
+],
+"name": "Prison of Lies",
+"pct": 94,
+"price": "Free",
+"release": "Jul 8, 2026",
+"total": 53,
+"ts": "2026-07-18T03:52:04.510880+00:00",
+"verdict": "Very Positive"
+},
+"3160880": {
+"desc": "Build and run your own medieval tavern. Cook meals, brew drinks, design every room, hire and manage staff, serve unique guests, handle fights and chaos, and grow from a humble innkeeper into a tavern legend.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Tavern Legends",
+"pct": 90,
+"price": "$21.24",
+"release": "Jul 17, 2026",
+"total": 135,
+"ts": "2026-07-18T03:52:14.409632+00:00",
+"verdict": "Very Positive"
+},
+"3201830": {
+"desc": "A turn-based tactical roguelike fusing Spring and Autumn history with supernatural fantasy. Assemble knights in an ink-oil aesthetic world, venture into five perilous realms, battle monsters and human-born demons, and collect lost bamboo slips to unravel hidden secrets.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "The Hidden Scrolls",
+"pct": 90,
+"price": "$8.99",
+"release": "Jul 15, 2026",
+"total": 80,
+"ts": "2026-07-18T03:52:21.030715+00:00",
+"verdict": "Very Positive"
 },
 "3213120": {
 "desc": "Machinefall is a post-apocalyptic real time strategy game set on a fully playable global map. Lead humanity\u2019s last survivors as they build bases, gather resources, and wage massive battles against an overwhelming machine swarm. Progress through technological eras from Stone Age to Atomic Age.",
@@ -528,6 +609,22 @@
 "ts": "2026-07-14T17:21:58.280561+00:00",
 "verdict": "Very Positive"
 },
+"3914860": {
+"desc": "Moss: The Forgotten Relic is an emotional and atmospheric adventure set in the pages of a living storybook, brimming with myth and ancient magic. Guide a tiny but determined hero on a heartfelt journey of challenge, courage, and connection.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Moss: The Forgotten Relic ",
+"pct": 95,
+"price": "$17.99",
+"release": "Jul 16, 2026",
+"total": 59,
+"ts": "2026-07-18T03:51:57.974831+00:00",
+"verdict": "Very Positive"
+},
 "3924280": {
 "desc": "Your very own kitty \u2014 right on your desktop! A cozy idle game where you pet, feed, and play with a fluffy friend to earn purr points. Spend them on hats, toys, and cozy spots to sit. With hundreds of customization items, you can create a kitty that's truly yours \u2014 always by your side.",
 "descriptors": [],
@@ -558,6 +655,20 @@
 "release": "Jul 13, 2026",
 "total": 70,
 "ts": "2026-07-16T10:53:30.689822+00:00",
+"verdict": "Very Positive"
+},
+"3950130": {
+"desc": "Solve criminal cases through the power of SQL queries! Help out the city of Los Zorangeles by becoming a Database Detective in this new (unpaid) work from home opportunity.",
+"descriptors": [],
+"genres": [
+"Indie"
+],
+"name": "Database Detective: Minor Crimes Division",
+"pct": 98,
+"price": "$12.74",
+"release": "Jul 17, 2026",
+"total": 59,
+"ts": "2026-07-18T03:51:54.656660+00:00",
 "verdict": "Very Positive"
 },
 "3957810": {
@@ -610,6 +721,37 @@
 "release": "Jul 9, 2026",
 "total": 69,
 "ts": "2026-07-17T07:15:25.165043+00:00",
+"verdict": "Very Positive"
+},
+"4080030": {
+"desc": "Mission: Translate an interstellar message, using the universal languages of math &amp; science.",
+"descriptors": [],
+"genres": [
+"Indie"
+],
+"name": "The Message from Deep Space",
+"pct": 98,
+"price": "$9.99",
+"release": "Jun 29, 2026",
+"total": 546,
+"ts": "2026-07-18T03:50:07.668671+00:00",
+"verdict": "Overwhelmingly Positive"
+},
+"4113050": {
+"desc": "Adorable sushi race at full speed in a training \u00d7 racing game! Become a sushi chef, craft unique toppings, and enter your trained sushi into races. Don't forget to cheer on your sushi during the race. Win the prestigious S1 Cup championship, and become a top-tier sushi chef!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Racing",
+"Simulation"
+],
+"name": "Wabisabi SushiDerby",
+"pct": 92,
+"price": "$4.49",
+"release": "Jul 15, 2026",
+"total": 52,
+"ts": "2026-07-18T03:52:07.805067+00:00",
 "verdict": "Very Positive"
 },
 "4163030": {
@@ -796,6 +938,23 @@
 "ts": "2026-07-14T17:22:18.320065+00:00",
 "verdict": "Very Positive"
 },
+"4624560": {
+"desc": "An incremental battle game where destroying treasure chests instantly brings item effects into battle to fight enemies. Break all the seals on the Abyss Chest and liberate the great being who will save the world!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Chest Buster",
+"pct": 93,
+"price": "$4.24",
+"release": "Jul 13, 2026",
+"total": 56,
+"ts": "2026-07-18T03:52:11.123278+00:00",
+"verdict": "Very Positive"
+},
 "4634560": {
 "desc": "Clean carpets, earn money, and grow stronger in this incremental cleaning game. Scrub, rinse, and squeegee your way to profit\u2014before time resets and you start again.",
 "descriptors": [],
@@ -826,6 +985,25 @@
 "release": "Jul 16, 2026",
 "total": 321,
 "ts": "2026-07-17T07:15:08.591860+00:00",
+"verdict": "Very Positive"
+},
+"4835250": {
+"desc": "&quot;Stories to Tell&quot; Is a psychological horror game series developed by a 16 year old were each installment is based on a dream/nightmare that I, the developer, have experienced. This is a game you wouldn't want to miss...",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "[Stories to Tell] The Stoneville Incident",
+"pct": 94,
+"price": "Free",
+"release": "Jul 14, 2026",
+"total": 52,
+"ts": "2026-07-18T03:52:01.254066+00:00",
 "verdict": "Very Positive"
 },
 "4881550": {
