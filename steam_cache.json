@@ -52,6 +52,23 @@
 "ts": "2026-07-16T17:59:54.580187+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1622400": {
+"desc": "Choose your champion. Predict, then outwit. Every move resolves simultaneously in a charming storybook universe. Wyldernook is a free-to-play trading card game with roguelike campaign, 1v1 and multiplayer PvP, and a custom card creator.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy",
+"Free To Play"
+],
+"name": "Wyldernook",
+"pct": 96,
+"price": "Free",
+"release": "Jun 23, 2026",
+"total": 51,
+"ts": "2026-07-19T04:20:48.442911+00:00",
+"verdict": "Very Positive"
+},
 "1696770": {
 "desc": "An impossible locked-room murder: Captain Mortuga lies dead beside an ancient cauldron aboard the world\u2019s strangest submarine, crewed by sketchy suspects. A handcrafted point-and-click with sharp humour and tricky puzzles. Dive into the next mystery from the creators of Tangle Tower &amp; Crow Country.",
 "descriptors": [],
@@ -162,6 +179,24 @@
 "release": "Jul 15, 2026",
 "total": 296,
 "ts": "2026-07-16T10:53:33.961942+00:00",
+"verdict": "Very Positive"
+},
+"2527160": {
+"desc": "Rummage through the abandoned profiles of an old PC to unravel an inherited mystery. What secrets hide in this eerie adventure of cryptic games and outdated software? Who was using this computer? And what happened to them?",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Desktop Explorer",
+"pct": 94,
+"price": "$16.19",
+"release": "Jul 17, 2026",
+"total": 207,
+"ts": "2026-07-19T04:20:51.846924+00:00",
 "verdict": "Very Positive"
 },
 "2599270": {
@@ -332,6 +367,21 @@
 "ts": "2026-07-15T14:46:47.314663+00:00",
 "verdict": "Very Positive"
 },
+"3219010": {
+"desc": "Fight through the fog in this sci-fi roguelike deckbuilder where clever positioning, explosive chain-reactions, and the environment itself can make the difference between life and death.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Strategy"
+],
+"name": "Fogpiercer",
+"pct": 90,
+"price": "$14.99",
+"release": "Jul 17, 2026",
+"total": 135,
+"ts": "2026-07-19T04:20:58.528220+00:00",
+"verdict": "Very Positive"
+},
 "3278290": {
 "desc": "JOIN THE SOCIETY in this story-driven, investigative horror game. Hunt down wealthy humans in a deadly forest in order to Feed The Pit. Act 1 is available at launch. Acts 2 &amp; 3 will release as free updates in the coming months!",
 "descriptors": [],
@@ -461,6 +511,22 @@
 "release": "Jun 17, 2026",
 "total": 421,
 "ts": "2026-07-14T17:22:08.374603+00:00",
+"verdict": "Very Positive"
+},
+"3621200": {
+"desc": "Chaotic foosball matches for up to 4 players! Use crazy power-ups, battle through unique arenas and opponents, and turn every friendly match into a chaotic showdown with friends.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Sports"
+],
+"name": "Pimbolas",
+"pct": 96,
+"price": "$7.99",
+"release": "Jul 16, 2026",
+"total": 67,
+"ts": "2026-07-19T04:20:41.644925+00:00",
 "verdict": "Very Positive"
 },
 "3633760": {
@@ -923,6 +989,25 @@
 "ts": "2026-07-17T07:15:55.051678+00:00",
 "verdict": "Very Positive"
 },
+"4524800": {
+"desc": "You are a British WW1 soldier, trapped in an endless looping trench. Inspect your surroundings and report anything that is out of place. Will you escape? Shellshock is a short anomaly hunting experience (-30 minutes) inspired by liminal spaces and psychological horror.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Shellshock",
+"pct": 90,
+"price": "$2.39",
+"release": "Jul 15, 2026",
+"total": 58,
+"ts": "2026-07-19T04:21:05.241012+00:00",
+"verdict": "Very Positive"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -936,6 +1021,39 @@
 "release": "Jun 28, 2026",
 "total": 51,
 "ts": "2026-07-14T17:22:18.320065+00:00",
+"verdict": "Very Positive"
+},
+"4563880": {
+"desc": "it's about walking",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "walk",
+"pct": 100,
+"price": "$1.59",
+"release": "Jul 18, 2026",
+"total": 72,
+"ts": "2026-07-19T04:20:38.286282+00:00",
+"verdict": "Very Positive"
+},
+"4605210": {
+"desc": "Pet the Cat is a bullet-hell shooter where you unleash powerful attacks by petting an adorable cat! Fight through endless waves of enemies and upgrade your kitty into a formidable force with food, items, and weapons.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "Pet the Cat",
+"pct": 90,
+"price": "$4.49",
+"release": "Jul 17, 2026",
+"total": 63,
+"ts": "2026-07-19T04:20:55.159593+00:00",
 "verdict": "Very Positive"
 },
 "4624560": {
@@ -987,6 +1105,43 @@
 "ts": "2026-07-17T07:15:08.591860+00:00",
 "verdict": "Very Positive"
 },
+"4775410": {
+"desc": "Big E\u2019s back in action! Working the farm over Summer is never easy - but everyone knows you\u2019re the best. Do your utmost to keep the product moving, the customers happy and the law at bay, and everything\u2019ll turn out great!",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Early Access"
+],
+"name": "Jeffrey Eggstein",
+"pct": 93,
+"price": "$3.99",
+"release": "Jul 17, 2026",
+"total": 108,
+"ts": "2026-07-19T04:21:01.895072+00:00",
+"verdict": "Very Positive"
+},
+"4782480": {
+"desc": "This is a super casual little game where you can earn rewards just by playing offline. You can also listen to several nice original songs. After a busy day, relax and enjoy a moment of peace.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Flirting Goddesses by AFK",
+"pct": 97,
+"price": "$2.69",
+"release": "Jul 16, 2026",
+"total": 60,
+"ts": "2026-07-19T04:20:45.055513+00:00",
+"verdict": "Very Positive"
+},
 "4835250": {
 "desc": "&quot;Stories to Tell&quot; Is a psychological horror game series developed by a 16 year old were each installment is based on a dream/nightmare that I, the developer, have experienced. This is a game you wouldn't want to miss...",
 "descriptors": [
@@ -1022,5 +1177,24 @@
 "total": 68,
 "ts": "2026-07-16T10:53:40.530004+00:00",
 "verdict": "Very Positive"
+},
+"802890": {
+"desc": "Playtime's over. Time for despair. Experience the definitive version of a masterpiece in the Muv-Luv trilogy's thrilling conclusion. Note: therapy not included.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "Muv-Luv Alternative",
+"pct": 96,
+"price": "$17.99",
+"release": "Feb 28, 2018",
+"total": 3717,
+"ts": "2026-07-19T04:18:50.151279+00:00",
+"verdict": "Overwhelmingly Positive"
 }
 }
