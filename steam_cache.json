@@ -103,6 +103,22 @@
 "ts": "2026-07-16T17:59:44.293449+00:00",
 "verdict": "Very Positive"
 },
+"1895460": {
+"desc": "Step into the world of D-topia in this gentle-paced puzzle adventure. In D-topia, life is curated by artificial intelligence to maximize happiness. As the newest Facilitator, it\u2019s up to you to solve puzzles to keep the D-topia residents happy and the facility running.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "D-topia",
+"pct": 91,
+"price": "$17.99",
+"release": "Jul 14, 2026",
+"total": 65,
+"ts": "2026-07-20T04:34:08.797714+00:00",
+"verdict": "Very Positive"
+},
 "2015240": {
 "desc": "Face massive hordes of mobs and unleash chaotic abilities that paint the screen with mayhem. Dive into the largest mob density of any 3D ARPG and slay them all. Wield epic powers, create your build, and shape a world of endless possibilities in the action-packed ARPG experience.",
 "descriptors": [],
@@ -252,6 +268,24 @@
 "release": "Jun 23, 2026",
 "total": 204,
 "ts": "2026-07-14T17:22:24.928602+00:00",
+"verdict": "Very Positive"
+},
+"2695260": {
+"desc": "A marriage between first person exploration and visual novel, blessed with a sprinkle of puzzle gameplay. Immerse yourself in a period drama that intertwines romance with murder mystery, as a young cleric who must resist or give in to the charms of a strikingly beautiful maid.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "The Crimson Maid",
+"pct": 95,
+"price": "$13.49",
+"release": "Jul 14, 2026",
+"total": 61,
+"ts": "2026-07-20T04:34:12.100786+00:00",
 "verdict": "Very Positive"
 },
 "2708880": {
@@ -755,6 +789,24 @@
 "ts": "2026-07-15T14:46:19.876589+00:00",
 "verdict": "Very Positive"
 },
+"3985060": {
+"desc": "You've been hired by a real estate agency to photograph their listings at night, giving them a unique look online. Grab your camera, explore dark, quiet homes, and capture every required shot before the property notices you. Uncover the truth: why do these listings need to be photographed at night?",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "FLASH AND DIE",
+"pct": 87,
+"price": "$4.49",
+"release": "Jul 15, 2026",
+"total": 52,
+"ts": "2026-07-20T04:34:25.473631+00:00",
+"verdict": "Very Positive"
+},
 "3992580": {
 "desc": "Play as Vroombi, a brave little robo-vacuum who needs to keep Lily's house nice and clean! Clean away dust, dirt and debris in this satisfying twist on an interactive cleaning simulator. What awaits little Vroombi at night? What is Lily scared of?",
 "descriptors": [
@@ -820,6 +872,21 @@
 "ts": "2026-07-18T03:52:07.805067+00:00",
 "verdict": "Very Positive"
 },
+"4141710": {
+"desc": "Sit back and relax with Neko Station, a cozy 2D Pixel Art Desktop Idle Game! Manage your very own 'cat train,' decorating it with the perfect furniture to attract a diverse cast of feline customers. Pick them up at various stations and build friendships in this heartwarming adventure.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Neko Station",
+"pct": 88,
+"price": "$5.59",
+"release": "Jul 12, 2026",
+"total": 57,
+"ts": "2026-07-20T04:34:22.112925+00:00",
+"verdict": "Very Positive"
+},
 "4163030": {
 "desc": "Play the ancient and thrilling game of Chess but with... cats! Lead your furry friends to\u00a0the Purrfect battle of brains and whiskers!",
 "descriptors": [],
@@ -835,6 +902,22 @@
 "release": "Jul 14, 2026",
 "total": 129,
 "ts": "2026-07-15T14:46:40.502315+00:00",
+"verdict": "Very Positive"
+},
+"4178020": {
+"desc": "Run your own cozy aquarium! Travel far and wide to catch exotic fish. Put them on display for idle profits, or sell them for instant cash. Unlock research for new upgrades, and ascend for powerful bonuses. Customize your shop, character, and tanks to make your aquarium your own!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Lured In",
+"pct": 93,
+"price": "$6.39",
+"release": "Jul 17, 2026",
+"total": 55,
+"ts": "2026-07-20T04:34:15.416039+00:00",
 "verdict": "Very Positive"
 },
 "4196120": {
@@ -1103,6 +1186,25 @@
 "release": "Jul 16, 2026",
 "total": 321,
 "ts": "2026-07-17T07:15:08.591860+00:00",
+"verdict": "Very Positive"
+},
+"4710360": {
+"desc": "divine girls: Karia saga! This game is an anime card role-playing game. In the game, players can freely recruit heroes and equip them with the best gear and treasures to conquer this dazzling and dreamlike anime world!",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"RPG",
+"Strategy"
+],
+"name": "Divine Girls:Kalia Saga",
+"pct": 90,
+"price": "Free",
+"release": "Jul 14, 2026",
+"total": 50,
+"ts": "2026-07-20T04:34:18.739006+00:00",
 "verdict": "Very Positive"
 },
 "4775410": {
