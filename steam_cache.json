@@ -131,6 +131,39 @@
 "ts": "2026-07-16T17:59:59.602007+00:00",
 "verdict": "Very Positive"
 },
+"2021960": {
+"desc": "All those who are lost deserve kindness. Help cute, ghostly bears find peace in this relaxing sequel to the beloved life-sim game Cozy Grove, where kindness rules and new crafting, building, and camping island adventures await.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Cozy Grove: Camp Spirit",
+"pct": 87,
+"price": "$17.99",
+"release": "Jul 15, 2026",
+"total": 61,
+"ts": "2026-07-21T04:13:41.080555+00:00",
+"verdict": "Very Positive"
+},
+"2099090": {
+"desc": "Discover secrets long forgotten, and nurture relationships waiting to bloom. In a game inspired by the lore of Dragon and Fae, make choices that can shape your story, relationships, and even personality. Will you be brave, kind, wise, charismatic? Only you know the answer to your fate.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Alaris",
+"pct": 98,
+"price": "$11.99",
+"release": "Jul 17, 2026",
+"total": 52,
+"ts": "2026-07-21T04:13:27.596834+00:00",
+"verdict": "Very Positive"
+},
 "2195120": {
 "desc": "Step into the role of a hands-on mayor and build your town from the ground up. Plan neighborhoods, automate logistics, and grow your community\u2014all while juggling workers, infrastructure, and day-to-day chaos to create your dream town. Play solo for total control, or bring friends for co-op mayhem.",
 "descriptors": [],
@@ -517,6 +550,23 @@
 "total": 162,
 "ts": "2026-07-14T17:22:11.669614+00:00",
 "verdict": "Very Positive"
+},
+"3467040": {
+"desc": "Open your own bookshop! Order books, stock your shelves, and earn revenue. Use your profits to decorate, expand, and hire staff. Collect rare books that give powerful abilities. Adopt a cat to keep you and your customers company along the way!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"RPG",
+"Simulation"
+],
+"name": "Bookshop Simulator",
+"pct": 95,
+"price": "$13.59",
+"release": "Jul 20, 2026",
+"total": 1364,
+"ts": "2026-07-21T04:13:30.915555+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3534790": {
 "desc": "MESMALIE is an occult visual novel with point and click mechanics. A magickal incident in your personal life brings you to a small witches' coven in the middle of nowhere. Here, you'll learn to tame your ability... though, not without some bumps along the way.",
@@ -1091,6 +1141,22 @@
 "ts": "2026-07-19T04:21:05.241012+00:00",
 "verdict": "Very Positive"
 },
+"4530780": {
+"desc": "The sequel to Brother Hai's Pho Restaurant! While a manhunt unfolds elsewhere, in an unrelated development, you're a HUST student selling Banh Mi at the legendary Parabol Gate. Manage your cart and keep the sales booming!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "The Hust Banhmi | B\u00e1nh M\u00ec B\u00e1ch Khoa",
+"pct": 90,
+"price": "$1.99",
+"release": "Jul 18, 2026",
+"total": 63,
+"ts": "2026-07-21T04:13:37.746105+00:00",
+"verdict": "Very Positive"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -1261,6 +1327,23 @@
 "release": "Jul 14, 2026",
 "total": 52,
 "ts": "2026-07-18T03:52:01.254066+00:00",
+"verdict": "Very Positive"
+},
+"4836650": {
+"desc": "Penguin Lifter is a game where you work as a penguin lifter. You'll work outdoors, far from civilization, surrounded by cute creatures - penguins. It's just you, the snow, and the penguins...",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Simulation"
+],
+"name": "Penguin Lifter",
+"pct": 94,
+"price": "$4.99",
+"release": "Jul 13, 2026",
+"total": 53,
+"ts": "2026-07-21T04:13:34.472245+00:00",
 "verdict": "Very Positive"
 },
 "4881550": {
