@@ -215,6 +215,37 @@
 "ts": "2026-07-16T10:53:37.220125+00:00",
 "verdict": "Very Positive"
 },
+"2445980": {
+"desc": "G-Rebels: An action-packed combat flight sim in a dystopian open world full of intrigue, free exploration and dangerous missions. As part of an elite unit, it is your job to ensure law and order. A secret mission calls everything into question: are you on the right side or part of a conspiracy?",
+"descriptors": [],
+"genres": [
+"Action",
+"Simulation",
+"Early Access"
+],
+"name": "G-Rebels",
+"pct": 88,
+"price": "$23.99",
+"release": "Jul 20, 2026",
+"total": 66,
+"ts": "2026-07-22T04:15:38.200009+00:00",
+"verdict": "Very Positive"
+},
+"2521170": {
+"desc": "Hello, this is Fael... Listen, this is going to sound strange, but... I think I'm lost in the apartment. Right now... I... I don't know where I am. Can you come and help me?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Looking For Fael",
+"pct": 100,
+"price": "$16.99",
+"release": "Jul 16, 2026",
+"total": 65,
+"ts": "2026-07-22T04:15:05.306281+00:00",
+"verdict": "Very Positive"
+},
 "2524850": {
 "desc": "Flip, trick and grind your train in a fast-paced, off-the-rails ride through a colourful Japanese dystopia. Outmatch rival gangs, wreck a shady megacorp, and take back the tracks with nothing but skill, speed, and style.",
 "descriptors": [],
@@ -321,6 +352,22 @@
 "ts": "2026-07-20T04:34:12.100786+00:00",
 "verdict": "Very Positive"
 },
+"2704090": {
+"desc": "Loot, bribe, gamble, survive. The dice will be your savior or your downfall in this story-driven RPG. Every roll matters when trying to uncover cosmic horrors and outwit megacorps. Pray your next roll won\u2019t be your last.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Celestial Return",
+"pct": 89,
+"price": "$11.99",
+"release": "Jul 14, 2026",
+"total": 98,
+"ts": "2026-07-22T04:15:41.462950+00:00",
+"verdict": "Very Positive"
+},
 "2708880": {
 "desc": "Become a Ghost Keeper and lead your fearsome minions against the living. Use diverse scare tactics, manage demonic creatures and harness dozens of skills. Oh, and don\u2019t let the Brotherhood catch you! The ultimate scaring experience begins\u2026",
 "descriptors": [],
@@ -335,6 +382,21 @@
 "release": "Jul 16, 2026",
 "total": 67,
 "ts": "2026-07-18T03:52:17.713072+00:00",
+"verdict": "Very Positive"
+},
+"2802740": {
+"desc": "Get a grip, it\u2019s Heave Ho 2! The insane 2-4 player party game sequel takes the couch co-op mayhem online for the first time. Grab what you can and swing to win!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Heave Ho 2",
+"pct": 90,
+"price": "$9.99",
+"release": "Jul 16, 2026",
+"total": 58,
+"ts": "2026-07-22T04:15:28.368439+00:00",
 "verdict": "Very Positive"
 },
 "2840000": {
@@ -461,6 +523,25 @@
 "release": "Jun 30, 2026",
 "total": 251,
 "ts": "2026-07-14T17:22:21.641626+00:00",
+"verdict": "Very Positive"
+},
+"3279440": {
+"desc": "Drone Sector is a futuristic gunship game. Provide close air support by firing variety of weapons at the enemies and guide your allied troops via commands. Keep your troops alive, complete objectives, collect resources and recruit engineers. Research better weaponry for the gunship and the troops.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Drone Sector",
+"pct": 91,
+"price": "$15.29",
+"release": "Jul 21, 2026",
+"total": 68,
+"ts": "2026-07-22T04:15:25.115471+00:00",
 "verdict": "Very Positive"
 },
 "3312130": {
@@ -595,6 +676,24 @@
 "release": "Jun 17, 2026",
 "total": 421,
 "ts": "2026-07-14T17:22:08.374603+00:00",
+"verdict": "Very Positive"
+},
+"3590290": {
+"desc": "Every descent is a deadly gamble. DIVE or DIE in the cursed abyss, face Eldritch horrors to uncover the mystery of the black rain. Scavenge and upgrade, recruit and sacrifice. Save your camp... The Flood is coming.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "DIVE or DIE - Children of Rain",
+"pct": 99,
+"price": "$14.39",
+"release": "Jul 21, 2026",
+"total": 71,
+"ts": "2026-07-22T04:15:11.867717+00:00",
 "verdict": "Very Positive"
 },
 "3621200": {
@@ -775,6 +874,21 @@
 "ts": "2026-07-18T03:51:57.974831+00:00",
 "verdict": "Very Positive"
 },
+"3920300": {
+"desc": "Mothkeep is a short singleplayer moth documenting game where you step into a peaceful nature sanctuary and discover its native moths, one journal entry at a time. \u2712\ufe0f\ud83e\udd8b",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Mothkeep",
+"pct": 96,
+"price": "$4.99",
+"release": "Jul 10, 2026",
+"total": 57,
+"ts": "2026-07-22T04:15:18.470278+00:00",
+"verdict": "Very Positive"
+},
 "3924280": {
 "desc": "Your very own kitty \u2014 right on your desktop! A cozy idle game where you pet, feed, and play with a fluffy friend to earn purr points. Spend them on hats, toys, and cozy spots to sit. With hundreds of customization items, you can create a kitty that's truly yours \u2014 always by your side.",
 "descriptors": [],
@@ -876,6 +990,21 @@
 "ts": "2026-07-15T14:46:33.562714+00:00",
 "verdict": "Very Positive"
 },
+"4020320": {
+"desc": "Starvault is the first true VR MOBA shooter, blending classic MOBA strategy with explosive hero-shooter action. Squad up, master unique heroes, unlock insane skins, and jump into intense 5v5 battles. Step into the arena!",
+"descriptors": [],
+"genres": [
+"Action",
+"Strategy"
+],
+"name": "STARVAULT",
+"pct": 91,
+"price": "$24.99",
+"release": "Jun 25, 2026",
+"total": 64,
+"ts": "2026-07-22T04:15:34.948341+00:00",
+"verdict": "Very Positive"
+},
 "4042330": {
 "desc": "Set in 1972 (Showa 47), this story follows a high school student on his yearly summer visit to his grandparents\u2019 rural home. Spending quiet, nostalgic days with his sister and the villagers, he begins to believe this peaceful summer might last\u2026 until an encounter in the mountains changes everything.",
 "descriptors": [],
@@ -920,6 +1049,23 @@
 "release": "Jul 15, 2026",
 "total": 52,
 "ts": "2026-07-18T03:52:07.805067+00:00",
+"verdict": "Very Positive"
+},
+"4121610": {
+"desc": "I'm Tom and I just got a job as a bartender. Now I have to wipe down the same sticky counters where I used to leave my own marks. In this dive, even the rats look like they're hungover. Alright, the boozers won't pour their own drinks - time to get back to work.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Something to Drink?",
+"pct": 100,
+"price": "$8.99",
+"release": "Jul 14, 2026",
+"total": 61,
+"ts": "2026-07-22T04:15:08.583570+00:00",
 "verdict": "Very Positive"
 },
 "4141710": {
@@ -1022,6 +1168,21 @@
 "ts": "2026-07-16T10:51:39.942975+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4286120": {
+"desc": "A PSX-style horror game where you manage a photo studio. Restock supplies, buy upgrades, photograph customers and print their order whilst encountering unexpected events.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Photomaly",
+"pct": 96,
+"price": "$5.59",
+"release": "Jul 21, 2026",
+"total": 152,
+"ts": "2026-07-22T04:15:21.868522+00:00",
+"verdict": "Very Positive"
+},
 "4297840": {
 "desc": "Mine. Smelt. Upgrade. Repeat. Rock Bottom is an incremental mining game where every swing makes you stronger. Descend through 8 unique layers, unlock devastating abilities, and discover what lies at Rock Bottom",
 "descriptors": [],
@@ -1120,6 +1281,23 @@
 "release": "Jul 15, 2026",
 "total": 227,
 "ts": "2026-07-17T07:15:55.051678+00:00",
+"verdict": "Very Positive"
+},
+"4519130": {
+"desc": "It started in your foot. Now it\u2019s in your head. All that remains is the command: GO UP. Meet strange neighbors. Make bad trades. Every ascent teaches you what you should have done differently.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "MOLDRISE",
+"pct": 97,
+"price": "$10.79",
+"release": "Jul 20, 2026",
+"total": 60,
+"ts": "2026-07-22T04:15:15.195502+00:00",
 "verdict": "Very Positive"
 },
 "4524800": {
@@ -1252,6 +1430,25 @@
 "release": "Jul 16, 2026",
 "total": 321,
 "ts": "2026-07-17T07:15:08.591860+00:00",
+"verdict": "Very Positive"
+},
+"4665920": {
+"desc": "Mad Merchant is an incremental management game. Build, arm, and command a merchant train across a hostile wasteland. Choose your routes, trade for profit, upgrade your wagons, and survive deadly ambushes on the rails.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Mad Merchant",
+"pct": 89,
+"price": "$4.49",
+"release": "Jul 20, 2026",
+"total": 53,
+"ts": "2026-07-22T04:15:31.681176+00:00",
 "verdict": "Very Positive"
 },
 "4710360": {
