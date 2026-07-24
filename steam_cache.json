@@ -117,6 +117,21 @@
 "ts": "2026-07-17T07:15:05.242289+00:00",
 "verdict": "Very Positive"
 },
+"1699710": {
+"desc": "Stranded on a desolate island with Earth's remaining researchers, you investigate a strange celestial body. The day before departure, your only means of transportation gets mysteriously damaged, leaving you stranded. Is someone sabotaging the team, or is there something more sinister going on\u2026",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "The Dream Of A Cockspur",
+"pct": 95,
+"price": "$6.29",
+"release": "Jul 22, 2026",
+"total": 94,
+"ts": "2026-07-24T04:11:55.841253+00:00",
+"verdict": "Very Positive"
+},
 "1729740": {
 "desc": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
 "descriptors": [
@@ -133,6 +148,22 @@
 "release": "Jul 21, 2025",
 "total": 1295,
 "ts": "2026-07-16T17:59:44.293449+00:00",
+"verdict": "Very Positive"
+},
+"1845250": {
+"desc": "In this dark fantasy boss rush, use Ruby's crimson eyes to expose the weak points of the Bloodstained monsters, then strike and shatter them. Carve a road home through the ruined Scarlet Kingdom and face the Witch who took it all.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Rubinite",
+"pct": 89,
+"price": "$17.99",
+"release": "Jul 22, 2026",
+"total": 364,
+"ts": "2026-07-24T04:12:12.416726+00:00",
 "verdict": "Very Positive"
 },
 "1895460": {
@@ -212,6 +243,22 @@
 "release": "Jul 17, 2026",
 "total": 52,
 "ts": "2026-07-21T04:13:27.596834+00:00",
+"verdict": "Very Positive"
+},
+"2191280": {
+"desc": "An unforgiving game with precise combat. Fight challenging bosses in any order, acquire their unique powers, and succeed on your own terms.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Gurei",
+"pct": 92,
+"price": "$14.39",
+"release": "Jul 22, 2026",
+"total": 96,
+"ts": "2026-07-24T04:12:05.765182+00:00",
 "verdict": "Very Positive"
 },
 "2195120": {
@@ -447,6 +494,23 @@
 "release": "Jul 16, 2026",
 "total": 58,
 "ts": "2026-07-22T04:15:28.368439+00:00",
+"verdict": "Very Positive"
+},
+"2819470": {
+"desc": "Build the ultimate waterpark paradise in this classic tycoon simulation game! Design &amp; customize water slides, pools, and saunas to fulfill your guests' needs. Combine creativity, strategy, and management to make a splash in the world of water parks and become the ultimate Aquapark Tycoon!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Aquapark Tycoon",
+"pct": 97,
+"price": "$20.69",
+"release": "Jul 22, 2026",
+"total": 65,
+"ts": "2026-07-24T04:11:52.574197+00:00",
 "verdict": "Very Positive"
 },
 "2840000": {
@@ -730,6 +794,41 @@
 "ts": "2026-07-14T17:22:11.669614+00:00",
 "verdict": "Very Positive"
 },
+"3440070": {
+"desc": "Dinoblade is an intense action RPG set in a prehistoric world forever changed by a cataclysmic event. Step into the role of a young Spinosaurus, wielding a colossal Great Sword. Confront rival dinosaurs, some armed with weapons of their own, all in a desperate fight to prevent a looming extinction.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Dinoblade",
+"pct": 89,
+"price": "$17.99",
+"release": "Jul 23, 2026",
+"total": 332,
+"ts": "2026-07-24T04:12:09.089089+00:00",
+"verdict": "Very Positive"
+},
+"3453910": {
+"desc": "The original cooking horror returns in an unhinged co-op experience for 1-4 players. Grill burgers, serve customers, and hit your quota before the kitchen turns into a nightmare. When Asset Joy begins her hunt, try to escape alive and extract your hard-earned cash to survive another shift.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "Happy's Humble Burger Cult",
+"pct": 84,
+"price": "$9.99",
+"release": "Jul 16, 2026",
+"total": 328,
+"ts": "2026-07-24T04:12:25.774210+00:00",
+"verdict": "Very Positive"
+},
 "3467040": {
 "desc": "Open your own bookshop! Order books, stock your shelves, and earn revenue. Use your profits to decorate, expand, and hire staff. Collect rare books that give powerful abilities. Adopt a cat to keep you and your customers company along the way!",
 "descriptors": [],
@@ -774,6 +873,23 @@
 "release": "Jun 17, 2026",
 "total": 421,
 "ts": "2026-07-14T17:22:08.374603+00:00",
+"verdict": "Very Positive"
+},
+"3561220": {
+"desc": "PASS THE FEAR is a roguelite bullet-hell shooter. A catastrophic Witch\u2019s Disaster strikes without warning, and chaotic magic forms the ancient Wall of Storms. Its corruption spreads relentlessly across the island. As a demon hunter trapped within, you must find a way to escape before dawn breaks.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Pass the Fear",
+"pct": 85,
+"price": "$17.09",
+"release": "Jul 22, 2026",
+"total": 332,
+"ts": "2026-07-24T04:12:22.454070+00:00",
 "verdict": "Very Positive"
 },
 "3590290": {
@@ -939,6 +1055,24 @@
 "release": "Jul 16, 2026",
 "total": 283,
 "ts": "2026-07-17T07:15:11.914961+00:00",
+"verdict": "Very Positive"
+},
+"3837350": {
+"desc": "Staffer Retro is a mystery adventure game where you uncover past incidents related to \u2018Mana\u2019, the source of supernatural powers. Gather information through dialogue and exploration, and piece together clues found in documents to guide the choices of Verita Retro, the protagonist.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Staffer Retro : A Supernatural Mystery Quest",
+"pct": 90,
+"price": "$22.49",
+"release": "Jul 22, 2026",
+"total": 147,
+"ts": "2026-07-24T04:12:19.128043+00:00",
 "verdict": "Very Positive"
 },
 "3869850": {
@@ -1121,6 +1255,23 @@
 "release": "Jun 25, 2026",
 "total": 98,
 "ts": "2026-07-15T14:46:33.562714+00:00",
+"verdict": "Very Positive"
+},
+"4018550": {
+"desc": "Catch a train to Cat Isle! In this cozy pixel art management game, build restaurants, expand and decorate the town. Figure out your cats needs as they dine, shop, explore and turn the island into their purfect home.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Cat Isle",
+"pct": 98,
+"price": "$5.09",
+"release": "Jul 20, 2026",
+"total": 57,
+"ts": "2026-07-24T04:11:42.434111+00:00",
 "verdict": "Very Positive"
 },
 "4020320": {
@@ -1317,6 +1468,22 @@
 "total": 500,
 "ts": "2026-07-16T10:51:39.942975+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4223300": {
+"desc": "You are a bird. You have a nest. Other birds want your eggs. Birds of War is a team-based aerial PvP game. Raid nests, steal eggs, fight beak-to-beak in fast, chaotic matches built around flight and combat. Your mic is always hot. Your enemies can hear you. Plan accordingly.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "Birds of War",
+"pct": 94,
+"price": "$7.99",
+"release": "Jul 22, 2026",
+"total": 117,
+"ts": "2026-07-24T04:11:59.160944+00:00",
+"verdict": "Very Positive"
 },
 "4286120": {
 "desc": "A PSX-style horror game where you manage a photo studio. Restock supplies, buy upgrades, photograph customers and print their order whilst encountering unexpected events.",
@@ -1550,6 +1717,38 @@
 "ts": "2026-07-19T04:20:38.286282+00:00",
 "verdict": "Very Positive"
 },
+"4570720": {
+"desc": "Explore the anime-style open world of the Continent of Orbis, brought to life with Unreal Engine 5! Recruit unique companions, unleash spectacular Status Ailment tag-team action, and embark on an epic journey to save the world from the threat of a Dragon reawakened after 60 years.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "DragonSword : Awakening",
+"pct": 89,
+"price": "$29.99",
+"release": "Jul 22, 2026",
+"total": 1449,
+"ts": "2026-07-24T04:12:15.764530+00:00",
+"verdict": "Very Positive"
+},
+"4597380": {
+"desc": "Ascend to a heavenly realm as the treasure hunter Angelique. Weave together fast, fluid combos as you unlock a deep movement system. Battle surreal foes and uncover secrets in the expansive world of Angel Essence, a retro-inspired 3D platformer.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Angel Essence",
+"pct": 100,
+"price": "$4.99",
+"release": "Jul 21, 2026",
+"total": 62,
+"ts": "2026-07-24T04:11:39.079909+00:00",
+"verdict": "Very Positive"
+},
 "4605210": {
 "desc": "Pet the Cat is a bullet-hell shooter where you unleash powerful attacks by petting an adorable cat! Fight through endless waves of enemies and upgrade your kitty into a formidable force with food, items, and weapons.",
 "descriptors": [],
@@ -1564,6 +1763,21 @@
 "release": "Jul 17, 2026",
 "total": 63,
 "ts": "2026-07-19T04:20:55.159593+00:00",
+"verdict": "Very Positive"
+},
+"4622330": {
+"desc": "CD Market is a music industry management sim where you build a record label on your own terms, from vinyl to digital. Stay small, or grow into something bigger. Discover artists, shape careers, and survive decades of changing formats, trends, rivals, and crises.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "CD Market - Music Label Sim",
+"pct": 98,
+"price": "$14.99",
+"release": "Jul 17, 2026",
+"total": 65,
+"ts": "2026-07-24T04:11:45.910716+00:00",
 "verdict": "Very Positive"
 },
 "4624560": {
@@ -1651,6 +1865,39 @@
 "release": "Jul 14, 2026",
 "total": 50,
 "ts": "2026-07-20T04:34:18.739006+00:00",
+"verdict": "Very Positive"
+},
+"4740420": {
+"desc": "&lt;A Love Letter in Snowfall&gt; is a live-action, multi-ending interactive romance movie game. As a young B&amp;B keeper in a small southern town, you meet, and fall for a visiting actress\u2014every choice rewrites your love story. Meet someone, and fall in love that trembles in bones.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "A Love Letter in Snowfall",
+"pct": 98,
+"price": "$8.99",
+"release": "Jul 23, 2026",
+"total": 407,
+"ts": "2026-07-24T04:11:49.215996+00:00",
+"verdict": "Very Positive"
+},
+"4764810": {
+"desc": "There\u2019s no place like home - and yours is no home at all. Play as Rosa, a neglected child trying to escape her abusive family. Sneak out, but be ever so quiet. Mom is listening, dad is angry, and your big sister is always watching\u2026",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"Free To Play"
+],
+"name": "Step Lightly",
+"pct": 93,
+"price": "Free",
+"release": "Jul 10, 2026",
+"total": 54,
+"ts": "2026-07-24T04:12:02.432708+00:00",
 "verdict": "Very Positive"
 },
 "4775410": {
