@@ -132,6 +132,25 @@
 "ts": "2026-07-24T04:11:55.841253+00:00",
 "verdict": "Very Positive"
 },
+"1708110": {
+"desc": "Misericorde: Volume One is the first part of a series of mystery visual novels set in a convent in 1482.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Misericorde: Volume One",
+"pct": 98,
+"price": "$8.99",
+"release": "Mar 23, 2023",
+"total": 541,
+"ts": "2026-07-25T03:59:08.883325+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1729740": {
 "desc": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
 "descriptors": [
@@ -376,6 +395,23 @@
 "ts": "2026-07-19T04:20:51.846924+00:00",
 "verdict": "Very Positive"
 },
+"2593340": {
+"desc": "Wonderia's an open-world, manga-art adventure just waiting to be explored. It's got sci-fi sim elements, deep dungeons, and you can even morph into alien form! Grab up to 7 friends to mine, craft, battle, and level\u2014or farm and fish the day away, if that's more your tempo. There's so much to do!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG",
+"Simulation",
+"Early Access"
+],
+"name": "Wonderia",
+"pct": 92,
+"price": "$12.59",
+"release": "Jul 22, 2026",
+"total": 80,
+"ts": "2026-07-25T04:01:39.982244+00:00",
+"verdict": "Very Positive"
+},
 "2599270": {
 "desc": "Follow Chud on his fight against Dr Soystein's 'jak army in this spine-tingling survival shooter. NOW FEATURING BADLANDSCHUGS",
 "descriptors": [
@@ -481,6 +517,39 @@
 "ts": "2026-07-18T03:52:17.713072+00:00",
 "verdict": "Very Positive"
 },
+"2765320": {
+"desc": "Celestial beings see mortals as pawns\u2014but you were never meant to exist on destiny's board. Recruit 15 companions, lead them through warring factions and hidden realms in tactical grid combat. Deep build-crafting fuels brain-burning strategy. 30+ hours in Early Access, updated through launch.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG",
+"Strategy",
+"Early Access"
+],
+"name": "Celestial Descends",
+"pct": 95,
+"price": "$14.39",
+"release": "Jul 22, 2026",
+"total": 78,
+"ts": "2026-07-25T04:01:29.960777+00:00",
+"verdict": "Very Positive"
+},
+"2783370": {
+"desc": "Explore a world of mayhem and Michaels! Join Teeto the blob and Nory the bunny in this 3D adventure platformer to stop the shadow corruption from spreading. Absorb wild powers, help eccentric characters, and save the world - one Michael at a time!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Teeto",
+"pct": 97,
+"price": "$14.39",
+"release": "Jul 15, 2026",
+"total": 76,
+"ts": "2026-07-25T04:01:19.755438+00:00",
+"verdict": "Very Positive"
+},
 "2802740": {
 "desc": "Get a grip, it\u2019s Heave Ho 2! The insane 2-4 player party game sequel takes the couch co-op mayhem online for the first time. Grab what you can and swing to win!",
 "descriptors": [],
@@ -494,6 +563,42 @@
 "release": "Jul 16, 2026",
 "total": 58,
 "ts": "2026-07-22T04:15:28.368439+00:00",
+"verdict": "Very Positive"
+},
+"2803490": {
+"desc": "A sandbox adventure where every pixel is physically and chemically simulated! Build intricate, fully functional machines from the pixels around you. Harvest, react, and manipulate all 118 elements to craft everything from simple tools to complex systems.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Atomcraft",
+"pct": 97,
+"price": "$11.99",
+"release": "Jul 23, 2026",
+"total": 71,
+"ts": "2026-07-25T04:01:12.802893+00:00",
+"verdict": "Very Positive"
+},
+"2810210": {
+"desc": "Codename CURE II is a co-operative first person shooter set in the aftermath of a zombie apocalypse. Create an elite military squad with up to five players and fight your way through hordes of zombies in a variety of dynamic objective missions.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Free To Play"
+],
+"name": "Codename CURE II",
+"pct": 88,
+"price": "Free",
+"release": "Jul 24, 2026",
+"total": 139,
+"ts": "2026-07-25T04:01:36.659539+00:00",
 "verdict": "Very Positive"
 },
 "2819470": {
@@ -954,6 +1059,22 @@
 "total": 209,
 "ts": "2026-07-15T14:46:26.684815+00:00",
 "verdict": "Very Positive"
+},
+"3683770": {
+"desc": "You\u2019re reborn\u2014back at the beginning of your startup journey. In your last life, poor management led to your shop being crushed by competitors. This time, the sweet scent of condensed milk runs through your veins, and you\u2019re set on one goal: turn \u201cSugarville\u201d into the top name in the industry.",
+"descriptors": [],
+"genres": [
+"Casual",
+"RPG",
+"Simulation"
+],
+"name": "Boba Cafe Simulator",
+"pct": 98,
+"price": "$10.39",
+"release": "Jul 24, 2026",
+"total": 597,
+"ts": "2026-07-25T03:59:12.238162+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3685900": {
 "desc": "Save people from terrible paranormal dangers as a support operator of a secret SCP-like organization! Ask questions, give advice and watch the consequences of your choices... multiple endings in each story ;-)",
@@ -1569,6 +1690,22 @@
 "ts": "2026-07-14T17:22:01.768119+00:00",
 "verdict": "Very Positive"
 },
+"4337440": {
+"desc": "A story-driven productivity adventure where you work alongside Memorie, an apprentice witch from another world. As you focus using the Pomodoro timer, the story progresses and her world gradually transforms. Turn solitary work into time shared with someone.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Memory of Memorie : A Chill Story",
+"pct": 93,
+"price": "$10.79",
+"release": "Jul 22, 2026",
+"total": 73,
+"ts": "2026-07-25T04:01:33.330816+00:00",
+"verdict": "Very Positive"
+},
 "4358380": {
 "desc": "Shape the world to your will in lush landscapes inspired by Chinese watercolors in this Zen hex-tile building game that blends puzzle and roguelite elements with beautiful Asian aesthetics. Befriend mystical creatures in your journey while you make the world come alive beneath your fingertips.",
 "descriptors": [],
@@ -1584,6 +1721,22 @@
 "release": "Jul 16, 2026",
 "total": 85,
 "ts": "2026-07-23T04:13:35.500781+00:00",
+"verdict": "Very Positive"
+},
+"4370020": {
+"desc": "In a peaceful household, two pure flowers\u2014roses and lilies\u2014bloom quietly, until an unseen \u201cblack hand\u201d reaches in. With a coach\u2019s arrival, subtle changes reveal a slow, irreversible transformation.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Stained Roses & Lilies",
+"pct": 96,
+"price": "$7.99",
+"release": "Jul 23, 2026",
+"total": 68,
+"ts": "2026-07-25T04:01:26.551005+00:00",
 "verdict": "Very Positive"
 },
 "4468030": {
@@ -1765,6 +1918,22 @@
 "ts": "2026-07-19T04:20:55.159593+00:00",
 "verdict": "Very Positive"
 },
+"4613890": {
+"desc": "Lazy Kickers is an incremental soccer manager! Manage your team, grow balls from plants and shoot goals for coins! Start small and climb the leaderboards, unlocking new upgrades! Score millions and plunge the playing field into total chaos.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Sports"
+],
+"name": "Lazy Kickers",
+"pct": 97,
+"price": "$2.24",
+"release": "Jul 13, 2026",
+"total": 58,
+"ts": "2026-07-25T04:01:23.112336+00:00",
+"verdict": "Very Positive"
+},
 "4622330": {
 "desc": "CD Market is a music industry management sim where you build a record label on your own terms, from vinyl to digital. Stay small, or grow into something bigger. Discover artists, shape careers, and survive decades of changing formats, trends, rivals, and crises.",
 "descriptors": [],
@@ -1846,6 +2015,21 @@
 "release": "Jul 20, 2026",
 "total": 53,
 "ts": "2026-07-22T04:15:31.681176+00:00",
+"verdict": "Very Positive"
+},
+"4668890": {
+"desc": "Run your mall. Open new stores, sign contracts with leading brands, hire teammates, and meet customer needs. Play with friends or go solo, and enjoy the growth of your mall.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Mall Together",
+"pct": 100,
+"price": "$10.79",
+"release": "Jul 24, 2026",
+"total": 67,
+"ts": "2026-07-25T04:01:09.496119+00:00",
 "verdict": "Very Positive"
 },
 "4710360": {
@@ -1935,6 +2119,23 @@
 "release": "Jul 16, 2026",
 "total": 60,
 "ts": "2026-07-19T04:20:45.055513+00:00",
+"verdict": "Very Positive"
+},
+"4824420": {
+"desc": "Idle RPG with full offline progression and multiple endgame progression systems. Choose a class and start fighting, gathering, crafting, master elements &amp; talent trees, train mercenaries, join factions and fight world bosses with real players. No microtransactions. By idle players for idle players",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Vespera",
+"pct": 98,
+"price": "$6.63",
+"release": "Jul 21, 2026",
+"total": 59,
+"ts": "2026-07-25T04:01:16.157012+00:00",
 "verdict": "Very Positive"
 },
 "4835250": {
