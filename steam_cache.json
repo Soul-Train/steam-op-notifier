@@ -668,6 +668,23 @@
 "ts": "2026-07-18T03:52:04.510880+00:00",
 "verdict": "Very Positive"
 },
+"3056840": {
+"desc": "Take a jaunt into the world of A Bumpy Ride, a cozy train-driving and exploration game! Inspired by railroading of the 19th century with a whimsical spin, you'll adventure around the open frontier in your trusty little train, picking up passengers and freight.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "A Bumpy Ride",
+"pct": 97,
+"price": "$9.74",
+"release": "May 1, 2026",
+"total": 512,
+"ts": "2026-07-26T04:22:52.355778+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3075410": {
 "desc": "HAND OF FATE: HORDES is a dark-fantasy bullet heaven auto-shooter powered by your strategic deckbuilding mastery. Survive the horde, forge your build, and unleash devastating attacks to escape a netherworld beyond the 13th Gate. Thrive in chaos!",
 "descriptors": [],
@@ -950,6 +967,23 @@
 "total": 1364,
 "ts": "2026-07-21T04:13:30.915555+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3508910": {
+"desc": "Abyss Kitchen is a survival action game in which you play the role of Lop a cook who accompanies a party of adventurers, and guides them with the power of food. Feed yourself in the dungeon and eat whatever you can to keep from starving and falling down. Eat up anything that stands in your way!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Abyss Kitchen",
+"pct": 87,
+"price": "$10.79",
+"release": "Jul 23, 2026",
+"total": 69,
+"ts": "2026-07-26T04:24:50.199106+00:00",
+"verdict": "Very Positive"
 },
 "3534790": {
 "desc": "MESMALIE is an occult visual novel with point and click mechanics. A magickal incident in your personal life brings you to a small witches' coven in the middle of nowhere. Here, you'll learn to tame your ability... though, not without some bumps along the way.",
@@ -1538,6 +1572,22 @@
 "ts": "2026-07-20T04:34:15.416039+00:00",
 "verdict": "Very Positive"
 },
+"4181410": {
+"desc": "A first-person psychological horror game. Explore a maze-like alleyway, using your camera to distinguish between supernatural &quot;Aberrations&quot; and deceptive &quot;Deceptions&quot; while escaping the relentless pursuit of a vengeful ghost.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "The Alley",
+"pct": 95,
+"price": "$8.09",
+"release": "Jul 23, 2026",
+"total": 66,
+"ts": "2026-07-26T04:24:43.564772+00:00",
+"verdict": "Very Positive"
+},
 "4196120": {
 "desc": "In an ancient riad once used as the base of a spy network, retrace the events and people tied to a forgotten tragedy. Your weapon? Names. Find them, write them, become them.",
 "descriptors": [
@@ -2032,6 +2082,25 @@
 "ts": "2026-07-25T04:01:09.496119+00:00",
 "verdict": "Very Positive"
 },
+"4699920": {
+"desc": "\u300aInner Scales 1:Choice\u300bis a first-person FMV. Set in a sealed cage. It pushes survival, humanity, emotion and moral dilemmas to the extreme. You will face surveillance, cages, and the fates of eight trapped women\u2014every choice you make decides life and death for others and yourself.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "\u5929\u5e73\u6e38\u620f1:\u6289\u62e9",
+"pct": 93,
+"price": "$6.29",
+"release": "Jul 25, 2026",
+"total": 463,
+"ts": "2026-07-26T04:24:46.873578+00:00",
+"verdict": "Very Positive"
+},
 "4710360": {
 "desc": "divine girls: Karia saga! This game is an anime card role-playing game. In the game, players can freely recruit heroes and equip them with the best gear and treasures to conquer this dazzling and dreamlike anime world!",
 "descriptors": [
@@ -2049,6 +2118,24 @@
 "release": "Jul 14, 2026",
 "total": 50,
 "ts": "2026-07-20T04:34:18.739006+00:00",
+"verdict": "Very Positive"
+},
+"4736640": {
+"desc": "Sinheritance is a terrifying and mind-bending puzzle game. Explore every corner in an intensely oppressive atmosphere to piece together a chilling story. Every step must be taken with caution, for the deepest fears often stem from your own choices and your gradually crumbling sanity.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Sinheritance",
+"pct": 98,
+"price": "$3.99",
+"release": "Jul 23, 2026",
+"total": 51,
+"ts": "2026-07-26T04:24:40.232269+00:00",
 "verdict": "Very Positive"
 },
 "4740420": {
