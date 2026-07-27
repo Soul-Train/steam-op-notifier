@@ -219,6 +219,22 @@
 "ts": "2026-07-23T04:13:19.140178+00:00",
 "verdict": "Very Positive"
 },
+"1983620": {
+"desc": "A metroidvania that combines the visual style of classic retro games with the fluid gameplay of modern titles. Explore different worlds, face challenging enemies and bosses, and absorb their powers to destroy the Core of Infinitevania.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Infinitevania",
+"pct": 94,
+"price": "$12.74",
+"release": "Jul 24, 2026",
+"total": 84,
+"ts": "2026-07-27T04:34:47.393120+00:00",
+"verdict": "Very Positive"
+},
 "2015240": {
 "desc": "Face massive hordes of mobs and unleash chaotic abilities that paint the screen with mayhem. Dive into the largest mob density of any 3D ARPG and slay them all. Wield epic powers, create your build, and shape a world of endless possibilities in the action-packed ARPG experience.",
 "descriptors": [],
@@ -515,6 +531,22 @@
 "release": "Jul 16, 2026",
 "total": 67,
 "ts": "2026-07-18T03:52:17.713072+00:00",
+"verdict": "Very Positive"
+},
+"2710650": {
+"desc": "Lost in an unexplored star system after a dimensional anomaly dispersed your fleet, you start to pick up signals scattered throughout the system. Explore the wrecks of the corporate fleet, discover the secrets of the anomaly, and try to get the good ending.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Quantum Void",
+"pct": 98,
+"price": "$11.99",
+"release": "Jul 10, 2026",
+"total": 58,
+"ts": "2026-07-27T04:34:37.604058+00:00",
 "verdict": "Very Positive"
 },
 "2765320": {
@@ -831,6 +863,39 @@
 "ts": "2026-07-17T07:15:35.026539+00:00",
 "verdict": "Very Positive"
 },
+"3347200": {
+"desc": "Cat Gladiator is a hardcore 2D slow-paced Monster Hunter-like action game! 4-player co-op, a wide variety of weapons, equipment, and items to aid in arena Boss battles. Become an adorable gladiator cat, team up with friends, conquer tough Bosses, and savor victory!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Cat Gladiator",
+"pct": 88,
+"price": "$8.09",
+"release": "Jul 20, 2026",
+"total": 68,
+"ts": "2026-07-27T04:34:50.652374+00:00",
+"verdict": "Very Positive"
+},
+"3358170": {
+"desc": "Waddle into a reality-bending odyssey where simply being a duck is your greatest superpower. With the help of your magical cap, switch instantly between 2D and 3D to uncover hidden paths, outsmart aliens, and rescue your kidnapped chicken friends in this wholesome puzzle platformer adventure.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Dodo Duckie",
+"pct": 100,
+"price": "$9.59",
+"release": "Jul 23, 2026",
+"total": 60,
+"ts": "2026-07-27T04:34:27.870930+00:00",
+"verdict": "Very Positive"
+},
 "3371260": {
 "desc": "A Magic Tower-style Strategy RPG with alchemy and progression. Play as Tasia and explore lost ruins with your companions. No unwinnable dead ends \u2014 plan your days freely, build your loadout, gather resources, and uncover the truth behind the [Calamity].",
 "descriptors": [],
@@ -1078,6 +1143,21 @@
 "release": "Jul 13, 2026",
 "total": 67,
 "ts": "2026-07-15T14:46:30.097960+00:00",
+"verdict": "Very Positive"
+},
+"3640430": {
+"desc": "Resettle the shards of a shattered world in this peaceful roguelite deckbuilder, covering centuries of classical Japanese art. Nurture communities, befriend animal spirits, and shape a new civilization through choices that echo across generations.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Worlds Upon The Wind",
+"pct": 100,
+"price": "$8.99",
+"release": "Jul 23, 2026",
+"total": 54,
+"ts": "2026-07-27T04:34:31.115900+00:00",
 "verdict": "Very Positive"
 },
 "3641000": {
@@ -1490,6 +1570,20 @@
 "ts": "2026-07-18T03:50:07.668671+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4112070": {
+"desc": "As highly qualified goose parents, work together to bring your little egg home safely. Every crack makes it harder to control, every mistake more hilarious. A co-op physics game for 2 or 4 players about teamwork, clumsiness and honking. HONK!",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "An Eggstremely Hard Game",
+"pct": 93,
+"price": "$4.49",
+"release": "Jul 24, 2026",
+"total": 72,
+"ts": "2026-07-27T04:34:44.103363+00:00",
+"verdict": "Very Positive"
+},
 "4113050": {
 "desc": "Adorable sushi race at full speed in a training \u00d7 racing game! Become a sushi chef, craft unique toppings, and enter your trained sushi into races. Don't forget to cheer on your sushi during the race. Win the prestigious S1 Cup championship, and become a top-tier sushi chef!",
 "descriptors": [],
@@ -1787,6 +1881,23 @@
 "release": "Jul 23, 2026",
 "total": 68,
 "ts": "2026-07-25T04:01:26.551005+00:00",
+"verdict": "Very Positive"
+},
+"4385270": {
+"desc": "A cozy pet sim where you raise Ember, your magical fox-like companion. Bring her home, care for her, and venture into the Otherlands together -- deepening your bond one adventure at a time.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Stay: Your Forever Pet!",
+"pct": 98,
+"price": "$11.69",
+"release": "Jul 14, 2026",
+"total": 60,
+"ts": "2026-07-27T04:34:34.369672+00:00",
 "verdict": "Very Positive"
 },
 "4468030": {
@@ -2314,5 +2425,21 @@
 "total": 3717,
 "ts": "2026-07-19T04:18:50.151279+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"931060": {
+"desc": "Wake up inside the nightmare world you created in this standalone, hand-drawn dark fantasy point-and-click adventure with psychological horror elements. Explore islands, solve puzzles, and make morally ambiguous choices that lead to multiple endings. Inspired by H.R. Giger and Zdzis\u0142aw Beksi\u0144ski.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Tormentum II",
+"pct": 97,
+"price": "$16.99",
+"release": "Jul 23, 2026",
+"total": 71,
+"ts": "2026-07-27T04:34:40.896319+00:00",
+"verdict": "Very Positive"
 }
 }
