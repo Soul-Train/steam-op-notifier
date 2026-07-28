@@ -66,6 +66,22 @@
 "ts": "2026-07-16T17:59:54.580187+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1444080": {
+"desc": "Gun-jump your way through a buzzing world full of quirky monsters, tricky puzzles, and outlandish bosses in this fast-paced, lighthearted Metroidvania.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Dewdrop Dynasty",
+"pct": 86,
+"price": "$11.99",
+"release": "Jul 23, 2026",
+"total": 139,
+"ts": "2026-07-28T03:58:53.684651+00:00",
+"verdict": "Very Positive"
+},
 "1553260": {
 "desc": "An embroidered dark medieval folk tale. While life in a seemingly ordinary village is all about simple chores and idle gossip, sinister secrets hide below.",
 "descriptors": [
@@ -330,6 +346,22 @@
 "ts": "2026-07-18T03:52:24.375091+00:00",
 "verdict": "Very Positive"
 },
+"2251220": {
+"desc": "Manage your own cafe and become a donut therapist in this cozy dating/cooking sim. Cook mood-changing donuts, decorate your shop, and help customers navigate life, love, and heartbreak\u2014one bite at a time.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "High Times",
+"pct": 95,
+"price": "$17.99",
+"release": "Jul 23, 2026",
+"total": 74,
+"ts": "2026-07-28T03:58:37.069550+00:00",
+"verdict": "Very Positive"
+},
 "2252680": {
 "desc": "Congratulations, you\u2019ve bought your own planet! An agrarian rock at the edge of the galaxy that, for some reason, was practically being given away for free. So the time has come to leave your hectic, stressful life in an overcrowded metropolis for a more rural and rewarding life.",
 "descriptors": [],
@@ -481,6 +513,24 @@
 "release": "Jun 23, 2026",
 "total": 204,
 "ts": "2026-07-14T17:22:24.928602+00:00",
+"verdict": "Very Positive"
+},
+"2684630": {
+"desc": "Endacopia is a Point-and-Click Puzzle Adventure that is visually reminiscent of early computer edutainment games... with underlying horrors.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Endacopia",
+"pct": 98,
+"price": "$14.85",
+"release": "Jul 27, 2026",
+"total": 325,
+"ts": "2026-07-28T03:58:30.374153+00:00",
 "verdict": "Very Positive"
 },
 "2695260": {
@@ -751,6 +801,23 @@
 "ts": "2026-07-23T04:13:29.023946+00:00",
 "verdict": "Very Positive"
 },
+"3160090": {
+"desc": "A deck-building roguelite where the reels decide your fate! Enemies and items appear based on the spin of the slot. Master luck and strategy to conquer the dungeon!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Slot & Dungeons",
+"pct": 87,
+"price": "$6.29",
+"release": "Jul 27, 2026",
+"total": 275,
+"ts": "2026-07-28T03:58:56.983074+00:00",
+"verdict": "Very Positive"
+},
 "3160880": {
 "desc": "Build and run your own medieval tavern. Cook meals, brew drinks, design every room, hire and manage staff, serve unique guests, handle fights and chaos, and grow from a humble innkeeper into a tavern legend.",
 "descriptors": [],
@@ -766,6 +833,23 @@
 "release": "Jul 17, 2026",
 "total": 135,
 "ts": "2026-07-18T03:52:14.409632+00:00",
+"verdict": "Very Positive"
+},
+"3199870": {
+"desc": "Experience the past and get to know the story of the old diner and its struggling history in this prologue to Road Diner Simulator.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "Road Diner Simulator: Prologue",
+"pct": 83,
+"price": "Free",
+"release": "Jul 27, 2026",
+"total": 65,
+"ts": "2026-07-28T03:58:50.385949+00:00",
 "verdict": "Very Positive"
 },
 "3201830": {
@@ -861,6 +945,22 @@
 "release": "Jul 14, 2026",
 "total": 60,
 "ts": "2026-07-17T07:15:35.026539+00:00",
+"verdict": "Very Positive"
+},
+"3330210": {
+"desc": "Cook or be cooked! In this cosmic deck-building roguelike, ingredients crash, merge, and react in chaotic ways. As the witch chef of Stewpendous Spoons, craft the perfect stew, master strategic combos, and satisfy bizarre patrons, before you end up in the cauldron yourself!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Kinny and the Cosmic Cauldron",
+"pct": 87,
+"price": "$9.74",
+"release": "Jul 27, 2026",
+"total": 90,
+"ts": "2026-07-28T03:58:47.088344+00:00",
 "verdict": "Very Positive"
 },
 "3347200": {
@@ -1750,6 +1850,23 @@
 "ts": "2026-07-24T04:11:59.160944+00:00",
 "verdict": "Very Positive"
 },
+"4278010": {
+"desc": "A narrative AVG focused on everyday mysteries from the lives of elementary school students. The two protagonists encounter ordinary yet unusual incidents at school, and through investigation and deduction, players uncover the truth together with them.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Free To Play"
+],
+"name": "The Grade 5B Case Files",
+"pct": 97,
+"price": "Free",
+"release": "Jul 26, 2026",
+"total": 60,
+"ts": "2026-07-28T03:58:33.716998+00:00",
+"verdict": "Very Positive"
+},
 "4286120": {
 "desc": "A PSX-style horror game where you manage a photo studio. Restock supplies, buy upgrades, photograph customers and print their order whilst encountering unexpected events.",
 "descriptors": [],
@@ -1898,6 +2015,20 @@
 "release": "Jul 14, 2026",
 "total": 60,
 "ts": "2026-07-27T04:34:34.369672+00:00",
+"verdict": "Very Positive"
+},
+"4465600": {
+"desc": "Bowling Alley Simulator lets you build, manage, and grow your own bowling alley. Run the lanes, cook classic food, hire staff, and expand your business into a thriving entertainment destination.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Bowling Alley Simulator",
+"pct": 85,
+"price": "$14.99",
+"release": "Jul 14, 2026",
+"total": 104,
+"ts": "2026-07-28T03:59:00.266551+00:00",
 "verdict": "Very Positive"
 },
 "4468030": {
@@ -2193,6 +2324,23 @@
 "ts": "2026-07-25T04:01:09.496119+00:00",
 "verdict": "Very Positive"
 },
+"4682660": {
+"desc": "You are a serial killer who exclusively targets men. For a fee. To afford nice things. It's legal and you're good at it.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Simulation"
+],
+"name": "Femme Fatality",
+"pct": 91,
+"price": "$7.99",
+"release": "Jul 13, 2026",
+"total": 53,
+"ts": "2026-07-28T03:58:40.462914+00:00",
+"verdict": "Very Positive"
+},
 "4699920": {
 "desc": "\u300aInner Scales 1:Choice\u300bis a first-person FMV. Set in a sealed cage. It pushes survival, humanity, emotion and moral dilemmas to the extreme. You will face surveillance, cages, and the fates of eight trapped women\u2014every choice you make decides life and death for others and yourself.",
 "descriptors": [
@@ -2317,6 +2465,24 @@
 "release": "Jul 16, 2026",
 "total": 60,
 "ts": "2026-07-19T04:20:45.055513+00:00",
+"verdict": "Very Positive"
+},
+"4790520": {
+"desc": "&quot;ELEVATOR: AVICI&quot; is a 1st-person psychological horror with a retro, HK lo-fi aesthetic. Trapped in a decaying apartment elevator, your only link to the outside is a strange voice on the intercom claiming to be a repairman. Will you follow his commands, or find your own escape from the darkness?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "ELEVATOR: AVICI",
+"pct": 90,
+"price": "$1.99",
+"release": "Jul 9, 2026",
+"total": 62,
+"ts": "2026-07-28T03:58:43.791310+00:00",
 "verdict": "Very Positive"
 },
 "4824420": {
