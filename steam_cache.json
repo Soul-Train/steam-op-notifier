@@ -201,6 +201,22 @@
 "ts": "2026-07-24T04:12:12.416726+00:00",
 "verdict": "Very Positive"
 },
+"1892420": {
+"desc": "Skye and her Handy Pals are looking for a new pal to help them out on her lovely lil' garden! Think you're up for the job, partner?",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "The Bunny Graveyard",
+"pct": 95,
+"price": "$6.99",
+"release": "Sep 22, 2023",
+"total": 1529,
+"ts": "2026-07-29T03:59:39.832146+00:00",
+"verdict": "Very Positive"
+},
 "1895460": {
 "desc": "Step into the world of D-topia in this gentle-paced puzzle adventure. In D-topia, life is curated by artificial intelligence to maximize happiness. As the newest Facilitator, it\u2019s up to you to solve puzzles to keep the D-topia residents happy and the facility running.",
 "descriptors": [],
@@ -294,6 +310,22 @@
 "release": "Jul 17, 2026",
 "total": 52,
 "ts": "2026-07-21T04:13:27.596834+00:00",
+"verdict": "Very Positive"
+},
+"2133850": {
+"desc": "Get ready for a new adventure in the world of NATEM! Explore beautiful worlds, solve puzzles with new tools and meet wonderful people in this journey through a digital universe full of secrets in search of someone special.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Broken Reality 2000",
+"pct": 93,
+"price": "$13.49",
+"release": "Jul 27, 2026",
+"total": 81,
+"ts": "2026-07-29T04:01:30.854268+00:00",
 "verdict": "Very Positive"
 },
 "2191280": {
@@ -1967,6 +1999,23 @@
 "ts": "2026-07-25T04:01:33.330816+00:00",
 "verdict": "Very Positive"
 },
+"4358310": {
+"desc": "Coin Tavern is not your average tavern! In this roguelike game, you\u2019ll wield a wild array of quirky coins to build your one-of-a-kind coin deck. Hoard coins, refine strategies, streamline your deck, unlock hidden treasures, and land outrageous combos in randomized runs!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Coin Tavern",
+"pct": 93,
+"price": "$8.49",
+"release": "Jul 23, 2026",
+"total": 59,
+"ts": "2026-07-29T04:01:34.363211+00:00",
+"verdict": "Very Positive"
+},
 "4358380": {
 "desc": "Shape the world to your will in lush landscapes inspired by Chinese watercolors in this Zen hex-tile building game that blends puzzle and roguelite elements with beautiful Asian aesthetics. Befriend mystical creatures in your journey while you make the world come alive beneath your fingertips.",
 "descriptors": [],
@@ -2015,6 +2064,22 @@
 "release": "Jul 14, 2026",
 "total": 60,
 "ts": "2026-07-27T04:34:34.369672+00:00",
+"verdict": "Very Positive"
+},
+"4453300": {
+"desc": "Build up your very own Cafe. Make a variety of Coffees to keep your customers happy. Keep your Coffee shop well-stocked, money flowing, and you will quickly expand and build the Cafe of your dreams.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Cup and Counter: Coffee Shop Simulator",
+"pct": 92,
+"price": "$12.74",
+"release": "Jul 20, 2026",
+"total": 50,
+"ts": "2026-07-29T04:01:37.765981+00:00",
 "verdict": "Very Positive"
 },
 "4465600": {
@@ -2176,6 +2241,25 @@
 "release": "Jul 22, 2026",
 "total": 1449,
 "ts": "2026-07-24T04:12:15.764530+00:00",
+"verdict": "Very Positive"
+},
+"4594150": {
+"desc": "Sir, We Have an Orc Problem is an incremental-style tower defense game where you face an overwhelming number of orcs. Greet them with even more bullets, bombs and lasers!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Sir, We Have an Orc Problem",
+"pct": 89,
+"price": "$8.99",
+"release": "Jul 28, 2026",
+"total": 330,
+"ts": "2026-07-29T04:01:41.215575+00:00",
 "verdict": "Very Positive"
 },
 "4597380": {
