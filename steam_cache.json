@@ -427,6 +427,22 @@
 "ts": "2026-07-22T04:15:38.200009+00:00",
 "verdict": "Very Positive"
 },
+"2467880": {
+"desc": "Fading Echo is a fast-paced elemental action-adventure RPG where creativity fuels combat. Manipulate water, trigger chain reactions, and shift through surreal worlds as One, a young Legend on a mission to save a dying desertscape from the grip of the Paradox corruption.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Fading Echo",
+"pct": 98,
+"price": "$17.99",
+"release": "Jul 21, 2026",
+"total": 86,
+"ts": "2026-07-30T03:54:20.919892+00:00",
+"verdict": "Very Positive"
+},
 "2521170": {
 "desc": "Hello, this is Fael... Listen, this is going to sound strange, but... I think I'm lost in the apartment. Right now... I... I don't know where I am. Can you come and help me?",
 "descriptors": [],
@@ -1113,6 +1129,26 @@
 "ts": "2026-07-14T17:22:11.669614+00:00",
 "verdict": "Very Positive"
 },
+"3432480": {
+"desc": "A grim RPG with card-based combat where nothing stays dead. Lead a party of survivors through a world undone by shattered Laws. Restore them and reshape the rules of the game, but be ready to face the consequences.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Shards of Order",
+"pct": 92,
+"price": "$9.99",
+"release": "Jul 28, 2026",
+"total": 133,
+"ts": "2026-07-30T03:54:40.739508+00:00",
+"verdict": "Very Positive"
+},
 "3440070": {
 "desc": "Dinoblade is an intense action RPG set in a prehistoric world forever changed by a cataclysmic event. Step into the role of a young Spinosaurus, wielding a colossal Great Sword. Confront rival dinosaurs, some armed with weapons of their own, all in a desperate fight to prevent a looming extinction.",
 "descriptors": [
@@ -1624,6 +1660,22 @@
 "ts": "2026-07-15T14:46:33.562714+00:00",
 "verdict": "Very Positive"
 },
+"4009450": {
+"desc": "Petunia's Purgatory is a creepy-cute idle farming game that lives at the bottom of your screen. Grow cursed crops, feed the Elder God, and keep Petunia sane before her hallucinations invade your desktop.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Petunia's Purgatory",
+"pct": 98,
+"price": "$5.59",
+"release": "Jul 16, 2026",
+"total": 65,
+"ts": "2026-07-30T03:54:11.090595+00:00",
+"verdict": "Very Positive"
+},
 "4018550": {
 "desc": "Catch a train to Cat Isle! In this cozy pixel art management game, build restaurants, expand and decorate the town. Figure out your cats needs as they dine, shop, explore and turn the island into their purfect home.",
 "descriptors": [],
@@ -1686,6 +1738,22 @@
 "release": "Jul 9, 2026",
 "total": 69,
 "ts": "2026-07-17T07:15:25.165043+00:00",
+"verdict": "Very Positive"
+},
+"4078110": {
+"desc": "Another sun-filled day begins in this cozy pixel-art adventure. Gather, craft, upgrade, and help the villagers revive the land. Can you rebuild the grand Sunspire and bring the village back to its golden days?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "Suncraft",
+"pct": 93,
+"price": "$5.94",
+"release": "Jul 28, 2026",
+"total": 90,
+"ts": "2026-07-30T03:54:30.876520+00:00",
 "verdict": "Very Positive"
 },
 "4080030": {
@@ -1831,6 +1899,22 @@
 "ts": "2026-07-14T17:22:14.951657+00:00",
 "verdict": "Very Positive"
 },
+"4209160": {
+"desc": "A cozy idle island sim that lives quietly above your taskbar. Five islanders \u2014 a farmer, woodcutter, fisherman, miner, and chef \u2014 farm, fish, mine, cook, and craft on their own. Build a self-sustaining isle while you work or browse.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Idyll Isle",
+"pct": 92,
+"price": "$3.99",
+"release": "Jul 14, 2026",
+"total": 65,
+"ts": "2026-07-30T03:54:47.332005+00:00",
+"verdict": "Very Positive"
+},
 "4210580": {
 "desc": "Ore Factory Squad is a co-op mining and factory-building game with procedural mining and fun at its core! Play alone or with friends, buy properties, dig deep for valuable resources, complete contracts, upgrade and automate production lines and grow your factory from zero to industry!",
 "descriptors": [],
@@ -1929,6 +2013,22 @@
 "release": "Jul 14, 2026",
 "total": 138,
 "ts": "2026-07-15T14:46:43.950335+00:00",
+"verdict": "Very Positive"
+},
+"4302940": {
+"desc": "A relaxing idle market simulator that sits at the corner of your screen while you do other things.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "Corner Market",
+"pct": 93,
+"price": "$3.19",
+"release": "Jul 27, 2026",
+"total": 58,
+"ts": "2026-07-30T03:54:34.152536+00:00",
 "verdict": "Very Positive"
 },
 "4309120": {
@@ -2066,6 +2166,23 @@
 "ts": "2026-07-27T04:34:34.369672+00:00",
 "verdict": "Very Positive"
 },
+"4421010": {
+"desc": "You're broke, smash piggy banks, bills must be paid. A short active incremental game. Get money, upgrade, and get debt free!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Bills Must Be Paid",
+"pct": 97,
+"price": "$4.89",
+"release": "Jul 29, 2026",
+"total": 248,
+"ts": "2026-07-30T03:54:14.360398+00:00",
+"verdict": "Very Positive"
+},
 "4453300": {
 "desc": "Build up your very own Cafe. Make a variety of Coffees to keep your customers happy. Keep your Coffee shop well-stocked, money flowing, and you will quickly expand and build the Cafe of your dreams.",
 "descriptors": [],
@@ -2177,6 +2294,21 @@
 "release": "Jul 15, 2026",
 "total": 58,
 "ts": "2026-07-19T04:21:05.241012+00:00",
+"verdict": "Very Positive"
+},
+"4530240": {
+"desc": "The silent union of two girls begins to dissolve in an abandoned high school. A melancholic and liminal short story played in a single sitting, where the fear of collapse is felt at every moment.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Dissolution of the Silent Union",
+"pct": 97,
+"price": "$2.69",
+"release": "Jul 28, 2026",
+"total": 58,
+"ts": "2026-07-30T03:54:17.638324+00:00",
 "verdict": "Very Positive"
 },
 "4530780": {
@@ -2391,6 +2523,23 @@
 "release": "Jul 20, 2026",
 "total": 53,
 "ts": "2026-07-22T04:15:31.681176+00:00",
+"verdict": "Very Positive"
+},
+"4668220": {
+"desc": "Grow crops, automate production, and manage your own store. Turn fresh harvests into valuable products and create a wide range of goods. Optimize your workflow with efficient production chains and smart business decisions. Expand your facilities and build the fully automated farm-to-market business.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Farm Factory Simulator",
+"pct": 93,
+"price": "$10.39",
+"release": "Jul 16, 2026",
+"total": 60,
+"ts": "2026-07-30T03:54:37.408317+00:00",
 "verdict": "Very Positive"
 },
 "4668890": {
@@ -2620,6 +2769,59 @@
 "release": "Jul 13, 2026",
 "total": 53,
 "ts": "2026-07-21T04:13:34.472245+00:00",
+"verdict": "Very Positive"
+},
+"4852580": {
+"desc": "John is a detective searching for a missing colleague. He finds himself trapped in a mysterious loop where reality constantly changes. Explore eerie environments, interact with clues, and uncover the truth behind the disappearance in this third-person psychological horror experience.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "The Lure",
+"pct": 90,
+"price": "Free",
+"release": "Jul 16, 2026",
+"total": 51,
+"ts": "2026-07-30T03:54:44.040545+00:00",
+"verdict": "Very Positive"
+},
+"4861510": {
+"desc": "A slacker stick figure named Bota moves onto your desktop. An idle app where you sneak peeks between tasks as he idly mutters to himself to match the time of day and the day of the week. He won't get in your way. Sometimes he talks to you. That's the whole app.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "Sill Sticks",
+"pct": 96,
+"price": "Free",
+"release": "Jul 19, 2026",
+"total": 52,
+"ts": "2026-07-30T03:54:27.510842+00:00",
+"verdict": "Very Positive"
+},
+"4869070": {
+"desc": "\u300aDelvegg\u300b is a desktop idle mining game. The core gameplay revolves around digging eggs, collecting pets, and building your underground mining empire.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Delvegg",
+"pct": 97,
+"price": "$5.59",
+"release": "Jul 20, 2026",
+"total": 60,
+"ts": "2026-07-30T03:54:24.210383+00:00",
 "verdict": "Very Positive"
 },
 "4881550": {
