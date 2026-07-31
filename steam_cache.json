@@ -816,6 +816,24 @@
 "ts": "2026-07-17T07:13:16.661595+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2895680": {
+"desc": "You are the lifeline supporting an expedition into the unknown. Keep both yourself and your squad alive by interpreting instrument readings, explore the facilities, and uncover something ancient and eager to be born.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Below, Rusted Gods",
+"pct": 90,
+"price": "$7.19",
+"release": "Jul 29, 2026",
+"total": 98,
+"ts": "2026-07-31T04:20:08.056382+00:00",
+"verdict": "Very Positive"
+},
 "3041280": {
 "desc": "In this short visual novel, four prisoners on death row are cleared of all charges. But the prison has a quota to meet. The four are put in a room and asked to decide among themselves over the course of an hour... who will be the one to die?",
 "descriptors": [],
@@ -1234,6 +1252,26 @@
 "ts": "2026-07-21T04:13:30.915555+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3497800": {
+"desc": "Dungeon Crawler with elements of rogue-like and ARPG games. Kill hordes of enemies, duel mighty bosses, and acquire legendary loot!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Bonehold",
+"pct": 92,
+"price": "$8.99",
+"release": "Jul 28, 2026",
+"total": 61,
+"ts": "2026-07-31T04:20:14.878378+00:00",
+"verdict": "Very Positive"
+},
 "3508910": {
 "desc": "Abyss Kitchen is a survival action game in which you play the role of Lop a cook who accompanies a party of adventurers, and guides them with the power of food. Feed yourself in the dungeon and eat whatever you can to keep from starving and falling down. Eat up anything that stands in your way!",
 "descriptors": [],
@@ -1278,6 +1316,22 @@
 "release": "Jun 17, 2026",
 "total": 421,
 "ts": "2026-07-14T17:22:08.374603+00:00",
+"verdict": "Very Positive"
+},
+"3558600": {
+"desc": "Run a cute little plant shop in this cozy and relaxing game. Grow, sell, and care for a variety of real-life plants, help customers find their dream plants, complete orders, and customize your cozy shop just the way you like!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Leafy Corner",
+"pct": 100,
+"price": "$7.99",
+"release": "Jul 30, 2026",
+"total": 119,
+"ts": "2026-07-31T04:19:54.380937+00:00",
 "verdict": "Very Positive"
 },
 "3561220": {
@@ -1373,6 +1427,21 @@
 "release": "Jul 14, 2026",
 "total": 209,
 "ts": "2026-07-15T14:46:26.684815+00:00",
+"verdict": "Very Positive"
+},
+"3642010": {
+"desc": "Your truck is magic and you now owe a soul debt to the buff isekai elf girl living in your head. Run over pedestrians as Truck-kun in a chaotic OVA-sized campaign, make deliveries, and defeat the Skeleton King across two worlds in this anime driving game with heart!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Racing"
+],
+"name": "Truck-kun is Supporting Me from Another World?!",
+"pct": 87,
+"price": "$15.99",
+"release": "Jul 29, 2026",
+"total": 82,
+"ts": "2026-07-31T04:20:18.281450+00:00",
 "verdict": "Very Positive"
 },
 "3683770": {
@@ -1607,6 +1676,40 @@
 "ts": "2026-07-15T14:46:23.328304+00:00",
 "verdict": "Very Positive"
 },
+"3934270": {
+"desc": "How many dudes does it take to beat up a gorilla? A thousand toddlers? A horse-sized duck? A GOD? Enter the Dude Ranch and find out in this roguelike dudebuilder where you recruit an army of dudes to fight ridiculous battles.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy",
+"Free To Play"
+],
+"name": "How Many Dudes?",
+"pct": 94,
+"price": "$9.74",
+"release": "Jul 30, 2026",
+"total": 282,
+"ts": "2026-07-31T04:20:01.252265+00:00",
+"verdict": "Very Positive"
+},
+"3938640": {
+"desc": "Become a sushi chef in a cozy Japanese conveyor belt sushi bar! \ud83c\udf63 Prepare sushi on your crafting table, serve quirky customers, learn new recipes, unlock fresh ingredients, upgrade your kitchen, and build relationships with your regular customers.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Ugoku Sushi Bar",
+"pct": 89,
+"price": "$9.74",
+"release": "Jul 29, 2026",
+"total": 89,
+"ts": "2026-07-31T04:20:11.500090+00:00",
+"verdict": "Very Positive"
+},
 "3946120": {
 "desc": "Chasing the Dawn is a pixel-art roguelike strategy game. Enter the dungeon, use wit and luck to navigate dangers, and lead your characters deeper. Manage risks with items and runes, gather resources, and rebuild your village. Their fate is shaped by your every click.",
 "descriptors": [],
@@ -1802,6 +1905,24 @@
 "total": 546,
 "ts": "2026-07-18T03:50:07.668671+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4108000": {
+"desc": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Machine Party",
+"pct": 89,
+"price": "$6.79",
+"release": "Jul 30, 2026",
+"total": 440,
+"ts": "2026-07-31T04:20:04.615968+00:00",
+"verdict": "Very Positive"
 },
 "4112070": {
 "desc": "As highly qualified goose parents, work together to bring your little egg home safely. Every crack makes it harder to control, every mistake more hilarious. A co-op physics game for 2 or 4 players about teamwork, clumsiness and honking. HONK!",
@@ -2029,6 +2150,26 @@
 "release": "Jul 21, 2026",
 "total": 152,
 "ts": "2026-07-22T04:15:21.868522+00:00",
+"verdict": "Very Positive"
+},
+"4293110": {
+"desc": "Silan: Monster Girl Master is a soulslike-inspired monster girl capture RPG developed solo over 2 years. Experience Rance X-inspired combat, capture and train 60+ monster girls with unique skills and attributes, and explore forests, deserts, snowy mountains, volcanoes, and more.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Silan: Monster Girl Master!",
+"pct": 97,
+"price": "$8.99",
+"release": "Jul 16, 2026",
+"total": 60,
+"ts": "2026-07-31T04:19:57.834100+00:00",
 "verdict": "Very Positive"
 },
 "4297840": {
@@ -2441,6 +2582,22 @@
 "release": "Jul 21, 2026",
 "total": 62,
 "ts": "2026-07-24T04:11:39.079909+00:00",
+"verdict": "Very Positive"
+},
+"4599710": {
+"desc": "Idly gather and manage resources to repair what's left of a decaying world. Scavenge forgotten ruins, meet scattered survivors, and push back against the inevitable collapse. IDLE_DIRECTIVE is a grid-based inventory and resource management idle game.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "IDLE_DIRECTIVE",
+"pct": 87,
+"price": "$4.49",
+"release": "Jul 28, 2026",
+"total": 83,
+"ts": "2026-07-31T04:20:21.675170+00:00",
 "verdict": "Very Positive"
 },
 "4605210": {
