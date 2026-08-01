@@ -66,6 +66,21 @@
 "ts": "2026-07-16T17:59:54.580187+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1368140": {
+"desc": "Build a sprawling pirate haven, raise a fleet to explore the high seas, and take on the Crown to keep the Age of Piracy alive! From ale to flintlock pistols, and from scallywags to swashbucklers, you\u2019ll need to manage complex production chains and govern a rowdy crew to reign supreme over the seas!",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "Corsair Cove",
+"pct": 90,
+"price": "$29.99",
+"release": "Jul 31, 2026",
+"total": 230,
+"ts": "2026-08-01T04:19:35.541584+00:00",
+"verdict": "Very Positive"
+},
 "1444080": {
 "desc": "Gun-jump your way through a buzzing world full of quirky monsters, tricky puzzles, and outlandish bosses in this fast-paced, lighthearted Metroidvania.",
 "descriptors": [],
@@ -151,6 +166,25 @@
 "ts": "2026-07-17T07:15:05.242289+00:00",
 "verdict": "Very Positive"
 },
+"1696950": {
+"desc": "&quot;Scottside&quot; is a non-linear visual novel in the thriller genre. A small provincial town may seem quite dull. However, everything changes when you find a strange object in the forest.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Early Access"
+],
+"name": "Scottside",
+"pct": 95,
+"price": "$3.99",
+"release": "Jul 29, 2026",
+"total": 61,
+"ts": "2026-08-01T04:19:28.878462+00:00",
+"verdict": "Very Positive"
+},
 "1699710": {
 "desc": "Stranded on a desolate island with Earth's remaining researchers, you investigate a strange celestial body. The day before departure, your only means of transportation gets mysteriously damaged, leaving you stranded. Is someone sabotaging the team, or is there something more sinister going on\u2026",
 "descriptors": [],
@@ -184,6 +218,24 @@
 "total": 541,
 "ts": "2026-07-25T03:59:08.883325+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"1714510": {
+"desc": "Kusan: City of Wolves is a high-octane hardcore top-down shooter where players fight through a brutal urban jungle ruled by gunfire and corruption to save Haru \u2014 a girl fitted with a city-grade atomic weapon.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Kusan: City of Wolves",
+"pct": 96,
+"price": "$11.99",
+"release": "Jul 30, 2026",
+"total": 75,
+"ts": "2026-08-01T04:19:25.502293+00:00",
+"verdict": "Very Positive"
 },
 "1729740": {
 "desc": "Luto is a psychological horror experience where you take on the role of someone unable to leave their home. Every attempt to escape will lead you deeper into the unknown, where nothing is as it seems and everything will test your senses.",
@@ -427,6 +479,23 @@
 "release": "Jul 16, 2026",
 "total": 1493,
 "ts": "2026-07-16T10:53:37.220125+00:00",
+"verdict": "Very Positive"
+},
+"2436940": {
+"desc": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep your village safe.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Sephiria",
+"pct": 94,
+"price": "$8.99",
+"release": "Jul 31, 2026",
+"total": 6395,
+"ts": "2026-08-01T04:19:18.817015+00:00",
 "verdict": "Very Positive"
 },
 "2445980": {
@@ -1029,6 +1098,21 @@
 "ts": "2026-07-22T04:15:25.115471+00:00",
 "verdict": "Very Positive"
 },
+"3282420": {
+"desc": "Build the ultimate Zoo in this number-go-up roguelike deckbuilder. Find powerful mythical animals, boost them with snacks, and even manipulate the board itself. Break the game by scoring millions (and more) with insane combos.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Zoominoes",
+"pct": 99,
+"price": "$12.74",
+"release": "Jul 30, 2026",
+"total": 82,
+"ts": "2026-08-01T04:19:15.489681+00:00",
+"verdict": "Very Positive"
+},
 "3312130": {
 "desc": "A Town Builder + Factory Sim where you fully automate a tropical village and feed a giant volcano. Use conveyor belts, trains, boats, zip lines, pipes, water wheels and more to produce massive amounts of items and keep everyone happy!",
 "descriptors": [],
@@ -1093,6 +1177,23 @@
 "release": "Jul 23, 2026",
 "total": 60,
 "ts": "2026-07-27T04:34:27.870930+00:00",
+"verdict": "Very Positive"
+},
+"3364150": {
+"desc": "Whack-A-Monster. An incremental game about Whacking, Smashing, Splashing &amp; BONKING monsters. Upgrade through the skill tree and unlock new weapons to vanquish all evil from this world.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Whack-A-Monster",
+"pct": 93,
+"price": "$6.29",
+"release": "Jul 28, 2026",
+"total": 61,
+"ts": "2026-08-01T04:19:32.232898+00:00",
 "verdict": "Very Positive"
 },
 "3371260": {
@@ -1400,6 +1501,22 @@
 "ts": "2026-07-15T14:46:30.097960+00:00",
 "verdict": "Very Positive"
 },
+"3635130": {
+"desc": "Build your intuition for four-dimensional space, starting with walking and jumping. Master a wide variety of interactions and solve challenging 4D Sokoban-style puzzles.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "4D Intuition",
+"pct": 100,
+"price": "$14.99",
+"release": "Jul 15, 2026",
+"total": 56,
+"ts": "2026-08-01T04:19:11.972892+00:00",
+"verdict": "Very Positive"
+},
 "3640430": {
 "desc": "Resettle the shards of a shattered world in this peaceful roguelite deckbuilder, covering centuries of classical Japanese art. Nurture communities, befriend animal spirits, and shape a new civilization through choices that echo across generations.",
 "descriptors": [],
@@ -1630,6 +1747,23 @@
 "ts": "2026-07-14T17:21:58.280561+00:00",
 "verdict": "Very Positive"
 },
+"3908250": {
+"desc": "Enter the epic 'Creation of the Gods' saga. Experience this classic pixel JRPG with deep worldbuilding and vibrant art. Command mythical combat mounts, wield legendary artifacts, and master tactical turn-based battles. In a world where divine fate clashes with human will, only one can prevail.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "CREATION OF THE GODS: Rebellion at Five Passes",
+"pct": 88,
+"price": "$12.74",
+"release": "Jul 29, 2026",
+"total": 80,
+"ts": "2026-08-01T04:19:38.890428+00:00",
+"verdict": "Very Positive"
+},
 "3914860": {
 "desc": "Moss: The Forgotten Relic is an emotional and atmospheric adventure set in the pages of a living storybook, brimming with myth and ancient magic. Guide a tiny but determined hero on a heartfelt journey of challenge, courage, and connection.",
 "descriptors": [],
@@ -1674,6 +1808,23 @@
 "release": "Jun 25, 2026",
 "total": 175,
 "ts": "2026-07-15T14:46:23.328304+00:00",
+"verdict": "Very Positive"
+},
+"3928980": {
+"desc": "On the fantastical continent of Elfar, where swords and magic reign, you will establish and grow your own guild, leading members to accept quests, challenge dungeons, forge equipment, participate in competitions, and gradually uncover the secrets of the nine sacred sites",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Wonderland",
+"pct": 97,
+"price": "$7.19",
+"release": "Jul 30, 2026",
+"total": 113,
+"ts": "2026-08-01T04:19:22.157144+00:00",
 "verdict": "Very Positive"
 },
 "3934270": {
@@ -2118,6 +2269,20 @@
 "release": "Jul 22, 2026",
 "total": 117,
 "ts": "2026-07-24T04:11:59.160944+00:00",
+"verdict": "Very Positive"
+},
+"4252700": {
+"desc": "Archon Soul is a 2D roguelike dice-builder where you create powerful dice using swappable faces, runes, and bodies with unique effects. \u200bDraft spells, craft powerful synergies, defeat challenging enemies, and conquer the Archon's palace.",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Archon Soul",
+"pct": 88,
+"price": "$9.79",
+"release": "Jul 29, 2026",
+"total": 72,
+"ts": "2026-08-01T04:19:45.674645+00:00",
 "verdict": "Very Positive"
 },
 "4278010": {
@@ -2762,6 +2927,26 @@
 "release": "Jul 13, 2026",
 "total": 53,
 "ts": "2026-07-28T03:58:40.462914+00:00",
+"verdict": "Very Positive"
+},
+"4689420": {
+"desc": "\u300eShe Is Always Right Beside You\u300f The fate of one summer \u2014 a boy beloved by the eight-feet-tall Hachishakusama, the urban legend. A heartwarming yet terrifying Japanese horror game.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Hachishakusama | \u516b\u5c3a\u69d8\u304c\u3044\u305f\u590f\u4f11\u307f",
+"pct": 86,
+"price": "$5.95",
+"release": "Jul 29, 2026",
+"total": 80,
+"ts": "2026-08-01T04:19:42.308977+00:00",
 "verdict": "Very Positive"
 },
 "4699920": {
