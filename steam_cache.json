@@ -968,6 +968,38 @@
 "ts": "2026-08-02T04:22:43.969910+00:00",
 "verdict": "Very Positive"
 },
+"2984850": {
+"desc": "Rita is a cozy adventure where a little chicklet solves word-based puzzles to transform the world around her. Follow her story across generations, meet her grandchicklet, and be a part of her legacy.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Rita",
+"pct": 97,
+"price": "$13.49",
+"release": "Jul 30, 2026",
+"total": 68,
+"ts": "2026-08-03T04:27:27.232754+00:00",
+"verdict": "Very Positive"
+},
+"2999060": {
+"desc": "Become a parliamentarian, create a powerful party, and lead it to victory in this humorous adventure game. Manage your popularity and dignity, use unique powers, and navigate a storyline inspired by current events.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Simulation",
+"Strategy"
+],
+"name": "Politics The Game",
+"pct": 95,
+"price": "$9.99",
+"release": "Oct 22, 2025",
+"total": 2520,
+"ts": "2026-08-03T04:25:33.360421+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3041280": {
 "desc": "In this short visual novel, four prisoners on death row are cleared of all charges. But the prison has a quota to meet. The four are put in a room and asked to decide among themselves over the course of an hour... who will be the one to die?",
 "descriptors": [],
@@ -2453,6 +2485,22 @@
 "ts": "2026-07-31T04:19:57.834100+00:00",
 "verdict": "Very Positive"
 },
+"4295960": {
+"desc": "One day, a student in your class blurts out, &quot;I want to make manga!&quot; As her homeroom teacher, you decide to create a club with her and carefully guide Saeki-san in achieving her dream.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Manga Club Advisor wants to support Saeki Sasara",
+"pct": 92,
+"price": "$10.79",
+"release": "Jul 31, 2026",
+"total": 80,
+"ts": "2026-08-03T04:27:30.721788+00:00",
+"verdict": "Very Positive"
+},
 "4297840": {
 "desc": "Mine. Smelt. Upgrade. Repeat. Rock Bottom is an incremental mining game where every swing makes you stronger. Descend through 8 unique layers, unlock devastating abilities, and discover what lies at Rock Bottom",
 "descriptors": [],
@@ -2962,6 +3010,20 @@
 "ts": "2026-07-18T03:52:11.123278+00:00",
 "verdict": "Very Positive"
 },
+"4632530": {
+"desc": "Dog of Wisdom is a 2D action platformer where you play as Pepper the dachshund. Fly around barking at nothing and sample the galaxy's best foods, all while attaining the knowledge to be good. Get the foods and the wisdom and the hat and the galaxy.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Dog of Wisdom",
+"pct": 86,
+"price": "$2.99",
+"release": "Jul 28, 2026",
+"total": 56,
+"ts": "2026-08-03T04:27:34.142093+00:00",
+"verdict": "Very Positive"
+},
 "4634560": {
 "desc": "Clean carpets, earn money, and grow stronger in this incremental cleaning game. Scrub, rinse, and squeegee your way to profit\u2014before time resets and you start again.",
 "descriptors": [],
@@ -3314,6 +3376,24 @@
 "release": "Jul 19, 2026",
 "total": 52,
 "ts": "2026-07-30T03:54:27.510842+00:00",
+"verdict": "Very Positive"
+},
+"4864080": {
+"desc": "SSTWL - Sector Breach is a sit and survive, point-and-click survival-horror game about the characters and world created by Liam Vickers.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"Strategy",
+"Free To Play"
+],
+"name": "SSTWL - Sector Breach",
+"pct": 98,
+"price": "Free",
+"release": "Jul 25, 2026",
+"total": 51,
+"ts": "2026-08-03T04:27:23.882984+00:00",
 "verdict": "Very Positive"
 },
 "4869070": {
