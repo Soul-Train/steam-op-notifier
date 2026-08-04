@@ -783,6 +783,26 @@
 "ts": "2026-07-27T04:34:37.604058+00:00",
 "verdict": "Very Positive"
 },
+"2726490": {
+"desc": "You come home for an annual family reunion, only to find your family missing with an eerie note left by your father. After you discover what has happened you SEEK REVENGE!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Hamster Hunter",
+"pct": 95,
+"price": "$4.99",
+"release": "Dec 31, 2023",
+"total": 3455,
+"ts": "2026-08-04T04:00:12.884098+00:00",
+"verdict": "Very Positive"
+},
 "2738490": {
 "desc": "Sol Cesto is a tactical and frantic roguelite where mastering your luck is key. Choose a hero, upgrade them using cursed teeth and magical items, and descend to the bottom of an ever-changing dungeon. In this dark world, every action has consequences\u2026",
 "descriptors": [],
@@ -1102,6 +1122,26 @@
 "ts": "2026-07-23T04:13:29.023946+00:00",
 "verdict": "Very Positive"
 },
+"3156330": {
+"desc": "In this presidential rogue-like action game, gather votes and run for presidency by day, then transform into a warrior to take down your enemies by night! Master unique skills to become a swordmaster, a cyber mage, or anything in between, and overthrow the ruthless president!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Anomaly President",
+"pct": 98,
+"price": "$11.99",
+"release": "Aug 3, 2026",
+"total": 447,
+"ts": "2026-08-04T04:02:18.366790+00:00",
+"verdict": "Very Positive"
+},
 "3160090": {
 "desc": "A deck-building roguelite where the reels decide your fate! Enemies and items appear based on the spin of the slot. Master luck and strategy to conquer the dungeon!",
 "descriptors": [],
@@ -1277,6 +1317,23 @@
 "release": "Jul 27, 2026",
 "total": 90,
 "ts": "2026-07-28T03:58:47.088344+00:00",
+"verdict": "Very Positive"
+},
+"3331000": {
+"desc": "Neon lights, palm trees, synthwave, '80s supercars speeding down an endless highway... Welcome to the world of Retrowave!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Racing"
+],
+"name": "Retrowave 2",
+"pct": 88,
+"price": "$3.74",
+"release": "Aug 3, 2026",
+"total": 429,
+"ts": "2026-08-04T04:02:24.918714+00:00",
 "verdict": "Very Positive"
 },
 "3347200": {
@@ -2383,6 +2440,21 @@
 "ts": "2026-07-17T07:15:28.462470+00:00",
 "verdict": "Very Positive"
 },
+"4216280": {
+"desc": "When the Dwarves of Dverghold awakened something ancient beneath the isle of Rekestt, King Sterren sent word across the Shattered Sea: brave the haunted depths, or let the darkness rise. Oldschool dungeon crawler with turn-based combat and atmospheric soundtrack by Dungeon Synth artist Splendorius.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Early Access"
+],
+"name": "Dverghold",
+"pct": 100,
+"price": "$14.44",
+"release": "Jul 29, 2026",
+"total": 53,
+"ts": "2026-08-04T04:02:14.869747+00:00",
+"verdict": "Very Positive"
+},
 "4220820": {
 "desc": "The world's only fully-loaded conspiracy theorist gun-nut dating simulation. As the prepper, take the mysterious pill Caliber\u2122 to awaken an arsenal of alluring companions and fight against the dark forces determined to tear you apart!",
 "descriptors": [
@@ -3233,6 +3305,21 @@
 "ts": "2026-07-24T04:12:02.432708+00:00",
 "verdict": "Very Positive"
 },
+"4774170": {
+"desc": "Aerolicious is a short and relaxing brick-breaking game about clearing a big chunk of 3,757 blocks.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Aerolicious",
+"pct": 92,
+"price": "$4.99",
+"release": "Jul 19, 2026",
+"total": 50,
+"ts": "2026-08-04T04:02:21.637282+00:00",
+"verdict": "Very Positive"
+},
 "4775410": {
 "desc": "Big E\u2019s back in action! Working the farm over Summer is never easy - but everyone knows you\u2019re the best. Do your utmost to keep the product moving, the customers happy and the law at bay, and everything\u2019ll turn out great!",
 "descriptors": [
@@ -3303,6 +3390,21 @@
 "release": "Jul 21, 2026",
 "total": 59,
 "ts": "2026-07-25T04:01:16.157012+00:00",
+"verdict": "Very Positive"
+},
+"4834070": {
+"desc": "How much can you collect before the ship goes under? How will you use what you have? Act fast and make constant choices to escape the sea or become its next victim.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Don't Sleep With The Fishes",
+"pct": 95,
+"price": "$1.99",
+"release": "Jun 26, 2026",
+"total": 623,
+"ts": "2026-08-04T04:00:16.117489+00:00",
 "verdict": "Very Positive"
 },
 "4835250": {
@@ -3514,5 +3616,20 @@
 "total": 71,
 "ts": "2026-07-27T04:34:40.896319+00:00",
 "verdict": "Very Positive"
+},
+"940140": {
+"desc": "As a threat from beyond looms over the solar system, take control of the AETHER prototype in this rhythmic and tactical space shooter - fusing classic arcade-style action with stunning 3D environments and an engaging sci-fi story.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Project AETHER: First Contact",
+"pct": 93,
+"price": "$12.99",
+"release": "Feb 24, 2020",
+"total": 29,
+"ts": "2026-08-04T04:00:51.507877+00:00",
+"verdict": "Positive"
 }
 }
