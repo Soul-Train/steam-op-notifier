@@ -97,6 +97,20 @@
 "ts": "2026-07-28T03:58:53.684651+00:00",
 "verdict": "Very Positive"
 },
+"1478500": {
+"desc": "Hang out and get lost with close friends in a big world. A cooperative online walker-talker from the creators of Untitled Goose Game.",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Big Walk",
+"pct": 86,
+"price": "$14.99",
+"release": "Aug 4, 2026",
+"total": 1439,
+"ts": "2026-08-05T03:57:10.140515+00:00",
+"verdict": "Very Positive"
+},
 "1553260": {
 "desc": "An embroidered dark medieval folk tale. While life in a seemingly ordinary village is all about simple chores and idle gossip, sinister secrets hide below.",
 "descriptors": [
@@ -254,6 +268,21 @@
 "total": 1295,
 "ts": "2026-07-16T17:59:44.293449+00:00",
 "verdict": "Very Positive"
+},
+"1812370": {
+"desc": "Venture into the woods as you play Little Goody Two Shoes, a phantasmagorical horror narrative adventure where all your decisions matter!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG"
+],
+"name": "Little Goody Two Shoes",
+"pct": 95,
+"price": "$19.99",
+"release": "Nov 7, 2023",
+"total": 2494,
+"ts": "2026-08-05T03:55:09.116090+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "1845250": {
 "desc": "In this dark fantasy boss rush, use Ruby's crimson eyes to expose the weak points of the Bloodstained monsters, then strike and shatter them. Carve a road home through the ruined Scarlet Kingdom and face the Witch who took it all.",
@@ -970,6 +999,23 @@
 "release": "Jul 29, 2026",
 "total": 98,
 "ts": "2026-07-31T04:20:08.056382+00:00",
+"verdict": "Very Positive"
+},
+"2939790": {
+"desc": "Lunarium is an atmospheric fantasy A-RPG. Play as Ave, a light-armored knight, who teams up with Lune, a mysterious Starfarer. Together, they journey to save a dying world, engaging in challenging battles to retrieve the lost glow of the stars and forsaken memories, unveiling cosmic secrets.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Lunarium",
+"pct": 87,
+"price": "$17.99",
+"release": "Jul 28, 2026",
+"total": 313,
+"ts": "2026-08-05T03:57:13.523912+00:00",
 "verdict": "Very Positive"
 },
 "2980270": {
@@ -2262,6 +2308,22 @@
 "ts": "2026-07-18T03:50:07.668671+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4098230": {
+"desc": "Flats Full of Cats is a cozy hidden object game where you explore adorable apartments packed with feline friends!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Flats Full of Cats",
+"pct": 96,
+"price": "Free",
+"release": "Aug 3, 2026",
+"total": 69,
+"ts": "2026-08-05T03:57:03.525111+00:00",
+"verdict": "Very Positive"
+},
 "4108000": {
 "desc": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
 "descriptors": [
@@ -2919,6 +2981,21 @@
 "ts": "2026-07-21T04:13:37.746105+00:00",
 "verdict": "Very Positive"
 },
+"4547970": {
+"desc": "The only game in the world that's more anticipated than GTA VI. Pih 2 is a one-hit-kill comedy FPS. Fight various types of enemy pihs and bosses in increasingly ridiculous situations, dodge instant death and try not to rage when everything goes wrong.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Pih 2",
+"pct": 94,
+"price": "$7.99",
+"release": "Aug 4, 2026",
+"total": 117,
+"ts": "2026-08-05T03:57:00.224963+00:00",
+"verdict": "Very Positive"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -2965,6 +3042,20 @@
 "release": "Jul 22, 2026",
 "total": 1449,
 "ts": "2026-07-24T04:12:15.764530+00:00",
+"verdict": "Very Positive"
+},
+"4572790": {
+"desc": "The original version of the hit puzzle game with over 13 million downloads worldwide!",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Suika Game",
+"pct": 87,
+"price": "$2.99",
+"release": "Jul 26, 2026",
+"total": 54,
+"ts": "2026-08-05T03:57:06.813705+00:00",
 "verdict": "Very Positive"
 },
 "4594150": {
@@ -3529,6 +3620,22 @@
 "release": "Jul 10, 2026",
 "total": 68,
 "ts": "2026-07-16T10:53:40.530004+00:00",
+"verdict": "Very Positive"
+},
+"4914570": {
+"desc": "ON&amp;OFF is a turn-based strategy game where you manipulate pieces on a grid to trigger explosive chain reactions. Toggle pieces ON to attack, defend, and heal. Read the enemy's telegraphed intents, unleash powerful skills, and master the board to survive!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy",
+"Free To Play"
+],
+"name": "ON&OFF",
+"pct": 98,
+"price": "Free",
+"release": "Jul 31, 2026",
+"total": 52,
+"ts": "2026-08-05T03:56:56.807574+00:00",
 "verdict": "Very Positive"
 },
 "4914600": {
