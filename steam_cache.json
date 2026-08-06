@@ -29,6 +29,22 @@
 "ts": "2026-07-23T15:03:31.422078+00:00",
 "verdict": "Very Positive"
 },
+"1269640": {
+"desc": "Beacon Pines is a cute and creepy adventure set within a mysterious book. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Beacon Pines",
+"pct": 98,
+"price": "$19.99",
+"release": "Sep 22, 2022",
+"total": 4443,
+"ts": "2026-08-06T15:08:09.644420+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1272160": {
 "desc": "A narrative-driven hardcore RPG set in a gritty world ruled by real but unrelenting gods. Set out on a challenging lifetime journey, where every choice has a price and entails consequences. Will you become an inquisitor, a judge, or conspire against the old order? Dare to decide!",
 "descriptors": [
@@ -3877,6 +3893,22 @@
 "total": 3717,
 "ts": "2026-07-19T04:18:50.151279+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"865360": {
+"desc": "As we explore these frozen wastes, misfortune strikes once again. Through the fierce blizzard, a flare lights the sky, followed by a cry for help over the radio - broken, dying... No one else can come to their rescue. Can we make it back - together?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "We Were Here Together",
+"pct": 82,
+"price": "$12.99",
+"release": "Oct 10, 2019",
+"total": 17619,
+"ts": "2026-08-06T15:08:14.920817+00:00",
+"verdict": "Very Positive"
 },
 "896250": {
 "desc": "Enter the war-torn world of Ve\u00e1, where sci-fi and fantasy collide in Liquidation, an immersive RTS. Lead your armies and harness powerful abilities in a high-stakes battle for Quenrium, the mysterious substance that holds Ve\u00e1\u2019s fate.",
