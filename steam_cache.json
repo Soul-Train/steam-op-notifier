@@ -81,6 +81,22 @@
 "ts": "2026-08-01T04:19:35.541584+00:00",
 "verdict": "Very Positive"
 },
+"1442520": {
+"desc": "Akatori is an epic metroidvania where you wield your staff to fight, jump, and explore diverse realms across different eras. Explore worlds spanning different eras, battle formidable enemies, and help Mako stop the Amber Storms that poison all living things.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Akatori",
+"pct": 94,
+"price": "$12.74",
+"release": "Aug 5, 2026",
+"total": 64,
+"ts": "2026-08-06T04:02:02.909347+00:00",
+"verdict": "Very Positive"
+},
 "1444080": {
 "desc": "Gun-jump your way through a buzzing world full of quirky monsters, tricky puzzles, and outlandish bosses in this fast-paced, lighthearted Metroidvania.",
 "descriptors": [],
@@ -1332,6 +1348,20 @@
 "ts": "2026-08-01T04:19:15.489681+00:00",
 "verdict": "Very Positive"
 },
+"3287230": {
+"desc": "Explore a world without your eyes and ears to guide you. Uncover the secrets this world has to offer, hoard all the items you can find or get lost trying.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Helen Keller Simulator",
+"pct": 99,
+"price": "$2.24",
+"release": "Jul 31, 2026",
+"total": 70,
+"ts": "2026-08-06T04:01:49.916790+00:00",
+"verdict": "Very Positive"
+},
 "3312130": {
 "desc": "A Town Builder + Factory Sim where you fully automate a tropical village and feed a giant volcano. Use conveyor belts, trains, boats, zip lines, pipes, water wheels and more to produce massive amounts of items and keep everyone happy!",
 "descriptors": [],
@@ -1347,6 +1377,20 @@
 "release": "Jul 14, 2026",
 "total": 60,
 "ts": "2026-07-17T07:15:35.026539+00:00",
+"verdict": "Very Positive"
+},
+"3323490": {
+"desc": "Take down hordes of alien invaders with your Power Shot, Truxton Beam, Thunder Laser, Homing Shot, Star\u2011mine Shot, and more! Don't forget to breathe as you face off against gigantic bosses in the ultimate battle for humanity\u2019s survival!",
+"descriptors": [],
+"genres": [
+"Action"
+],
+"name": "Truxton Extreme",
+"pct": 95,
+"price": "$24.99",
+"release": "Jul 30, 2026",
+"total": 60,
+"ts": "2026-08-06T04:01:59.658788+00:00",
 "verdict": "Very Positive"
 },
 "3330210": {
@@ -1797,6 +1841,23 @@
 "ts": "2026-07-31T04:20:18.281450+00:00",
 "verdict": "Very Positive"
 },
+"3659090": {
+"desc": "Stick with the same color, bounce off the rest! Snatch the soap, sabotage your friends! Adorable jelly critters are here for chaotic, hilarious showdowns! Supports 4-player local and up to 6-player online battles, plus a map editor so you can jump into laugh-out-loud matches anytime!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Jelly Bubble",
+"pct": 100,
+"price": "$6.99",
+"release": "Aug 4, 2026",
+"total": 106,
+"ts": "2026-08-06T04:01:46.656595+00:00",
+"verdict": "Very Positive"
+},
 "3683770": {
 "desc": "You\u2019re reborn\u2014back at the beginning of your startup journey. In your last life, poor management led to your shop being crushed by competitors. This time, the sweet scent of condensed milk runs through your veins, and you\u2019re set on one goal: turn \u201cSugarville\u201d into the top name in the industry.",
 "descriptors": [],
@@ -1928,6 +1989,20 @@
 "release": "Jul 16, 2026",
 "total": 283,
 "ts": "2026-07-17T07:15:11.914961+00:00",
+"verdict": "Very Positive"
+},
+"3815550": {
+"desc": "A faithful digital adaptation of the acclaimed board game Space Empires 4X by GMT Games, beloved by wargamers for almost two decades. Command the rise of your civilization and the fall of others, all in one to two hours.",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Space Imperia 4X",
+"pct": 91,
+"price": "$22.99",
+"release": "Jul 28, 2026",
+"total": 53,
+"ts": "2026-08-06T04:02:12.818876+00:00",
 "verdict": "Very Positive"
 },
 "3837350": {
@@ -2196,6 +2271,22 @@
 "release": "Jun 25, 2026",
 "total": 98,
 "ts": "2026-07-15T14:46:33.562714+00:00",
+"verdict": "Very Positive"
+},
+"3997240": {
+"desc": "A militaria collecting simulator where you hunt for items through metal detecting, auctions, and markets to build your collection and customize your home. Travel to various locations to uncover the relics of different conflicts throughout history.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Osta",
+"pct": 86,
+"price": "$13.99",
+"release": "Jul 29, 2026",
+"total": 242,
+"ts": "2026-08-06T04:02:19.416864+00:00",
 "verdict": "Very Positive"
 },
 "4009450": {
@@ -2720,6 +2811,22 @@
 "ts": "2026-07-14T17:22:01.768119+00:00",
 "verdict": "Very Positive"
 },
+"4333200": {
+"desc": "Lost &amp; Found is a standalone, short story game taking place aboard a 1960s transatlantic ship. Play as Sophie Roy in her new job as a stewardess, and help solve a curious series of thefts in this narrative-driven mystery set after the events of This Bed We Made.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "Lost & Found: A This Bed We Made Story",
+"pct": 90,
+"price": "$5.94",
+"release": "Aug 5, 2026",
+"total": 71,
+"ts": "2026-08-06T04:02:16.091866+00:00",
+"verdict": "Very Positive"
+},
 "4337440": {
 "desc": "A story-driven productivity adventure where you work alongside Memorie, an apprentice witch from another world. As you focus using the Pomodoro timer, the story progresses and her world gradually transforms. Turn solitary work into time shared with someone.",
 "descriptors": [],
@@ -2734,6 +2841,23 @@
 "release": "Jul 22, 2026",
 "total": 73,
 "ts": "2026-07-25T04:01:33.330816+00:00",
+"verdict": "Very Positive"
+},
+"4342570": {
+"desc": "A Romanian folk horror about a simple farmer, a wealthy neighbor, and a hunger for money that leads to an unforgivable sin.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie"
+],
+"name": "Gospodar's Tales",
+"pct": 94,
+"price": "$5.09",
+"release": "Jul 31, 2026",
+"total": 62,
+"ts": "2026-08-06T04:02:09.412572+00:00",
 "verdict": "Very Positive"
 },
 "4358310": {
@@ -3238,6 +3362,20 @@
 "ts": "2026-07-22T04:15:31.681176+00:00",
 "verdict": "Very Positive"
 },
+"4666090": {
+"desc": "A small, cyberpunk diorama-building game where you create cozy rain-soaked backstreets, glowing apartment blocks, or quiet neighbourhood corners. Decorate your designs with props and place citizens, crafting stories that bring your city to life. At your own pace. No goals. Just vibes.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Midnight Moments",
+"pct": 98,
+"price": "$2.69",
+"release": "Jul 30, 2026",
+"total": 57,
+"ts": "2026-08-06T04:01:53.156338+00:00",
+"verdict": "Very Positive"
+},
 "4668220": {
 "desc": "Grow crops, automate production, and manage your own store. Turn fresh harvests into valuable products and create a wide range of goods. Optimize your workflow with efficient production chains and smart business decisions. Expand your facilities and build the fully automated farm-to-market business.",
 "descriptors": [],
@@ -3671,6 +3809,22 @@
 "ts": "2026-08-02T04:22:23.968565+00:00",
 "verdict": "Very Positive"
 },
+"4918760": {
+"desc": "An infuriating platformer themed around Monty Python and the Holy Grail starring Pipkin Pippa in her search for the holy grail. Climb through 5 levels to reach the end, be careful not to fall and lose all your progress!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Free To Play"
+],
+"name": "Pippa of Caerbannog",
+"pct": 96,
+"price": "Free",
+"release": "Aug 4, 2026",
+"total": 54,
+"ts": "2026-08-06T04:01:56.378992+00:00",
+"verdict": "Very Positive"
+},
 "606150": {
 "desc": "Moonlighter is an Action RPG with rogue-lite elements that demonstrates two sides of the coin \u2013 revealing everyday routines of Will, an adventurous shopkeeper that secretly dreams of becoming a hero.",
 "descriptors": [],
@@ -3723,6 +3877,23 @@
 "total": 3717,
 "ts": "2026-07-19T04:18:50.151279+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"896250": {
+"desc": "Enter the war-torn world of Ve\u00e1, where sci-fi and fantasy collide in Liquidation, an immersive RTS. Lead your armies and harness powerful abilities in a high-stakes battle for Quenrium, the mysterious substance that holds Ve\u00e1\u2019s fate.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy",
+"Early Access"
+],
+"name": "Liquidation",
+"pct": 94,
+"price": "$19.79",
+"release": "Aug 4, 2026",
+"total": 70,
+"ts": "2026-08-06T04:02:06.128568+00:00",
+"verdict": "Very Positive"
 },
 "931060": {
 "desc": "Wake up inside the nightmare world you created in this standalone, hand-drawn dark fantasy point-and-click adventure with psychological horror elements. Explore islands, solve puzzles, and make morally ambiguous choices that lead to multiple endings. Inspired by H.R. Giger and Zdzis\u0142aw Beksi\u0144ski.",
