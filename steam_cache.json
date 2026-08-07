@@ -443,6 +443,22 @@
 "ts": "2026-07-21T04:13:27.596834+00:00",
 "verdict": "Very Positive"
 },
+"212630": {
+"desc": "In Ghost Recon Future Soldier join an elite team of highly trained, cut-throat special-ops soldiers. Armed to the teeth with unrivalled combat technology, Ghost Recon takes you to the globe\u2019s most deadly warzones to hunt down the highest value targets.",
+"descriptors": [
+5
+],
+"genres": [
+"Action"
+],
+"name": "Tom Clancy's Ghost Recon: Future Soldier\u2122",
+"pct": 71,
+"price": "$4.99",
+"release": "Jun 26, 2012",
+"total": 6062,
+"ts": "2026-08-07T01:01:24.622971+00:00",
+"verdict": "Mostly Positive"
+},
 "2133850": {
 "desc": "Get ready for a new adventure in the world of NATEM! Explore beautiful worlds, solve puzzles with new tools and meet wonderful people in this journey through a digital universe full of secrets in search of someone special.",
 "descriptors": [],
@@ -558,6 +574,23 @@
 "ts": "2026-07-16T10:53:37.220125+00:00",
 "verdict": "Very Positive"
 },
+"2285550": {
+"desc": "Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Doloc Town",
+"pct": 96,
+"price": "$15.99",
+"release": "Aug 5, 2026",
+"total": 2561,
+"ts": "2026-08-07T01:03:12.121581+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "2396200": {
 "desc": "Recruit over 1,000 Letalis, conquer coliseums and explore a non-linear world packed with secrets.",
 "descriptors": [],
@@ -620,6 +653,41 @@
 "total": 86,
 "ts": "2026-07-30T03:54:20.919892+00:00",
 "verdict": "Very Positive"
+},
+"2478640": {
+"desc": "Leap, swing, and spin webs in a casual 3D adventure! Play as Spider Fox, rescue bizarre animals from a mad scientist, and uncover colorful worlds packed with secrets.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Spider Fox",
+"pct": 95,
+"price": "$7.99",
+"release": "Apr 3, 2024",
+"total": 61,
+"ts": "2026-08-07T01:01:29.605636+00:00",
+"verdict": "Very Positive"
+},
+"2516920": {
+"desc": "A fast-paced typing game in a restaurant setting, where you\u2019ll both cook &amp; serve food to hungry customers, all done by TYPING. Play through the Italian restaurant and get a taste of The Chef's Shift!",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "The Chef's Shift: First Course",
+"pct": 98,
+"price": "Free",
+"release": "Feb 7, 2025",
+"total": 500,
+"ts": "2026-08-07T01:00:45.184279+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "2521170": {
 "desc": "Hello, this is Fael... Listen, this is going to sound strange, but... I think I'm lost in the apartment. Right now... I... I don't know where I am. Can you come and help me?",
@@ -758,6 +826,23 @@
 "release": "Jun 23, 2026",
 "total": 204,
 "ts": "2026-07-14T17:22:24.928602+00:00",
+"verdict": "Very Positive"
+},
+"2660230": {
+"desc": "Kill the Shadow is a detective game with multiple endings, featuring 2.5D pixel art and semi-open exploration and investigation. Play as Lucas, a former police officer, alongside a mysterious Shadow who can see the \u201cpast.\u201d Remember\u2014every choice you make will change the fate of countless characters!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Kill The Shadow",
+"pct": 93,
+"price": "$15.29",
+"release": "Aug 4, 2026",
+"total": 83,
+"ts": "2026-08-07T01:03:15.520134+00:00",
 "verdict": "Very Positive"
 },
 "2684630": {
@@ -1049,6 +1134,22 @@
 "total": 313,
 "ts": "2026-08-05T03:57:13.523912+00:00",
 "verdict": "Very Positive"
+},
+"2950790": {
+"desc": "IRON NEST is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics, and gunlay the cannons to unleash devastating blows \u27f9 Will you obey High Command, Operator?",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "IRON NEST: Heavy Turret Simulator",
+"pct": 99,
+"price": "$14.99",
+"release": "Aug 6, 2026",
+"total": 1215,
+"ts": "2026-08-07T01:00:48.525132+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "2980270": {
 "desc": "Unravel cyber secrets and foil mass surveillance as a skilled hacker in Hackhub. Challenge authority, rewrite the rules, and emerge as the ultimate digital rebel.",
@@ -1649,6 +1750,26 @@
 "ts": "2026-07-21T04:13:30.915555+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3496340": {
+"desc": "Your story of living in a sharehouse with three beautiful girls!",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Welcome to the Sharehouse! ~ domestic life with three cute girls~",
+"pct": 98,
+"price": "$14.99",
+"release": "Jul 30, 2026",
+"total": 65,
+"ts": "2026-08-07T01:02:58.387892+00:00",
+"verdict": "Very Positive"
+},
 "3497800": {
 "desc": "Dungeon Crawler with elements of rogue-like and ARPG games. Kill hordes of enemies, duel mighty bosses, and acquire legendary loot!",
 "descriptors": [
@@ -2007,6 +2128,21 @@
 "ts": "2026-07-17T07:15:11.914961+00:00",
 "verdict": "Very Positive"
 },
+"3812600": {
+"desc": "Run a quaint electronics repair shop in mid-2000s Tokyo. Grow your business by carefully restoring iconic video game consoles, cell phones, music players, and other nostalgic devices. Talk to customers, hear their stories, and see how your decisions impact both their lives and your shop.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "ReStory: Chill Electronics Repairs",
+"pct": 99,
+"price": "$17.99",
+"release": "Aug 6, 2026",
+"total": 317,
+"ts": "2026-08-07T01:03:01.775067+00:00",
+"verdict": "Very Positive"
+},
 "3815550": {
 "desc": "A faithful digital adaptation of the acclaimed board game Space Empires 4X by GMT Games, beloved by wargamers for almost two decades. Command the rise of your civilization and the fall of others, all in one to two hours.",
 "descriptors": [],
@@ -2087,6 +2223,22 @@
 "release": "Jun 26, 2026",
 "total": 92,
 "ts": "2026-07-14T17:21:58.280561+00:00",
+"verdict": "Very Positive"
+},
+"3904850": {
+"desc": "Build, crash, rebuild! Explore new planets in co-op multiplayer with your fully modular spaceship made from whatever bolts together long enough to fly. Mount giant thrusters, annoying cables, and everything in between. Complete wild missions, face the dangers of space and argue with your crew!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Approximately Up",
+"pct": 100,
+"price": "$19.99",
+"release": "Aug 6, 2026",
+"total": 135,
+"ts": "2026-08-07T01:02:54.988774+00:00",
 "verdict": "Very Positive"
 },
 "3908250": {
@@ -2449,6 +2601,25 @@
 "ts": "2026-07-31T04:20:04.615968+00:00",
 "verdict": "Very Positive"
 },
+"4108460": {
+"desc": "Shangchuan, 1939, Japanese-occupied. By day a bowing traitor, by night a ghost, in Demon's Lair, No. 86. All wear masks: pretend, kill, survive. When sacrificing a friend is the only way, when betrayed, when only isolated cities remain - fight to the end, live a coward, or take an unimagined path?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"RPG",
+"Simulation"
+],
+"name": "PatriotMemoirs",
+"pct": 84,
+"price": "$12.46",
+"release": "Aug 5, 2026",
+"total": 146,
+"ts": "2026-08-07T01:03:25.565088+00:00",
+"verdict": "Very Positive"
+},
 "4112070": {
 "desc": "As highly qualified goose parents, work together to bring your little egg home safely. Every crack makes it harder to control, every mistake more hilarious. A co-op physics game for 2 or 4 players about teamwork, clumsiness and honking. HONK!",
 "descriptors": [],
@@ -2478,6 +2649,21 @@
 "release": "Jul 15, 2026",
 "total": 52,
 "ts": "2026-07-18T03:52:07.805067+00:00",
+"verdict": "Very Positive"
+},
+"4113940": {
+"desc": "Play as the Sovereign of a magical tower in this story-rich, Round Table management RPG. Recruit eccentric Knights, assign quests and balance egos whilst carving out your kingdom's destiny. If destiny doesn\u2019t go your way, keep turning back time, uncover secrets and rewrite fate again and again.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG"
+],
+"name": "Sovereign Tower",
+"pct": 99,
+"price": "$16.99",
+"release": "Aug 6, 2026",
+"total": 79,
+"ts": "2026-08-07T01:03:05.214126+00:00",
 "verdict": "Very Positive"
 },
 "4121610": {
@@ -3121,6 +3307,23 @@
 "ts": "2026-07-21T04:13:37.746105+00:00",
 "verdict": "Very Positive"
 },
+"4540090": {
+"desc": "DISTURBING FEARS is an episodic psychological horror game based on true events that immerses players in haunting narratives.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "DISTURBING FEARS - Workplace",
+"pct": 92,
+"price": "Free",
+"release": "Aug 4, 2026",
+"total": 61,
+"ts": "2026-08-07T01:03:18.858931+00:00",
+"verdict": "Very Positive"
+},
 "4547970": {
 "desc": "The only game in the world that's more anticipated than GTA VI. Pih 2 is a one-hit-kill comedy FPS. Fight various types of enemy pihs and bosses in increasingly ridiculous situations, dodge instant death and try not to rage when everything goes wrong.",
 "descriptors": [],
@@ -3620,6 +3823,21 @@
 "ts": "2026-07-28T03:58:43.791310+00:00",
 "verdict": "Very Positive"
 },
+"4790970": {
+"desc": "A casual companion that lives on your Windows desktop. Strike the woodfish to earn Merit, collect skins, open chests, complete collections and crafting, and play online with up to 3 Steam friends.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Free To Play"
+],
+"name": "Electronic Woodfish",
+"pct": 96,
+"price": "Free",
+"release": "Jul 31, 2026",
+"total": 50,
+"ts": "2026-08-07T01:03:08.718880+00:00",
+"verdict": "Very Positive"
+},
 "4824420": {
 "desc": "Idle RPG with full offline progression and multiple endgame progression systems. Choose a class and start fighting, gathering, crafting, master elements &amp; talent trees, train mercenaries, join factions and fight world bosses with real players. No microtransactions. By idle players for idle players",
 "descriptors": [],
@@ -3839,6 +4057,21 @@
 "release": "Aug 4, 2026",
 "total": 54,
 "ts": "2026-08-06T04:01:56.378992+00:00",
+"verdict": "Very Positive"
+},
+"4927490": {
+"desc": "Cleaning Up The Puzzle Gallery is a cozy first-person organization simulator about cleaning up 2071 puzzle pieces scattered across a gallery of 87 famous paintings. Whether you want to relax and solve jigsaw puzzles to classical music, or min-max to get the fastest times, the gallery needs cleaning.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Cleaning Up The Puzzle Gallery",
+"pct": 91,
+"price": "$4.49",
+"release": "Aug 5, 2026",
+"total": 129,
+"ts": "2026-08-07T01:03:22.247529+00:00",
 "verdict": "Very Positive"
 },
 "606150": {
