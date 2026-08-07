@@ -622,6 +622,21 @@
 "ts": "2026-08-01T04:19:18.817015+00:00",
 "verdict": "Very Positive"
 },
+"2445460": {
+"desc": "A simple simulation and management game. Build different shops and earn money from passing customers.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "happiness market",
+"pct": 100,
+"price": "$0.99",
+"release": "Jun 16, 2023",
+"total": 1,
+"ts": "2026-08-07T17:42:12.496459+00:00",
+"verdict": "1 user reviews"
+},
 "2445980": {
 "desc": "G-Rebels: An action-packed combat flight sim in a dystopian open world full of intrigue, free exploration and dangerous missions. As part of an elite unit, it is your job to ensure law and order. A secret mission calls everything into question: are you on the right side or part of a conspiracy?",
 "descriptors": [],
@@ -4106,6 +4121,27 @@
 "release": "Aug 25, 2017",
 "total": 3049,
 "ts": "2026-07-23T18:08:55.899516+00:00",
+"verdict": "Very Positive"
+},
+"738520": {
+"desc": "Survive in outer space! Together with your immortal chicken, discover the truth behind your sudden spaceship crash. Craft tools, pilot vehicles, and even control space stations to survive and explore the wreckage.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Breathedge",
+"pct": 82,
+"price": "Free",
+"release": "Feb 25, 2021",
+"total": 16440,
+"ts": "2026-08-07T17:42:07.199197+00:00",
 "verdict": "Very Positive"
 },
 "802890": {
