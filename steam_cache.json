@@ -475,6 +475,22 @@
 "ts": "2026-07-29T04:01:30.854268+00:00",
 "verdict": "Very Positive"
 },
+"2138410": {
+"desc": "Turnip Mountain is a physics-based climbing adventure in which you control each hand independently using two mice or two analogue sticks. Grab, swing and launch yourself to the summit your own way.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Turnip Mountain",
+"pct": 97,
+"price": "$8.39",
+"release": "Jul 30, 2026",
+"total": 63,
+"ts": "2026-08-07T21:33:43.103573+00:00",
+"verdict": "Very Positive"
+},
 "2184020": {
 "desc": "Get LIFTED! Play as slacker Ari, the accidental wingman in his professor's manic, love-fueled time heist. Swing, climb, and puzzle through history to outsmart rival tomb raiders in a cinematic '80s blockbuster adventure!",
 "descriptors": [],
@@ -590,6 +606,22 @@
 "total": 2561,
 "ts": "2026-08-07T01:03:12.121581+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"2372240": {
+"desc": "Re:Night is a strategy game that blends turn based tactics with roguelike deckbuilding. In each run, build your deck, plan your tactics, and experiment with countless 3-character team combinations. Journey to a mysterious town, break the endless cycle of night, and bring dawn back to the world.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Re:Night",
+"pct": 95,
+"price": "$12.59",
+"release": "Aug 4, 2026",
+"total": 75,
+"ts": "2026-08-07T21:33:49.972443+00:00",
+"verdict": "Very Positive"
 },
 "2396200": {
 "desc": "Recruit over 1,000 Letalis, conquer coliseums and explore a non-linear world packed with secrets.",
@@ -1432,6 +1464,23 @@
 "ts": "2026-07-19T04:20:58.528220+00:00",
 "verdict": "Very Positive"
 },
+"3258560": {
+"desc": "&quot;I'm No Demonlord&quot; is a Roguelike shooter bullet hell game. High freedom in mechanics leads to unique playthroughs. As a demon-possessed hero, battle enemies, grow, and unveil dark schemes. Can he accept his new role? Save &quot;kinds&quot; or destroy &quot;outsiders&quot;? Good or evil? The choice is yours.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "I'm No Demonlord",
+"pct": 97,
+"price": "$8.09",
+"release": "Aug 5, 2026",
+"total": 58,
+"ts": "2026-08-07T21:33:39.737735+00:00",
+"verdict": "Very Positive"
+},
 "3278290": {
 "desc": "JOIN THE SOCIETY in this story-driven, investigative horror game. Hunt down wealthy humans in a deadly forest in order to Feed The Pit. Act 1 is available at launch. Acts 2 &amp; 3 will release as free updates in the coming months!",
 "descriptors": [],
@@ -2076,6 +2125,22 @@
 "ts": "2026-07-23T04:13:15.912778+00:00",
 "verdict": "Very Positive"
 },
+"3708250": {
+"desc": "Sent by the Moon Goddess, you arrive in Heaven\u2019s Dale to run a carpenter workshop and uncover its former owner\u2019s fate. Mysterious ghosts drift through everywhere! Live a cozy life planting, fishing, mining, and caring for animals while restoring the town at your own pace.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "My Heaven's Dale",
+"pct": 98,
+"price": "$11.99",
+"release": "Jul 21, 2026",
+"total": 53,
+"ts": "2026-08-07T21:33:36.333585+00:00",
+"verdict": "Very Positive"
+},
 "3712080": {
 "desc": "Trapped in a doomed city, you and up to 7 friends must scavenge parts, fix your van, and escape the brutal tornado that approaches. A first-person co-op survival game with escalating disasters and total environmental destruction.",
 "descriptors": [],
@@ -2238,6 +2303,25 @@
 "release": "Jun 26, 2026",
 "total": 92,
 "ts": "2026-07-14T17:21:58.280561+00:00",
+"verdict": "Very Positive"
+},
+"3883710": {
+"desc": "LET'S BE HONEST. You're in deep shit. Straitjacket locked tight. Hood over your head. And the atmosphere? Definitely not a dream vacation. But hey\u2026 it happened. You did what you did. And now you're here...",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Get Out ! A \"Very Bad Dreams\" Story",
+"pct": 98,
+"price": "$8.49",
+"release": "Jul 31, 2026",
+"total": 52,
+"ts": "2026-08-07T21:33:29.480491+00:00",
 "verdict": "Very Positive"
 },
 "3904850": {
@@ -2779,6 +2863,21 @@
 "ts": "2026-07-14T17:22:14.951657+00:00",
 "verdict": "Very Positive"
 },
+"4198660": {
+"desc": "Cyber Detective L solves Paradoxes\u2014bizarre incidents by supernatural Demons\u2014via the social media giant Parrotter. The Cyber Detective Squad, L and his Demon partner Nyasuteria, wield elite hacking and psychic powers to take on the final Paradox investigation.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Demons' Timeline",
+"pct": 98,
+"price": "$8.24",
+"release": "Apr 29, 2026",
+"total": 552,
+"ts": "2026-08-07T21:31:39.823721+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4209160": {
 "desc": "A cozy idle island sim that lives quietly above your taskbar. Five islanders \u2014 a farmer, woodcutter, fisherman, miner, and chef \u2014 farm, fish, mine, cook, and craft on their own. Build a self-sustaining isle while you work or browse.",
 "descriptors": [],
@@ -2873,6 +2972,23 @@
 "release": "Jul 29, 2026",
 "total": 72,
 "ts": "2026-08-01T04:19:45.674645+00:00",
+"verdict": "Very Positive"
+},
+"4272270": {
+"desc": "Summon the mighty power of gods in this fun incremental game about chopping down trees on a secluded island by using the forces of nature: earthquakes, sunbeams, tornadoes, hail, lightning strikes and tidal waves! It's Chopping Time!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "It's Chopping Time!",
+"pct": 87,
+"price": "$5.99",
+"release": "Jul 17, 2026",
+"total": 78,
+"ts": "2026-08-07T21:34:03.589996+00:00",
 "verdict": "Very Positive"
 },
 "4278010": {
@@ -2993,6 +3109,25 @@
 "ts": "2026-07-17T07:15:15.208627+00:00",
 "verdict": "Very Positive"
 },
+"4310610": {
+"desc": "The Skin Stapler is a retro-styled PSX grindhouse horror adventure set in the rotting, crime-soaked sprawl of Carrion City. Players follow jaded detective Dick Slater and his eager rookie partner Robbie Knox as they hunt a mysterious serial killer known only as The Skin Stapler.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "The Skin Stapler",
+"pct": 95,
+"price": "$11.99",
+"release": "Aug 6, 2026",
+"total": 84,
+"ts": "2026-08-07T21:33:46.546523+00:00",
+"verdict": "Very Positive"
+},
 "4323800": {
 "desc": "&quot;Guardian of the Sacred Seal&quot; is a story-driven adventure game centered on the concept: \u201cTo be unconditionally loved by a yandere young man.\u201d In the otherworldly paradise of Gokurakud\u014d, a young girl partners with a mysterious man to handle seemingly ordinary requests that hide deeper secrets.",
 "descriptors": [],
@@ -3026,6 +3161,23 @@
 "release": "Jul 9, 2026",
 "total": 54,
 "ts": "2026-07-14T17:22:01.768119+00:00",
+"verdict": "Very Positive"
+},
+"4331130": {
+"desc": "Darkness tears reality apart. Hordes of beasts, monsters, and abyssal demons surge from the depths mindless, driven only by destruction. Adventurer, the line needs you! In \u300aAbyss Horde\u300b, defend against ever-stronger waves. Every run builds a new defense; every upgrade shifts the tide.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Abyss Horde",
+"pct": 87,
+"price": "$3.99",
+"release": "Jul 31, 2026",
+"total": 53,
+"ts": "2026-08-07T21:34:00.195708+00:00",
 "verdict": "Very Positive"
 },
 "4333200": {
@@ -3176,6 +3328,22 @@
 "release": "Jul 29, 2026",
 "total": 248,
 "ts": "2026-07-30T03:54:14.360398+00:00",
+"verdict": "Very Positive"
+},
+"4450620": {
+"desc": "A horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close in. Make it back alive, then rebuild the Outpost to better your chances for the next run.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "GRAIN ROT",
+"pct": 89,
+"price": "$8.99",
+"release": "Aug 7, 2026",
+"total": 118,
+"ts": "2026-08-07T21:33:56.760216+00:00",
 "verdict": "Very Positive"
 },
 "4453300": {
@@ -3497,6 +3665,21 @@
 "release": "Jul 13, 2026",
 "total": 58,
 "ts": "2026-07-25T04:01:23.112336+00:00",
+"verdict": "Very Positive"
+},
+"4618590": {
+"desc": "Play as Conrad, the town's executioner. Investigate a mysterious death, gather clues, question suspects and solve puzzles in this classic point-and-click mystery where witchcraft and superstition conceal a far darker truth.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "The Silver Crow",
+"pct": 98,
+"price": "$6.99",
+"release": "Jul 30, 2026",
+"total": 60,
+"ts": "2026-08-07T21:33:32.870067+00:00",
 "verdict": "Very Positive"
 },
 "4622330": {
@@ -4072,6 +4255,22 @@
 "release": "Aug 4, 2026",
 "total": 54,
 "ts": "2026-08-06T04:01:56.378992+00:00",
+"verdict": "Very Positive"
+},
+"4918800": {
+"desc": "Explore a frozen fantasy world in an educational point-and-click adventure. Follow Flora, Freyja and Ramia through story-driven quests, learn English spelling and grammar, and face turn-based battles where words become your greatest weapon.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Pago Forest 2: Frozen Memories",
+"pct": 91,
+"price": "$5.99",
+"release": "Jul 31, 2026",
+"total": 53,
+"ts": "2026-08-07T21:33:53.328661+00:00",
 "verdict": "Very Positive"
 },
 "4927490": {
