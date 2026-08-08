@@ -1028,6 +1028,23 @@
 "ts": "2026-07-25T04:01:29.960777+00:00",
 "verdict": "Very Positive"
 },
+"2775370": {
+"desc": "A strange journey throughout an elaborate labyrinth awaits, featuring hundreds of characters and happenings as you try to gather items that once brought happiness to others.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Disillusion ST",
+"pct": 96,
+"price": "$10.99",
+"release": "Oct 26, 2024",
+"total": 541,
+"ts": "2026-08-08T21:22:53.707922+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "2783370": {
 "desc": "Explore a world of mayhem and Michaels! Join Teeto the blob and Nory the bunny in this 3D adventure platformer to stop the shadow corruption from spreading. Absorb wild powers, help eccentric characters, and save the world - one Michael at a time!",
 "descriptors": [],
@@ -1346,6 +1363,21 @@
 "release": "Jul 21, 2026",
 "total": 185,
 "ts": "2026-07-23T04:13:29.023946+00:00",
+"verdict": "Very Positive"
+},
+"3141630": {
+"desc": "Tame, collect, fight! Assemble an unstoppable team of unique Montabi in this Creature-Collector Roguelike Deckbuilder. Master their awesome abilities, synergize their strategic strengths and save the city in tactical turn-based combat!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Montabi",
+"pct": 97,
+"price": "$17.99",
+"release": "Aug 6, 2026",
+"total": 72,
+"ts": "2026-08-08T21:24:54.493524+00:00",
 "verdict": "Very Positive"
 },
 "3156330": {
@@ -1814,6 +1846,21 @@
 "ts": "2026-07-21T04:13:30.915555+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3470550": {
+"desc": "A &quot;collage-and-guess&quot; multiplayer game for up to 6 players. Enjoy collaging ordinary items into outside-the-box &quot;masterpieces,&quot; guess each other's creations, and unleash your wild imagination around the campfire. Here, everyone is an artist!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "We, Junk Artists",
+"pct": 96,
+"price": "$8.49",
+"release": "Aug 6, 2026",
+"total": 78,
+"ts": "2026-08-08T21:24:51.075618+00:00",
+"verdict": "Very Positive"
+},
 "3496340": {
 "desc": "Your story of living in a sharehouse with three beautiful girls!",
 "descriptors": [
@@ -1852,6 +1899,22 @@
 "release": "Jul 28, 2026",
 "total": 61,
 "ts": "2026-07-31T04:20:14.878378+00:00",
+"verdict": "Very Positive"
+},
+"3507880": {
+"desc": "From SCRAP, the masterminds behind the &quot;Real Escape Game&quot; phenomena with over 17 million attendees, comes a time-loop mystery adventure on Steam!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "My Fav Chill Streamer Dies a Million Times\uff5c\u3086\u308b\u3086\u308b\u751f\u914d\u4fe1\u3059\u308b\u63a8\u3057\u306f100\u4e07\u56de\u6b7b\u306c",
+"pct": 98,
+"price": "$31.49",
+"release": "Aug 5, 2026",
+"total": 63,
+"ts": "2026-08-08T21:24:47.699151+00:00",
 "verdict": "Very Positive"
 },
 "3508910": {
@@ -3008,6 +3071,22 @@
 "ts": "2026-07-28T03:58:33.716998+00:00",
 "verdict": "Very Positive"
 },
+"4286040": {
+"desc": "A unicycle, a bomb ready to blow, and sausages struggling to balance! Cooperate with your friends or blow them up in this 2-4 player physics-based chaos game! Reach the summit before the bomb goes off. Don't fall, don't explode, and try to stay a sausage!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Unicycle Together",
+"pct": 93,
+"price": "$3.99",
+"release": "Aug 5, 2026",
+"total": 59,
+"ts": "2026-08-08T21:24:57.945388+00:00",
+"verdict": "Very Positive"
+},
 "4286120": {
 "desc": "A PSX-style horror game where you manage a photo studio. Restock supplies, buy upgrades, photograph customers and print their order whilst encountering unexpected events.",
 "descriptors": [],
@@ -3261,6 +3340,20 @@
 "release": "Jul 16, 2026",
 "total": 85,
 "ts": "2026-07-23T04:13:35.500781+00:00",
+"verdict": "Very Positive"
+},
+"4369130": {
+"desc": "Build your own furniture empire after getting fired from Furnox Corp \ud83d\udd95. Chop down trees, process wood, automate your growing production lines and sell clever furniture sets for bonus cash. Explore a handcrafted world packed with weirdos, secrets and trees begging for violence.",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Chop Chop Inc.",
+"pct": 88,
+"price": "$12.99",
+"release": "Aug 7, 2026",
+"total": 176,
+"ts": "2026-08-08T21:25:01.455539+00:00",
 "verdict": "Very Positive"
 },
 "4370020": {
@@ -3649,6 +3742,24 @@
 "release": "Jul 17, 2026",
 "total": 63,
 "ts": "2026-07-19T04:20:55.159593+00:00",
+"verdict": "Very Positive"
+},
+"4608380": {
+"desc": "A surreal dice-based RPG in a cursed city of gut-wrenching suffering. Here, your choices shape your skills and your appearance. Survive the city's hellish trials, meet tortured characters, and develop your own unique identity. Every choice matters as your actions will literally shape you.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Joy Malignant",
+"pct": 100,
+"price": "$7.64",
+"release": "Jul 29, 2026",
+"total": 57,
+"ts": "2026-08-08T21:24:44.263502+00:00",
 "verdict": "Very Positive"
 },
 "4613890": {
