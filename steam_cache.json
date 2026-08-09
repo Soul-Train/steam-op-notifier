@@ -996,6 +996,21 @@
 "ts": "2026-08-04T04:00:12.884098+00:00",
 "verdict": "Very Positive"
 },
+"2736370": {
+"desc": "Journey into the forgotten world of Helix, where ancient powers awaken within you. Unlock and combine embodied abilities to unravel the mysteries of a lost civilization. Descend into a tale that will challenge your mind and soul, solving intricate puzzles as you ascend to the light of a new day.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Helix: Descent N Ascent",
+"pct": 96,
+"price": "$14.99",
+"release": "Jul 23, 2026",
+"total": 69,
+"ts": "2026-08-09T21:25:48.358002+00:00",
+"verdict": "Very Positive"
+},
 "2738490": {
 "desc": "Sol Cesto is a tactical and frantic roguelite where mastering your luck is key. Choose a hero, upgrade them using cursed teeth and magical items, and descend to the bottom of an ever-changing dungeon. In this dark world, every action has consequences\u2026",
 "descriptors": [],
@@ -1774,6 +1789,22 @@
 "ts": "2026-07-14T17:22:11.669614+00:00",
 "verdict": "Very Positive"
 },
+"3424990": {
+"desc": "Two souls, one destiny. Embark on a co-op adventure through a forgotten land, where teamwork and wit are the only way to navigate the wonders and dangers of a magical cave.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Together in Forgotten Lands",
+"pct": 94,
+"price": "$6.39",
+"release": "Aug 7, 2026",
+"total": 78,
+"ts": "2026-08-09T21:25:51.823972+00:00",
+"verdict": "Very Positive"
+},
 "3432480": {
 "desc": "A grim RPG with card-based combat where nothing stays dead. Lead a party of survivors through a world undone by shattered Laws. Restore them and reshape the rules of the game, but be ready to face the consequences.",
 "descriptors": [
@@ -1899,6 +1930,23 @@
 "release": "Jul 28, 2026",
 "total": 61,
 "ts": "2026-07-31T04:20:14.878378+00:00",
+"verdict": "Very Positive"
+},
+"3501540": {
+"desc": "A city builder set in a world of magic. Build a village and care for the people who live there, with the help of hidden spirits you discover along the way. Watch your town grow and flourish as you expand, create, and decorate.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Spiritstead",
+"pct": 93,
+"price": "$8.99",
+"release": "Aug 6, 2026",
+"total": 68,
+"ts": "2026-08-09T21:25:55.263340+00:00",
 "verdict": "Very Positive"
 },
 "3507880": {
