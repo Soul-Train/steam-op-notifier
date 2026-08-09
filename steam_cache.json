@@ -2014,6 +2014,26 @@
 "ts": "2026-07-22T04:15:11.867717+00:00",
 "verdict": "Very Positive"
 },
+"3597880": {
+"desc": "Stranded in the desert, your only hope of escaping rests in a strange Catman. His one request: hunt down surreal creatures, skin them, and chop them up so he can keep them as trophies.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Cat Named Mojave",
+"pct": 96,
+"price": "$9.99",
+"release": "Dec 8, 2025",
+"total": 326,
+"ts": "2026-08-09T13:42:54.137732+00:00",
+"verdict": "Very Positive"
+},
 "3621200": {
 "desc": "Chaotic foosball matches for up to 4 players! Use crazy power-ups, battle through unique arenas and opponents, and turn every friendly match into a chaotic showdown with friends.",
 "descriptors": [],
