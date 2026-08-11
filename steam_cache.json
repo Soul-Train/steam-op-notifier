@@ -1,4 +1,24 @@
 {
+"1067360": {
+"desc": "Build a grand totalitarian colony then personally storm roguelite battlefields with your soldiers. Shape citizens fears, loyalties, bonds, and feuds. Capture enemies, convert them into true believers. Sacrifice the weak. Feed the strong. Wield absolute power and make every life bend to your will.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Pax Autocratica",
+"pct": 88,
+"price": "$24.89",
+"release": "Aug 10, 2026",
+"total": 461,
+"ts": "2026-08-11T14:17:07.501881+00:00",
+"verdict": "Very Positive"
+},
 "1072300": {
 "desc": "Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown in Echo Generation, a turn-based adventure set in the 90s.",
 "descriptors": [],
@@ -801,6 +821,21 @@
 "release": "Jul 30, 2026",
 "total": 58,
 "ts": "2026-08-02T04:22:47.279189+00:00",
+"verdict": "Very Positive"
+},
+"253750": {
+"desc": "Shoot! Dodge! and... Get Hit!? &quot;Ikaruga&quot; is a vertical shoot 'em up that features an unique polarity-switching gameplay. Switch the ship's polarity and &quot;get hit and absorb&quot; enemy bullets! Achieve High Score with the chain bonus!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Ikaruga",
+"pct": 95,
+"price": "$9.99",
+"release": "Feb 18, 2014",
+"total": 2359,
+"ts": "2026-08-11T14:15:04.035004+00:00",
 "verdict": "Very Positive"
 },
 "2593340": {
@@ -2254,6 +2289,25 @@
 "ts": "2026-07-17T07:15:51.728139+00:00",
 "verdict": "Very Positive"
 },
+"3687790": {
+"desc": "Unleash total destruction to avenge the little chick! Soar through chaos, weaponize yourself to obliterate physics-based enemies and everything in your path.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Deadliest Pigeon",
+"pct": 94,
+"price": "$4.89",
+"release": "Aug 7, 2026",
+"total": 51,
+"ts": "2026-08-11T14:17:00.722791+00:00",
+"verdict": "Very Positive"
+},
 "3690490": {
 "desc": "Become the last conductor and rule over the final train society in a frozen world. Gather, expand, and forge your train while building powerful synergies with mighty artifacts. Your position\u2014and the safety of your passengers\u2014now rests in your hands.",
 "descriptors": [],
@@ -2734,6 +2788,42 @@
 "ts": "2026-07-30T03:54:11.090595+00:00",
 "verdict": "Very Positive"
 },
+"4011300": {
+"desc": "Become an anime character. Write your own incantations and cast over 100 spells using your microphone. Battle in duels, team fights, and chaotic free-for-all matches.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "Super Shout Showdown",
+"pct": 89,
+"price": "$6.39",
+"release": "Aug 6, 2026",
+"total": 63,
+"ts": "2026-08-11T14:17:17.641757+00:00",
+"verdict": "Very Positive"
+},
+"4014100": {
+"desc": "Build and run your own hobby shop in this first-person store management sim. Order stock, fill shelves, set prices, match kits with paints through the Hobby Basket System, and let customers bring their projects to life at Build Tables.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Model Kit Shop Simulator",
+"pct": 92,
+"price": "$9.99",
+"release": "Jul 24, 2026",
+"total": 59,
+"ts": "2026-08-11T14:17:04.030949+00:00",
+"verdict": "Very Positive"
+},
 "4018550": {
 "desc": "Catch a train to Cat Isle! In this cozy pixel art management game, build restaurants, expand and decorate the town. Figure out your cats needs as they dine, shop, explore and turn the island into their purfect home.",
 "descriptors": [],
@@ -2827,6 +2917,23 @@
 "total": 546,
 "ts": "2026-07-18T03:50:07.668671+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4092940": {
+"desc": "A shooting dopamine machine! Lucky Shot is a roguelike mag-builder FPS where you master different weapons, build wild combos, and break the game to reach massive high scores.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy",
+"Free To Play"
+],
+"name": "Lucky Shot",
+"pct": 98,
+"price": "$9.74",
+"release": "Aug 7, 2026",
+"total": 95,
+"ts": "2026-08-11T14:16:57.386496+00:00",
+"verdict": "Very Positive"
 },
 "4098230": {
 "desc": "Flats Full of Cats is a cozy hidden object game where you explore adorable apartments packed with feline friends!",
@@ -2957,6 +3064,22 @@
 "release": "Jul 12, 2026",
 "total": 57,
 "ts": "2026-07-20T04:34:22.112925+00:00",
+"verdict": "Very Positive"
+},
+"4145350": {
+"desc": "Escape adventure game. During a tea party, Alice and her friends become trapped in a world created by demons. Will they be able to escape this twisted realm safely?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Alice and the Devil's Prison",
+"pct": 90,
+"price": "$12.59",
+"release": "Aug 7, 2026",
+"total": 69,
+"ts": "2026-08-11T14:17:10.866402+00:00",
 "verdict": "Very Positive"
 },
 "4163030": {
@@ -3614,6 +3737,23 @@
 "ts": "2026-07-15T14:46:37.124457+00:00",
 "verdict": "Very Positive"
 },
+"4508020": {
+"desc": "Hole Is Mine is an incremental adventure about purifying a divine Hole. Dive inside and launch your Mini'Ohs to mine for you. Extract impurities, upgrade your power, and find hidden secrets to grow the Village, customizing your Mini'Ohs with incredible powers. The Hole has spoken!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Hole Is Mine",
+"pct": 88,
+"price": "$7.19",
+"release": "Aug 10, 2026",
+"total": 144,
+"ts": "2026-08-11T14:17:14.267237+00:00",
+"verdict": "Very Positive"
+},
 "4512570": {
 "desc": "Grab your axe, hop on the handcar, and lose yourself in the forest. Chop trees, upgrade your gear, and enjoy the ride - alone or with a friend",
 "descriptors": [],
@@ -3788,6 +3928,20 @@
 "release": "Jul 26, 2026",
 "total": 54,
 "ts": "2026-08-05T03:57:06.813705+00:00",
+"verdict": "Very Positive"
+},
+"4585340": {
+"desc": "this is a game about magnifying horses.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Horse Magnifier: The Full Horse",
+"pct": 100,
+"price": "$2.69",
+"release": "Aug 10, 2026",
+"total": 248,
+"ts": "2026-08-11T14:16:54.000904+00:00",
 "verdict": "Very Positive"
 },
 "4594150": {
@@ -4510,6 +4664,22 @@
 "release": "Aug 5, 2026",
 "total": 129,
 "ts": "2026-08-07T01:03:22.247529+00:00",
+"verdict": "Very Positive"
+},
+"4935510": {
+"desc": "Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Cellar Keeper",
+"pct": 86,
+"price": "$4.49",
+"release": "Aug 6, 2026",
+"total": 315,
+"ts": "2026-08-11T14:17:21.060680+00:00",
 "verdict": "Very Positive"
 },
 "606150": {
