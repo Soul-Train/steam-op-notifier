@@ -181,6 +181,22 @@
 "ts": "2026-07-23T04:13:32.287683+00:00",
 "verdict": "Very Positive"
 },
+"1574480": {
+"desc": "A retro spy FPS inspired by the N64 era. Go guns-blazing in action-packed shootouts, steal secret plans, and accomplish objectives while foiling evildoers\u2019 schemes as a secret agent in a solo or co-op campaign. Fight friends in both local split-screen multiplayer and online with up to 8 opponents.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Agent 64: Spies Never Die",
+"pct": 90,
+"price": "$19.25",
+"release": "Aug 11, 2026",
+"total": 258,
+"ts": "2026-08-12T14:18:28.664926+00:00",
+"verdict": "Very Positive"
+},
 "1608640": {
 "desc": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion. Face your inner demons and unveil the secrets of the Mansion.",
 "descriptors": [
@@ -301,6 +317,23 @@
 "release": "Jul 30, 2026",
 "total": 75,
 "ts": "2026-08-01T04:19:25.502293+00:00",
+"verdict": "Very Positive"
+},
+"1722800": {
+"desc": "Your brother is corrupted. The Blight is spreading. Only you can stop it. Colossus is an atmospheric pixel action-adventure where you master precise combat, explore a vast dark fantasy world, and make choices that permanently scar the kingdom of Eireos.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Colossus - Eternal Blight",
+"pct": 95,
+"price": "$15.99",
+"release": "Jul 21, 2026",
+"total": 78,
+"ts": "2026-08-12T14:18:11.506574+00:00",
 "verdict": "Very Positive"
 },
 "1729740": {
@@ -769,6 +802,24 @@
 "release": "Jul 16, 2026",
 "total": 65,
 "ts": "2026-07-22T04:15:05.306281+00:00",
+"verdict": "Very Positive"
+},
+"2523770": {
+"desc": "Step into a darker, grittier Middle-earth. The Lord of the Rings: War in the North\u2122 - Legacy Edition expands Tolkien\u2019s epic legendarium, delving into the brutal, untold story of Aganda\u00fbr, a Black N\u00famen\u00f3rean and servant of Sauron who has rallied an immense force in the ruins of Fornost.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"RPG"
+],
+"name": "The Lord of the Rings: War in the North\u2122 - Legacy Edition",
+"pct": 95,
+"price": "$17.99",
+"release": "Aug 11, 2026",
+"total": 253,
+"ts": "2026-08-12T14:18:08.200058+00:00",
 "verdict": "Very Positive"
 },
 "2524850": {
@@ -1561,6 +1612,23 @@
 "ts": "2026-07-19T04:20:58.528220+00:00",
 "verdict": "Very Positive"
 },
+"3226060": {
+"desc": "&quot;Dream Echoes&quot; is an atypical top-down RogueLite ARPG centered on loot grinding and meta-progression. Explore the dream world, collect &quot;Concepts&quot;, and enjoy highly free combinative combat. Upon waking, gather &quot;Memories&quot; to carry some &quot;Concepts&quot; into your next adventure\u2026",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "DreamEcho",
+"pct": 87,
+"price": "$10.79",
+"release": "Aug 10, 2026",
+"total": 139,
+"ts": "2026-08-12T14:18:31.959440+00:00",
+"verdict": "Very Positive"
+},
 "3258560": {
 "desc": "&quot;I'm No Demonlord&quot; is a Roguelike shooter bullet hell game. High freedom in mechanics leads to unique playthroughs. As a demon-possessed hero, battle enemies, grow, and unveil dark schemes. Can he accept his new role? Save &quot;kinds&quot; or destroy &quot;outsiders&quot;? Good or evil? The choice is yours.",
 "descriptors": [],
@@ -2148,6 +2216,22 @@
 "ts": "2026-08-10T17:47:07.785414+00:00",
 "verdict": "Very Positive"
 },
+"3614130": {
+"desc": "Restore order to three ransacked fantasy shops! Organize thousands of items, master helpful sorceries and enchantments, relax at your own pace, race the global leaderboards, and unlock new ways to play. Every item has a shelf. Can you find them all?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Shelves and Sorcery: Tidy Up the Enchanted Shop",
+"pct": 97,
+"price": "$4.79",
+"release": "Aug 11, 2026",
+"total": 78,
+"ts": "2026-08-12T14:18:04.763727+00:00",
+"verdict": "Very Positive"
+},
 "3621200": {
 "desc": "Chaotic foosball matches for up to 4 players! Use crazy power-ups, battle through unique arenas and opponents, and turn every friendly match into a chaotic showdown with friends.",
 "descriptors": [],
@@ -2538,6 +2622,22 @@
 "release": "Jul 31, 2026",
 "total": 52,
 "ts": "2026-08-07T21:33:29.480491+00:00",
+"verdict": "Very Positive"
+},
+"3902800": {
+"desc": "Detective horror about a night shift far from the city. Refuel cars, serve customers, keep the gas station running, and investigate why people are disappearing in the area. But most importantly, be careful with visitors - not all of them are human.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "[HERROR] Gas Station Case",
+"pct": 100,
+"price": "$5.99",
+"release": "Aug 11, 2026",
+"total": 85,
+"ts": "2026-08-12T14:18:01.438094+00:00",
 "verdict": "Very Positive"
 },
 "3904850": {
@@ -3082,6 +3182,24 @@
 "ts": "2026-08-11T14:17:10.866402+00:00",
 "verdict": "Very Positive"
 },
+"4156580": {
+"desc": "Weed Supermarket Simulator is a chill store sim where you grow weed, develop new strains, set prices, and keep your shelves stocked. Expand your business and optimize it for maximum profit. Manage employees, handle inventory, and turn your shop into a high-performing business.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Weed Supermarket Simulator",
+"pct": 90,
+"price": "$11.24",
+"release": "Aug 12, 2026",
+"total": 337,
+"ts": "2026-08-12T14:18:25.341513+00:00",
+"verdict": "Very Positive"
+},
 "4163030": {
 "desc": "Play the ancient and thrilling game of Chess but with... cats! Lead your furry friends to\u00a0the Purrfect battle of brains and whiskers!",
 "descriptors": [],
@@ -3527,6 +3645,23 @@
 "ts": "2026-07-25T04:01:33.330816+00:00",
 "verdict": "Very Positive"
 },
+"4341400": {
+"desc": "TUNG is a NICHE and TUFF first person horror game where you explore a hedge maze and become friends with TRIPLE T",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Free To Play",
+"Early Access"
+],
+"name": "TUNG",
+"pct": 91,
+"price": "Free",
+"release": "Aug 11, 2026",
+"total": 149,
+"ts": "2026-08-12T14:18:15.198285+00:00",
+"verdict": "Very Positive"
+},
 "4342570": {
 "desc": "A Romanian folk horror about a simple farmer, a wealthy neighbor, and a hunger for money that leads to an unforgivable sin.",
 "descriptors": [
@@ -3737,6 +3872,23 @@
 "ts": "2026-07-15T14:46:37.124457+00:00",
 "verdict": "Very Positive"
 },
+"4502710": {
+"desc": "DWARF COMBAT! Stonewards is a 1-4 player co-op first-person roguelite defense game. Lead a crew of stubborn dwarves from your base camp to aid nearby kingdoms, mine deep for resources, forge powerful upgrades, and hold the line against relentless monster attacks.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Early Access"
+],
+"name": "Stonewards",
+"pct": 92,
+"price": "$8.99",
+"release": "Aug 11, 2026",
+"total": 99,
+"ts": "2026-08-12T14:18:22.027369+00:00",
+"verdict": "Very Positive"
+},
 "4508020": {
 "desc": "Hole Is Mine is an incremental adventure about purifying a divine Hole. Dive inside and launch your Mini'Ohs to mine for you. Extract impurities, upgrade your power, and find hidden secrets to grow the Village, customizing your Mini'Ohs with incredible powers. The Hole has spoken!",
 "descriptors": [],
@@ -3928,6 +4080,23 @@
 "release": "Jul 26, 2026",
 "total": 54,
 "ts": "2026-08-05T03:57:06.813705+00:00",
+"verdict": "Very Positive"
+},
+"4583230": {
+"desc": "Harvest Dice Profit is an Incremental Idle Farming &amp; Dice Game where you grow diceshrooms into dice, roll for profit, and automate your economy. Stay ahead of debt... or face the consequences.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Harvest Dice Profit",
+"pct": 93,
+"price": "$2.99",
+"release": "Jul 23, 2026",
+"total": 60,
+"ts": "2026-08-12T14:18:18.635798+00:00",
 "verdict": "Very Positive"
 },
 "4585340": {
