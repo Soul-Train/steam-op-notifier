@@ -197,6 +197,22 @@
 "ts": "2026-08-12T14:18:28.664926+00:00",
 "verdict": "Very Positive"
 },
+"1582650": {
+"desc": "Embark on a journey across vast landscapes in Caravan SandWitch, a captivating narrative-driven exploration adventure.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Caravan SandWitch",
+"pct": 86,
+"price": "$24.99",
+"release": "Sep 12, 2024",
+"total": 3815,
+"ts": "2026-08-13T17:51:44.974603+00:00",
+"verdict": "Very Positive"
+},
 "1608640": {
 "desc": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion. Face your inner demons and unveil the secrets of the Mansion.",
 "descriptors": [
@@ -591,6 +607,21 @@
 "release": "Jul 16, 2026",
 "total": 2201,
 "ts": "2026-07-17T07:15:18.536051+00:00",
+"verdict": "Very Positive"
+},
+"220740": {
+"desc": "With this long-expected sequel to the critically highly acclaimed and lavishly praised Deponia, the player enters round two. Chaos on Deponia turns out to be even wackier than its predecessor and instantly puts the player under its spell.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Chaos on Deponia",
+"pct": 90,
+"price": "$19.99",
+"release": "Nov 6, 2012",
+"total": 3117,
+"ts": "2026-08-13T17:51:50.026127+00:00",
 "verdict": "Very Positive"
 },
 "2219390": {
