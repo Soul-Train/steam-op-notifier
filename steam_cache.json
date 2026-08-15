@@ -3093,6 +3093,23 @@
 "ts": "2026-08-13T14:20:21.334718+00:00",
 "verdict": "Very Positive"
 },
+"3962460": {
+"desc": "Hardcore, co-op (or solo) platformer. Dark Souls makes a baby with Super Monkey Ball. An easy-to-learn, hard-to-master experience to explore with your friends. All inside a vast open world, with each platforming course bringing its own twist.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "THE CANON OF BALLS",
+"pct": 100,
+"price": "$3.39",
+"release": "Aug 13, 2026",
+"total": 72,
+"ts": "2026-08-15T13:26:35.811170+00:00",
+"verdict": "Very Positive"
+},
 "3985060": {
 "desc": "You've been hired by a real estate agency to photograph their listings at night, giving them a unique look online. Grab your camera, explore dark, quiet homes, and capture every required shot before the property notices you. Uncover the truth: why do these listings need to be photographed at night?",
 "descriptors": [
@@ -3670,6 +3687,24 @@
 "ts": "2026-07-24T04:11:59.160944+00:00",
 "verdict": "Very Positive"
 },
+"4240150": {
+"desc": "A dark visual novel by acclaimed creator nyalra. Overly sensitive to other people's emotions, the protagonist\u2014a light novel writer\u2014develops the ability to read minds, only to be driven even deeper into isolation. His sole remaining comfort is his younger sister, gifted yet lonely.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Sister Other Paranoia",
+"pct": 82,
+"price": "$7.99",
+"release": "Aug 14, 2026",
+"total": 124,
+"ts": "2026-08-15T13:27:01.635675+00:00",
+"verdict": "Very Positive"
+},
 "4252700": {
 "desc": "Archon Soul is a 2D roguelike dice-builder where you create powerful dice using swappable faces, runes, and bodies with unique effects. \u200bDraft spells, craft powerful synergies, defeat challenging enemies, and conquer the Archon's palace.",
 "descriptors": [],
@@ -3747,6 +3782,21 @@
 "release": "Jul 21, 2026",
 "total": 152,
 "ts": "2026-07-22T04:15:21.868522+00:00",
+"verdict": "Very Positive"
+},
+"4290680": {
+"desc": "Exorcise hordes of demons using gun-wielding nuns and angels in this survivors-like bullet heaven! Collect and keep angels with unique weapons, stats, and abilities to create god-like builds as you fend off waves of enemies! Do you have enough faith to survive?",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Flock of the Seraphim",
+"pct": 92,
+"price": "$7.49",
+"release": "Aug 13, 2026",
+"total": 74,
+"ts": "2026-08-15T13:26:51.976735+00:00",
 "verdict": "Very Positive"
 },
 "4293110": {
@@ -3972,6 +4022,21 @@
 "ts": "2026-08-06T04:02:09.412572+00:00",
 "verdict": "Very Positive"
 },
+"4353640": {
+"desc": "Rumored gateway to the Underworld, Lulu Farea is riddled with monsters. Join Cruellus on his journey to befriend them all!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG"
+],
+"name": "The Dungeon of Lulu Farea: Rebirth",
+"pct": 96,
+"price": "$11.99",
+"release": "Jul 23, 2026",
+"total": 90,
+"ts": "2026-08-15T13:26:48.757366+00:00",
+"verdict": "Very Positive"
+},
 "4358310": {
 "desc": "Coin Tavern is not your average tavern! In this roguelike game, you\u2019ll wield a wild array of quirky coins to build your one-of-a-kind coin deck. Hoard coins, refine strategies, streamline your deck, unlock hidden treasures, and land outrageous combos in randomized runs!",
 "descriptors": [],
@@ -4004,6 +4069,22 @@
 "release": "Jul 16, 2026",
 "total": 85,
 "ts": "2026-07-23T04:13:35.500781+00:00",
+"verdict": "Very Positive"
+},
+"4364910": {
+"desc": "A loot-driven action role-playing game (ARPG) crafted by a solo loot enthusiast. Switch classes anytime, with hundreds of random affix combinations for gear stats, a unique forging system, and tough bosses, rifts, ruins, and trials awaiting your challenge.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Ruins of Dawn",
+"pct": 93,
+"price": "$7.99",
+"release": "Aug 14, 2026",
+"total": 275,
+"ts": "2026-08-15T13:26:42.268203+00:00",
 "verdict": "Very Positive"
 },
 "4369130": {
@@ -4279,6 +4360,22 @@
 "release": "Jul 18, 2026",
 "total": 63,
 "ts": "2026-07-21T04:13:37.746105+00:00",
+"verdict": "Very Positive"
+},
+"4537400": {
+"desc": "Turn any PDF, TXT or DOCX into an interactive visual novel. Pick an anime companion, upload a paper or any text you want to understand, and let AI turn it into a 5\u201310 minute story \u2014 with quizzes, voice narration, a blackboard for formulas, and full character customization via Steam Workshop.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "Paper2Galgame",
+"pct": 92,
+"price": "$5.39",
+"release": "Aug 9, 2026",
+"total": 97,
+"ts": "2026-08-15T13:26:58.405853+00:00",
 "verdict": "Very Positive"
 },
 "4540090": {
@@ -4754,6 +4851,22 @@
 "ts": "2026-07-26T04:24:46.873578+00:00",
 "verdict": "Very Positive"
 },
+"4705650": {
+"desc": "A tactical, map-based WWII submarine sim set in the Pacific Theater: Approach, intercept, strike unseen, withdraw into the deep. With realistic instruments, a Torpedo Data Computer (TDC), and including a full campaign with missions, patrol zones, radio intel, and more.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Silent Shark",
+"pct": 100,
+"price": "$14.39",
+"release": "Aug 12, 2026",
+"total": 64,
+"ts": "2026-08-15T13:26:39.056334+00:00",
+"verdict": "Very Positive"
+},
 "4710360": {
 "desc": "divine girls: Karia saga! This game is an anime card role-playing game. In the game, players can freely recruit heroes and equip them with the best gear and treasures to conquer this dazzling and dreamlike anime world!",
 "descriptors": [
@@ -4977,6 +5090,20 @@
 "ts": "2026-07-21T04:13:34.472245+00:00",
 "verdict": "Very Positive"
 },
+"4843210": {
+"desc": "Collect units and build powerful synergies on a restricted grid in Hell Deck, a dark roguelike deckbuilder defense game. Construct your own bizarre, twisted ecosystem through a brutal cycle of predation and sacrifice, and defend hell from the holy swarm",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Hell Deck",
+"pct": 93,
+"price": "$1.00",
+"release": "Aug 3, 2026",
+"total": 57,
+"ts": "2026-08-15T13:26:45.535688+00:00",
+"verdict": "Very Positive"
+},
 "4852580": {
 "desc": "John is a detective searching for a missing colleague. He finds himself trapped in a mysterious loop where reality constantly changes. Explore eerie environments, interact with clues, and uncover the truth behind the disappearance in this third-person psychological horror experience.",
 "descriptors": [
@@ -5079,6 +5206,23 @@
 "release": "Jul 10, 2026",
 "total": 68,
 "ts": "2026-07-16T10:53:40.530004+00:00",
+"verdict": "Very Positive"
+},
+"4911390": {
+"desc": "Search, dig deeper, and search again. Can you reach the end of the truth?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "No Results Found",
+"pct": 100,
+"price": "Free",
+"release": "Aug 14, 2026",
+"total": 115,
+"ts": "2026-08-15T13:26:32.592013+00:00",
 "verdict": "Very Positive"
 },
 "4914570": {
@@ -5191,6 +5335,21 @@
 "release": "Aug 6, 2026",
 "total": 315,
 "ts": "2026-08-11T14:17:21.060680+00:00",
+"verdict": "Very Positive"
+},
+"4992070": {
+"desc": "Sort Them Ducks is a cozy organizing simulator where you sort over 4,000 unique rubber ducks onto the correct shelves. Enjoy the satisfying process of turning a messy duck store into a perfectly organized collection at your own pace.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Sort Them Ducks",
+"pct": 88,
+"price": "$5.39",
+"release": "Aug 13, 2026",
+"total": 241,
+"ts": "2026-08-15T13:26:55.189160+00:00",
 "verdict": "Very Positive"
 },
 "606150": {
