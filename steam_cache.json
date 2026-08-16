@@ -451,6 +451,21 @@
 "ts": "2026-07-23T04:13:19.140178+00:00",
 "verdict": "Very Positive"
 },
+"1946560": {
+"desc": "sobosuba is a merge game with ultra-squishy soft-body physics. Satisfying and relaxing -but strategy, tricks, and skill matter for chasing high scores.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "sobosuba",
+"pct": 100,
+"price": "$3.59",
+"release": "Aug 14, 2026",
+"total": 72,
+"ts": "2026-08-16T13:27:25.503269+00:00",
+"verdict": "Very Positive"
+},
 "1983620": {
 "desc": "A metroidvania that combines the visual style of classic retro games with the fluid gameplay of modern titles. Explore different worlds, face challenging enemies and bosses, and absorb their powers to destroy the Core of Infinitevania.",
 "descriptors": [],
@@ -1849,6 +1864,25 @@
 "ts": "2026-08-06T04:01:49.916790+00:00",
 "verdict": "Very Positive"
 },
+"33100": {
+"desc": "The endless darkness and the somber, long passages of a military complex have become the abode of evil, thousands of blood-thirsty creatures fill its offices, storehouses and mysterious laboratories. About 1,000 monsters on each map, showing up to 100 monsters simultaneously on one playing screen.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Alien Shooter",
+"pct": 95,
+"price": "$4.99",
+"release": "May 27, 2009",
+"total": 4742,
+"ts": "2026-08-16T13:25:35.778516+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3312130": {
 "desc": "A Town Builder + Factory Sim where you fully automate a tropical village and feed a giant volcano. Use conveyor belts, trains, boats, zip lines, pipes, water wheels and more to produce massive amounts of items and keep everyone happy!",
 "descriptors": [],
@@ -2772,6 +2806,22 @@
 "release": "Jul 28, 2026",
 "total": 53,
 "ts": "2026-08-06T04:02:12.818876+00:00",
+"verdict": "Very Positive"
+},
+"3816000": {
+"desc": "Flowers and Deities is a strategy deckbuilder roguelite where you command a blood-soaked lizardkin army through escalating arena battles, spending every drop of spilled blood to cast spells, summon creatures, and survive long enough to claim the favor of the Gods",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Flowers and Deities",
+"pct": 88,
+"price": "$11.69",
+"release": "Aug 14, 2026",
+"total": 72,
+"ts": "2026-08-16T13:27:32.212325+00:00",
 "verdict": "Very Positive"
 },
 "3818020": {
@@ -5122,6 +5172,26 @@
 "release": "Jul 16, 2026",
 "total": 51,
 "ts": "2026-07-30T03:54:44.040545+00:00",
+"verdict": "Very Positive"
+},
+"4855450": {
+"desc": "With sudden powers, meet 6 unique girls in an extraordinary campus romance. Campus beauty, teacher, maiden, or girl next door... sweet or dangerous, all have secrets. Don't Blush is a 1st-person FMV romance where your choices shape everyone's fate. Beyond boundaries, beyond mere sparks.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "\u4e0d\u5fc3\u52a8\u624d\u6709\u9b3c",
+"pct": 86,
+"price": "$6.29",
+"release": "Aug 13, 2026",
+"total": 263,
+"ts": "2026-08-16T13:27:28.851415+00:00",
 "verdict": "Very Positive"
 },
 "4860340": {
