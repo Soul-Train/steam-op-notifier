@@ -1240,6 +1240,21 @@
 "ts": "2026-08-08T21:22:53.707922+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2776570": {
+"desc": "Find 100 cats hidden in cosy medieval Germany in this cute hand-drawn hidden object game by Travellin Cats - the original viral hidden cat game creator! Can you find them all?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Travellin Cats in Germany",
+"pct": 97,
+"price": "$0.99",
+"release": "Oct 16, 2024",
+"total": 531,
+"ts": "2026-08-17T09:33:27.899432+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "2783370": {
 "desc": "Explore a world of mayhem and Michaels! Join Teeto the blob and Nory the bunny in this 3D adventure platformer to stop the shadow corruption from spreading. Absorb wild powers, help eccentric characters, and save the world - one Michael at a time!",
 "descriptors": [],
@@ -5309,6 +5324,23 @@
 "release": "Jul 31, 2026",
 "total": 52,
 "ts": "2026-08-05T03:56:56.807574+00:00",
+"verdict": "Very Positive"
+},
+"4914580": {
+"desc": "SURA: Shattered Star is a sword-fighting action platformer set in space. Play as Sura, a mercenary grieving the loss of her comrades, and cut down everything that stands in your way.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "SURA: Shattered Star",
+"pct": 95,
+"price": "Free",
+"release": "Aug 14, 2026",
+"total": 56,
+"ts": "2026-08-17T09:35:16.601587+00:00",
 "verdict": "Very Positive"
 },
 "4914600": {
