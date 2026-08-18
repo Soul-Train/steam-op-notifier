@@ -1056,6 +1056,21 @@
 "ts": "2026-08-07T01:03:15.520134+00:00",
 "verdict": "Very Positive"
 },
+"2682270": {
+"desc": "Pight is a minimalist puzzle game inspired by the Minecraft redstone system, in which we try to turn on the light by using pistons and different block types. It offers a rich puzzle experience thanks to new mechanics added approximately every 10 levels.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Pight",
+"pct": 100,
+"price": "$3.19",
+"release": "Aug 8, 2026",
+"total": 52,
+"ts": "2026-08-18T09:26:41.925017+00:00",
+"verdict": "Very Positive"
+},
 "2684630": {
 "desc": "Endacopia is a Point-and-Click Puzzle Adventure that is visually reminiscent of early computer edutainment games... with underlying horrors.",
 "descriptors": [
@@ -1339,6 +1354,24 @@
 "ts": "2026-07-24T04:11:52.574197+00:00",
 "verdict": "Very Positive"
 },
+"2825860": {
+"desc": "Set in the Roaring '20s, The Sinking City 2 is a survival horror steeped in Lovecraftian dread. Defy an eldritch deity and explore the drowned alleys of Arkham, stalked by the dead, as you weigh one life against an entire city.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "The Sinking City 2",
+"pct": 95,
+"price": "$49.99",
+"release": "Aug 18, 2026",
+"total": 217,
+"ts": "2026-08-18T09:26:48.737901+00:00",
+"verdict": "Very Positive"
+},
 "2840000": {
 "desc": "Lumina Veil, a horror game with a modern twist! Step into the shoes of a popular streamer on a journey into a strange new game. As you dive deeper, you'll find yourself escaping the isolation of your own world, only to discover that the lines between fantasy and reality are beginning to blur.",
 "descriptors": [
@@ -1407,6 +1440,22 @@
 "release": "Jul 29, 2026",
 "total": 98,
 "ts": "2026-07-31T04:20:08.056382+00:00",
+"verdict": "Very Positive"
+},
+"2933200": {
+"desc": "Tukoni: Forest Keepers is a cute &amp; cozy puzzle adventure. Play as Traveller, a forest spirit on a special journey, as you explore magical hand-drawn locations, meet charming characters, solve handcrafted puzzles, collect herbs and tea recipes, and help the forest prepare for the coming winter.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Tukoni: Forest Keepers",
+"pct": 100,
+"price": "$7.49",
+"release": "Aug 17, 2026",
+"total": 111,
+"ts": "2026-08-18T09:26:38.511237+00:00",
 "verdict": "Very Positive"
 },
 "2939790": {
@@ -1688,6 +1737,20 @@
 "release": "Jul 17, 2026",
 "total": 135,
 "ts": "2026-07-18T03:52:14.409632+00:00",
+"verdict": "Very Positive"
+},
+"3165590": {
+"desc": "Gemblades is a single-player deckbuilder where you play heroes to earn resources, recruit stronger Gemblades, and combine powerful synergies into your deck to defeat your enemies.",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Gemblades",
+"pct": 98,
+"price": "$4.79",
+"release": "Aug 7, 2026",
+"total": 50,
+"ts": "2026-08-18T09:26:45.313155+00:00",
 "verdict": "Very Positive"
 },
 "3176720": {
@@ -2876,6 +2939,26 @@
 "release": "Jul 22, 2026",
 "total": 147,
 "ts": "2026-07-24T04:12:19.128043+00:00",
+"verdict": "Very Positive"
+},
+"3849000": {
+"desc": "A solo or co-op RPG inspired by Morrowind. Drawn by a shared dream, you awaken on an isolated island crowned by a silent Tower. Unravel the mystery of the Laughless Saint, confront the weight of human desire, and decide what deserves to be saved when the light beneath the world finally stirs.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"RPG",
+"Early Access"
+],
+"name": "The Lantern of the Laughless Saint",
+"pct": 89,
+"price": "$17.99",
+"release": "Aug 17, 2026",
+"total": 293,
+"ts": "2026-08-18T09:26:55.681001+00:00",
 "verdict": "Very Positive"
 },
 "3869850": {
@@ -5291,6 +5374,23 @@
 "release": "Jul 10, 2026",
 "total": 68,
 "ts": "2026-07-16T10:53:40.530004+00:00",
+"verdict": "Very Positive"
+},
+"4911340": {
+"desc": "In the fictional port city of Rissebra, you work as a marine insurance underwriter. Review the documents brought to your desk by shipowners, and uncover the risks hidden in their vessels, routes, and cargo. The decision to approve or reject each insurance contract rests entirely on your judgment.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "Blue Sign",
+"pct": 94,
+"price": "Free",
+"release": "Aug 14, 2026",
+"total": 51,
+"ts": "2026-08-18T09:26:52.185609+00:00",
 "verdict": "Very Positive"
 },
 "4911390": {
