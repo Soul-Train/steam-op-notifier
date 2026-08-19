@@ -117,6 +117,25 @@
 "ts": "2026-08-01T04:19:35.541584+00:00",
 "verdict": "Very Positive"
 },
+"1441840": {
+"desc": "Accidentally, you obtained a legendary sword and traveled to the &quot;Labyrinth City of Veria-pool&quot;. What awaits you, is not only the wonderful dungeon &quot;Labyrinthos&quot;, which can obtain unlimited treasure, but also the encounters with beautiful and mysterious heroines.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "FALL IN LABYRINTH",
+"pct": 95,
+"price": "$19.99",
+"release": "Apr 16, 2021",
+"total": 1098,
+"ts": "2026-08-19T09:25:42.452553+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1442520": {
 "desc": "Akatori is an epic metroidvania where you wield your staff to fight, jump, and explore diverse realms across different eras. Explore worlds spanning different eras, battle formidable enemies, and help Mako stop the Amber Storms that poison all living things.",
 "descriptors": [],
@@ -195,6 +214,25 @@
 "release": "Aug 11, 2026",
 "total": 258,
 "ts": "2026-08-12T14:18:28.664926+00:00",
+"verdict": "Very Positive"
+},
+"1575990": {
+"desc": "Blast your way through an abandoned 1950s theme park crawling with fairy-tale mascots, twisted puzzles, and deadly traps. Uncover the dark secrets of your past as you race to the top to win back the love of your life.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Twisted Tower",
+"pct": 97,
+"price": "$13.49",
+"release": "Aug 18, 2026",
+"total": 364,
+"ts": "2026-08-19T09:27:37.714284+00:00",
 "verdict": "Very Positive"
 },
 "1582650": {
@@ -1037,6 +1075,22 @@
 "release": "Jun 23, 2026",
 "total": 204,
 "ts": "2026-07-14T17:22:24.928602+00:00",
+"verdict": "Very Positive"
+},
+"2656050": {
+"desc": "Celebrate the 20th anniversary of the indie freeware classic, rebuilt for modern machines! Explore a maze-like planet as the Knytt, a peaceful being abducted by aliens, find your missing ship parts, and get back home in this zen-like atmospheric platformer.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "Knytt Classic",
+"pct": 100,
+"price": "Free",
+"release": "Aug 10, 2026",
+"total": 53,
+"ts": "2026-08-19T09:27:31.082203+00:00",
 "verdict": "Very Positive"
 },
 "2660230": {
@@ -3176,6 +3230,23 @@
 "ts": "2026-07-31T04:20:11.500090+00:00",
 "verdict": "Very Positive"
 },
+"3940340": {
+"desc": "Entropy is a tactical turn-based RPG inspired by classic JRPGs. Assemble your party of mercenaries and forge your own path towards an expedition into hell to stop the demonic incursion. Choices you make along the way will determine the fate of your world.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Entropy",
+"pct": 98,
+"price": "$10.19",
+"release": "Aug 18, 2026",
+"total": 60,
+"ts": "2026-08-19T09:27:34.434585+00:00",
+"verdict": "Very Positive"
+},
 "3946120": {
 "desc": "Chasing the Dawn is a pixel-art roguelike strategy game. Enter the dungeon, use wit and luck to navigate dangers, and lead your characters deeper. Manage risks with items and runes, gather resources, and rebuild your village. Their fate is shaped by your every click.",
 "descriptors": [],
@@ -3609,6 +3680,22 @@
 "ts": "2026-07-22T04:15:08.583570+00:00",
 "verdict": "Very Positive"
 },
+"4129770": {
+"desc": "A dashing blond partner drops in from the sky, declaring they're taking responsibility for you\u2014but they need a small favor.Find them in your dreams, wake them up, and crack the dream maze. Sci-fi comedy, adventure starts now!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Dream about yoU",
+"pct": 96,
+"price": "$6.39",
+"release": "Aug 13, 2026",
+"total": 95,
+"ts": "2026-08-19T09:27:44.333377+00:00",
+"verdict": "Very Positive"
+},
 "4141710": {
 "desc": "Sit back and relax with Neko Station, a cozy 2D Pixel Art Desktop Idle Game! Manage your very own 'cat train,' decorating it with the perfect furniture to attract a diverse cast of feline customers. Pick them up at various stations and build friendships in this heartwarming adventure.",
 "descriptors": [],
@@ -3833,6 +3920,23 @@
 "release": "Jul 22, 2026",
 "total": 117,
 "ts": "2026-07-24T04:11:59.160944+00:00",
+"verdict": "Very Positive"
+},
+"4235410": {
+"desc": "Frenetic action and LCD aesthetic! In this 2D Shoot 'Em Up, switch between a robot hero and his benign tumor to stop a bizarre cult. You have 8 hours to save humanity's memory: defeat grotesque bosses, ride the skies on your Future Board, and master the chaos in a retro-futuristic Tokyo.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Future Knight",
+"pct": 97,
+"price": "$13.49",
+"release": "Aug 13, 2026",
+"total": 64,
+"ts": "2026-08-19T09:27:41.039221+00:00",
 "verdict": "Very Positive"
 },
 "4240150": {
@@ -4297,6 +4401,23 @@
 "release": "Jul 30, 2026",
 "total": 85,
 "ts": "2026-08-02T04:22:33.912580+00:00",
+"verdict": "Very Positive"
+},
+"4415740": {
+"desc": "The Pale Mimic is an atmospheric horror set in the untamed Alaskan wilderness. As a high profile fugitive on the run, it\u2019s just you and your dog surviving in the chilling forests, until something else shows up uninvited.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "The Pale Mimic",
+"pct": 89,
+"price": "$6.79",
+"release": "Aug 17, 2026",
+"total": 97,
+"ts": "2026-08-19T09:27:51.038883+00:00",
 "verdict": "Very Positive"
 },
 "4421010": {
@@ -5537,6 +5658,22 @@
 "release": "Aug 6, 2026",
 "total": 315,
 "ts": "2026-08-11T14:17:21.060680+00:00",
+"verdict": "Very Positive"
+},
+"4977360": {
+"desc": "A zero-player idle RPG in the spirit of Progress Quest, told in a Win9x chronicle. Shape a 2,108-skill tree, face 179 illustrated monsters, earn 100 achievements and find tens of thousands of equipment combinations in two adventures. Watch it run or close the window.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Simulation",
+"Free To Play"
+],
+"name": "Lowmoor Idle RPG: An Adventurer's Chronicle",
+"pct": 94,
+"price": "Free",
+"release": "Aug 7, 2026",
+"total": 51,
+"ts": "2026-08-19T09:27:47.666824+00:00",
 "verdict": "Very Positive"
 },
 "4992070": {
