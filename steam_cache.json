@@ -1060,6 +1060,25 @@
 "ts": "2026-07-17T07:15:21.797867+00:00",
 "verdict": "Very Positive"
 },
+"2648900": {
+"desc": "The World Well: Blood of Caro is a cinematic dark fantasy visual novel where every choice reveals another piece of the truth. Join 4 and Noma as they journey through a vampire-ruled world filled with unforgettable characters, hidden secrets, and difficult decisions.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "The World Well: Blood of Caro",
+"pct": 95,
+"price": "$10.79",
+"release": "Aug 17, 2026",
+"total": 64,
+"ts": "2026-08-20T09:28:01.849473+00:00",
+"verdict": "Very Positive"
+},
 "2654990": {
 "desc": "Think you can handle a little romance with creatures from Spanish folklore? \u2764\ufe0f\u200d\ud83d\udd25 Careful: your love life isn\u2019t the only thing at stake at Mythic Love: Iberian Legends.",
 "descriptors": [
@@ -1919,6 +1938,25 @@
 "ts": "2026-08-07T21:33:39.737735+00:00",
 "verdict": "Very Positive"
 },
+"3275750": {
+"desc": "Finland 1994. The golden era of action is back. Dive into a gritty, story-driven sandbox where the 90s hit hard. Survive as Seppo &quot;Zeze&quot; Sahtivaara, drive retro cars, listen to a killer soundtrack, master intense 1v1 fights, and soak in pure nostalgia. Grab a beer and enjoy a Sauna by the lake.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Last Drop",
+"pct": 88,
+"price": "$11.19",
+"release": "Aug 18, 2026",
+"total": 101,
+"ts": "2026-08-20T09:28:11.627349+00:00",
+"verdict": "Very Positive"
+},
 "3275880": {
 "desc": "In Chronoquartz, every move matters! You have 10 turns per loop: explore, solve puzzles, and use your past knowledge to progress. Strategy, critical thinking, and time management will be your allies in this unique temporal adventure. Will you succeed in saving time?",
 "descriptors": [],
@@ -2422,6 +2460,20 @@
 "release": "Aug 6, 2026",
 "total": 68,
 "ts": "2026-08-09T21:25:55.263340+00:00",
+"verdict": "Very Positive"
+},
+"3503710": {
+"desc": "Trade horses, formulate feed, and breed generations of elite stallions, racehorses, draft mounts, war horses, and more. Train, auction, mine, forge, farm, run caravans, build a mercenary force, and deal with powerful lords. Dominate the medieval horse trade.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Medieval Horse Dealer Simulator",
+"pct": 92,
+"price": "$16.19",
+"release": "Aug 17, 2026",
+"total": 66,
+"ts": "2026-08-20T09:28:05.139556+00:00",
 "verdict": "Very Positive"
 },
 "3507880": {
@@ -4156,6 +4208,22 @@
 "ts": "2026-08-07T21:33:46.546523+00:00",
 "verdict": "Very Positive"
 },
+"4315040": {
+"desc": "Start with a campfire. Build a kingdom. Hearth and Hamlet is a medieval citybuilder clicker that blends resource management, in-depth upgrade trees and relaxing idle gameplay. Build your empire by researching new technologies, passing new laws, trading with far-off lands, and more.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Strategy"
+],
+"name": "Hearth and Hamlet",
+"pct": 86,
+"price": "$7.19",
+"release": "Aug 19, 2026",
+"total": 244,
+"ts": "2026-08-20T09:28:08.389664+00:00",
+"verdict": "Very Positive"
+},
 "4323800": {
 "desc": "&quot;Guardian of the Sacred Seal&quot; is a story-driven adventure game centered on the concept: \u201cTo be unconditionally loved by a yandere young man.\u201d In the otherworldly paradise of Gokurakud\u014d, a young girl partners with a mysterious man to handle seemingly ordinary requests that hide deeper secrets.",
 "descriptors": [],
@@ -4514,6 +4582,24 @@
 "total": 80,
 "ts": "2026-07-15T14:46:37.124457+00:00",
 "verdict": "Very Positive"
+},
+"4488860": {
+"desc": "A detective noir puzzle deduction game. Explore a non-linear timeline as a clairvoyant investigator in 1941 Borneo. Jump between time and locations to uncover motives and discover what truly happened in the Goodwill tobacco plantation that fateful night on the eve of the WW2 Japanese invasion.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "The Red Pearls Of Borneo",
+"pct": 96,
+"price": "Free",
+"release": "Mar 27, 2026",
+"total": 4117,
+"ts": "2026-08-20T09:26:13.848928+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4502710": {
 "desc": "DWARF COMBAT! Stonewards is a 1-4 player co-op first-person roguelite defense game. Lead a crew of stubborn dwarves from your base camp to aid nearby kingdoms, mine deep for resources, forge powerful upgrades, and hold the line against relentless monster attacks.",
