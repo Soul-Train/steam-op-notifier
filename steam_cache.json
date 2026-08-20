@@ -5762,6 +5762,18 @@
 "ts": "2026-08-19T09:27:47.666824+00:00",
 "verdict": "Very Positive"
 },
+"4981740": {
+"desc": "action 3d platformer with a variety of gimmicks including block throwing, whip combat, pinball and stealth",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "bolmn",
+"price": "$0.99",
+"release": "Aug 5, 2026",
+"ts": "2026-08-20T17:21:11.118467+00:00"
+},
 "4992070": {
 "desc": "Sort Them Ducks is a cozy organizing simulator where you sort over 4,000 unique rubber ducks onto the correct shelves. Enjoy the satisfying process of turning a messy duck store into a perfectly organized collection at your own pace.",
 "descriptors": [],
