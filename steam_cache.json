@@ -838,6 +838,23 @@
 "ts": "2026-07-30T03:54:20.919892+00:00",
 "verdict": "Very Positive"
 },
+"2477710": {
+"desc": "A cozy creature-collecting life sim with deep creature care, roguelite action, and a focus on nurturing, discovery, and atmosphere. Raise adorable Nimbits, build cozy custom habitats, and explore the shifting Underwild to uncover rare species and support their conservation.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Nimbit Frontier",
+"pct": 96,
+"price": "$12.59",
+"release": "Aug 17, 2026",
+"total": 54,
+"ts": "2026-08-21T05:32:51.152691+00:00",
+"verdict": "Very Positive"
+},
 "2478640": {
 "desc": "Leap, swing, and spin webs in a casual 3D adventure! Play as Spider Fox, rescue bizarre animals from a mad scientist, and uncover colorful worlds packed with secrets.",
 "descriptors": [],
@@ -1309,6 +1326,20 @@
 "release": "Jul 22, 2026",
 "total": 78,
 "ts": "2026-07-25T04:01:29.960777+00:00",
+"verdict": "Very Positive"
+},
+"2768380": {
+"desc": "Repterra is a base-building survival RTS set in a world overrun by dinosaurs. Manage your colony while battling massive dino hordes. Breed and ride your own dinos, unlock permanent upgrades, and fight to reclaim the world for humanity.",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Repterra",
+"pct": 91,
+"price": "$13.39",
+"release": "Aug 20, 2026",
+"total": 89,
+"ts": "2026-08-21T05:33:04.540403+00:00",
 "verdict": "Very Positive"
 },
 "2775370": {
@@ -2053,6 +2084,22 @@
 "ts": "2026-08-16T13:25:35.778516+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3312030": {
+"desc": "Train AI to drive! Create your own neural network and watch it evolve from chaos to mastery with the power of evolutionary algorithms and natural selection. Fine-tune the learning process to craft the ultimate AI driver, and test your creation in campaign challenges or on custom-built tracks.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Racing",
+"Simulation"
+],
+"name": "AI Learns To Drive",
+"pct": 95,
+"price": "$5.99",
+"release": "Aug 20, 2026",
+"total": 193,
+"ts": "2026-08-21T05:32:54.473711+00:00",
+"verdict": "Very Positive"
+},
 "3312130": {
 "desc": "A Town Builder + Factory Sim where you fully automate a tropical village and feed a giant volcano. Use conveyor belts, trains, boats, zip lines, pipes, water wheels and more to produce massive amounts of items and keep everyone happy!",
 "descriptors": [],
@@ -2152,6 +2199,23 @@
 "ts": "2026-08-13T14:20:11.258726+00:00",
 "verdict": "Very Positive"
 },
+"3345950": {
+"desc": "Play cards with your friends or meet new opponents at a local bar where every match is a brand-new challenge! Test your strategy across 3 different game modes, each with their own unique rules and systems! Victory is never guaranteed, and there's always one card that can flip everything.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Capote",
+"pct": 93,
+"price": "$4.19",
+"release": "Aug 20, 2026",
+"total": 178,
+"ts": "2026-08-21T05:32:57.807082+00:00",
+"verdict": "Very Positive"
+},
 "3347200": {
 "desc": "Cat Gladiator is a hardcore 2D slow-paced Monster Hunter-like action game! 4-player co-op, a wide variety of weapons, equipment, and items to aid in arena Boss battles. Become an adorable gladiator cat, team up with friends, conquer tough Bosses, and savor victory!",
 "descriptors": [],
@@ -2183,6 +2247,23 @@
 "release": "Jul 23, 2026",
 "total": 60,
 "ts": "2026-07-27T04:34:27.870930+00:00",
+"verdict": "Very Positive"
+},
+"3358340": {
+"desc": "Witchblood is a first-person psychological horror game that draws you into the heart of a dark curse. Explore a decaying house where reality begins to unravel. Uncover the truth behind a forgotten family\u2019s tragedy and face what should have remained buried.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie"
+],
+"name": "Witchblood",
+"pct": 85,
+"price": "$7.99",
+"release": "Aug 13, 2026",
+"total": 73,
+"ts": "2026-08-21T05:33:21.232133+00:00",
 "verdict": "Very Positive"
 },
 "3364150": {
@@ -3434,6 +3515,25 @@
 "ts": "2026-08-06T04:02:19.416864+00:00",
 "verdict": "Very Positive"
 },
+"4001890": {
+"desc": "A 1-4 player physics based fishing simulator. While drinking and boating you suddenly crash into a small island. To work your way back home you have to learn How to Fish.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "How to Fish",
+"pct": 96,
+"price": "$4.95",
+"release": "Aug 20, 2026",
+"total": 1241,
+"ts": "2026-08-21T05:30:54.469912+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4009450": {
 "desc": "Petunia's Purgatory is a creepy-cute idle farming game that lives at the bottom of your screen. Grow cursed crops, feed the Elder God, and keep Petunia sane before her hallucinations invade your desktop.",
 "descriptors": [],
@@ -3567,6 +3667,23 @@
 "release": "Jul 9, 2026",
 "total": 69,
 "ts": "2026-07-17T07:15:25.165043+00:00",
+"verdict": "Very Positive"
+},
+"4077060": {
+"desc": "Build your own pachinko! Upgrade pins and balls, unleash powerful synergies, and help a shattered village rise again in this incremental adventure.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Void Pachinko",
+"pct": 91,
+"price": "$5.59",
+"release": "Aug 17, 2026",
+"total": 54,
+"ts": "2026-08-21T05:33:07.908600+00:00",
 "verdict": "Very Positive"
 },
 "4078110": {
@@ -3746,6 +3863,23 @@
 "release": "Aug 13, 2026",
 "total": 95,
 "ts": "2026-08-19T09:27:44.333377+00:00",
+"verdict": "Very Positive"
+},
+"4132330": {
+"desc": "Run your dream pizzeria solo or with up to 6 players in chaotic online co-op multiplayer. Cook authentic pizzas, automate your kitchen, customize your restaurant, survive disasters, invest in stocks, gamble and build the ultimate Italian restaurant empire.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Pizza House Simulator\ud83c\udf55",
+"pct": 87,
+"price": "$9.74",
+"release": "Aug 19, 2026",
+"total": 98,
+"ts": "2026-08-21T05:33:17.948086+00:00",
 "verdict": "Very Positive"
 },
 "4141710": {
@@ -4086,6 +4220,26 @@
 "release": "Jul 21, 2026",
 "total": 152,
 "ts": "2026-07-22T04:15:21.868522+00:00",
+"verdict": "Very Positive"
+},
+"4289150": {
+"desc": "Players will take on the role of a savior transported to a miniature world, rescuing flowers through battles and trials, protecting and caring for them, and embarking on a new harem life in a perilous fantasy world.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Can Your Otaku Cabinet Grow a Beautiful Girl?",
+"pct": 97,
+"price": "$8.99",
+"release": "Aug 20, 2026",
+"total": 62,
+"ts": "2026-08-21T05:32:47.793762+00:00",
 "verdict": "Very Positive"
 },
 "4290680": {
@@ -4437,6 +4591,21 @@
 "ts": "2026-07-25T04:01:26.551005+00:00",
 "verdict": "Very Positive"
 },
+"4376090": {
+"desc": "This is a story about a strong-willed newlywed wife who begins to change after meeting a Black man. Due to his own inadequacy, the protagonist arranges a partner for her\u2014but the man she meets is a large, imposing figure, and from then on, she starts to change in unsettling ways\u2026",
+"descriptors": [],
+"genres": [
+"Casual",
+"RPG"
+],
+"name": "Strong-Willed Wife",
+"pct": 94,
+"price": "$6.39",
+"release": "Aug 19, 2026",
+"total": 79,
+"ts": "2026-08-21T05:33:01.178284+00:00",
+"verdict": "Very Positive"
+},
 "4385270": {
 "desc": "A cozy pet sim where you raise Ember, your magical fox-like companion. Bring her home, care for her, and venture into the Otherlands together -- deepening your bond one adventure at a time.",
 "descriptors": [],
@@ -4715,6 +4884,23 @@
 "release": "Jul 18, 2026",
 "total": 63,
 "ts": "2026-07-21T04:13:37.746105+00:00",
+"verdict": "Very Positive"
+},
+"4534000": {
+"desc": "Deliver Minerals. Earn Tokens. Meet Deadlines. Upgrade your Infrastructure. Grow the Numbers. Deploy Human Resources. Manipulate the Token Market. Automate the Network with Delivery Drones. Enjoy the Grind. Enjoy the Future. Enjoy the PROFITS.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "PROFITS 2167: Planetary Resource Optimization & Freight Infrastructure Technician Simulator",
+"pct": 100,
+"price": "$5.59",
+"release": "Aug 17, 2026",
+"total": 80,
+"ts": "2026-08-21T05:32:44.425157+00:00",
 "verdict": "Very Positive"
 },
 "4537400": {
@@ -5746,6 +5932,21 @@
 "ts": "2026-08-11T14:17:21.060680+00:00",
 "verdict": "Very Positive"
 },
+"4951190": {
+"desc": "Konbini Cleanup is a cozy organizing simulator where you sort 2,928 products in a messy konbini. Clean, learn abilities, and restore order in a calm and atmospheric environment.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Konbini Cleanup",
+"pct": 87,
+"price": "$5.39",
+"release": "Aug 14, 2026",
+"total": 55,
+"ts": "2026-08-21T05:33:14.606218+00:00",
+"verdict": "Very Positive"
+},
 "4977360": {
 "desc": "A zero-player idle RPG in the spirit of Progress Quest, told in a Win9x chronicle. Shape a 2,108-skill tree, face 179 illustrated monsters, earn 100 achievements and find tens of thousands of equipment combinations in two adventures. Watch it run or close the window.",
 "descriptors": [],
@@ -5894,6 +6095,25 @@
 "release": "Aug 4, 2026",
 "total": 70,
 "ts": "2026-08-06T04:02:06.128568+00:00",
+"verdict": "Very Positive"
+},
+"903930": {
+"desc": "Isometric insurgent simulator. Fight on foot and in vehicles, build and steal a private arsenal and bring the war home to the businessmen who started it all in this continuation of the Brigador saga.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "Brigador Killers",
+"pct": 90,
+"price": "$22.49",
+"release": "Aug 20, 2026",
+"total": 90,
+"ts": "2026-08-21T05:33:11.286537+00:00",
 "verdict": "Very Positive"
 },
 "931060": {
