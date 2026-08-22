@@ -1,4 +1,4 @@
-# Overwhelmingly Positive games (1377)
+# Overwhelmingly Positive games (1376)
 
 - [100 Asian Cats](https://store.steampowered.com/app/2667970/)
 - [100 Capitalist Cats](https://store.steampowered.com/app/2743080/)
@@ -198,7 +198,6 @@
 - [Chicory: A Colorful Tale](https://store.steampowered.com/app/1123450/)
 - [Children of Silentown: Prologue](https://store.steampowered.com/app/1451740/)
 - [Chill with You : Lo-Fi Story](https://store.steampowered.com/app/3548580/)
-- [Chime](https://store.steampowered.com/app/62100/)
 - [Choice of Robots](https://store.steampowered.com/app/339350/)
 - [Chop Goblins](https://store.steampowered.com/app/1935660/)
 - [Chronigma](https://store.steampowered.com/app/4051150/)
