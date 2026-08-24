@@ -503,6 +503,22 @@
 "ts": "2026-07-23T04:13:19.140178+00:00",
 "verdict": "Very Positive"
 },
+"1939390": {
+"desc": "A 2\u20134 player party brawler where classic party-game chaos meets fast, punchy combat. Score goals, steal stars, dodge hazards, and sabotage your friends in chaotic minigames!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "Dino Party",
+"pct": 98,
+"price": "$9.59",
+"release": "Aug 14, 2026",
+"total": 60,
+"ts": "2026-08-24T02:21:17.024412+00:00",
+"verdict": "Very Positive"
+},
 "1946560": {
 "desc": "sobosuba is a merge game with ultra-squishy soft-body physics. Satisfying and relaxing -but strategy, tricks, and skill matter for chasing high scores.",
 "descriptors": [],
@@ -1736,6 +1752,21 @@
 "ts": "2026-08-03T04:25:33.360421+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3036350": {
+"desc": "A short non-linear detective adventure where every clue is hidden in plain sight. Carefully read and cross-reference documents to unravel a CEO\u2019s disappearance and expose a case of fraud.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "A Case of Fraud",
+"pct": 98,
+"price": "$8.99",
+"release": "Nov 10, 2025",
+"total": 516,
+"ts": "2026-08-24T02:19:25.829513+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3041280": {
 "desc": "In this short visual novel, four prisoners on death row are cleared of all charges. But the prison has a quota to meet. The four are put in a room and asked to decide among themselves over the course of an hour... who will be the one to die?",
 "descriptors": [],
@@ -2044,6 +2075,23 @@
 "release": "Jul 17, 2026",
 "total": 135,
 "ts": "2026-07-19T04:20:58.528220+00:00",
+"verdict": "Very Positive"
+},
+"3222890": {
+"desc": "A simulation and RPG game with multiple endings, set in a Chinese restaurant. Play as the owner, and manage the restaurant, form bonds with characters, and explore the lively town. Uncover the secrets behind the restaurant\u2019s mysterious downfall.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Taste of the Wind",
+"pct": 88,
+"price": "$9.67",
+"release": "Aug 21, 2026",
+"total": 91,
+"ts": "2026-08-24T02:21:40.562425+00:00",
 "verdict": "Very Positive"
 },
 "3226060": {
@@ -4408,6 +4456,22 @@
 "ts": "2026-07-24T04:11:59.160944+00:00",
 "verdict": "Very Positive"
 },
+"4225400": {
+"desc": "The printer is bleeding, the Wi-Fi is haunted, and Ticket #666 just came in. As the latest hire for a company run by cosmic horrors, your job is simple: Swipe to survive. Make binary decisions to survive the night shift in this dark comedy desktop simulator. I.T truly never ends.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "I.T. Never Ends",
+"pct": 98,
+"price": "$12.99",
+"release": "Aug 14, 2026",
+"total": 54,
+"ts": "2026-08-24T02:21:20.368340+00:00",
+"verdict": "Very Positive"
+},
 "4225890": {
 "desc": "An idle detective game that sits in the corner of your screen while you do other things.",
 "descriptors": [],
@@ -4624,6 +4688,21 @@
 "release": "Jul 14, 2026",
 "total": 138,
 "ts": "2026-07-15T14:46:43.950335+00:00",
+"verdict": "Very Positive"
+},
+"4300950": {
+"desc": "A space-themed incremental shooter where destruction fuels growth. Annihilate asteroids, harvest wealth, and climb a massive upgrade tree.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Around The Core",
+"pct": 89,
+"price": "$3.39",
+"release": "Aug 21, 2026",
+"total": 53,
+"ts": "2026-08-24T02:21:33.749343+00:00",
 "verdict": "Very Positive"
 },
 "4302940": {
@@ -4922,6 +5001,23 @@
 "ts": "2026-08-21T05:33:01.178284+00:00",
 "verdict": "Very Positive"
 },
+"4380750": {
+"desc": "A miraculous fuel, or a parasitic plague that spells the end of humanity? In a civilization collapsed by global war, fight for survival against the brain-controlling Emerald Flower, feral armies, and ruthless factions, each driven by their own desperate ideologies.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Emerald Flower",
+"pct": 98,
+"price": "$0.99",
+"release": "Aug 1, 2026",
+"total": 52,
+"ts": "2026-08-24T02:21:23.694466+00:00",
+"verdict": "Very Positive"
+},
 "4385270": {
 "desc": "A cozy pet sim where you raise Ember, your magical fox-like companion. Bring her home, care for her, and venture into the Otherlands together -- deepening your bond one adventure at a time.",
 "descriptors": [],
@@ -4937,6 +5033,21 @@
 "release": "Jul 14, 2026",
 "total": 60,
 "ts": "2026-07-27T04:34:34.369672+00:00",
+"verdict": "Very Positive"
+},
+"4403010": {
+"desc": "A pachinko-roguelite about scoring big numbers. Build your board, pop pegs, and discover run-breaking stickers.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Pegs X Stickers",
+"pct": 92,
+"price": "$4.97",
+"release": "Aug 14, 2026",
+"total": 52,
+"ts": "2026-08-24T02:21:30.410521+00:00",
 "verdict": "Very Positive"
 },
 "4403510": {
@@ -5149,6 +5260,39 @@
 "release": "Jul 15, 2026",
 "total": 227,
 "ts": "2026-07-17T07:15:55.051678+00:00",
+"verdict": "Very Positive"
+},
+"4516490": {
+"desc": "nudge is a cozy organization-sim about finding space for your work, mom, and huge assortment of gacha toys. Unbox over 50 collectibles from 8 unique sets, decorate your first apartment, and try to find room for everything in your life, including mom.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "nudge",
+"pct": 100,
+"price": "Free",
+"release": "Aug 18, 2026",
+"total": 52,
+"ts": "2026-08-24T02:21:13.639391+00:00",
+"verdict": "Very Positive"
+},
+"4516880": {
+"desc": "You, a simple dog named Mr Peanut, find yourself in a weird cabin full of secrets... Will you be able to warn the family of the dangers? A horror game filled with mystery!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Unusual Tales: After Bark",
+"pct": 93,
+"price": "$6.29",
+"release": "Aug 14, 2026",
+"total": 61,
+"ts": "2026-08-24T02:21:26.996303+00:00",
 "verdict": "Very Positive"
 },
 "4519130": {
@@ -6339,6 +6483,20 @@
 "release": "Aug 14, 2026",
 "total": 55,
 "ts": "2026-08-21T05:33:14.606218+00:00",
+"verdict": "Very Positive"
+},
+"4953610": {
+"desc": "A cosy first-person pharmacy sim with a wicked streak. 12,792 items. One unbelievable mess. Stock the shelves, buy the upgrades, and climb a corporate ladder that probably shouldn't exist. Then try not to think too hard about what's at the top.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Big Bad Pharma",
+"pct": 87,
+"price": "$6.99",
+"release": "Aug 11, 2026",
+"total": 52,
+"ts": "2026-08-24T02:21:37.141673+00:00",
 "verdict": "Very Positive"
 },
 "4977360": {
