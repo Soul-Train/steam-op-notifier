@@ -791,6 +791,23 @@
 "ts": "2026-08-07T01:03:12.121581+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2332150": {
+"desc": "Start your new life as a caretaker for an island of frogs in this cozy creature-collector! Build your dream island, discover magical wildlife, and uncover the island's many hidden secrets, to try and piece together the past life you've somehow forgotten.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Simulation",
+"Free To Play"
+],
+"name": "Frog Island",
+"pct": 95,
+"price": "$7.19",
+"release": "Aug 20, 2026",
+"total": 80,
+"ts": "2026-08-25T02:16:54.308247+00:00",
+"verdict": "Very Positive"
+},
 "2372240": {
 "desc": "Re:Night is a strategy game that blends turn based tactics with roguelike deckbuilding. In each run, build your deck, plan your tactics, and experiment with countless 3-character team combinations. Journey to a mysterious town, break the endless cycle of night, and bring dawn back to the world.",
 "descriptors": [],
@@ -916,6 +933,25 @@
 "release": "Apr 3, 2024",
 "total": 61,
 "ts": "2026-08-07T01:01:29.605636+00:00",
+"verdict": "Very Positive"
+},
+"2499040": {
+"desc": "Volkolak: The Will of Gods is an epic 2D soulsvania in a dark Slavic fantasy setting, with hand-drawn animation. Explore an enchanted world full of secrets and enemies. Your choices will lead to several endings: become a warrior, a werewolf, or join the darkness.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Volkolak: The Will of Gods",
+"pct": 92,
+"price": "$11.19",
+"release": "Aug 24, 2026",
+"total": 266,
+"ts": "2026-08-25T02:17:07.199975+00:00",
 "verdict": "Very Positive"
 },
 "2505590": {
@@ -1622,6 +1658,22 @@
 "ts": "2026-07-17T07:13:16.661595+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2880010": {
+"desc": "The evil goddess seeks to devour and remake the world\u2026 and you are what stands in her way. Fight and kill, expand your skill tree, craft and build, and lead the world\u2019s people to victory in Din\u2019s Champion, a multiplayer fantasy action-RPG where every choice matters, and the choices are endless.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Din's Champion",
+"pct": 92,
+"price": "$15.99",
+"release": "Aug 24, 2026",
+"total": 114,
+"ts": "2026-08-25T02:16:57.574018+00:00",
+"verdict": "Very Positive"
+},
 "2880730": {
 "desc": "Kidnapped by a cute yandere catgirl, your only way out is to persuade her to let you leave! Engage with thematic stories, solve puzzles, and interact with best yandere AI NPCs in this top-rated AI game loved by millions of fans. Bask in sweet meet-cutes, or brace for chaos if you dare to escape! :3",
 "descriptors": [],
@@ -2109,6 +2161,21 @@
 "release": "Aug 21, 2026",
 "total": 91,
 "ts": "2026-08-24T02:21:40.562425+00:00",
+"verdict": "Very Positive"
+},
+"3224540": {
+"desc": "Face off in this challenging bullet-hell arena shooter, and try to clear bite-sized boss rush encounters. Learn to dodge their attacks, cast offensive and defensive spells, and kill everything that gets in your way.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "VOIDFACE",
+"pct": 99,
+"price": "$8.09",
+"release": "Aug 18, 2026",
+"total": 70,
+"ts": "2026-08-25T02:16:47.937221+00:00",
 "verdict": "Very Positive"
 },
 "3226060": {
@@ -3802,6 +3869,20 @@
 "ts": "2026-07-15T14:46:33.562714+00:00",
 "verdict": "Very Positive"
 },
+"3994120": {
+"desc": "AI Pixel Battle is a drawing battle game where you draw original monsters to defeat your opponents. The AI analyzes your monster's appearance to determine its abilities, decides the winner, and narrates how the battle unfolds. Unleash your creativity and create your own monster!",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "AI Pixel Battle",
+"pct": 95,
+"price": "$7.19",
+"release": "Aug 21, 2026",
+"total": 65,
+"ts": "2026-08-25T02:16:51.124750+00:00",
+"verdict": "Very Positive"
+},
 "3997240": {
 "desc": "A militaria collecting simulator where you hunt for items through metal detecting, auctions, and markets to build your collection and customize your home. Travel to various locations to uncover the relics of different conflicts throughout history.",
 "descriptors": [],
@@ -3831,6 +3912,24 @@
 "release": "Aug 21, 2026",
 "total": 92,
 "ts": "2026-08-23T02:22:42.991560+00:00",
+"verdict": "Very Positive"
+},
+"4001350": {
+"desc": "Iron Blight is a survival horror game set in a cold, rainy Eastern Bloc town. You are trapped in a room as abominations claw at your door, with nowhere to run. You must survive the feverish night, uncover the horrors lurking in the shadows, and above all, find your wife, Valeria.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Iron Blight",
+"pct": 93,
+"price": "$9.99",
+"release": "Aug 24, 2026",
+"total": 75,
+"ts": "2026-08-25T02:17:00.781799+00:00",
 "verdict": "Very Positive"
 },
 "4001890": {
@@ -4001,6 +4100,21 @@
 "release": "Jul 9, 2026",
 "total": 69,
 "ts": "2026-07-17T07:15:25.165043+00:00",
+"verdict": "Very Positive"
+},
+"4075620": {
+"desc": "A mini citybuilding roguelike. Place buildings, stack combos, and master deep strategy in short bursts to create a tiny thriving metropolis!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Combolands: Roguelike Citybuilder",
+"pct": 98,
+"price": "$7.99",
+"release": "Aug 24, 2026",
+"total": 105,
+"ts": "2026-08-25T02:16:44.719271+00:00",
 "verdict": "Very Positive"
 },
 "4077060": {
@@ -5476,6 +5590,23 @@
 "ts": "2026-07-14T17:22:18.320065+00:00",
 "verdict": "Very Positive"
 },
+"4560660": {
+"desc": "Arena combat meets mercenary club management. Recruit from a dynamic market, build your squad, and compete season after season in leagues and cups.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Eslabong",
+"pct": 93,
+"price": "$12.74",
+"release": "Aug 24, 2026",
+"total": 74,
+"ts": "2026-08-25T02:17:03.974373+00:00",
+"verdict": "Very Positive"
+},
 "4563880": {
 "desc": "it's about walking",
 "descriptors": [],
@@ -6574,6 +6705,22 @@
 "total": 21979,
 "ts": "2026-08-05T22:06:59.911684+00:00",
 "verdict": "Very Positive"
+},
+"630060": {
+"desc": "This is a cure Department of small fresh plot to the chamber of Secrets escape game, rich in 18 kinds of endings, a lot of funny content and hidden secrets.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "\u5bc7\u838e\u6885\u7279\uff1a\u56f0\u4e16\u8ff7\u60c5 Consummate:Missing World",
+"pct": 95,
+"price": "$0.49",
+"release": "Jul 21, 2017",
+"total": 1322,
+"ts": "2026-08-25T02:14:57.666477+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "674750": {
 "desc": "Top-down zombie shooter with tower defense elements featuring up to 4 players local and online co-op. Build your base by day, defend it by night, put your skills to the test to stay alive as long as possible! Darkness is coming. How long can YOU survive?",
