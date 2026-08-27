@@ -99,6 +99,23 @@
 "ts": "2026-07-17T17:58:44.763997+00:00",
 "verdict": "Very Positive"
 },
+"1293650": {
+"desc": "b 2: online multiplayer an alien place you are the bee: fly where you like, play as you like",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Massively Multiplayer",
+"Racing"
+],
+"name": "b 2",
+"pct": 91,
+"price": "Free",
+"release": "Aug 25, 2026",
+"total": 281,
+"ts": "2026-08-27T00:24:52.570497+00:00",
+"verdict": "Very Positive"
+},
 "1318690": {
 "desc": "shapez is an easy-going, minimalistic factory building game about the automation of shapes through extraction and satisfying production lines. Adapt to increasingly complex shapes and grow your factory across an infinitely expanding map. Your only limitation is your creativity!",
 "descriptors": [],
@@ -1678,6 +1695,22 @@
 "ts": "2026-08-18T09:26:48.737901+00:00",
 "verdict": "Very Positive"
 },
+"2827750": {
+"desc": "Dive into Fatal Claw, a Metroidvania game in vibrant 2D artwork. Explore the arcane underworld your way with Kisha. Your ultimate goal is to find the key to the surface world alongside other survivors, while vanquishing infected enemies and absorbing their power. Start your clawsome adventure now!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Fatal Claw",
+"pct": 93,
+"price": "$19.99",
+"release": "Aug 26, 2026",
+"total": 194,
+"ts": "2026-08-27T00:24:45.612505+00:00",
+"verdict": "Very Positive"
+},
 "2836460": {
 "desc": "Engineer the marble run of your dreams. No need to get it perfect \u2013 just release your marbles and let the good times roll.",
 "descriptors": [],
@@ -1994,6 +2027,23 @@
 "ts": "2026-07-26T04:22:52.355778+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3069340": {
+"desc": "Bzz bzz! Hop in chaotic bomb-fueled battles inspired by arcade action classics we all love! Blaster up to 8 players locally with ant-astics Pome-grenades in this bomb-em-up party game and bee the last bug standing!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Blasterbug: Last Bug Standing! ",
+"pct": 100,
+"price": "Free",
+"release": "Aug 24, 2026",
+"total": 55,
+"ts": "2026-08-27T00:24:31.616445+00:00",
+"verdict": "Very Positive"
+},
 "3075410": {
 "desc": "HAND OF FATE: HORDES is a dark-fantasy bullet heaven auto-shooter powered by your strategic deckbuilding mastery. Survive the horde, forge your build, and unleash devastating attacks to escape a netherworld beyond the 13th Gate. Thrive in chaos!",
 "descriptors": [],
@@ -2074,6 +2124,21 @@
 "release": "Jul 21, 2026",
 "total": 185,
 "ts": "2026-07-23T04:13:29.023946+00:00",
+"verdict": "Very Positive"
+},
+"3126500": {
+"desc": "Command your nation's armies, economy, and diplomacy in this WWII Grand Strategy Wargame. Easy to start, hard to master and a full match fits in one session. Play singleplayer and multiplayer, or create, play and share your own custom scenarios with the built-in Scenario Editor.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "States of Power",
+"pct": 93,
+"price": "$10.19",
+"release": "Aug 26, 2026",
+"total": 60,
+"ts": "2026-08-27T00:24:41.986630+00:00",
 "verdict": "Very Positive"
 },
 "3141630": {
@@ -2694,6 +2759,21 @@
 "release": "Jul 16, 2026",
 "total": 329,
 "ts": "2026-07-17T07:15:45.075633+00:00",
+"verdict": "Very Positive"
+},
+"3376500": {
+"desc": "Little Chef: Cozy Cooking is a short physics-based cooking game full of discovery and playful chaos. Experiment with everything in the kitchen and unlock over 300 recipes on your way to becoming a master chef!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Little Chef: Cozy Cooking",
+"pct": 95,
+"price": "$7.19",
+"release": "Aug 26, 2026",
+"total": 229,
+"ts": "2026-08-27T00:24:38.574670+00:00",
 "verdict": "Very Positive"
 },
 "3380950": {
@@ -3890,6 +3970,22 @@
 "ts": "2026-07-16T10:53:30.689822+00:00",
 "verdict": "Very Positive"
 },
+"3946950": {
+"desc": "Click the Button is an incremental game about clicking a button to receive chests that deliver incredible rewards. Improve your skills to become the strongest.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Click the Button",
+"pct": 96,
+"price": "$3.39",
+"release": "Aug 26, 2026",
+"total": 526,
+"ts": "2026-08-27T00:24:35.127547+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3950130": {
 "desc": "Solve criminal cases through the power of SQL queries! Help out the city of Los Zorangeles by becoming a Database Detective in this new (unpaid) work from home opportunity.",
 "descriptors": [],
@@ -4155,6 +4251,27 @@
 "release": "Aug 6, 2026",
 "total": 63,
 "ts": "2026-08-11T14:17:17.641757+00:00",
+"verdict": "Very Positive"
+},
+"4012810": {
+"desc": "STEINS;GATE returns! Rebooted for the modern era! Featuring fully updated visuals, UI, and an all-new story that breathes new life into the streets of Akihabara.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "STEINS;GATE RE:BOOT",
+"pct": 87,
+"price": "$53.99",
+"release": "Aug 19, 2026",
+"total": 655,
+"ts": "2026-08-27T00:24:59.430329+00:00",
+"verdict": "Very Positive"
+},
+"4012810,4872720,4872730,4872740": {
+"pct": 87,
+"total": 655,
+"ts": "2026-08-27T00:25:02.989184+00:00",
 "verdict": "Very Positive"
 },
 "4014100": {
@@ -5451,6 +5568,22 @@
 "ts": "2026-07-30T03:54:14.360398+00:00",
 "verdict": "Very Positive"
 },
+"4423580": {
+"desc": "Nightmarish monsters crawl forth from the darkness, while the Demon Lord lurks beneath the abyss. Venture into the Shadow Dungeon, carve your way through blood and chaos, and forge your own legendary epic.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "Shadow Dungeon",
+"pct": 89,
+"price": "$8.99",
+"release": "Aug 26, 2026",
+"total": 204,
+"ts": "2026-08-27T00:24:56.002316+00:00",
+"verdict": "Very Positive"
+},
 "4450620": {
 "desc": "A horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close in. Make it back alive, then rebuild the Outpost to better your chances for the next run.",
 "descriptors": [],
@@ -6179,6 +6312,20 @@
 "ts": "2026-08-23T02:23:02.760238+00:00",
 "verdict": "Very Positive"
 },
+"4651120": {
+"desc": "Plant crops and shoot them down with your trusty gun. Earn money, purchase upgrades, and cultivate your farm. Watch your crops physically evolve to gigantic proportions. GROW them. Never stop growing them until their shadows block out the sun forever.",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Farming Incremental But With Guns",
+"pct": 86,
+"price": "$3.99",
+"release": "Aug 11, 2026",
+"total": 83,
+"ts": "2026-08-27T00:25:06.360177+00:00",
+"verdict": "Very Positive"
+},
 "4665920": {
 "desc": "Mad Merchant is an incremental management game. Build, arm, and command a merchant train across a hostile wasteland. Choose your routes, trade for profit, upgrade your wagons, and survive deadly ambushes on the rails.",
 "descriptors": [
@@ -6486,6 +6633,25 @@
 "release": "Jul 21, 2026",
 "total": 59,
 "ts": "2026-07-25T04:01:16.157012+00:00",
+"verdict": "Very Positive"
+},
+"4830660": {
+"desc": "Just keep walking left. The latest Tsugunohi returns to the series\u2019 roots with its early visual style and atmosphere. On a sweltering summer day, a girl walks home past \u201crighteous\u201d people, a thread of salvation, and her mother beneath a white umbrella. Is that hand salvation\u2014or a curse?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Tsugunohi -The Thread That Beckons to Heaven-",
+"pct": 91,
+"price": "$3.39",
+"release": "Aug 24, 2026",
+"total": 58,
+"ts": "2026-08-27T00:24:49.124647+00:00",
 "verdict": "Very Positive"
 },
 "4833450": {
