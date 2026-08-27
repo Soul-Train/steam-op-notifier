@@ -1023,6 +1023,24 @@
 "ts": "2026-08-07T01:01:29.605636+00:00",
 "verdict": "Very Positive"
 },
+"2492670": {
+"desc": "Solid Snake's final mission. Five years after the Big Shell incident, in an era where war has become a business due to the rise of PMCs (Private Military Contractors). To stop Liquid Ocelot's uprising, the legendary hero Solid Snake faces his final battle.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+"pct": 94,
+"price": "$29.99",
+"release": "Aug 27, 2026",
+"total": 503,
+"ts": "2026-08-27T22:45:40.500363+00:00",
+"verdict": "Very Positive"
+},
 "2499040": {
 "desc": "Volkolak: The Will of Gods is an epic 2D soulsvania in a dark Slavic fantasy setting, with hand-drawn animation. Explore an enchanted world full of secrets and enemies. Your choices will lead to several endings: become a warrior, a werewolf, or join the darkness.",
 "descriptors": [
@@ -1431,6 +1449,24 @@
 "release": "Jul 10, 2026",
 "total": 58,
 "ts": "2026-07-27T04:34:37.604058+00:00",
+"verdict": "Very Positive"
+},
+"2713000": {
+"desc": "Embark on an original story, prequel to the award-winning games: A Plague Tale. As Sophia, journey to the Minotaur\u2019s Island, outsmart deadly foes, unravel ancient secrets, and confront a mythical creature at the heart of a devastating curse.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Resonance: A Plague Tale Legacy",
+"pct": 95,
+"price": "$49.99",
+"release": "Aug 27, 2026",
+"total": 227,
+"ts": "2026-08-27T22:45:27.006981+00:00",
 "verdict": "Very Positive"
 },
 "2726490": {
@@ -1864,6 +1900,22 @@
 "total": 111,
 "ts": "2026-08-18T09:26:38.511237+00:00",
 "verdict": "Very Positive"
+},
+"2937440": {
+"desc": "Rival Stars Horse Racing: VR Edition is an immersive simulation game where you can become an equestrian champion from the comfort of your home. Raise, care for, and bond with your dream horses on a scenic ranch, then experience the thrill of the race track and the joy of horse riding!",
+"descriptors": [],
+"genres": [
+"Racing",
+"Simulation",
+"Sports"
+],
+"name": "Rival Stars Horse Racing: VR Edition",
+"pct": 84,
+"price": "$19.99",
+"release": "Apr 17, 2025",
+"total": 44,
+"ts": "2026-08-27T22:43:58.025546+00:00",
+"verdict": "Positive"
 },
 "2939790": {
 "desc": "Lunarium is an atmospheric fantasy A-RPG. Play as Ave, a light-armored knight, who teams up with Lune, a mysterious Starfarer. Together, they journey to save a dying world, engaging in challenging battles to retrieve the lost glow of the stars and forsaken memories, unveiling cosmic secrets.",
@@ -4051,6 +4103,22 @@
 "ts": "2026-08-15T13:26:35.811170+00:00",
 "verdict": "Very Positive"
 },
+"3963030": {
+"desc": "A roguelite bullet heaven where you dodge and auto-shoot through waves of enemies. Build devastating weapon, gear and mutation combinations with deep synergies. Face over 30 unique bosses across diverse biomes in this challenging arena shooter.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"RPG"
+],
+"name": "Pickle Pete",
+"pct": 94,
+"price": "$4.95",
+"release": "Aug 26, 2026",
+"total": 68,
+"ts": "2026-08-27T22:45:33.802503+00:00",
+"verdict": "Very Positive"
+},
 "3966510": {
 "desc": "A dice roguelike about feeding a dragon for twenty years. Roll ingredients, build your island, and fuse absurd recipes into combos that break the score wide open. Miss a meal and you're next on the menu.",
 "descriptors": [],
@@ -4341,6 +4409,22 @@
 "total": 64,
 "ts": "2026-07-22T04:15:34.948341+00:00",
 "verdict": "Very Positive"
+},
+"4020490": {
+"desc": "Say your moves out loud, trash-talk your friends, and fight to win. Smack Talk is a 1\u20138 player online PvP platform fighter where your voice controls your attacks. Call moves, land one-liners, and finish foes with wild ultimates.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "Smack Talk",
+"pct": 96,
+"price": "$3.89",
+"release": "Aug 27, 2026",
+"total": 963,
+"ts": "2026-08-27T22:45:23.656802+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4022300": {
 "desc": "Secretly playing your Generic-90s-Handheld-Video-Game-Console during a first date? Shame on you!",
@@ -5584,6 +5668,21 @@
 "ts": "2026-08-27T00:24:56.002316+00:00",
 "verdict": "Very Positive"
 },
+"4448490": {
+"desc": "Planet Harvester is a relaxing low-poly incremental game. Pilot your crawler across beautiful worlds, chew through resources, unlock new tools, hire drones, and customize your machine for ever bigger hauls. Turn small numbers into massive ones!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Planet Harvester: Incremental Odyssey",
+"pct": 95,
+"price": "$5.39",
+"release": "Aug 17, 2026",
+"total": 61,
+"ts": "2026-08-27T22:45:30.462650+00:00",
+"verdict": "Very Positive"
+},
 "4450620": {
 "desc": "A horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close in. Make it back alive, then rebuild the Outpost to better your chances for the next run.",
 "descriptors": [],
@@ -5893,6 +5992,22 @@
 "release": "Aug 9, 2026",
 "total": 97,
 "ts": "2026-08-15T13:26:58.405853+00:00",
+"verdict": "Very Positive"
+},
+"4539530": {
+"desc": "An incremental game about taking photos of cats. Upgrade your account, unlock new cats, and take photos of them so everyone on the planet will follow you!",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Snap the Cat",
+"pct": 94,
+"price": "$4.89",
+"release": "Aug 25, 2026",
+"total": 72,
+"ts": "2026-08-27T22:45:37.146947+00:00",
 "verdict": "Very Positive"
 },
 "4540090": {
@@ -7300,5 +7415,21 @@
 "total": 29,
 "ts": "2026-08-04T04:00:51.507877+00:00",
 "verdict": "Positive"
+},
+"965190": {
+"desc": "Run a cozy late-night store. Prep fresh sushi and rolls, stock the shelves, and serve customers until dawn. A chill store management game where every night shift is yours to own.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Night Rolls Cozy Store",
+"pct": 87,
+"price": "$8.99",
+"release": "Aug 26, 2026",
+"total": 83,
+"ts": "2026-08-27T22:45:43.795466+00:00",
+"verdict": "Very Positive"
 }
 }
