@@ -649,6 +649,22 @@
 "ts": "2026-07-21T04:13:41.080555+00:00",
 "verdict": "Very Positive"
 },
+"2054520": {
+"desc": "Embark on a journey to reunite with your bread in this bite-sized 3D action-platformer featuring everyone's favorite shark!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Gawr Gura: Quest for Bread",
+"pct": 95,
+"price": "$7.19",
+"release": "Aug 27, 2026",
+"total": 93,
+"ts": "2026-08-28T22:52:46.840071+00:00",
+"verdict": "Very Positive"
+},
 "2060480": {
 "desc": "PomoFarm is half focus timer and half idle farming game! As Tomato the Duck, grow your farm as you focus on tasks in the real world!",
 "descriptors": [],
@@ -1196,6 +1212,22 @@
 "release": "Jul 30, 2026",
 "total": 58,
 "ts": "2026-08-02T04:22:47.279189+00:00",
+"verdict": "Very Positive"
+},
+"2530470": {
+"desc": "Garden of Witches is a cute roguelike action game full of danger. Help the protagonist, Sil, as she tries to round up her unruly fellow witches and save the Garden.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Garden of Witches",
+"pct": 93,
+"price": "$13.29",
+"release": "Aug 28, 2026",
+"total": 1402,
+"ts": "2026-08-28T22:52:50.471781+00:00",
 "verdict": "Very Positive"
 },
 "253750": {
@@ -2477,12 +2509,13 @@
 "Action",
 "Indie"
 ],
-"pct": 98,
+"name": "Feed The Pit",
+"pct": 97,
 "price": "$9.99",
 "release": "Jun 30, 2026",
-"total": 251,
-"ts": "2026-07-14T17:22:21.641626+00:00",
-"verdict": "Very Positive"
+"total": 535,
+"ts": "2026-08-28T22:50:18.907107+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3279440": {
 "desc": "Drone Sector is a futuristic gunship game. Provide close air support by firing variety of weapons at the enemies and guide your allied troops via commands. Keep your troops alive, complete objectives, collect resources and recruit engineers. Research better weaponry for the gunship and the troops.",
@@ -3119,6 +3152,21 @@
 "ts": "2026-07-26T04:24:50.199106+00:00",
 "verdict": "Very Positive"
 },
+"3516590": {
+"desc": "A classic voxel sandbox combined with in-depth progression through exploration, dungeon crawling and boss battles. Spend every minute discovering new weapons, abilities, resources, enemies, structures, mechanics and tools. With a strong focus on discovery, variety and creativity, the world is yours.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Early Access"
+],
+"name": "Allumeria",
+"pct": 96,
+"price": "$9.59",
+"release": "Aug 28, 2026",
+"total": 71,
+"ts": "2026-08-28T22:52:43.321328+00:00",
+"verdict": "Very Positive"
+},
 "3534790": {
 "desc": "MESMALIE is an occult visual novel with point and click mechanics. A magickal incident in your personal life brings you to a small witches' coven in the middle of nowhere. Here, you'll learn to tame your ability... though, not without some bumps along the way.",
 "descriptors": [
@@ -3587,6 +3635,23 @@
 "total": 64,
 "ts": "2026-08-23T02:22:23.298882+00:00",
 "verdict": "Very Positive"
+},
+"3734980": {
+"desc": "\ud83d\udcbc A simple task: Don\u2019t press the red button. Sounds easy? \ud83d\ude0f Featuring an annoying voice, absurd endings, and too many achievements. Free. Pointless. Glorious. \ud83e\udd21\ud83d\udd34",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "A Simple job",
+"pct": 95,
+"price": "Free",
+"release": "Jun 5, 2025",
+"total": 500,
+"ts": "2026-08-28T22:50:22.312922+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3739190": {
 "desc": "People across the kingdom are vanishing. Young hero Harold Sageblood is ordered by the king to defeat the mastermind behind it all. Joined by the loyal mage Martha Bethraeor, the hero sets out\u2014seeking answers about his missing father and the truth behind the disappearances.",
@@ -5106,6 +5171,20 @@
 "ts": "2026-07-28T03:58:33.716998+00:00",
 "verdict": "Very Positive"
 },
+"4285320": {
+"desc": "Aurora Hills: Chapter 2 is the second part in series of point and click puzzle adventure games. Follow the journey of Ethan Hill, a park ranger tasked with investigating strange disappearances from a national park to uncover the mystery of Aurora Hills!",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Aurora Hills: Chapter 2",
+"pct": 99,
+"price": "$7.99",
+"release": "Mar 6, 2026",
+"total": 509,
+"ts": "2026-08-28T22:50:25.727864+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4286040": {
 "desc": "A unicycle, a bomb ready to blow, and sausages struggling to balance! Cooperate with your friends or blow them up in this 2-4 player physics-based chaos game! Reach the summit before the bomb goes off. Don't fall, don't explode, and try to stay a sausage!",
 "descriptors": [],
@@ -5618,6 +5697,43 @@
 "ts": "2026-08-02T04:22:33.912580+00:00",
 "verdict": "Very Positive"
 },
+"4406280": {
+"desc": "the cabin game is a 1-4 player, chaotic horror game where you are trapped inside a cabin and the only way out is through a game of cards. Just beware, as the cards you play have a surprising twist on this humble abode...",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "the cabin game",
+"pct": 98,
+"price": "$8.39",
+"release": "Aug 27, 2026",
+"total": 60,
+"ts": "2026-08-28T22:52:32.925233+00:00",
+"verdict": "Very Positive"
+},
+"4412960": {
+"desc": "A domineering CEO-like older sister who\u2019s gentle only to her sister, a childhood friend who became her doctor, and a cheerful girl only she can see\u2026 Who was Chu Hebai before losing her memories, and how did she become entangled with them? A melancholic yuri AVG about regret and unspoken love.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "\u5149\u4e0e\u5f71\u4e4b\u604b Chiaroscuro Lovers",
+"pct": 100,
+"price": "$6.29",
+"release": "Aug 17, 2026",
+"total": 96,
+"ts": "2026-08-28T22:52:29.475946+00:00",
+"verdict": "Very Positive"
+},
 "4415740": {
 "desc": "The Pale Mimic is an atmospheric horror set in the untamed Alaskan wilderness. As a high profile fugitive on the run, it\u2019s just you and your dog surviving in the chilling forests, until something else shows up uninvited.",
 "descriptors": [
@@ -5681,6 +5797,23 @@
 "release": "Aug 17, 2026",
 "total": 61,
 "ts": "2026-08-27T22:45:30.462650+00:00",
+"verdict": "Very Positive"
+},
+"4450570": {
+"desc": "This Is Golf is a casual but challenging first-person golf game with randomly generated holes. Shot shaping and distance are based entirely on mouse motion. Play solo or in lobbies of up to 8 players, and enjoy a fun, competitive, and slightly goofy golfing experience.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Sports"
+],
+"name": "This Is Golf",
+"pct": 98,
+"price": "$4.99",
+"release": "Aug 18, 2026",
+"total": 53,
+"ts": "2026-08-28T22:52:36.347931+00:00",
 "verdict": "Very Positive"
 },
 "4450620": {
@@ -5911,6 +6044,23 @@
 "release": "Jul 15, 2026",
 "total": 58,
 "ts": "2026-07-19T04:21:05.241012+00:00",
+"verdict": "Very Positive"
+},
+"4529120": {
+"desc": "&quot;Alice's Gaze&quot; is a dark fairy-tale clicker and idle game. Accompany Alice as she awakens in a strange mansion, gaze upon the cat god's altar, delve into the abyss of terror, revive the slumbering rooms one by one, and search for a way to escape.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Alice's Gaze",
+"pct": 96,
+"price": "$3.59",
+"release": "Aug 27, 2026",
+"total": 95,
+"ts": "2026-08-28T22:52:39.895464+00:00",
 "verdict": "Very Positive"
 },
 "4530240": {
@@ -6504,6 +6654,24 @@
 "release": "Jul 24, 2026",
 "total": 67,
 "ts": "2026-07-25T04:01:09.496119+00:00",
+"verdict": "Very Positive"
+},
+"4677280": {
+"desc": "Descend into infested crypts beneath a cursed cemetery in this visceral action-horror FPS. Fight through rotting horrors with heavy gunplay, brutal dismemberment, and only a dying flashlight between you and the darkness.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "GUTTED: Infested Crypts",
+"pct": 86,
+"price": "$8.99",
+"release": "Aug 17, 2026",
+"total": 79,
+"ts": "2026-08-28T22:52:53.861809+00:00",
 "verdict": "Very Positive"
 },
 "4682660": {
@@ -7241,6 +7409,20 @@
 "release": "Aug 13, 2026",
 "total": 241,
 "ts": "2026-08-15T13:26:55.189160+00:00",
+"verdict": "Very Positive"
+},
+"5048740": {
+"desc": "This is a desktop incremental idle game about Sisyphus pushing a boulder. Sisyphus will embark on his fateful, never-ending journey of pushing the stone right on your desktop. Of course, you can also help him choose strategies to grow stronger and reach the peak of Olympus again, faster than before.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "\u897f\u897f\u5f17\u65af\u653e\u7f6e\uff08Sisyphus Idle\uff09",
+"pct": 100,
+"price": "$2.69",
+"release": "Aug 24, 2026",
+"total": 56,
+"ts": "2026-08-28T22:52:25.739360+00:00",
 "verdict": "Very Positive"
 },
 "606150": {
