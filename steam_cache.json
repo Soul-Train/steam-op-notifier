@@ -49,6 +49,23 @@
 "ts": "2026-08-23T02:22:56.185892+00:00",
 "verdict": "Very Positive"
 },
+"1148130": {
+"desc": "Divinum is an action-adventure that blends stylish, expressive combat with rewarding exploration. Master devastating combos and craft unique builds to repel mysterious invaders and uncover your island's hidden truth.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Divinum",
+"pct": 86,
+"price": "$13.49",
+"release": "Aug 28, 2026",
+"total": 121,
+"ts": "2026-08-29T19:37:45.320302+00:00",
+"verdict": "Very Positive"
+},
 "1170080": {
 "desc": "Decide the fate of the world in this ingenious story-driven card game. Foretales offers a unique take on the adventure genre, with a multitude of playstyles and story paths through which you can save the world\u2026 or bring about its end.",
 "descriptors": [],
@@ -2651,6 +2668,26 @@
 "ts": "2026-08-14T14:13:16.840652+00:00",
 "verdict": "Very Positive"
 },
+"3315770": {
+"desc": "During the Xining era of the Northern Song, a corrupt chancellor plunged the court into chaos, waged reckless wars, favored commoners over scholar-officials, and sought to redirect the Yellow River. Fearing ruin, the martial world chose four champions to slay him: Wang Anshi.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "\u94dc\u5200\u94f6\u5251",
+"pct": 77,
+"price": "$7.59",
+"release": "Aug 26, 2026",
+"total": 142,
+"ts": "2026-08-29T19:37:48.895234+00:00",
+"verdict": "Mostly Positive"
+},
 "3323490": {
 "desc": "Take down hordes of alien invaders with your Power Shot, Truxton Beam, Thunder Laser, Homing Shot, Star\u2011mine Shot, and more! Don't forget to breathe as you face off against gigantic bosses in the ultimate battle for humanity\u2019s survival!",
 "descriptors": [],
@@ -3046,6 +3083,22 @@
 "release": "Aug 24, 2026",
 "total": 72,
 "ts": "2026-08-26T02:23:34.802206+00:00",
+"verdict": "Very Positive"
+},
+"3492150": {
+"desc": "Ministry of Truth: False Memory is a story-driven simulator in a totalitarian society. Become an official, manipulate facts, rewrite history, and provide the \u2018truth\u2019 to the public. Choose: obey or fight against the regime. The Great Father is watching you!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Ministry of Truth: False Memory",
+"pct": 85,
+"price": "$4.89",
+"release": "Aug 19, 2026",
+"total": 55,
+"ts": "2026-08-29T19:37:52.319539+00:00",
 "verdict": "Very Positive"
 },
 "3496340": {
@@ -4103,6 +4156,21 @@
 "ts": "2026-08-27T00:24:35.127547+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3948760": {
+"desc": "Find My Frogs: Branches is a cozy hidden object game where you search for frogs and toads in a hand-drawn village nestled high in the branches of an ancient tree. Explore charming corners, discover tiny secrets, and help Uncle Froger find his missing hat.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Find My Frogs: Branches",
+"pct": 100,
+"price": "$4.49",
+"release": "Aug 26, 2026",
+"total": 57,
+"ts": "2026-08-29T19:37:21.652755+00:00",
+"verdict": "Very Positive"
+},
 "3950130": {
 "desc": "Solve criminal cases through the power of SQL queries! Help out the city of Los Zorangeles by becoming a Database Detective in this new (unpaid) work from home opportunity.",
 "descriptors": [],
@@ -4312,6 +4380,23 @@
 "release": "Aug 21, 2026",
 "total": 92,
 "ts": "2026-08-23T02:22:42.991560+00:00",
+"verdict": "Very Positive"
+},
+"4000770": {
+"desc": "Build a living factory and automate the Swarm. Harvest resources, construct mega factories, and grow a colony of specialized biomechanical bugs. Balance growth, efficiency, and creep spread before hostile robots squish you for trying to consume their world.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Swarmdustry",
+"pct": 89,
+"price": "$29.99",
+"release": "Aug 20, 2026",
+"total": 54,
+"ts": "2026-08-29T19:37:31.975768+00:00",
 "verdict": "Very Positive"
 },
 "4001350": {
@@ -5962,6 +6047,23 @@
 "ts": "2026-08-11T14:17:14.267237+00:00",
 "verdict": "Very Positive"
 },
+"4509630": {
+"desc": "The Eternal Woods is a short, fast paced incremental about an adventurer trapped in a never ending Woods. Sharpen your axe, upgrade your skills and conquer the different Forests to escape the Woods!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "The Eternal Woods",
+"pct": 98,
+"price": "$2.39",
+"release": "Aug 17, 2026",
+"total": 51,
+"ts": "2026-08-29T19:37:25.019074+00:00",
+"verdict": "Very Positive"
+},
 "4512570": {
 "desc": "Grab your axe, hop on the handcar, and lose yourself in the forest. Chop trees, upgrade your gear, and enjoy the ride - alone or with a friend",
 "descriptors": [],
@@ -6546,6 +6648,23 @@
 "ts": "2026-08-23T02:22:59.493407+00:00",
 "verdict": "Very Positive"
 },
+"4637870": {
+"desc": "Smashing Bottles is a short and satisfying incremental game where you break bottles to earn money, upgrade your bat, discover new bottles, and cause chaos! Will you smash enough bottles to buy the universe?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Smashing Bottles",
+"pct": 87,
+"price": "$4.24",
+"release": "Aug 24, 2026",
+"total": 55,
+"ts": "2026-08-29T19:37:41.992477+00:00",
+"verdict": "Very Positive"
+},
 "4643090": {
 "desc": "Lilith has returned from the fantasy world to become your desktop companion. Watch her wander freely across your screen with lively animations and dynamic real-time behaviors. Spend cozy everyday moments together as she keeps you company and eases the stress of daily life.",
 "descriptors": [],
@@ -6575,6 +6694,23 @@
 "release": "Aug 21, 2026",
 "total": 68,
 "ts": "2026-08-23T02:23:02.760238+00:00",
+"verdict": "Very Positive"
+},
+"4650950": {
+"desc": "&quot;Please make me human.&quot; A visual novel about a robot longing to become &quot;human&quot; in a world torn apart by rampaging AI. An unforgettable summer unfolds between a boy who has nowhere to call home and a humanoid girl who dreams of marriage...",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "COCORO",
+"pct": 89,
+"price": "$19.99",
+"release": "Aug 26, 2026",
+"total": 64,
+"ts": "2026-08-29T19:37:28.573967+00:00",
 "verdict": "Very Positive"
 },
 "4651120": {
@@ -6654,6 +6790,21 @@
 "release": "Jul 24, 2026",
 "total": 67,
 "ts": "2026-07-25T04:01:09.496119+00:00",
+"verdict": "Very Positive"
+},
+"4676750": {
+"desc": "Pixel-art isekai roguelike dungeon crawler! 5 classes, mix skills &amp; items freely in turn-based combat across deadly random dungeons. Fight goblins, orcs, undead; collect artifacts, beat hidden bosses. Death = rebirth, endless builds await. Become the hero saving the kingdom!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Tap Dungeon",
+"pct": 87,
+"price": "$3.99",
+"release": "Aug 27, 2026",
+"total": 155,
+"ts": "2026-08-29T19:37:38.661931+00:00",
 "verdict": "Very Positive"
 },
 "4677280": {
@@ -7158,6 +7309,23 @@
 "release": "Jul 10, 2026",
 "total": 68,
 "ts": "2026-07-16T10:53:40.530004+00:00",
+"verdict": "Very Positive"
+},
+"4892010": {
+"desc": "An idle RPG where your bomber squadron gathers resources for you. Destroy rocks, hunt for rare items, forge and upgrade your equipment, master a vast skill tree, and trade items with other players on the Steam Market. Free to play.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Bomb Farm",
+"pct": 86,
+"price": "Free",
+"release": "Aug 28, 2026",
+"total": 158,
+"ts": "2026-08-29T19:37:35.317023+00:00",
 "verdict": "Very Positive"
 },
 "4911340": {
