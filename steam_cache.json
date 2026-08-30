@@ -336,6 +336,21 @@
 "ts": "2026-07-30T15:04:35.823478+00:00",
 "verdict": "Very Positive"
 },
+"1619230": {
+"desc": "The Star Named EOS is a story-rich puzzle adventure built around photography. Recreate compositions of past photos to uncover the truth of a family mystery. Experience a harmonious mixture of beautiful hand-drawn art and engaging puzzles on a journey of reminiscence.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "The Star Named EOS",
+"pct": 95,
+"price": "$14.99",
+"release": "Jul 22, 2024",
+"total": 693,
+"ts": "2026-08-30T19:35:58.753668+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1622400": {
 "desc": "Choose your champion. Predict, then outwit. Every move resolves simultaneously in a charming storybook universe. Wyldernook is a free-to-play trading card game with roguelike campaign, 1v1 and multiplayer PvP, and a custom card creator.",
 "descriptors": [],
@@ -762,6 +777,23 @@
 "ts": "2026-08-07T21:33:43.103573+00:00",
 "verdict": "Very Positive"
 },
+"2173570": {
+"desc": "A speed-based platformer with throwable platforms! Travel through the dangers in the woods as a fox boy to join afternoon tea with Mr. Bear.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Free To Play"
+],
+"name": "Breadsticks",
+"pct": 95,
+"price": "Free",
+"release": "Nov 5, 2022",
+"total": 502,
+"ts": "2026-08-30T19:36:02.154010+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "2184020": {
 "desc": "Get LIFTED! Play as slacker Ari, the accidental wingman in his professor's manic, love-fueled time heist. Swing, climb, and puzzle through history to outsmart rival tomb raiders in a cinematic '80s blockbuster adventure!",
 "descriptors": [],
@@ -841,6 +873,21 @@
 "release": "Jul 13, 2026",
 "total": 52,
 "ts": "2026-07-18T03:52:24.375091+00:00",
+"verdict": "Very Positive"
+},
+"2238400": {
+"desc": "Take control of PizzaBoy as he delivers pizza to monsters in this precision platformer. Use all of PizzaBoy's smooth and snappy moves to navigate through dangerous levels or break away from the path to discover who PizzaBoy really is...",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "PizzaBoy",
+"pct": 94,
+"price": "$9.99",
+"release": "Aug 14, 2026",
+"total": 51,
+"ts": "2026-08-30T19:38:11.063561+00:00",
 "verdict": "Very Positive"
 },
 "2251220": {
@@ -1277,6 +1324,26 @@
 "ts": "2026-08-14T14:13:23.623668+00:00",
 "verdict": "Very Positive"
 },
+"2566840": {
+"desc": "Shoot it out against crazed bandits in order to save this Old Western town from destruction in this single-sitting, retro-style first person shooter.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Sands of Skullcreek",
+"pct": 98,
+"price": "Free",
+"release": "Aug 14, 2026",
+"total": 50,
+"ts": "2026-08-30T19:38:07.631828+00:00",
+"verdict": "Very Positive"
+},
 "2593340": {
 "desc": "Wonderia's an open-world, manga-art adventure just waiting to be explored. It's got sci-fi sim elements, deep dungeons, and you can even morph into alien form! Grab up to 7 friends to mine, craft, battle, and level\u2014or farm and fish the day away, if that's more your tempo. There's so much to do!",
 "descriptors": [],
@@ -1517,6 +1584,23 @@
 "total": 227,
 "ts": "2026-08-27T22:45:27.006981+00:00",
 "verdict": "Very Positive"
+},
+"2719060": {
+"desc": "\u300cMaybe one day, I won't have to fight when I fly.\u300d",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Mirage Feathers",
+"pct": 98,
+"price": "$4.99",
+"release": "Sep 6, 2024",
+"total": 2618,
+"ts": "2026-08-30T19:36:05.431262+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "2726490": {
 "desc": "You come home for an annual family reunion, only to find your family missing with an eerie note left by your father. After you discover what has happened you SEEK REVENGE!",
@@ -1760,6 +1844,22 @@
 "release": "Jul 22, 2026",
 "total": 65,
 "ts": "2026-07-24T04:11:52.574197+00:00",
+"verdict": "Very Positive"
+},
+"2824880": {
+"desc": "SHRIMP GAME: OVERKRILL is a solo or multiplayer third-person shooter RPG set in an abyssal realm. Pilot your SHRIMP platform to fight giant sea monsters, master elemental classes, and unearth secrets in a 6-person co-op campaign, or just krill your friends in multiplayer PVP!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "SHRIMP GAME: OVERKRILL",
+"pct": 89,
+"price": "$9.59",
+"release": "Aug 27, 2026",
+"total": 61,
+"ts": "2026-08-30T19:38:17.733442+00:00",
 "verdict": "Very Positive"
 },
 "2825860": {
@@ -4964,6 +5064,25 @@
 "ts": "2026-07-15T14:46:40.502315+00:00",
 "verdict": "Very Positive"
 },
+"4174310": {
+"desc": "Trapped in an infinite shift, you are the sole clerk of purgatory\u2019s only convenience store. Manage stock, pay your taxes and keep nightmarish creatures at bay as you uncover the secret of why your shift never ends. Clock in. Serve the dead. Survive the shift.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "Retail Hell",
+"pct": 95,
+"price": "$7.99",
+"release": "May 21, 2026",
+"total": 553,
+"ts": "2026-08-30T19:36:08.728786+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4178020": {
 "desc": "Run your own cozy aquarium! Travel far and wide to catch exotic fish. Put them on display for idle profits, or sell them for instant cash. Unlock research for new upgrades, and ascend for powerful bonuses. Customize your shop, character, and tanks to make your aquarium your own!",
 "descriptors": [],
@@ -6343,6 +6462,27 @@
 "ts": "2026-07-19T04:20:38.286282+00:00",
 "verdict": "Very Positive"
 },
+"4566700": {
+"desc": "You are a corporate flesh object with no way to speak on your own trying to pose as a human by mimicking what other people say. Serve the corporation that owns you, complete your assignment.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "how to kill a fly [ H2KAF ]",
+"pct": 98,
+"price": "$8.49",
+"release": "Aug 20, 2026",
+"total": 62,
+"ts": "2026-08-30T19:38:04.309372+00:00",
+"verdict": "Very Positive"
+},
 "4568830": {
 "desc": "Astral Court DX is an arcade precision platformer! You're on death-row in a prison in Heaven, HOWEVER the Astral Court grants you with a chance at bail as long as you complete their death-defying trials! How will you weigh against justice?",
 "descriptors": [
@@ -6454,6 +6594,22 @@
 "release": "Jul 28, 2026",
 "total": 330,
 "ts": "2026-07-29T04:01:41.215575+00:00",
+"verdict": "Very Positive"
+},
+"4596010": {
+"desc": "Bar After Bar is a multiplayer game where 5 friends drive to the top of a mountain. You will be mixing drinks and throwing them at each other the whole way up. The drunker you get, the harder it is to drive. How far can you make it?",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "Bar After Bar",
+"pct": 85,
+"price": "$4.96",
+"release": "Aug 24, 2026",
+"total": 234,
+"ts": "2026-08-30T19:38:21.123590+00:00",
 "verdict": "Very Positive"
 },
 "4597380": {
@@ -6790,6 +6946,21 @@
 "release": "Jul 24, 2026",
 "total": 67,
 "ts": "2026-07-25T04:01:09.496119+00:00",
+"verdict": "Very Positive"
+},
+"4671680": {
+"desc": "Control Lefty with your left hand, and Righty with your right. At the same time! Don't worry \u2014 it's a single-player game. No friends required. Use both hands to control two characters at once and escape the underground research facility!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Left Not Right",
+"pct": 93,
+"price": "$6.99",
+"release": "Aug 20, 2026",
+"total": 56,
+"ts": "2026-08-30T19:38:14.439240+00:00",
 "verdict": "Very Positive"
 },
 "4676750": {
