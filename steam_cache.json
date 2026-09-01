@@ -712,6 +712,23 @@
 "ts": "2026-08-26T02:21:36.813850+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2082560": {
+"desc": "Mutagenic: A mashup of ARPG and Survivor gameplay, bridging the best of both genres. With unrivaled depth to character customization, Mutagenic has the depth of high-budget ARPG games with the simplified controls of a Survivor-style game. Can you craft a build to outdo everyone else?",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Mutagenic",
+"pct": 93,
+"price": "$0.69",
+"release": "Sep 1, 2026",
+"total": 91,
+"ts": "2026-09-01T13:52:14.471057+00:00",
+"verdict": "Very Positive"
+},
 "2099090": {
 "desc": "Discover secrets long forgotten, and nurture relationships waiting to bloom. In a game inspired by the lore of Dragon and Fae, make choices that can shape your story, relationships, and even personality. Will you be brave, kind, wise, charismatic? Only you know the answer to your fate.",
 "descriptors": [],
@@ -923,6 +940,23 @@
 "ts": "2026-07-16T10:53:37.220125+00:00",
 "verdict": "Very Positive"
 },
+"2275300": {
+"desc": "Lead nomadic families through the Stone Age in this turn-based 4X strategy game with in-depth characters, cultures, and ecosystems. Explore the wilderness, hunt megafauna, outsmart competitors in trade &amp; autobattler combat. Discover fire, agriculture, politics... and survive to tell the tale.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Folk Emerging",
+"pct": 86,
+"price": "$22.49",
+"release": "Aug 26, 2026",
+"total": 58,
+"ts": "2026-09-01T13:52:34.860586+00:00",
+"verdict": "Very Positive"
+},
 "2285550": {
 "desc": "Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.",
 "descriptors": [],
@@ -985,6 +1019,26 @@
 "release": "Jul 16, 2026",
 "total": 55,
 "ts": "2026-08-02T04:22:30.625794+00:00",
+"verdict": "Very Positive"
+},
+"2412960": {
+"desc": "Survive on the edge of space! Craft and upgrade tools, scavenge resources, and save a galaxy gone completely off the rails. Can Ordinary Man save the galaxy with the help of the immortal Chicken and some duct tape?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"RPG",
+"Simulation",
+"Early Access"
+],
+"name": "Breathedge 2",
+"pct": 88,
+"price": "$15.99",
+"release": "Aug 31, 2026",
+"total": 290,
+"ts": "2026-09-01T13:52:28.042274+00:00",
 "verdict": "Very Positive"
 },
 "2431080": {
@@ -6665,6 +6719,22 @@
 "ts": "2026-08-11T14:16:54.000904+00:00",
 "verdict": "Very Positive"
 },
+"4588930": {
+"desc": "First person psychological horror game about treasure hunting with Grandpa. Search among the sands of Nuraga to unearth what's driving him mad.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "The Old Flesh of Nuraga",
+"pct": 90,
+"price": "$3.59",
+"release": "Aug 27, 2026",
+"total": 59,
+"ts": "2026-09-01T13:52:24.565502+00:00",
+"verdict": "Very Positive"
+},
 "4594150": {
 "desc": "Sir, We Have an Orc Problem is an incremental-style tower defense game where you face an overwhelming number of orcs. Greet them with even more bullets, bombs and lasers!",
 "descriptors": [
@@ -6860,6 +6930,22 @@
 "release": "Jul 13, 2026",
 "total": 56,
 "ts": "2026-07-18T03:52:11.123278+00:00",
+"verdict": "Very Positive"
+},
+"4629600": {
+"desc": "POTENTIAL MAN is a role-playing experience where you must navigate the whims and woes of a humble seed. This wacky story features fully hand-drawn visuals, zany characters, and a classic JRPG-styled soundtrack to boot. Are you ready to achieve your true potential?",
+"descriptors": [
+5
+],
+"genres": [
+"RPG"
+],
+"name": "POTENTIAL MAN",
+"pct": 93,
+"price": "$2.99",
+"release": "Aug 31, 2026",
+"total": 60,
+"ts": "2026-09-01T13:52:21.181837+00:00",
 "verdict": "Very Positive"
 },
 "4632530": {
@@ -7825,6 +7911,22 @@
 "ts": "2026-08-24T02:21:37.141673+00:00",
 "verdict": "Very Positive"
 },
+"4969200": {
+"desc": "Your parents have left, and you're home alone. What begins as an ordinary evening after school slowly turns into a living nightmare, where every little sound makes your heart race. Remember the most important rule: don't open the door for anyone.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Can I Come In?",
+"pct": 94,
+"price": "$3.99",
+"release": "Aug 27, 2026",
+"total": 54,
+"ts": "2026-09-01T13:52:17.815309+00:00",
+"verdict": "Very Positive"
+},
 "4977360": {
 "desc": "A zero-player idle RPG in the spirit of Progress Quest, told in a Win9x chronicle. Shape a 2,108-skill tree, face 179 illustrated monsters, earn 100 achievements and find tens of thousands of equipment combinations in two adventures. Watch it run or close the window.",
 "descriptors": [],
@@ -7966,6 +8068,23 @@
 "release": "Feb 25, 2021",
 "total": 16440,
 "ts": "2026-08-07T17:42:07.199197+00:00",
+"verdict": "Very Positive"
+},
+"777150": {
+"desc": "Adventure Land is an experimental Indie MMORPG. ANYONE can Code not just one, but up to 4 characters! You can play manually, use the given default Javascript Code, or learn programming to do more! Going open-source at 10,000 installs!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Massively Multiplayer",
+"RPG",
+"Simulation"
+],
+"name": "Adventure Land - The Code MMORPG",
+"pct": 83,
+"price": "$14.99",
+"release": "Aug 31, 2026",
+"total": 141,
+"ts": "2026-09-01T13:52:31.525014+00:00",
 "verdict": "Very Positive"
 },
 "802890": {
