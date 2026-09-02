@@ -3431,12 +3431,13 @@
 "genres": [
 "Action"
 ],
-"pct": 98,
+"name": "The Last Salvage Squad",
+"pct": 99,
 "price": "$9.99",
 "release": "Jun 17, 2026",
-"total": 421,
-"ts": "2026-07-14T17:22:08.374603+00:00",
-"verdict": "Very Positive"
+"total": 509,
+"ts": "2026-09-02T13:08:02.525942+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3558600": {
 "desc": "Run a cute little plant shop in this cozy and relaxing game. Grow, sell, and care for a variety of real-life plants, help customers find their dream plants, complete orders, and customize your cozy shop just the way you like!",
@@ -3535,6 +3536,21 @@
 "release": "Jul 21, 2026",
 "total": 71,
 "ts": "2026-07-22T04:15:11.867717+00:00",
+"verdict": "Very Positive"
+},
+"3597200": {
+"desc": "In this deckbuilder your deck plays automatically. Upgrade, enchant and stickerize your cards to create clever cascading effects that defeat monsters and other players. Can you reach the Grail?",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Grail",
+"pct": 92,
+"price": "$7.99",
+"release": "Sep 1, 2026",
+"total": 75,
+"ts": "2026-09-02T13:10:02.166368+00:00",
 "verdict": "Very Positive"
 },
 "3597880": {
@@ -4811,6 +4827,21 @@
 "release": "Jul 9, 2026",
 "total": 69,
 "ts": "2026-07-17T07:15:25.165043+00:00",
+"verdict": "Very Positive"
+},
+"4054100": {
+"desc": "Sokogram merges Nonogram logic grids with Sokoban box-pushing puzzles. Each level blends both systems into one unified challenge with handcrafted designs that reward deduction over guessing.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Sokogram",
+"pct": 96,
+"price": "$9.99",
+"release": "Aug 25, 2026",
+"total": 55,
+"ts": "2026-09-02T13:09:52.003206+00:00",
 "verdict": "Very Positive"
 },
 "4075620": {
@@ -7835,6 +7866,23 @@
 "ts": "2026-08-07T21:33:53.328661+00:00",
 "verdict": "Very Positive"
 },
+"4925300": {
+"desc": "Trapped with friends in a surreal world, your only way out is to bounce your way to the top. Master brutal physics, survive impossible obstacles, and face the climb together in this unforgiving pogo-stick challenge. One bad landing is all it takes to lose it all. Can you reach the peak?",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Unnamed Pogo Game",
+"pct": 91,
+"price": "$6.29",
+"release": "Sep 1, 2026",
+"total": 68,
+"ts": "2026-09-02T13:09:58.693889+00:00",
+"verdict": "Very Positive"
+},
 "4927490": {
 "desc": "Cleaning Up The Puzzle Gallery is a cozy first-person organization simulator about cleaning up 2071 puzzle pieces scattered across a gallery of 87 famous paintings. Whether you want to relax and solve jigsaw puzzles to classical music, or min-max to get the fastest times, the gallery needs cleaning.",
 "descriptors": [],
@@ -7970,6 +8018,21 @@
 "ts": "2026-08-15T13:26:55.189160+00:00",
 "verdict": "Very Positive"
 },
+"4996190": {
+"desc": "Package Chaos is a cozy package sorting game where you turn a messy warehouse into a perfectly organized delivery center. Pick up, inspect, sort thousands of unique packages and enjoy the satisfying feeling of a perfectly organized warehouse.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Package chaos",
+"pct": 85,
+"price": "$4.49",
+"release": "Aug 28, 2026",
+"total": 54,
+"ts": "2026-09-02T13:10:05.497462+00:00",
+"verdict": "Very Positive"
+},
 "5028390": {
 "desc": "Too Many Toys! is a cozy organizing simulator where you'll sort 5,517\u00a0toys in a messy toy shop. Put every toy back in its correct place, complete rows to gain points, and spend them on upgrades that make organizing faster and more satisfying!",
 "descriptors": [],
@@ -7997,6 +8060,22 @@
 "release": "Aug 24, 2026",
 "total": 56,
 "ts": "2026-08-28T22:52:25.739360+00:00",
+"verdict": "Very Positive"
+},
+"5084260": {
+"desc": "Help Fireboy and Watergirl explore the Forest Temple, the first game in the series. Play solo or team up with a friend locally or via Steam's Remote Play Together!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Fireboy & Watergirl 1: The Forest Temple",
+"pct": 91,
+"price": "$0.99",
+"release": "Sep 1, 2026",
+"total": 87,
+"ts": "2026-09-02T13:09:55.377186+00:00",
 "verdict": "Very Positive"
 },
 "606150": {
