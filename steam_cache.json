@@ -957,6 +957,22 @@
 "ts": "2026-09-01T13:52:34.860586+00:00",
 "verdict": "Very Positive"
 },
+"2277090": {
+"desc": "An anime-inspired supernatural detective game. Uncover the identities and powers of your adversaries using a conspiracy board full of evidence.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "DAEMON MASQUERADE",
+"pct": 96,
+"price": "$10.04",
+"release": "Oct 22, 2024",
+"total": 515,
+"ts": "2026-09-03T13:09:33.302974+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "2285550": {
 "desc": "Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.",
 "descriptors": [],
@@ -989,6 +1005,22 @@
 "release": "Aug 20, 2026",
 "total": 80,
 "ts": "2026-08-25T02:16:54.308247+00:00",
+"verdict": "Very Positive"
+},
+"2350790": {
+"desc": "Experience an action-RPG with roguelike elements where you live the double life of an adventurer and a merchant. Dive into vibrant dimensions to fight enemies, gather loot, and manage your backpack. Rebuild your shop and turn profits into gear for the next adventure!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "Moonlighter 2: The Endless Vault",
+"pct": 85,
+"price": "$20.99",
+"release": "Sep 2, 2026",
+"total": 3224,
+"ts": "2026-09-03T13:11:52.732981+00:00",
 "verdict": "Very Positive"
 },
 "2372240": {
@@ -1075,6 +1107,23 @@
 "release": "Jul 31, 2026",
 "total": 6395,
 "ts": "2026-08-01T04:19:18.817015+00:00",
+"verdict": "Very Positive"
+},
+"2445260": {
+"desc": "Tyr is a multiplayer tank shooter. Pilot heavy-armored vehicles with unique capabilities and upgrade them as you battle for victory with your team.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy",
+"Free To Play"
+],
+"name": "Tyr",
+"pct": 89,
+"price": "Free",
+"release": "Sep 2, 2026",
+"total": 418,
+"ts": "2026-09-03T13:11:46.107117+00:00",
 "verdict": "Very Positive"
 },
 "2445460": {
@@ -1396,6 +1445,25 @@
 "release": "Aug 14, 2026",
 "total": 50,
 "ts": "2026-08-30T19:38:07.631828+00:00",
+"verdict": "Very Positive"
+},
+"2586440": {
+"desc": "As a terrible storm rages on, a young girl tries to survive in a HOUSE hell-bent on killing her and her family...",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "House 2",
+"pct": 86,
+"price": "$17.99",
+"release": "Aug 28, 2026",
+"total": 87,
+"ts": "2026-09-03T13:11:56.048861+00:00",
 "verdict": "Very Positive"
 },
 "2593340": {
@@ -4505,6 +4573,25 @@
 "ts": "2026-08-23T02:22:33.087855+00:00",
 "verdict": "Very Positive"
 },
+"3982450": {
+"desc": "Hitler Waifu 2 - is a parody third-person 3D shooter with satire and black humor",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "HITLER WAIFU 2",
+"pct": 97,
+"price": "$0.59",
+"release": "Sep 1, 2026",
+"total": 61,
+"ts": "2026-09-03T13:11:25.207878+00:00",
+"verdict": "Very Positive"
+},
 "3985060": {
 "desc": "You've been hired by a real estate agency to photograph their listings at night, giving them a unique look online. Grab your camera, explore dark, quiet homes, and capture every required shot before the property notices you. Uncover the truth: why do these listings need to be photographed at night?",
 "descriptors": [
@@ -4842,6 +4929,21 @@
 "release": "Aug 25, 2026",
 "total": 55,
 "ts": "2026-09-02T13:09:52.003206+00:00",
+"verdict": "Very Positive"
+},
+"4073860": {
+"desc": "Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, unlock new areas and complete quests.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Sludgineers",
+"pct": 85,
+"price": "$5.59",
+"release": "Aug 25, 2026",
+"total": 1218,
+"ts": "2026-09-03T13:11:59.424729+00:00",
 "verdict": "Very Positive"
 },
 "4075620": {
@@ -5264,6 +5366,25 @@
 "release": "Jul 23, 2026",
 "total": 66,
 "ts": "2026-07-26T04:24:43.564772+00:00",
+"verdict": "Very Positive"
+},
+"4191350": {
+"desc": "Can you tell the difference between truth and tale? Experience three short horror stories and gather clues as to which are true and which are just part of our imagination. Immerse yourself in the protagonist's perspective and discover eerie tales from around the world.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Tales of Fear - Episode Zero",
+"pct": 97,
+"price": "Free",
+"release": "Sep 1, 2026",
+"total": 76,
+"ts": "2026-09-03T13:11:36.172636+00:00",
 "verdict": "Very Positive"
 },
 "4195110": {
@@ -6848,6 +6969,25 @@
 "ts": "2026-08-31T16:37:22.508261+00:00",
 "verdict": "Very Positive"
 },
+"4603670": {
+"desc": "A virus is spreading. You can't afford to pickle everyone. Keep the bar open and decide who gets pickled before the outbreak decides who dies.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "[Bober Bros] Last Pill Bar",
+"pct": 98,
+"price": "$5.09",
+"release": "Aug 31, 2026",
+"total": 51,
+"ts": "2026-09-03T13:11:29.208937+00:00",
+"verdict": "Very Positive"
+},
 "4605210": {
 "desc": "Pet the Cat is a bullet-hell shooter where you unleash powerful attacks by petting an adorable cat! Fight through endless waves of enemies and upgrade your kitty into a formidable force with food, items, and weapons.",
 "descriptors": [],
@@ -6862,6 +7002,22 @@
 "release": "Jul 17, 2026",
 "total": 63,
 "ts": "2026-07-19T04:20:55.159593+00:00",
+"verdict": "Very Positive"
+},
+"4607690": {
+"desc": "Solve fast. Think faster. Math-Havoc is a rapid-fire logic game where every second counts. Chain correct answers, push your limits, and survive as long as you can.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Math-Havoc",
+"pct": 97,
+"price": "$1.69",
+"release": "Aug 31, 2026",
+"total": 64,
+"ts": "2026-09-03T13:11:39.481991+00:00",
 "verdict": "Very Positive"
 },
 "4608380": {
@@ -7103,6 +7259,23 @@
 "ts": "2026-08-27T00:25:06.360177+00:00",
 "verdict": "Very Positive"
 },
+"4656000": {
+"desc": "Chaotic bomb disposal fun with friends &amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve puzzles, and race against the clock. Can you defuse the bombs before they explode?",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "BOMBANANA!",
+"pct": 97,
+"price": "$4.95",
+"release": "Sep 2, 2026",
+"total": 281,
+"ts": "2026-09-03T13:11:32.770151+00:00",
+"verdict": "Very Positive"
+},
 "4665920": {
 "desc": "Mad Merchant is an incremental management game. Build, arm, and command a merchant train across a hostile wasteland. Choose your routes, trade for profit, upgrade your wagons, and survive deadly ambushes on the rails.",
 "descriptors": [
@@ -7341,6 +7514,23 @@
 "ts": "2026-07-24T04:11:49.215996+00:00",
 "verdict": "Very Positive"
 },
+"4746070": {
+"desc": "Descend into Eldara, a dark fantasy idle game where every skill, every monster, and every whispered secret carves your path. Train 17 skills, hunt legendary beasts, command loyal pets, and unravel a forgotten realm \u2014 at your own pace, with progress that never stops.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Eldara",
+"pct": 86,
+"price": "$5.25",
+"release": "Sep 2, 2026",
+"total": 219,
+"ts": "2026-09-03T13:11:49.406663+00:00",
+"verdict": "Very Positive"
+},
 "4764810": {
 "desc": "There\u2019s no place like home - and yours is no home at all. Play as Rosa, a neglected child trying to escape her abusive family. Sneak out, but be ever so quiet. Mom is listening, dad is angry, and your big sister is always watching\u2026",
 "descriptors": [
@@ -7441,6 +7631,22 @@
 "release": "Jul 31, 2026",
 "total": 50,
 "ts": "2026-08-07T01:03:08.718880+00:00",
+"verdict": "Very Positive"
+},
+"4796160": {
+"desc": "Upon buying a used computer online, I found a short romance game called \u201cPrint I Love You\u201d. I played it once, and it\u2019s lingered ever since. I don\u2019t know who made it - only that it was dedicated to someone. Maybe you\u2026",
+"descriptors": [
+5
+],
+"genres": [
+"Indie"
+],
+"name": "Print I Love U",
+"pct": 97,
+"price": "$1.49",
+"release": "Aug 21, 2026",
+"total": 65,
+"ts": "2026-09-03T13:11:42.794751+00:00",
 "verdict": "Very Positive"
 },
 "4824420": {
