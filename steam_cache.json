@@ -521,6 +521,22 @@
 "ts": "2026-07-24T04:12:12.416726+00:00",
 "verdict": "Very Positive"
 },
+"1890310": {
+"desc": "Rogue Blight is a rogue-lite with focus on souls-like combat, featuring a Slay The Spire-inspired map system. Fight your way through ever-changing maps. Customize your playstyle based on what you find. Death is punishing. Only skill and persistence will carry you forward.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Rogue Blight",
+"pct": 95,
+"price": "$11.69",
+"release": "Sep 3, 2026",
+"total": 88,
+"ts": "2026-09-04T13:05:14.117307+00:00",
+"verdict": "Very Positive"
+},
 "1892420": {
 "desc": "Skye and her Handy Pals are looking for a new pal to help them out on her lovely lil' garden! Think you're up for the job, partner?",
 "descriptors": [],
@@ -891,6 +907,23 @@
 "total": 52,
 "ts": "2026-07-18T03:52:24.375091+00:00",
 "verdict": "Very Positive"
+},
+"2233770": {
+"desc": "A fable from your childhood. Don't you remember it?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "The Thief, the Witch, the Toad, and the Mushroom.",
+"pct": 100,
+"price": "Free",
+"release": "Mar 22, 2024",
+"total": 540,
+"ts": "2026-09-04T13:03:12.249992+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "2238400": {
 "desc": "Take control of PizzaBoy as he delivers pizza to monsters in this precision platformer. Use all of PizzaBoy's smooth and snappy moves to navigate through dangerous levels or break away from the path to discover who PizzaBoy really is...",
@@ -1854,6 +1887,22 @@
 "ts": "2026-08-08T21:22:53.707922+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2776270": {
+"desc": "Score goals with dungballs in Beetleball, the Greatest Online Multiplayer Class-based Dung Beetle Soccer Game TO EVER EXIST",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Sports"
+],
+"name": "Beetleball",
+"pct": 97,
+"price": "$6.79",
+"release": "Sep 3, 2026",
+"total": 125,
+"ts": "2026-09-04T13:05:10.448015+00:00",
+"verdict": "Very Positive"
+},
 "2776570": {
 "desc": "Find 100 cats hidden in cosy medieval Germany in this cute hand-drawn hidden object game by Travellin Cats - the original viral hidden cat game creator! Can you find them all?",
 "descriptors": [],
@@ -2534,6 +2583,26 @@
 "release": "Jul 27, 2026",
 "total": 275,
 "ts": "2026-07-28T03:58:56.983074+00:00",
+"verdict": "Very Positive"
+},
+"3160640": {
+"desc": "Use your mouse to balance a cake that slides with every step in this horror game. Escape twisted beings and overcome dangerous traps, uncover the mystery behind the cake, and see the story through to its conclusion.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Don't Drop The Cake",
+"pct": 93,
+"price": "$6.22",
+"release": "Aug 30, 2026",
+"total": 56,
+"ts": "2026-09-04T13:05:17.492226+00:00",
 "verdict": "Very Positive"
 },
 "3160880": {
@@ -3862,6 +3931,21 @@
 "release": "Jul 16, 2026",
 "total": 207,
 "ts": "2026-07-17T07:15:38.508475+00:00",
+"verdict": "Very Positive"
+},
+"3690850": {
+"desc": "Asterika is a challenging bullet hell rhythm game! Forget falling notes. Move to the beat instead! Weave through bullet patterns, and master the chaos on the grid!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Asterika: Phantom Rose Refrain",
+"pct": 91,
+"price": "$11.99",
+"release": "Sep 2, 2026",
+"total": 56,
+"ts": "2026-09-04T13:05:20.964749+00:00",
 "verdict": "Very Positive"
 },
 "3703200": {
@@ -5951,6 +6035,22 @@
 "release": "Jul 22, 2026",
 "total": 73,
 "ts": "2026-07-25T04:01:33.330816+00:00",
+"verdict": "Very Positive"
+},
+"4339280": {
+"desc": "ShipShaper is a creative game about the simple joy of designing ships. Nothing more. Nothing less. Export to Bulwark, 3D print, or use in your own games with a free commercial license.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "ShipShaper: Falconeer Chronicles",
+"pct": 99,
+"price": "$8.09",
+"release": "Sep 2, 2026",
+"total": 92,
+"ts": "2026-09-04T13:05:03.676392+00:00",
 "verdict": "Very Positive"
 },
 "4341400": {
@@ -8237,6 +8337,37 @@
 "release": "Aug 28, 2026",
 "total": 54,
 "ts": "2026-09-02T13:10:05.497462+00:00",
+"verdict": "Very Positive"
+},
+"5005590": {
+"desc": "A story-driven Sudoku adventure by puzzle setter Nurator, featured on Cracking the Cryptic. Explore a mysterious mansion of handcrafted Sudoku variants, master increasingly intricate puzzles, and uncover the secret hidden beyond the grid.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Sudoku Mansion",
+"pct": 98,
+"price": "$14.99",
+"release": "Aug 19, 2026",
+"total": 50,
+"ts": "2026-09-04T13:05:07.070652+00:00",
+"verdict": "Very Positive"
+},
+"5027520": {
+"desc": "Megastore: Tidy Up Together is a cozy sorting game for solo or online co-op play. Organize three stores of increasing scale: a Toy Store, a bustling Supermarket, and a massive two-story Megastore. Pick up, sort, and shelve thousands of items, and get ready to open!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Megastore: Tidy Up Together",
+"pct": 89,
+"price": "$5.09",
+"release": "Sep 2, 2026",
+"total": 85,
+"ts": "2026-09-04T13:05:24.364801+00:00",
 "verdict": "Very Positive"
 },
 "5028390": {
