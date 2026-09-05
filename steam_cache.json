@@ -1554,6 +1554,25 @@
 "ts": "2026-07-15T14:44:16.391616+00:00",
 "verdict": "Very Positive"
 },
+"2638890": {
+"desc": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "Onimusha: Way of the Sword",
+"pct": 86,
+"price": "$69.99",
+"release": "Sep 3, 2026",
+"total": 4545,
+"ts": "2026-09-05T12:17:57.395508+00:00",
+"verdict": "Very Positive"
+},
 "2646720": {
 "desc": "Face the Ancient Gods! Set the sails of your flying pirate ship and embark on a roguelite adventure in the steampunk world of Dead Weight. Explore floating islands in search of loot. Choose a class and enjoy turn-based tactical combat on tiny battlefields where every step matters.",
 "descriptors": [
@@ -2153,6 +2172,23 @@
 "total": 2102,
 "ts": "2026-07-17T07:13:16.661595+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"2854440": {
+"desc": "You, a military officer from our great autocratic motherland, must protect our precious rockets from the evil capitalist enemy in this revolutionary base building strategy game. Bribe! Surveil! Purge! Imbibe! The end justifies the means when you have to protect our invaluable rockets!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Red Rocket Defencism",
+"pct": 99,
+"price": "$7.03",
+"release": "Sep 3, 2026",
+"total": 76,
+"ts": "2026-09-05T12:17:50.724191+00:00",
+"verdict": "Very Positive"
 },
 "2871010": {
 "desc": "Heroine, a close-combat magic-user, and her partner, an axe to fight and collect magical Tools!",
@@ -3131,6 +3167,21 @@
 "ts": "2026-07-27T04:34:50.652374+00:00",
 "verdict": "Very Positive"
 },
+"3351430": {
+"desc": "Play as a curious bat on his mission to take a full fledged photo of the moon. Run, Climb, Glide and Snap your way through an array of obstacles while interacting with the cheeky characters in the neighbourhood. Can you collect all the moon cakes?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Free To Play"
+],
+"name": "Batography",
+"pct": 98,
+"price": "Free",
+"release": "Jan 29, 2025",
+"total": 500,
+"ts": "2026-09-05T12:15:46.603369+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3358170": {
 "desc": "Waddle into a reality-bending odyssey where simply being a duck is your greatest superpower. With the help of your magical cap, switch instantly between 2D and 3D to uncover hidden paths, outsmart aliens, and rescue your kidnapped chicken friends in this wholesome puzzle platformer adventure.",
 "descriptors": [],
@@ -3365,6 +3416,23 @@
 "ts": "2026-07-24T04:12:09.089089+00:00",
 "verdict": "Very Positive"
 },
+"3441990": {
+"desc": "A ghost and her doll guardian explore the mysterious town of Penwyll and the sprawling graveyards, tombs, caves and rotting estates that surround it in this Horror Action RPG from the creator of Withering Rooms.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG",
+"Early Access"
+],
+"name": "Withering Realms",
+"pct": 96,
+"price": "$16.99",
+"release": "Sep 4, 2026",
+"total": 72,
+"ts": "2026-09-05T12:17:54.085849+00:00",
+"verdict": "Very Positive"
+},
 "3453910": {
 "desc": "The original cooking horror returns in an unhinged co-op experience for 1-4 players. Grill burgers, serve customers, and hit your quota before the kitchen turns into a nightmare. When Asset Joy begins her hunt, try to escape alive and extract your hard-earned cash to survive another shift.",
 "descriptors": [],
@@ -3581,6 +3649,23 @@
 "ts": "2026-07-14T17:22:05.115826+00:00",
 "verdict": "Very Positive"
 },
+"3547270": {
+"desc": "Remote work simulator where you are a worm :)",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Worming from Home",
+"pct": 98,
+"price": "$5.99",
+"release": "Sep 4, 2026",
+"total": 118,
+"ts": "2026-09-05T12:17:47.323784+00:00",
+"verdict": "Very Positive"
+},
 "3551190": {
 "desc": "Battle enemy forces reminiscent of alien weapons from retro sci-fi works in this single-player 2.5D FPS.",
 "descriptors": [],
@@ -3743,6 +3828,21 @@
 "release": "Aug 10, 2026",
 "total": 324,
 "ts": "2026-08-10T17:47:07.785414+00:00",
+"verdict": "Very Positive"
+},
+"3607470": {
+"desc": "A cartoon-style 2D roguelike autochess focused on tactical strategy. Recruit insect &quot;heroes&quot; from the forest to form a team. Develop their skills, equipment, and stone inscriptions through battles to defeat the source of chaos within the time limit.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "The Swashbugglers",
+"pct": 83,
+"price": "$6.39",
+"release": "Sep 4, 2026",
+"total": 77,
+"ts": "2026-09-05T12:18:04.187766+00:00",
 "verdict": "Very Positive"
 },
 "3614130": {
@@ -4228,6 +4328,24 @@
 "release": "Jul 22, 2026",
 "total": 147,
 "ts": "2026-07-24T04:12:19.128043+00:00",
+"verdict": "Very Positive"
+},
+"3848900": {
+"desc": "Put the \u2018love\u2019 in 'Lovecraftian horror!' When a captivating comet named Hheily crashes into your apartment, you are drawn into an interplanetary conflict between light and dark. Feed Hheily's fire to save the world in this horror-comedy visual novel\u2026 and maybe even win a smooch!",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Sucker for Love: Crush Landing",
+"pct": 85,
+"price": "$11.69",
+"release": "Aug 31, 2026",
+"total": 114,
+"ts": "2026-09-05T12:18:07.601739+00:00",
 "verdict": "Very Positive"
 },
 "3849000": {
@@ -5721,6 +5839,23 @@
 "total": 72,
 "ts": "2026-08-01T04:19:45.674645+00:00",
 "verdict": "Very Positive"
+},
+"4258770": {
+"desc": "A slow-burn folk farming horror. You bought an isolated farm to start a new life. Your peaceful routine is shattered when the former owner's terrible secrets rise from beneath the ground.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Dread Fields",
+"pct": 98,
+"price": "$6.99",
+"release": "May 28, 2026",
+"total": 548,
+"ts": "2026-09-05T12:15:50.122357+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4272270": {
 "desc": "Summon the mighty power of gods in this fun incremental game about chopping down trees on a secluded island by using the forces of nature: earthquakes, sunbeams, tornadoes, hail, lightning strikes and tidal waves! It's Chopping Time!",
@@ -8189,6 +8324,27 @@
 "release": "Jul 31, 2026",
 "total": 53,
 "ts": "2026-08-07T21:33:53.328661+00:00",
+"verdict": "Very Positive"
+},
+"4920100": {
+"desc": "The Wraith Train: Illusory Domain is an immersive live-action game mixing supernatural horror and puzzles. You play a passenger trapped on a creepy train and must survive. Focused on a blood-stained Passenger Survival Rules, you have to follow the rules, uncover their hidden secrets and escape.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "The Wraith Train: Illusory Domain",
+"pct": 89,
+"price": "$3.59",
+"release": "Aug 30, 2026",
+"total": 57,
+"ts": "2026-09-05T12:18:00.784134+00:00",
 "verdict": "Very Positive"
 },
 "4925300": {
