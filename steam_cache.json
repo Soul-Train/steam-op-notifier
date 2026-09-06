@@ -19,6 +19,21 @@
 "ts": "2026-08-11T14:17:07.501881+00:00",
 "verdict": "Very Positive"
 },
+"1070500": {
+"desc": "Walk on walls. Manipulate gravity. Discover secrets. In this first-person puzzle game, delve deep into an ancient labyrinth of intricate conundrums, seeking an imprisoned god at the centre.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "He Who Watches",
+"pct": 95,
+"price": "$16.99",
+"release": "Sep 2, 2026",
+"total": 66,
+"ts": "2026-09-06T12:32:31.364876+00:00",
+"verdict": "Very Positive"
+},
 "1072300": {
 "desc": "Lead a gang of kids to uncover spooky mysteries, battle creatures, and explore the supernatural side of your hometown in Echo Generation, a turn-based adventure set in the 90s.",
 "descriptors": [],
@@ -228,6 +243,21 @@
 "release": "Aug 4, 2026",
 "total": 1439,
 "ts": "2026-08-05T03:57:10.140515+00:00",
+"verdict": "Very Positive"
+},
+"1496970": {
+"desc": "A vibrant co-op social deduction adventure with roguelike twists, wild abilities, monsters, and nonstop mayhem.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual"
+],
+"name": "Masters of Mayhem",
+"pct": 88,
+"price": "Free",
+"release": "Sep 1, 2026",
+"total": 59,
+"ts": "2026-09-06T12:32:34.704739+00:00",
 "verdict": "Very Positive"
 },
 "1553260": {
@@ -743,6 +773,26 @@
 "release": "Sep 1, 2026",
 "total": 91,
 "ts": "2026-09-01T13:52:14.471057+00:00",
+"verdict": "Very Positive"
+},
+"2084590": {
+"desc": "Alkurai is a 4 player online co-op fantasy horror game. An infamous Alchemist has murdered the king and seized Alkurai's throne. It is up to you and your party to evade his horrid miscreations and restore the kingdom to what it once was.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Alkurai",
+"pct": 84,
+"price": "$4.19",
+"release": "Sep 5, 2026",
+"total": 76,
+"ts": "2026-09-06T12:32:41.413849+00:00",
 "verdict": "Very Positive"
 },
 "2099090": {
@@ -3618,6 +3668,22 @@
 "ts": "2026-07-26T04:24:50.199106+00:00",
 "verdict": "Very Positive"
 },
+"3509160": {
+"desc": "First-Person Adventure that focuses on Source-Engine inspired movement physics. Explore an impossibly huge research facility using physics-breaking abilities granted by a mysterious fossil monolith. Evolve to reach new areas and fight strange machines roaming the laboratories.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "BAIONLENJA",
+"pct": 98,
+"price": "$12.99",
+"release": "May 20, 2025",
+"total": 535,
+"ts": "2026-09-06T12:30:21.393628+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3516590": {
 "desc": "A classic voxel sandbox combined with in-depth progression through exploration, dungeon crawling and boss battles. Spend every minute discovering new weapons, abilities, resources, enemies, structures, mechanics and tools. With a strong focus on discovery, variety and creativity, the world is yours.",
 "descriptors": [],
@@ -3922,6 +3988,24 @@
 "total": 1395,
 "ts": "2026-08-14T14:11:07.453109+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3639590": {
+"desc": "NITRO ORIGIN's debut title, Phantom PHANTOM OF INFERNO, is coming to Steam! A web of swirling conspiracies. A whirlwind of bullets. Amidst it all, a poignant tale of a boy and a girl unfolds...",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "Phantom PHANTOM OF INFERNO NITRO ARCHIVE",
+"pct": 96,
+"price": "$20.99",
+"release": "Sep 3, 2026",
+"total": 56,
+"ts": "2026-09-06T12:32:21.245120+00:00",
+"verdict": "Very Positive"
 },
 "3640430": {
 "desc": "Resettle the shards of a shattered world in this peaceful roguelite deckbuilder, covering centuries of classical Japanese art. Nurture communities, befriend animal spirits, and shape a new civilization through choices that echo across generations.",
@@ -4416,6 +4500,20 @@
 "release": "Jun 26, 2026",
 "total": 92,
 "ts": "2026-07-14T17:21:58.280561+00:00",
+"verdict": "Very Positive"
+},
+"3883290": {
+"desc": "Ascend the sunken labyrinth called the Tower and choose your path to escape to the surface. Battle foes, forge relationships, and find power in this roguelite dark fantasy RPG.",
+"descriptors": [],
+"genres": [
+"RPG"
+],
+"name": "LABYRINTHOS: The Depths Want You",
+"pct": 89,
+"price": "$24.99",
+"release": "Aug 19, 2026",
+"total": 65,
+"ts": "2026-09-06T12:32:38.055883+00:00",
 "verdict": "Very Positive"
 },
 "3883710": {
@@ -4965,6 +5063,22 @@
 "ts": "2026-07-30T03:54:11.090595+00:00",
 "verdict": "Very Positive"
 },
+"4010900": {
+"desc": "Build and manage your ultimate retro arcade! Buy classic Arcade Machines, Galaxy Pinball, and Gift Claw games, or invest in Cinema 8D, Go-Karts, and Racing Simulators. Manage the economy, hire staff, and repair your machines to keep the tokens rolling in!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Retro Arcade Shop Simulator",
+"pct": 96,
+"price": "$8.99",
+"release": "Sep 4, 2026",
+"total": 106,
+"ts": "2026-09-06T12:32:24.727141+00:00",
+"verdict": "Very Positive"
+},
 "4011300": {
 "desc": "Become an anime character. Write your own incantations and cast over 100 spells using your microphone. Battle in duels, team fights, and chaotic free-for-all matches.",
 "descriptors": [
@@ -5088,6 +5202,20 @@
 "total": 963,
 "ts": "2026-08-27T22:45:23.656802+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4022090": {
+"desc": "A game about organizing, stacking and remembering where you put hundreds of books in a cozy-creepy medieval library. Play solo or with up to three fellow monks.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Monk Took Book",
+"pct": 100,
+"price": "$8.09",
+"release": "Sep 3, 2026",
+"total": 78,
+"ts": "2026-09-06T12:32:11.221639+00:00",
+"verdict": "Very Positive"
 },
 "4022300": {
 "desc": "Secretly playing your Generic-90s-Handheld-Video-Game-Console during a first date? Shame on you!",
@@ -7094,6 +7222,24 @@
 "ts": "2026-08-05T03:57:06.813705+00:00",
 "verdict": "Very Positive"
 },
+"4573760": {
+"desc": "A prince who has lost his kingdom and everything else. His uncle and aide-de-camp, unable to leave him. In a cramped rented room abroad, click on objects and piece together a codependent relationship filled with brutality and endurance. Watch helplessness turn into violence, tenderness into torture.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Dissolution of My Self",
+"pct": 95,
+"price": "$5.39",
+"release": "Sep 3, 2026",
+"total": 97,
+"ts": "2026-09-06T12:32:28.056667+00:00",
+"verdict": "Very Positive"
+},
 "4583230": {
 "desc": "Harvest Dice Profit is an Incremental Idle Farming &amp; Dice Game where you grow diceshrooms into dice, roll for profit, and automate your economy. Stay ahead of debt... or face the consequences.",
 "descriptors": [],
@@ -8529,6 +8675,21 @@
 "ts": "2026-09-04T13:05:07.070652+00:00",
 "verdict": "Very Positive"
 },
+"5020310": {
+"desc": "Up to six players redub video clips and give them a whole new meaning. You record the scene, then watch every result together and vote. With voice effects, a built-in clip editor and live voting from your Twitch chat.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Dub Together",
+"pct": 98,
+"price": "$4.99",
+"release": "Sep 1, 2026",
+"total": 64,
+"ts": "2026-09-06T12:32:14.537908+00:00",
+"verdict": "Very Positive"
+},
 "5027520": {
 "desc": "Megastore: Tidy Up Together is a cozy sorting game for solo or online co-op play. Organize three stores of increasing scale: a Toy Store, a bustling Supermarket, and a massive two-story Megastore. Pick up, sort, and shelve thousands of items, and get ready to open!",
 "descriptors": [],
@@ -8558,6 +8719,22 @@
 "release": "Aug 28, 2026",
 "total": 57,
 "ts": "2026-08-31T16:37:01.985561+00:00",
+"verdict": "Very Positive"
+},
+"5035220": {
+"desc": "January 1, 1960. Become Major General Park Chung-hee at a turning point in Korean history. Preserve democracy and rise as the father of a nation\u2014or cling to power and become a dictator. The fate of the Republic of Korea is in your hands.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "For the Fatherland: Chronicle of Park Chung-hee",
+"pct": 96,
+"price": "$13.49",
+"release": "Sep 3, 2026",
+"total": 80,
+"ts": "2026-09-06T12:32:17.850866+00:00",
 "verdict": "Very Positive"
 },
 "5048740": {
