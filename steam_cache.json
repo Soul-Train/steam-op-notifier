@@ -3183,6 +3183,35 @@
 "ts": "2026-08-13T14:20:11.258726+00:00",
 "verdict": "Very Positive"
 },
+"3336620": {
+"desc": "Explore surreal liminal spaces, uncover hidden paths, and unravel a haunting mystery. No monsters, no combat\u2026 just atmosphere, discovery, and quiet dread.",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Liminal Shroud",
+"pct": 93,
+"price": "$11.69",
+"release": "Sep 3, 2026",
+"total": 60,
+"ts": "2026-09-07T14:41:47.454982+00:00",
+"verdict": "Very Positive"
+},
+"3345550": {
+"desc": "Experience turn-based strategy with free-form base building, multi-unit control, colossal units, and powerful battle skills. It captures the depth of an RTS in turn-based form, like Advanced Wars with massive super units!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Tactical Annihilation",
+"pct": 98,
+"price": "$15.99",
+"release": "Aug 27, 2026",
+"total": 56,
+"ts": "2026-09-07T14:41:37.244958+00:00",
+"verdict": "Very Positive"
+},
 "3345950": {
 "desc": "Play cards with your friends or meet new opponents at a local bar where every match is a brand-new challenge! Test your strategy across 3 different game modes, each with their own unique rules and systems! Victory is never guaranteed, and there's always one card that can flip everything.",
 "descriptors": [],
@@ -6235,6 +6264,23 @@
 "ts": "2026-08-20T09:28:08.389664+00:00",
 "verdict": "Very Positive"
 },
+"4315910": {
+"desc": "Push and kill waves of enemies off the ancient pillar of sacrifice to become the only one left standing",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Only One",
+"pct": 93,
+"price": "$7.99",
+"release": "Aug 25, 2026",
+"total": 55,
+"ts": "2026-09-07T14:41:43.918322+00:00",
+"verdict": "Very Positive"
+},
 "4323800": {
 "desc": "&quot;Guardian of the Sacred Seal&quot; is a story-driven adventure game centered on the concept: \u201cTo be unconditionally loved by a yandere young man.\u201d In the otherworldly paradise of Gokurakud\u014d, a young girl partners with a mysterious man to handle seemingly ordinary requests that hide deeper secrets.",
 "descriptors": [],
@@ -7009,6 +7055,22 @@
 "ts": "2026-08-21T05:32:44.425157+00:00",
 "verdict": "Very Positive"
 },
+"4536900": {
+"desc": "Transform a tiny settlement into a thriving medieval kingdom in this incremental strategy game. Build your economy, command your army, and keep discovering new ways to grow with every milestone.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Next Reign: Kingdom",
+"pct": 89,
+"price": "$3.99",
+"release": "Sep 3, 2026",
+"total": 54,
+"ts": "2026-09-07T14:41:50.752870+00:00",
+"verdict": "Very Positive"
+},
 "4537400": {
 "desc": "Turn any PDF, TXT or DOCX into an interactive visual novel. Pick an anime companion, upload a paper or any text you want to understand, and let AI turn it into a 5\u201310 minute story \u2014 with quizzes, voice narration, a blackboard for formulas, and full character customization via Steam Workshop.",
 "descriptors": [],
@@ -7657,6 +7719,24 @@
 "release": "Aug 11, 2026",
 "total": 83,
 "ts": "2026-08-27T00:25:06.360177+00:00",
+"verdict": "Very Positive"
+},
+"4653120": {
+"desc": "Thiis is a desktop pet\u00a0companion game. Maybe Touhou girls can let you feel less lonely.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Touhou Desktop Pet",
+"pct": 100,
+"price": "$0.99",
+"release": "Aug 22, 2026",
+"total": 53,
+"ts": "2026-09-07T14:41:33.877256+00:00",
 "verdict": "Very Positive"
 },
 "4656000": {
@@ -8765,6 +8845,22 @@
 "release": "Sep 1, 2026",
 "total": 87,
 "ts": "2026-09-02T13:09:55.377186+00:00",
+"verdict": "Very Positive"
+},
+"5101080": {
+"desc": "A simple tower defense game where you need to protect your house from Boykissers",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "BOYKISSER IS COMING",
+"pct": 96,
+"price": "$2.54",
+"release": "Sep 3, 2026",
+"total": 56,
+"ts": "2026-09-07T14:41:40.544794+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
