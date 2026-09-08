@@ -551,6 +551,22 @@
 "ts": "2026-07-24T04:12:12.416726+00:00",
 "verdict": "Very Positive"
 },
+"1864690": {
+"desc": "Turn-based tactical strategy with a detailed combat system and interactive environment. Explore the open world, complete quests, search for rare artifacts. Lead the last army of the Order of the Gatekeepers and stop the coming chaos!",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Veterum",
+"pct": 92,
+"price": "$16.99",
+"release": "Sep 7, 2026",
+"total": 166,
+"ts": "2026-09-08T13:14:26.903561+00:00",
+"verdict": "Very Positive"
+},
 "1890310": {
 "desc": "Rogue Blight is a rogue-lite with focus on souls-like combat, featuring a Slay The Spire-inspired map system. Fight your way through ever-changing maps. Customize your playstyle based on what you find. Death is punishing. Only skill and persistence will carry you forward.",
 "descriptors": [],
@@ -2422,6 +2438,21 @@
 "ts": "2026-08-03T04:27:27.232754+00:00",
 "verdict": "Very Positive"
 },
+"2998920": {
+"desc": "Pearl diving is an ancient tradition... until you showed up. Dive into the depths, poke things you probably shouldn't, battle sea monsters, recruit questionable allies, upgrade your gear, rebuild your port, and make increasingly questionable decisions in this roguelite action adventure.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Port of Jumanah",
+"pct": 100,
+"price": "$10.19",
+"release": "Sep 7, 2026",
+"total": 132,
+"ts": "2026-09-08T13:14:23.410967+00:00",
+"verdict": "Very Positive"
+},
 "2999060": {
 "desc": "Become a parliamentarian, create a powerful party, and lead it to victory in this humorous adventure game. Manage your popularity and dignity, use unique powers, and navigate a storyline inspired by current events.",
 "descriptors": [],
@@ -3358,6 +3389,22 @@
 "ts": "2026-07-17T07:15:45.075633+00:00",
 "verdict": "Very Positive"
 },
+"3375110": {
+"desc": "A cozy first-person farming sim, set in the heart of a futuristic city. Grow plants, cook what you harvest, and discover new varieties as you turn your apartment into a thriving urban garden, from a small balcony to a rooftop paradise.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Tiny Eden",
+"pct": 89,
+"price": "$13.49",
+"release": "Sep 7, 2026",
+"total": 123,
+"ts": "2026-09-08T13:14:37.194836+00:00",
+"verdict": "Very Positive"
+},
 "3376500": {
 "desc": "Little Chef: Cozy Cooking is a short physics-based cooking game full of discovery and playful chaos. Experiment with everything in the kitchen and unlock over 300 recipes on your way to becoming a master chef!",
 "descriptors": [],
@@ -4095,6 +4142,23 @@
 "release": "Aug 4, 2026",
 "total": 106,
 "ts": "2026-08-06T04:01:46.656595+00:00",
+"verdict": "Very Positive"
+},
+"3669570": {
+"desc": "Start small, team up with friends, and automate production with conveyor belts, pipes, and magical devices. Stock your shop with potions, jewelry, and relics, complete commissions, and build an alchemy empire! Alchemy Factory 1.0 is out now with the Wagon Logistics System and revamped shopkeeping.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Alchemy Factory",
+"pct": 89,
+"price": "$14.39",
+"release": "Sep 7, 2026",
+"total": 2557,
+"ts": "2026-09-08T13:14:33.775003+00:00",
 "verdict": "Very Positive"
 },
 "3683770": {
@@ -8845,6 +8909,22 @@
 "release": "Sep 1, 2026",
 "total": 87,
 "ts": "2026-09-02T13:09:55.377186+00:00",
+"verdict": "Very Positive"
+},
+"5097840": {
+"desc": "A wizard-academy library has vanished under its own books. Hire gnomes, unlock shelves, and let the tidying run itself \u2014 a cozy idle game about turning magical chaos into calm, one neatly filed spellbook at a time.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Spellbound & Shelved",
+"pct": 92,
+"price": "Free",
+"release": "Sep 7, 2026",
+"total": 120,
+"ts": "2026-09-08T13:14:30.317068+00:00",
 "verdict": "Very Positive"
 },
 "5101080": {
