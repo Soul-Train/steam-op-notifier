@@ -2623,6 +2623,23 @@
 "ts": "2026-08-02T04:22:40.626178+00:00",
 "verdict": "Very Positive"
 },
+"3100970": {
+"desc": "Make a pilgrimage skybound to the Isle of Reveries, where any wish can be granted. Conquer mysterious dungeons, solve puzzles, and explore a vast overworld in this retro-inspired adventure.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Isle of Reveries",
+"pct": 94,
+"price": "$17.99",
+"release": "Sep 4, 2026",
+"total": 82,
+"ts": "2026-09-09T13:19:49.249055+00:00",
+"verdict": "Very Positive"
+},
 "3105960": {
 "desc": "An AI-driven space management RPG in a living galaxy. Explore 150+ planets and interact with 600+ NPCs whose lives and relationships evolve over time. Trade, run shops, build a Commerce Guild, join Military Factions, govern planets, and command fleets in war. Your every choice reshape the galaxy.",
 "descriptors": [],
@@ -4374,6 +4391,23 @@
 "ts": "2026-08-02T04:20:33.478429+00:00",
 "verdict": "Very Positive"
 },
+"3748520": {
+"desc": "SPRAWL zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action"
+],
+"name": "SPRAWL zero",
+"pct": 95,
+"price": "$19.99",
+"release": "Sep 8, 2026",
+"total": 169,
+"ts": "2026-09-09T13:19:42.510447+00:00",
+"verdict": "Very Positive"
+},
 "3764970": {
 "desc": "Become the Mexican Ninja and fight to take back Nuevo Tokyo, where Narcos and Yakuzas have fused into the ruthless Narkuzas. Master slick combos, unleash outrageous Mexican Jutsus and craft deadly builds in this fast, chaotic 2.5D roguelike beat \u2019em up.",
 "descriptors": [
@@ -4985,6 +5019,21 @@
 "ts": "2026-08-23T02:22:33.087855+00:00",
 "verdict": "Very Positive"
 },
+"3971950": {
+"desc": "In a world bound by truths: connect. In Falsus is a mesmerizing rhythm game tied to an intricate card system brought together through a layered narrative. Taking place in a near-future world, traverse an atmospheric soundscape through the eyes of 5 interconnected protagonists.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "In Falsus",
+"pct": 88,
+"price": "$35.99",
+"release": "Sep 9, 2026",
+"total": 88,
+"ts": "2026-09-09T13:19:59.218951+00:00",
+"verdict": "Very Positive"
+},
 "3982450": {
 "desc": "Hitler Waifu 2 - is a parody third-person 3D shooter with satire and black humor",
 "descriptors": [
@@ -5356,6 +5405,25 @@
 "release": "Jul 9, 2026",
 "total": 69,
 "ts": "2026-07-17T07:15:25.165043+00:00",
+"verdict": "Very Positive"
+},
+"4047270": {
+"desc": "Start with a single orc and build an unstoppable dark army to conquer the realms in this incremental auto battler. Perfect your formation, summon mighty beasts, unlock powerful upgrades, and grow stronger with each rebirth.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Orc Incremental",
+"pct": 91,
+"price": "$6.79",
+"release": "Sep 8, 2026",
+"total": 122,
+"ts": "2026-09-09T13:19:45.928422+00:00",
 "verdict": "Very Positive"
 },
 "4054100": {
@@ -6919,6 +6987,24 @@
 "ts": "2026-08-12T14:18:22.027369+00:00",
 "verdict": "Very Positive"
 },
+"4505150": {
+"desc": "The well has gone dry. It's up to you to find out why. Traverse through abandoned tunnels. Discover remnants of a ritual never meant to be seen. Power dying machinery to bring light into darkness. Dig into broken earth and crawl your way out. Down here you\u2019re not exploring... you're trespassing.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "THE WELL IS NOT EMPTY",
+"pct": 88,
+"price": "$8.99",
+"release": "Sep 7, 2026",
+"total": 69,
+"ts": "2026-09-09T13:19:52.580819+00:00",
+"verdict": "Very Positive"
+},
 "4508020": {
 "desc": "Hole Is Mine is an incremental adventure about purifying a divine Hole. Dive inside and launch your Mini'Ohs to mine for you. Extract impurities, upgrade your power, and find hidden secrets to grow the Village, customizing your Mini'Ohs with incredible powers. The Hole has spoken!",
 "descriptors": [],
@@ -7397,6 +7483,23 @@
 "ts": "2026-08-11T14:16:54.000904+00:00",
 "verdict": "Very Positive"
 },
+"4587610": {
+"desc": "Dice Tavern is a roguelike deckbuilding game built around the classic rules of Farkle. Collect 35 unique dice, combine 43 Synergies and put your luck to the test in a candlelit medieval tavern. Use dice as your weapon and luck as your wager. This time, will you Roll Again or Take the Win?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Dice Tavern: Farkle Roguelike",
+"pct": 100,
+"price": "$7.99",
+"release": "Sep 7, 2026",
+"total": 78,
+"ts": "2026-09-09T13:19:38.952489+00:00",
+"verdict": "Very Positive"
+},
 "4588930": {
 "desc": "First person psychological horror game about treasure hunting with Grandpa. Search among the sands of Nuraga to unearth what's driving him mad.",
 "descriptors": [
@@ -7738,6 +7841,23 @@
 "release": "Jul 16, 2026",
 "total": 321,
 "ts": "2026-07-17T07:15:08.591860+00:00",
+"verdict": "Very Positive"
+},
+"4643930": {
+"desc": "In Serve Or Die, you work alone in a small sandwich shop during the night shift. With a VHS-inspired style and an increasingly unsettling atmosphere, survive as simple orders turn into something far more disturbing.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Serve Or Die",
+"pct": 89,
+"price": "$3.49",
+"release": "Sep 4, 2026",
+"total": 55,
+"ts": "2026-09-09T13:19:55.918807+00:00",
 "verdict": "Very Positive"
 },
 "4646020": {
