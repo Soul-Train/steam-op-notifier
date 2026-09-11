@@ -81,6 +81,22 @@
 "ts": "2026-08-29T19:37:45.320302+00:00",
 "verdict": "Very Positive"
 },
+"1160490": {
+"desc": "Master of Pottery is a pottery-themed creation + simulation game. Make pottery, open exhibitions, complete orders, train apprentices, run your own showroom and start a relaxing pottery journey.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Master Of Pottery",
+"pct": 97,
+"price": "$5.09",
+"release": "Sep 10, 2026",
+"total": 2924,
+"ts": "2026-09-11T13:11:24.078758+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1170080": {
 "desc": "Decide the fate of the world in this ingenious story-driven card game. Foretales offers a unique take on the adventure genre, with a multitude of playstyles and story paths through which you can save the world\u2026 or bring about its end.",
 "descriptors": [],
@@ -364,6 +380,23 @@
 "ts": "2026-08-13T17:51:44.974603+00:00",
 "verdict": "Very Positive"
 },
+"1602620": {
+"desc": "Deadzoned is a sci-fi turn-based action Roguelike. Blast your way through zones battling the beasts, bandits, and monsters that stalk the blackouts. But you'll need your wits to make best use of the gear you stumble upon to survive and save the fate of the planet!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Early Access"
+],
+"name": "Deadzoned",
+"pct": 100,
+"price": "$4.24",
+"release": "Sep 7, 2026",
+"total": 52,
+"ts": "2026-09-11T13:11:14.076886+00:00",
+"verdict": "Very Positive"
+},
 "1608640": {
 "desc": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion. Face your inner demons and unveil the secrets of the Mansion.",
 "descriptors": [
@@ -566,6 +599,22 @@
 "total": 364,
 "ts": "2026-07-24T04:12:12.416726+00:00",
 "verdict": "Very Positive"
+},
+"1859620": {
+"desc": "Join BRUTAL JOHN and BRUTAL DOG in a ultraviolent old-school FPS set in a world overrun by crypto-mining technologies, where it\u2019s up to you to destroy them and reclaim control. Prepare for an adrenaline ride that pays homage to the best shooters of the '90s.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "BRUTAL JOHN 2",
+"pct": 95,
+"price": "$12.99",
+"release": "Jul 22, 2025",
+"total": 604,
+"ts": "2026-09-11T13:09:11.651061+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "1864690": {
 "desc": "Turn-based tactical strategy with a detailed combat system and interactive environment. Explore the open world, complete quests, search for rare artifacts. Lead the last army of the Order of the Gatekeepers and stop the coming chaos!",
@@ -844,6 +893,21 @@
 "ts": "2026-07-21T04:13:27.596834+00:00",
 "verdict": "Very Positive"
 },
+"2105840": {
+"desc": "A dark tactical roguelite where positioning, synergies, and automated battles collide on a tiny 3x3 ritual grid. Like chess with demons.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Order Automatica",
+"pct": 93,
+"price": "$4.79",
+"release": "Sep 4, 2026",
+"total": 61,
+"ts": "2026-09-11T13:11:40.717377+00:00",
+"verdict": "Very Positive"
+},
 "212630": {
 "desc": "In Ghost Recon Future Soldier join an elite team of highly trained, cut-throat special-ops soldiers. Armed to the teeth with unrivalled combat technology, Ghost Recon takes you to the globe\u2019s most deadly warzones to hunt down the highest value targets.",
 "descriptors": [
@@ -1022,6 +1086,20 @@
 "release": "Jul 13, 2026",
 "total": 52,
 "ts": "2026-07-18T03:52:24.375091+00:00",
+"verdict": "Very Positive"
+},
+"222440": {
+"desc": "KOF 2002 UM is the 2nd title in the UM Series and a fully upgraded ver. of KOF 2002, a masterpiece of the KOF Series deserving its place of honor alongside KOF \u201998. Based on THE NESTS CHRONICLES, 2002 UM includes the most characters of any title in the KOF Series, and fighting game history!",
+"descriptors": [],
+"genres": [
+"Action"
+],
+"name": "THE KING OF FIGHTERS 2002 UNLIMITED MATCH",
+"pct": 95,
+"price": "$14.99",
+"release": "Feb 27, 2015",
+"total": 5376,
+"ts": "2026-09-11T13:09:15.085505+00:00",
 "verdict": "Very Positive"
 },
 "2233770": {
@@ -2905,6 +2983,23 @@
 "ts": "2026-08-14T14:13:30.348678+00:00",
 "verdict": "Very Positive"
 },
+"3195440": {
+"desc": "Welcome to Elderfield, a cozy horror RPG with hand-drawn art and dark lofi music. Manage your farm, befriend or romance the locals, investigate mysteries, decorate your home, fight terrifying creatures, fish, cook, seek the Old Gods, die in your sleep, and more... There's lots to do in Elderfield!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Welcome to Elderfield",
+"pct": 97,
+"price": "$16.19",
+"release": "Sep 10, 2026",
+"total": 300,
+"ts": "2026-09-11T13:11:27.408420+00:00",
+"verdict": "Very Positive"
+},
 "3196440": {
 "desc": "Cozy Italian Vacation Cafe \ud83c\udfd6\ufe0f No timers, No stress \ud83d\ude0c cook traditional dishes \ud83c\udf5d upgrade and customize \ud83c\udfe0 just drink Prosecco \ud83e\udd42 relax and grow your dream cafe \u2728",
 "descriptors": [],
@@ -3064,6 +3159,22 @@
 "ts": "2026-08-07T21:33:39.737735+00:00",
 "verdict": "Very Positive"
 },
+"3271280": {
+"desc": "Gather and grow cards in Shroom &amp; Gloom, a moody first-person, roguelike double-deckbuilder bursting with fungal foes and mountains of mega-combos!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Early Access"
+],
+"name": "Shroom and Gloom",
+"pct": 92,
+"price": "$14.99",
+"release": "Sep 10, 2026",
+"total": 245,
+"ts": "2026-09-11T13:11:37.445650+00:00",
+"verdict": "Very Positive"
+},
 "3275750": {
 "desc": "Finland 1994. The golden era of action is back. Dive into a gritty, story-driven sandbox where the 90s hit hard. Survive as Seppo &quot;Zeze&quot; Sahtivaara, drive retro cars, listen to a killer soundtrack, master intense 1v1 fights, and soak in pure nostalgia. Grab a beer and enjoy a Sauna by the lake.",
 "descriptors": [
@@ -3175,6 +3286,22 @@
 "release": "Aug 13, 2026",
 "total": 61,
 "ts": "2026-08-26T02:23:55.882808+00:00",
+"verdict": "Very Positive"
+},
+"3302080": {
+"desc": "Effulgence RPG is a party-based RPG where symbols form 3D visuals. Enemies are more than obstacles - they ARE the resource \ud83d\udc80. Destroy them to forge better gear!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Effulgence RPG",
+"pct": 90,
+"price": "$14.99",
+"release": "Sep 10, 2026",
+"total": 60,
+"ts": "2026-09-11T13:11:50.817270+00:00",
 "verdict": "Very Positive"
 },
 "33100": {
@@ -3408,6 +3535,22 @@
 "total": 500,
 "ts": "2026-09-05T12:15:46.603369+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3353800": {
+"desc": "Golden Swirl is a dark fantasy, semi-real-time action deckbuilder. Master tactical movement to dodge fierce attacks while managing your hand. Fully voiced with custom heroes, fine-tune your deck, relics, and runes to repel the Swirl. Can you survive the madness?",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy"
+],
+"name": "Golden Swirl",
+"pct": 93,
+"price": "$15.99",
+"release": "Sep 9, 2026",
+"total": 89,
+"ts": "2026-09-11T13:11:34.127516+00:00",
+"verdict": "Very Positive"
 },
 "3358170": {
 "desc": "Waddle into a reality-bending odyssey where simply being a duck is your greatest superpower. With the help of your magical cap, switch instantly between 2D and 3D to uncover hidden paths, outsmart aliens, and rescue your kidnapped chicken friends in this wholesome puzzle platformer adventure.",
@@ -4244,6 +4387,23 @@
 "ts": "2026-07-31T04:20:18.281450+00:00",
 "verdict": "Very Positive"
 },
+"3653250": {
+"desc": "Run your sporting goods shop. Sign contracts with leading brands, order products, hire workers, expand your store, and run little contests to entertain your customers. Play with friends or go solo, and enjoy the growth of your shop.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Sporting Goods Shop",
+"pct": 97,
+"price": "$7.19",
+"release": "Sep 11, 2026",
+"total": 89,
+"ts": "2026-09-11T13:11:20.767185+00:00",
+"verdict": "Very Positive"
+},
 "3659090": {
 "desc": "Stick with the same color, bounce off the rest! Snatch the soap, sabotage your friends! Adorable jelly critters are here for chaotic, hilarious showdowns! Supports 4-player local and up to 6-player online battles, plus a map editor so you can jump into laugh-out-loud matches anytime!",
 "descriptors": [],
@@ -4825,6 +4985,23 @@
 "total": 80,
 "ts": "2026-08-01T04:19:38.890428+00:00",
 "verdict": "Very Positive"
+},
+"391000": {
+"desc": "Enjoy the farmhouse gems with this solid set of 12 Farm Frenzy titles! Join Scarlett throughout all of her adventures in hundreds of farming challenges. Raise chickens, ostriches, and dolphins. Bake cakes, grow crops, and sell items at markets. It's an all-out farming assault with one of the most enjoyed series ever!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Farm Frenzy Collection",
+"pct": 95,
+"price": "$19.99",
+"release": "Aug 21, 2015",
+"total": 602,
+"ts": "2026-09-11T13:09:18.396326+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3914860": {
 "desc": "Moss: The Forgotten Relic is an emotional and atmospheric adventure set in the pages of a living storybook, brimming with myth and ancient magic. Guide a tiny but determined hero on a heartfelt journey of challenge, courage, and connection.",
@@ -6260,6 +6437,22 @@
 "ts": "2026-08-01T04:19:45.674645+00:00",
 "verdict": "Very Positive"
 },
+"4252960": {
+"desc": "A graffiti mocking the Student Council President appears on the walls, and your best friend is the prime suspect! Play as a student detective in HoloTrials: Case Covered. Investigate the high school campus, face off against your rivals, and clear her name in this legal mystery.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "HoloTrials: Case Covered",
+"pct": 99,
+"price": "Free",
+"release": "Sep 9, 2026",
+"total": 78,
+"ts": "2026-09-11T13:11:17.464162+00:00",
+"verdict": "Very Positive"
+},
 "4258770": {
 "desc": "A slow-burn folk farming horror. You bought an isolated farm to start a new life. Your peaceful routine is shattered when the former owner's terrible secrets rise from beneath the ground.",
 "descriptors": [
@@ -7083,6 +7276,25 @@
 "ts": "2026-08-26T02:23:52.422204+00:00",
 "verdict": "Very Positive"
 },
+"4487460": {
+"desc": "&quot;Unseasonable Flowering&quot; is a first-person horror game set in Japan. After moving to a new home, the young protagonist, Mashiro, is met with eerie residents and inexplicable phenomena. Something &quot;sprouting&quot; everywhere quietly erodes her daily life.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Unseasonable Flowering",
+"pct": 86,
+"price": "$7.19",
+"release": "Sep 3, 2026",
+"total": 58,
+"ts": "2026-09-11T13:12:00.835905+00:00",
+"verdict": "Very Positive"
+},
 "4488860": {
 "desc": "A detective noir puzzle deduction game. Explore a non-linear timeline as a clairvoyant investigator in 1941 Borneo. Jump between time and locations to uncover motives and discover what truly happened in the Goodwill tobacco plantation that fateful night on the eve of the WW2 Japanese invasion.",
 "descriptors": [
@@ -7100,6 +7312,21 @@
 "total": 4117,
 "ts": "2026-08-20T09:26:13.848928+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4492990": {
+"desc": "Dread Admiral is a turn-based naval roguelite where every ship you lose is gone forever. Forge a floating empire, fend off the Black Fleet, and protect your Flagship through a brutal campaign to destroy the Dread Admiral himself.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Dread Admiral",
+"pct": 93,
+"price": "$11.19",
+"release": "Sep 3, 2026",
+"total": 54,
+"ts": "2026-09-11T13:11:44.118163+00:00",
+"verdict": "Very Positive"
 },
 "4502710": {
 "desc": "DWARF COMBAT! Stonewards is a 1-4 player co-op first-person roguelite defense game. Lead a crew of stubborn dwarves from your base camp to aid nearby kingdoms, mine deep for resources, forge powerful upgrades, and hold the line against relentless monster attacks.",
@@ -8236,6 +8463,21 @@
 "ts": "2026-08-01T04:19:42.308977+00:00",
 "verdict": "Very Positive"
 },
+"4696490": {
+"desc": "A 60-minute adventure where all you do is glow.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Glow Box",
+"pct": 92,
+"price": "$2.99",
+"release": "Aug 27, 2026",
+"total": 51,
+"ts": "2026-09-11T13:11:47.524391+00:00",
+"verdict": "Very Positive"
+},
 "4699920": {
 "desc": "\u300aInner Scales 1:Choice\u300bis a first-person FMV. Set in a sealed cage. It pushes survival, humanity, emotion and moral dilemmas to the extreme. You will face surveillance, cages, and the fates of eight trapped women\u2014every choice you make decides life and death for others and yourself.",
 "descriptors": [
@@ -8647,6 +8889,23 @@
 "release": "Aug 13, 2026",
 "total": 263,
 "ts": "2026-08-16T13:27:28.851415+00:00",
+"verdict": "Very Positive"
+},
+"4859270": {
+"desc": "This is a dungeon-based game full of oppressive atmosphere. You will delve into the maze filled with monsters, collect, combine and upgrade weapons, and fight for a glimmer of hope in the successive waves of attacks.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Dark Bone Prison",
+"pct": 97,
+"price": "$4.19",
+"release": "Sep 7, 2026",
+"total": 63,
+"ts": "2026-09-11T13:11:30.803950+00:00",
 "verdict": "Very Positive"
 },
 "4860340": {
@@ -9085,6 +9344,22 @@
 "ts": "2026-09-02T13:10:05.497462+00:00",
 "verdict": "Very Positive"
 },
+"5001630": {
+"desc": "Sit tight: a coronation for the annals of the Hao realm. I\u2019m Jiahao, your desktop pet\u2014its absolute strongest, stock investing\u2019s uncrowned king and fashion\u2019s highest peak. What has this loneliness taught you to love? \u201cYou misunderstand. Let me enlighten you.\u201d \u201cYou are the challenger.\u201d",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Jiahao",
+"pct": 90,
+"price": "$2.09",
+"release": "Sep 9, 2026",
+"total": 92,
+"ts": "2026-09-11T13:11:54.135578+00:00",
+"verdict": "Very Positive"
+},
 "5005590": {
 "desc": "A story-driven Sudoku adventure by puzzle setter Nurator, featured on Cracking the Cryptic. Explore a mysterious mansion of handcrafted Sudoku variants, master increasingly intricate puzzles, and uncover the secret hidden beyond the grid.",
 "descriptors": [],
@@ -9144,6 +9419,23 @@
 "release": "Aug 28, 2026",
 "total": 57,
 "ts": "2026-08-31T16:37:01.985561+00:00",
+"verdict": "Very Positive"
+},
+"5033210": {
+"desc": "Turn your desktop into a living racetrack with this idle racing management game. Acquire cars, equip parts, and compete online against other players. Win championships and expand your garage through Mastery, Collections, and new rewards.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Massively Multiplayer",
+"Racing"
+],
+"name": "Desk Top Racer",
+"pct": 86,
+"price": "Free",
+"release": "Sep 8, 2026",
+"total": 58,
+"ts": "2026-09-11T13:11:57.460466+00:00",
 "verdict": "Very Positive"
 },
 "5035220": {
