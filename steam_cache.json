@@ -2653,12 +2653,12 @@
 "Early Access"
 ],
 "name": "Nazi Zombies",
-"pct": 95,
+"pct": 96,
 "price": "Free",
 "release": "Jul 30, 2026",
-"total": 81,
-"ts": "2026-08-02T04:22:27.299930+00:00",
-"verdict": "Very Positive"
+"total": 508,
+"ts": "2026-09-12T12:32:52.561393+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3056840": {
 "desc": "Take a jaunt into the world of A Bumpy Ride, a cozy train-driving and exploration game! Inspired by railroading of the 19th century with a whimsical spin, you'll adventure around the open frontier in your trusty little train, picking up passengers and freight.",
@@ -3745,6 +3745,20 @@
 "release": "Jun 19, 2026",
 "total": 162,
 "ts": "2026-07-14T17:22:11.669614+00:00",
+"verdict": "Very Positive"
+},
+"3396010": {
+"desc": "Black Friday Janitor is a organization game that hands you the biggest clean up job of the year. Over 30,000 things to tidy up: misplaced products to return to their correct spots, rubbish to collect, dirt to scrub, and fallen furniture to set back upright. Don't expect to finish it all in one go!",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Black Friday Janitor: Clean the Whole Mall",
+"pct": 96,
+"price": "$5.09",
+"release": "Sep 9, 2026",
+"total": 71,
+"ts": "2026-09-12T12:34:54.101396+00:00",
 "verdict": "Very Positive"
 },
 "3424990": {
@@ -4937,6 +4951,24 @@
 "ts": "2026-08-07T21:33:29.480491+00:00",
 "verdict": "Very Positive"
 },
+"3889540": {
+"desc": "Dig through junk, find rare parts and lost collectibles, rescue dogs, complete odd customer orders, drive a forklift with a magnetic crane, and relax as you slowly rebuild your dream car in this cozy junkyard simulator.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "I Need to Fix My Dream Car (But I Work at a Junkyard)",
+"pct": 87,
+"price": "$7.92",
+"release": "Sep 10, 2026",
+"total": 69,
+"ts": "2026-09-12T12:34:57.413533+00:00",
+"verdict": "Very Positive"
+},
 "3902800": {
 "desc": "Detective horror about a night shift far from the city. Refuel cars, serve customers, keep the gas station running, and investigate why people are disappearing in the area. But most importantly, be careful with visitors - not all of them are human.",
 "descriptors": [],
@@ -5292,6 +5324,21 @@
 "release": "Aug 13, 2026",
 "total": 71,
 "ts": "2026-08-23T02:22:46.269818+00:00",
+"verdict": "Very Positive"
+},
+"3967820": {
+"desc": "Push Push is a cute and relaxing idle balloon game! Pump balloons, unlock adorable cats, and collect all kinds of quirky pumps and animal companions. Perfect for quick breaks and stress relief.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Push Push",
+"pct": 99,
+"price": "$4.49",
+"release": "Sep 9, 2026",
+"total": 74,
+"ts": "2026-09-12T12:34:40.952241+00:00",
 "verdict": "Very Positive"
 },
 "3971650": {
@@ -6052,6 +6099,23 @@
 "release": "Aug 7, 2026",
 "total": 69,
 "ts": "2026-08-11T14:17:10.866402+00:00",
+"verdict": "Very Positive"
+},
+"4150860": {
+"desc": "The Loopler is a roguelite deckbuilder about a slot car driving in mesmerizing loops. Pick cards, place gates, and collect charms. Settle into the loop as numbers go up and dopamine fills your brain. See how far you can go in the pursuit of infinity.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Racing",
+"Simulation"
+],
+"name": "The Loopler",
+"pct": 96,
+"price": "$8.99",
+"release": "Sep 11, 2026",
+"total": 115,
+"ts": "2026-09-12T12:34:47.473376+00:00",
 "verdict": "Very Positive"
 },
 "4156580": {
@@ -6884,6 +6948,25 @@
 "release": "Jul 23, 2026",
 "total": 90,
 "ts": "2026-08-15T13:26:48.757366+00:00",
+"verdict": "Very Positive"
+},
+"4354460": {
+"desc": "&quot;Survivor's Notes&quot; is an FMV . Players control two protagonists, using choices and QTEs to unlock different branches and endings. Follow a girl who foresees disaster and acolonel from the future as their stories reveal the outbreak's origins. Trust,rescue, or walk away. Survival is onlyone of them.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Survivor's Notes",
+"pct": 96,
+"price": "$6.29",
+"release": "Sep 11, 2026",
+"total": 197,
+"ts": "2026-09-12T12:34:44.223579+00:00",
 "verdict": "Very Positive"
 },
 "4358310": {
@@ -8699,6 +8782,23 @@
 "release": "Aug 21, 2026",
 "total": 65,
 "ts": "2026-09-03T13:11:42.794751+00:00",
+"verdict": "Very Positive"
+},
+"4821420": {
+"desc": "King of Jade: Stone Tycoon is a casual management simulation game. Inspect raw stones, polish the surface to reveal unique hidden jadeite, craft products of all sizes, and sell them to build your ultimate business empire!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "King of Jade: Stone Tycoon",
+"pct": 94,
+"price": "$7.19",
+"release": "Sep 11, 2026",
+"total": 69,
+"ts": "2026-09-12T12:34:50.765820+00:00",
 "verdict": "Very Positive"
 },
 "4824420": {
