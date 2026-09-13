@@ -1134,6 +1134,24 @@
 "ts": "2026-08-30T19:38:11.063561+00:00",
 "verdict": "Very Positive"
 },
+"2240790": {
+"desc": "Put the \u2018love\u2019 in 'Lovecraftian horror!' Avoid the fanatical cultists and survive dangerous rituals to escape the Black Woods with your life in this 90\u2019s anime inspired visual novel!",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Sucker for Love: Date to Die For",
+"pct": 95,
+"price": "$12.99",
+"release": "Apr 23, 2024",
+"total": 1352,
+"ts": "2026-09-13T13:34:17.707912+00:00",
+"verdict": "Very Positive"
+},
 "2251220": {
 "desc": "Manage your own cafe and become a donut therapist in this cozy dating/cooking sim. Cook mood-changing donuts, decorate your shop, and help customers navigate life, love, and heartbreak\u2014one bite at a time.",
 "descriptors": [],
@@ -2967,6 +2985,21 @@
 "ts": "2026-08-18T09:26:45.313155+00:00",
 "verdict": "Very Positive"
 },
+"3170490": {
+"desc": "Cat Me If You Can is a charming and cozy game where you explore beautifully handcrafted black-and-white worlds, searching for hidden cats to photograph and bring their colours back into the world.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Cat Me If You Can",
+"pct": 97,
+"price": "$16.19",
+"release": "Sep 8, 2026",
+"total": 61,
+"ts": "2026-09-13T13:36:10.125348+00:00",
+"verdict": "Very Positive"
+},
 "3176720": {
 "desc": "This hilarious party brawler features iconic characters, stages, and music reimagined for a modern generation\u2014and simplifies combat, including an all new PARTY MODE, perfect for friends new to the genre",
 "descriptors": [],
@@ -4112,6 +4145,22 @@
 "ts": "2026-07-31T04:19:54.380937+00:00",
 "verdict": "Very Positive"
 },
+"3560360": {
+"desc": "Stack game-breaking synergies until your party can slay gods. Command a party of heroes, forge powerful synergies, and level them up across runs in this turn-based tactics roguelite. Battle the gods solo or in co-op, where defeat is just another beginning.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Forsworn",
+"pct": 97,
+"price": "$12.79",
+"release": "Sep 10, 2026",
+"total": 88,
+"ts": "2026-09-13T13:36:06.827958+00:00",
+"verdict": "Very Positive"
+},
 "3561220": {
 "desc": "PASS THE FEAR is a roguelite bullet-hell shooter. A catastrophic Witch\u2019s Disaster strikes without warning, and chaotic magic forms the ancient Wall of Storms. Its corruption spreads relentlessly across the island. As a demon hunter trapped within, you must find a way to escape before dawn breaks.",
 "descriptors": [],
@@ -4951,6 +5000,21 @@
 "ts": "2026-08-07T21:33:29.480491+00:00",
 "verdict": "Very Positive"
 },
+"3886200": {
+"desc": "BrokenLore: DON'T LIE is a Japanese psychological horror game exploring trauma, isolation, and a fractured reality where perception becomes increasingly unreliable.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "BrokenLore: DON\u2019T LIE",
+"pct": 84,
+"price": "$14.39",
+"release": "Sep 10, 2026",
+"total": 69,
+"ts": "2026-09-13T13:36:23.439877+00:00",
+"verdict": "Very Positive"
+},
 "3889540": {
 "desc": "Dig through junk, find rare parts and lost collectibles, rescue dogs, complete odd customer orders, drive a forklift with a magnetic crane, and relax as you slowly rebuild your dream car in this cozy junkyard simulator.",
 "descriptors": [
@@ -5226,6 +5290,22 @@
 "release": "Jul 17, 2026",
 "total": 59,
 "ts": "2026-07-18T03:51:54.656660+00:00",
+"verdict": "Very Positive"
+},
+"3951340": {
+"desc": "Run a tiny bakery for sweet-toothed slime customers! Adapt to changing weather, seasons, and festivals as cravings shift. Unlock new recipes, welcome new guests, and prepare each night for the day ahead.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Tiny Bakery",
+"pct": 90,
+"price": "$8.99",
+"release": "Sep 8, 2026",
+"total": 60,
+"ts": "2026-09-13T13:36:20.139331+00:00",
 "verdict": "Very Positive"
 },
 "3957810": {
@@ -7017,6 +7097,23 @@
 "release": "Aug 14, 2026",
 "total": 275,
 "ts": "2026-08-15T13:26:42.268203+00:00",
+"verdict": "Very Positive"
+},
+"4368640": {
+"desc": "DIG Raiders is a co-op game about blasting underground in search of aliens. Deep in debt, you've taken on a mysterious dig site. Team up, blow a path below, explore, find aliens, and put them to work in your alien shopping district\u2014or ditch the job and start an all-out brawl with your friends!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "DIG Raiders: Anomaly Extraction",
+"pct": 90,
+"price": "$6.99",
+"release": "Sep 11, 2026",
+"total": 71,
+"ts": "2026-09-13T13:36:13.420987+00:00",
 "verdict": "Very Positive"
 },
 "4369130": {
@@ -9354,6 +9451,23 @@
 "release": "Aug 14, 2026",
 "total": 55,
 "ts": "2026-08-21T05:33:14.606218+00:00",
+"verdict": "Very Positive"
+},
+"4951590": {
+"desc": "Your balls itch. You are in public. This is now everybody\u2019s problem. Covertly scratch your balls through multiple public incidents, battle your useless hand, and stop before everyone finds out what kind of person you are.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Simulation"
+],
+"name": "Ball Scratch Simulator",
+"pct": 90,
+"price": "$3.39",
+"release": "Sep 10, 2026",
+"total": 59,
+"ts": "2026-09-13T13:36:16.697788+00:00",
 "verdict": "Very Positive"
 },
 "4953610": {
