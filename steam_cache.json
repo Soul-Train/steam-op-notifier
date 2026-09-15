@@ -3032,6 +3032,23 @@
 "ts": "2026-08-14T14:13:30.348678+00:00",
 "verdict": "Very Positive"
 },
+"3180340": {
+"desc": "RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action"
+],
+"name": "RIG Riot",
+"pct": 92,
+"price": "$17.99",
+"release": "Sep 14, 2026",
+"total": 114,
+"ts": "2026-09-15T14:04:58.336336+00:00",
+"verdict": "Very Positive"
+},
 "3195440": {
 "desc": "Welcome to Elderfield, a cozy horror RPG with hand-drawn art and dark lofi music. Manage your farm, befriend or romance the locals, investigate mysteries, decorate your home, fight terrifying creatures, fish, cook, seek the Old Gods, die in your sleep, and more... There's lots to do in Elderfield!",
 "descriptors": [],
@@ -3825,6 +3842,21 @@
 "release": "Sep 9, 2026",
 "total": 71,
 "ts": "2026-09-12T12:34:54.101396+00:00",
+"verdict": "Very Positive"
+},
+"3421740": {
+"desc": "Paint, combine and discover! Garden Ink is a cozy sandbox game. Combine decorations and use painting tools to customize your world. With hand-painted graphics and a relaxing soundtrack, it\u2019s time to discover every cute surprise.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Garden Ink",
+"pct": 100,
+"price": "$8.55",
+"release": "Sep 10, 2026",
+"total": 59,
+"ts": "2026-09-15T14:04:47.934657+00:00",
 "verdict": "Very Positive"
 },
 "3424990": {
@@ -5729,6 +5761,23 @@
 "ts": "2026-08-27T00:25:02.989184+00:00",
 "verdict": "Very Positive"
 },
+"4013510": {
+"desc": "Create unique creatures, use them to gather rare resources, and fuse them into even more powerful beings! This RPG combines classic exploration with a deep crafting system where your monsters are your ultimate tool for looting, combat, and discovery.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Monster Alchemy",
+"pct": 94,
+"price": "$16.14",
+"release": "Sep 10, 2026",
+"total": 62,
+"ts": "2026-09-15T14:04:54.933044+00:00",
+"verdict": "Very Positive"
+},
 "4014100": {
 "desc": "Build and run your own hobby shop in this first-person store management sim. Order stock, fill shelves, set prices, match kits with paints through the Hobby Basket System, and let customers bring their projects to life at Build Tables.",
 "descriptors": [],
@@ -5874,6 +5923,23 @@
 "release": "Sep 9, 2026",
 "total": 164,
 "ts": "2026-09-10T13:17:29.767013+00:00",
+"verdict": "Very Positive"
+},
+"4039680": {
+"desc": "Build and manage your own goblin shop. Craft unique weapons with minigames and negotiate their price! Hire workers to help you run the business! Become the richest merchant in the kingdom!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Craft. Sell. Goblin. Repeat.",
+"pct": 98,
+"price": "$9.59",
+"release": "Sep 1, 2026",
+"total": 53,
+"ts": "2026-09-15T14:04:51.485854+00:00",
 "verdict": "Very Positive"
 },
 "4042330": {
@@ -8052,6 +8118,23 @@
 "ts": "2026-08-05T03:57:06.813705+00:00",
 "verdict": "Very Positive"
 },
+"4573090": {
+"desc": "A cozy, chaotic idle-incremental clicker about growing a civilisation of tiny creatures called Pibbles in a giant tree, set in a post-human world.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Pibcremental",
+"pct": 89,
+"price": "$4.49",
+"release": "Sep 14, 2026",
+"total": 79,
+"ts": "2026-09-15T14:05:05.298035+00:00",
+"verdict": "Very Positive"
+},
 "4573760": {
 "desc": "A prince who has lost his kingdom and everything else. His uncle and aide-de-camp, unable to leave him. In a cramped rented room abroad, click on objects and piece together a codependent relationship filled with brutality and endurance. Watch helplessness turn into violence, tenderness into torture.",
 "descriptors": [
@@ -8068,6 +8151,22 @@
 "release": "Sep 3, 2026",
 "total": 97,
 "ts": "2026-09-06T12:32:28.056667+00:00",
+"verdict": "Very Positive"
+},
+"4580600": {
+"desc": "Run your bar as a gorilla and hunt down the humans in animal costumes hiding among your customers. Observe them closely, spot the clues that give their disguises away, test their slogans, and blow the imposters away with your shotgun. Choose your targets wisely... or become the hunted.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "Animaly Bar: NO HUMANITY!",
+"pct": 89,
+"price": "$3.99",
+"release": "Sep 13, 2026",
+"total": 64,
+"ts": "2026-09-15T14:05:08.668598+00:00",
 "verdict": "Very Positive"
 },
 "4583230": {
@@ -8572,6 +8671,21 @@
 "total": 2388,
 "ts": "2026-09-10T13:15:16.417081+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4664470": {
+"desc": "A cozy incremental game where you run your own bookstore! Buy hundreds of upgrades, unlock new customers and book types, hire different staff members and build the most profitable bookstore in the world!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Bookstore Incremental",
+"pct": 91,
+"price": "$6.79",
+"release": "Sep 9, 2026",
+"total": 56,
+"ts": "2026-09-15T14:05:01.814692+00:00",
+"verdict": "Very Positive"
 },
 "4665920": {
 "desc": "Mad Merchant is an incremental management game. Build, arm, and command a merchant train across a hostile wasteland. Choose your routes, trade for profit, upgrade your wagons, and survive deadly ambushes on the rails.",
