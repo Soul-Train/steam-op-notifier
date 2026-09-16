@@ -1315,6 +1315,23 @@
 "ts": "2026-08-02T04:22:30.625794+00:00",
 "verdict": "Very Positive"
 },
+"2402680": {
+"desc": "A 1-8 player fantasy RPG set in a handcrafted pixel world. Build your hero across 8 races and 6 classes. Explore ancient lands, master elemental combat, forge relationships, and shape a stronghold to call home. Fight for the fate of Dimraeth either together or alone.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"RPG",
+"Early Access"
+],
+"name": "Dimraeth",
+"pct": 86,
+"price": "$19.79",
+"release": "Sep 15, 2026",
+"total": 513,
+"ts": "2026-09-16T13:58:41.879624+00:00",
+"verdict": "Very Positive"
+},
 "2412960": {
 "desc": "Survive on the edge of space! Craft and upgrade tools, scavenge resources, and save a galaxy gone completely off the rails. Can Ordinary Man save the galaxy with the help of the immortal Chicken and some duct tape?",
 "descriptors": [
@@ -4293,6 +4310,22 @@
 "ts": "2026-08-22T02:13:22.363588+00:00",
 "verdict": "Very Positive"
 },
+"3562200": {
+"desc": "Cloudscrapers is a minimalist strategy game with a relaxing atmosphere. Build your tower, manage resources, unlock new tools, and uncover the secrets hidden in the sky.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Cloudscrapers",
+"pct": 100,
+"price": "$5.99",
+"release": "Sep 14, 2026",
+"total": 62,
+"ts": "2026-09-16T13:58:21.627516+00:00",
+"verdict": "Very Positive"
+},
 "3565980": {
 "desc": "A late-night thrill turns into a nightmare. Olivia sneaks into Creepwood Wonderland Carnival with her boyfriend, expecting a fun night alone in the park. But something feels off. Distant footsteps. Faint whispers. Someone else is here\u2026 Watching.",
 "descriptors": [],
@@ -5129,6 +5162,23 @@
 "release": "Sep 10, 2026",
 "total": 69,
 "ts": "2026-09-12T12:34:57.413533+00:00",
+"verdict": "Very Positive"
+},
+"3891400": {
+"desc": "Run a cozy bar, make cocktails for fun customers! \ud83c\udf78 Mixed Spirits is a Job Simulator where you work as a bartender. Take orders, mix custom drinks, and discover secret recipes in a chill, creative night-shift experience with no timers or stress, or rush orders in Happy Hour mode!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Mixed Spirits: Bartender",
+"pct": 93,
+"price": "$9.74",
+"release": "Sep 15, 2026",
+"total": 58,
+"ts": "2026-09-16T13:58:35.127418+00:00",
 "verdict": "Very Positive"
 },
 "3902800": {
@@ -6282,6 +6332,25 @@
 "ts": "2026-08-21T05:33:17.948086+00:00",
 "verdict": "Very Positive"
 },
+"4132890": {
+"desc": "Fight through a train overtaken by monsters and survive Antarctica\u2019s cold as paranormal special agent Doug Barker in this chilling single-player third-person survival horror roguelite.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Fright Train",
+"pct": 92,
+"price": "$14.39",
+"release": "Sep 15, 2026",
+"total": 71,
+"ts": "2026-09-16T13:58:38.503906+00:00",
+"verdict": "Very Positive"
+},
 "4141710": {
 "desc": "Sit back and relax with Neko Station, a cozy 2D Pixel Art Desktop Idle Game! Manage your very own 'cat train,' decorating it with the perfect furniture to attract a diverse cast of feline customers. Pick them up at various stations and build friendships in this heartwarming adventure.",
 "descriptors": [],
@@ -6679,6 +6748,23 @@
 "ts": "2026-08-15T13:27:01.635675+00:00",
 "verdict": "Very Positive"
 },
+"4240610": {
+"desc": "\u300aCode Velocity\u300bis a cute chibi-style casual competitive typing game. Players can play as cops or thieves, with movement speed determined by their typing speed and accuracy. In real-time matchups, use props, compete for vehicles, and experience intense chase showdowns!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Racing"
+],
+"name": "Code Velocity",
+"pct": 100,
+"price": "$2.39",
+"release": "Sep 15, 2026",
+"total": 151,
+"ts": "2026-09-16T13:58:18.301057+00:00",
+"verdict": "Very Positive"
+},
 "4251370": {
 "desc": "Survive 365 days to earn absolute freedom. Become the operator of a remote D.E.C.A.Y. bunker, explore the scorched sectors of the United States with your robot companion, gather resources, and maintain the Atlas network in hardcore VR, where order is a matter of choice.",
 "descriptors": [
@@ -6926,6 +7012,21 @@
 "release": "Aug 21, 2026",
 "total": 53,
 "ts": "2026-08-24T02:21:33.749343+00:00",
+"verdict": "Very Positive"
+},
+"4301110": {
+"desc": "A meditative farming strategy in the early 2000s: your home village and the machines you remember from childhood. Revive a run-down farm, trade on a living market, run production chains, take on your neighbours' contracts and grow your fleet \u2014 from small tractors to combines.",
+"descriptors": [],
+"genres": [
+"Strategy",
+"Early Access"
+],
+"name": "The Headlands",
+"pct": 97,
+"price": "$9.34",
+"release": "Sep 14, 2026",
+"total": 89,
+"ts": "2026-09-16T13:58:31.789053+00:00",
 "verdict": "Very Positive"
 },
 "4302940": {
@@ -7542,6 +7643,22 @@
 "ts": "2026-07-29T04:01:37.765981+00:00",
 "verdict": "Very Positive"
 },
+"4464990": {
+"desc": "Rollout Inline is a brand new Aggressive Inline game created by a solo dev who is passionate about the sport. This game aims to scratch the itch for those who have been craving a new, modern, and intuitive inline skating game!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Sports"
+],
+"name": "Rollout Inline",
+"pct": 97,
+"price": "$18.99",
+"release": "Sep 15, 2026",
+"total": 146,
+"ts": "2026-09-16T13:58:28.383621+00:00",
+"verdict": "Very Positive"
+},
 "4465600": {
 "desc": "Bowling Alley Simulator lets you build, manage, and grow your own bowling alley. Run the lanes, cook classic food, hire staff, and expand your business into a thriving entertainment destination.",
 "descriptors": [],
@@ -7985,6 +8102,21 @@
 "release": "Aug 4, 2026",
 "total": 61,
 "ts": "2026-08-07T01:03:18.858931+00:00",
+"verdict": "Very Positive"
+},
+"4540130": {
+"desc": "Control an anime heroine in the Kun-Domain! Master Sekiro-style parries to deflect endless waves of Kuns, unleash cinematic executions, and upgrade your damage and weapons in this fast-paced action game.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Parry Survivor",
+"pct": 98,
+"price": "$4.79",
+"release": "Sep 14, 2026",
+"total": 58,
+"ts": "2026-09-16T13:58:25.006711+00:00",
 "verdict": "Very Positive"
 },
 "4547970": {
