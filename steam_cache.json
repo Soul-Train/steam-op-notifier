@@ -1743,6 +1743,21 @@
 "ts": "2026-08-30T19:38:07.631828+00:00",
 "verdict": "Very Positive"
 },
+"2572040": {
+"desc": "Woodo feels like a 3D coloring book you can touch, a relaxing puzzle-tale told through handcrafted wooden dioramas. A toy for those who never forgot how to be a child.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Woodo",
+"pct": 99,
+"price": "$11.89",
+"release": "Sep 16, 2026",
+"total": 131,
+"ts": "2026-09-17T14:02:05.866075+00:00",
+"verdict": "Very Positive"
+},
 "2586440": {
 "desc": "As a terrible storm rages on, a young girl tries to survive in a HOUSE hell-bent on killing her and her family...",
 "descriptors": [
@@ -4894,6 +4909,26 @@
 "ts": "2026-09-09T13:19:42.510447+00:00",
 "verdict": "Very Positive"
 },
+"3749320": {
+"desc": "Infiltrate the enemy capital, using the entertainment venue &quot;Hua Man Lou&quot; as a cover, and secretly train six talented and beautiful women as spies to carry out reconnaissance and assassinations. Advance the plot through skill development, and unlock three endings through love, hate, and revenge.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Casual",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Hua Manlou",
+"pct": 97,
+"price": "$10.99",
+"release": "Aug 20, 2026",
+"total": 1545,
+"ts": "2026-09-17T14:00:04.333396+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3764970": {
 "desc": "Become the Mexican Ninja and fight to take back Nuevo Tokyo, where Narcos and Yakuzas have fused into the ruthless Narkuzas. Master slick combos, unleash outrageous Mexican Jutsus and craft deadly builds in this fast, chaotic 2.5D roguelike beat \u2019em up.",
 "descriptors": [
@@ -6730,6 +6765,24 @@
 "ts": "2026-08-22T02:13:25.831876+00:00",
 "verdict": "Very Positive"
 },
+"4225980": {
+"desc": "Turn the page on the explosive 2nd chapter of Nihon Falcom\u2019s legendary Trails saga! Estelle Bright sets out on a new journey across Liberl to uncover the truth behind Joshua\u2019s disappearance and defeat the sinister Ouroboros organization.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "Trails in the Sky 2nd Chapter",
+"pct": 97,
+"price": "$53.99",
+"release": "Sep 17, 2026",
+"total": 231,
+"ts": "2026-09-17T14:02:12.974384+00:00",
+"verdict": "Very Positive"
+},
 "4235410": {
 "desc": "Frenetic action and LCD aesthetic! In this 2D Shoot 'Em Up, switch between a robot hero and his benign tumor to stop a bizarre cult. You have 8 hours to save humanity's memory: defeat grotesque bosses, ride the skies on your Future Board, and master the chaos in a retro-futuristic Tokyo.",
 "descriptors": [],
@@ -6780,6 +6833,24 @@
 "release": "Sep 15, 2026",
 "total": 151,
 "ts": "2026-09-16T13:58:18.301057+00:00",
+"verdict": "Very Positive"
+},
+"4241920": {
+"desc": "THE STANDALONE SEQUEL OF THE BRAZILIAN BOOMER SHOOTER GAME MADE USING THE ID TECH 2 ENGINE! SHOOT, JUMP, DOUBLE JUMP AND DASH! EMBARK ON A JOURNEY THROUGHOUT THE STATE OF RIO DE JANEIRO, S\u00c3O PAULO, SALVADOR, HELL AND EVEN HEAVEN! SAVE BRAZIL!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "BRAZILIAN DRUG DEALER BEFORE 4: DEMONS FROM THE PORTAL TO HELL I OPENED ARE STILL IN THE FAVELA AND NOW I HAVE TO SAVE MAMADAS FROM RONALDO",
+"pct": 99,
+"price": "$4.49",
+"release": "Sep 16, 2026",
+"total": 197,
+"ts": "2026-09-17T14:02:09.265885+00:00",
 "verdict": "Very Positive"
 },
 "4251370": {
@@ -7131,6 +7202,20 @@
 "ts": "2026-09-07T14:41:43.918322+00:00",
 "verdict": "Very Positive"
 },
+"4319660": {
+"desc": "A cozy incremental game about growing your way home. Strategically plant flowers, optimize machinery, and grow your tree tall enough to escape!",
+"descriptors": [],
+"genres": [
+"Indie"
+],
+"name": "Moon Garden",
+"pct": 86,
+"price": "$5.94",
+"release": "Sep 11, 2026",
+"total": 59,
+"ts": "2026-09-17T14:02:23.315977+00:00",
+"verdict": "Very Positive"
+},
 "4323800": {
 "desc": "&quot;Guardian of the Sacred Seal&quot; is a story-driven adventure game centered on the concept: \u201cTo be unconditionally loved by a yandere young man.\u201d In the otherworldly paradise of Gokurakud\u014d, a young girl partners with a mysterious man to handle seemingly ordinary requests that hide deeper secrets.",
 "descriptors": [],
@@ -7347,6 +7432,22 @@
 "release": "Aug 14, 2026",
 "total": 275,
 "ts": "2026-08-15T13:26:42.268203+00:00",
+"verdict": "Very Positive"
+},
+"4368560": {
+"desc": "This is a dandelion life simulation adventure.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "The Dandelion Endures.",
+"pct": 96,
+"price": "$2.99",
+"release": "Sep 3, 2026",
+"total": 52,
+"ts": "2026-09-17T14:02:16.397194+00:00",
 "verdict": "Very Positive"
 },
 "4368640": {
@@ -8164,6 +8265,22 @@
 "release": "Jun 28, 2026",
 "total": 51,
 "ts": "2026-07-14T17:22:18.320065+00:00",
+"verdict": "Very Positive"
+},
+"4557380": {
+"desc": "Creature-collecting pvp async auto battler where you choose your trainer, select your Batomon and assemble the ultimate team to take down other players! Play at your own pace while you discover new deadly team combos and synergies! Break the game by training your Batomon to overpowered levels.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Batomon Showdown",
+"pct": 88,
+"price": "$9.74",
+"release": "Sep 15, 2026",
+"total": 339,
+"ts": "2026-09-17T14:02:19.864061+00:00",
 "verdict": "Very Positive"
 },
 "4560660": {
