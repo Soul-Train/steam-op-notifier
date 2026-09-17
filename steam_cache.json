@@ -292,6 +292,24 @@
 "ts": "2026-09-06T12:32:34.704739+00:00",
 "verdict": "Very Positive"
 },
+"1517180": {
+"desc": "Mindcop is a non-linear \u201ewhodunnit\u201c detective game. It mixes a story driven adventure with real-time puzzle gaming. As the infamous Mindcop, you can dive into the minds of your suspects to uncover their secrets and unravel their lies.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Mindcop",
+"pct": 94,
+"price": "$14.99",
+"release": "Nov 14, 2024",
+"total": 479,
+"ts": "2026-09-17T19:57:36.463500+00:00",
+"verdict": "Very Positive"
+},
 "1553260": {
 "desc": "An embroidered dark medieval folk tale. While life in a seemingly ordinary village is all about simple chores and idle gossip, sinister secrets hide below.",
 "descriptors": [
@@ -872,6 +890,22 @@
 "total": 91,
 "ts": "2026-09-01T13:52:14.471057+00:00",
 "verdict": "Very Positive"
+},
+"2084000": {
+"desc": "Shogun Showdown is a turn-based combat game with rogue-like and deck-building elements. Position yourself and attack at the right time, upgrade your tiles and combo them to get ready to face the Shogun!",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Shogun Showdown",
+"pct": 95,
+"price": "$7.49",
+"release": "Sep 5, 2024",
+"total": 7059,
+"ts": "2026-09-17T19:57:41.471851+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "2084590": {
 "desc": "Alkurai is a 4 player online co-op fantasy horror game. An infamous Alchemist has murdered the king and seized Alkurai's throne. It is up to you and your party to evade his horrid miscreations and restore the kingdom to what it once was.",
