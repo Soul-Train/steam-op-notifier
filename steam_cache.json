@@ -602,6 +602,22 @@
 "ts": "2026-08-05T03:55:09.116090+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1841390": {
+"desc": "The fish hid. Try to find them all! A very large location.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "100 hidden fish",
+"pct": 95,
+"price": "$0.59",
+"release": "Jan 17, 2022",
+"total": 528,
+"ts": "2026-09-18T13:17:52.656233+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1845250": {
 "desc": "In this dark fantasy boss rush, use Ruby's crimson eyes to expose the weak points of the Bloodstained monsters, then strike and shatter them. Carve a road home through the ruined Scarlet Kingdom and face the Witch who took it all.",
 "descriptors": [],
@@ -1845,6 +1861,21 @@
 "release": "Oct 23, 2023",
 "total": 1195,
 "ts": "2026-07-15T14:44:16.391616+00:00",
+"verdict": "Very Positive"
+},
+"2609610": {
+"desc": "CONVRGENCE is an atmospheric VR extraction shooter set in the procedurally generated, ever-changing Chernokamensk Anomaly Zone. Scavenge loot, fight bandits and hunt for mystical artifacts \u2014 all with your loyal dog companion by your side. But extract before nightfall, or face what lurks in the dark.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "CONVRGENCE",
+"pct": 88,
+"price": "$14.99",
+"release": "Sep 17, 2026",
+"total": 1753,
+"ts": "2026-09-18T13:20:20.657401+00:00",
 "verdict": "Very Positive"
 },
 "2638890": {
@@ -3166,6 +3197,23 @@
 "ts": "2026-09-11T13:11:27.408420+00:00",
 "verdict": "Very Positive"
 },
+"3195580": {
+"desc": "Lily was an ordinary teenager in 2004, and you just found her laptop. Read her diary, message her friends, and piece together what happened to her before it\u2019s too late. But you're not the only one with access to her computer\u2026 A fourth wall-breaking psychological horror experience featuring LilyPichu",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "lily's world XD",
+"pct": 99,
+"price": "$9.59",
+"release": "Sep 17, 2026",
+"total": 284,
+"ts": "2026-09-18T13:20:00.417087+00:00",
+"verdict": "Very Positive"
+},
 "3196440": {
 "desc": "Cozy Italian Vacation Cafe \ud83c\udfd6\ufe0f No timers, No stress \ud83d\ude0c cook traditional dishes \ud83c\udf5d upgrade and customize \ud83c\udfe0 just drink Prosecco \ud83e\udd42 relax and grow your dream cafe \u2728",
 "descriptors": [],
@@ -4340,6 +4388,23 @@
 "release": "Sep 10, 2026",
 "total": 88,
 "ts": "2026-09-13T13:36:06.827958+00:00",
+"verdict": "Very Positive"
+},
+"3560670": {
+"desc": "A massively multiplayer real-time strategy game pitting hundreds of players against one another. Over one million nuke each other every month.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Massively Multiplayer",
+"Strategy",
+"Early Access"
+],
+"name": "OpenFront",
+"pct": 92,
+"price": "$4.96",
+"release": "Sep 17, 2026",
+"total": 319,
+"ts": "2026-09-18T13:20:17.367269+00:00",
 "verdict": "Very Positive"
 },
 "3561220": {
@@ -6437,6 +6502,25 @@
 "ts": "2026-09-16T13:58:38.503906+00:00",
 "verdict": "Very Positive"
 },
+"4140530": {
+"desc": "A cozy horror game where you craft plants for late-night customers while you manage a small plant shop. Expand your plant collection, upgrade your shop &amp; grow your business.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "The Plant Shop",
+"pct": 97,
+"price": "$4.49",
+"release": "Sep 16, 2026",
+"total": 76,
+"ts": "2026-09-18T13:20:03.812175+00:00",
+"verdict": "Very Positive"
+},
 "4141710": {
 "desc": "Sit back and relax with Neko Station, a cozy 2D Pixel Art Desktop Idle Game! Manage your very own 'cat train,' decorating it with the perfect furniture to attract a diverse cast of feline customers. Pick them up at various stations and build friendships in this heartwarming adventure.",
 "descriptors": [],
@@ -7384,6 +7468,23 @@
 "ts": "2026-08-06T04:02:09.412572+00:00",
 "verdict": "Very Positive"
 },
+"4353350": {
+"desc": "Roll dice to move Meeples around the board and collect money, skill points, and capsule tickets. Unlock unique skills and minigames, powerful collectibles, and automate dice rolls to increase your income.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Meeple Incremental",
+"pct": 89,
+"price": "$5.39",
+"release": "Sep 14, 2026",
+"total": 54,
+"ts": "2026-09-18T13:20:24.018457+00:00",
+"verdict": "Very Positive"
+},
 "4353640": {
 "desc": "Rumored gateway to the Underworld, Lulu Farea is riddled with monsters. Join Cruellus on his journey to befriend them all!",
 "descriptors": [],
@@ -7611,6 +7712,22 @@
 "ts": "2026-08-22T02:13:11.940427+00:00",
 "verdict": "Very Positive"
 },
+"4404610": {
+"desc": "Dominican partner dominoes in 3D, with proximity voice chat: you hear every player from where they're sitting. Private rooms, a room browser, offline AI, and games to 100, 120, 150 or 200 points.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Sports"
+],
+"name": "DR Dominoes",
+"pct": 100,
+"price": "$4.19",
+"release": "Sep 15, 2026",
+"total": 69,
+"ts": "2026-09-18T13:19:53.711529+00:00",
+"verdict": "Very Positive"
+},
 "4405880": {
 "desc": "open your eyes from the ancient temple and embark on this adventure! Embark on an RPG adventure in a dark-themed sandbox world. Explore vast lands, collect all kinds of cards, craft diverse combinations, and make pivotal choices\u2014seeking lost truths and redemption in the chaos and danger.",
 "descriptors": [],
@@ -7730,6 +7847,20 @@
 "total": 204,
 "ts": "2026-08-27T00:24:56.002316+00:00",
 "verdict": "Very Positive"
+},
+"4428890": {
+"desc": "A puzzle game with twenty small mazes.",
+"descriptors": [],
+"genres": [
+"Free To Play"
+],
+"name": "20 More, Somehow Even Smaller, Mazes",
+"pct": 100,
+"price": "Free",
+"release": "Sep 17, 2026",
+"total": 598,
+"ts": "2026-09-18T13:17:55.947832+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4448490": {
 "desc": "Planet Harvester is a relaxing low-poly incremental game. Pilot your crawler across beautiful worlds, chew through resources, unlock new tools, hire drones, and customize your machine for ever bigger hauls. Turn small numbers into massive ones!",
@@ -8334,6 +8465,25 @@
 "ts": "2026-08-25T02:17:03.974373+00:00",
 "verdict": "Very Positive"
 },
+"4562940": {
+"desc": "HOPE 01 is a single player extraction survival RPG with multiple endings. Explore, Loot, and Fight your way through the dangerous enemies and bosses of the hab cluster and solve the mystery of the legendary HAB 01.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "HOPE 01",
+"pct": 94,
+"price": "$10.79",
+"release": "Sep 15, 2026",
+"total": 66,
+"ts": "2026-09-18T13:20:10.495251+00:00",
+"verdict": "Very Positive"
+},
 "4563880": {
 "desc": "it's about walking",
 "descriptors": [],
@@ -8780,6 +8930,22 @@
 "release": "Jul 13, 2026",
 "total": 56,
 "ts": "2026-07-18T03:52:11.123278+00:00",
+"verdict": "Very Positive"
+},
+"4628250": {
+"desc": "Every [key]stroke makes your sausage bigger. Let it sit in the corner of your screen and watch it grow while you use your PC. Feed it different meats, upgrade your butcher, and see the magic happen. Have you ever dreamed of growing your sausage? Now it\u2019s finally possible!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "How to Grow Your Sausage",
+"pct": 96,
+"price": "$3.59",
+"release": "Sep 14, 2026",
+"total": 53,
+"ts": "2026-09-18T13:20:07.189963+00:00",
 "verdict": "Very Positive"
 },
 "4629600": {
@@ -9274,6 +9440,24 @@
 "ts": "2026-09-03T13:11:49.406663+00:00",
 "verdict": "Very Positive"
 },
+"4753760": {
+"desc": "An all-in-one desktop companion with a stylish mature avatar, productivity tools, collection and growth features, and a lively desktop ecosystem. Customize her look and outfits while she helps with hardware monitoring, planning, finances, music, pets, desktop effects, and more.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Your Fianc\u00e9e",
+"pct": 100,
+"price": "$2.39",
+"release": "Sep 17, 2026",
+"total": 433,
+"ts": "2026-09-18T13:19:57.066812+00:00",
+"verdict": "Very Positive"
+},
 "4764810": {
 "desc": "There\u2019s no place like home - and yours is no home at all. Play as Rosa, a neglected child trying to escape her abusive family. Sneak out, but be ever so quiet. Mom is listening, dad is angry, and your big sister is always watching\u2026",
 "descriptors": [
@@ -9681,6 +9865,22 @@
 "release": "Jul 20, 2026",
 "total": 60,
 "ts": "2026-07-30T03:54:24.210383+00:00",
+"verdict": "Very Positive"
+},
+"4870430": {
+"desc": "Tidy Up History is a cozy cleaning sim where you inherit a chaotic museum. Tidy messy rooms, unlock new abilities, and find hidden keys to open new wings. Uncover historical knowledge to properly identify and showcase artifacts, returning the museum to its former glory.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Tidy Up History",
+"pct": 92,
+"price": "$5.09",
+"release": "Sep 16, 2026",
+"total": 119,
+"ts": "2026-09-18T13:20:13.956675+00:00",
 "verdict": "Very Positive"
 },
 "4881550": {
