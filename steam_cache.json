@@ -2857,6 +2857,23 @@
 "ts": "2026-07-26T04:22:52.355778+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3058360": {
+"desc": "Run your Parisian bistro in the heart of Paris, solo or in co-op with up to 8 players! Curate your menu, manage supplies, serve customers, and expand with new floors, a terrace, and a rooftop to become a true Parisian institution.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Parisian Bistro Simulator",
+"pct": 93,
+"price": "$11.99",
+"release": "Sep 18, 2026",
+"total": 577,
+"ts": "2026-09-19T12:50:17.483095+00:00",
+"verdict": "Very Positive"
+},
 "3062500": {
 "desc": "The Adventurers is a turn-based tactical RPG where every decision shapes your legacy. Lead your party of heroes in an open world filled with random events that affect your story. Survive a high fantasy landscape where your epic saga is waiting to be written.",
 "descriptors": [
@@ -2943,6 +2960,23 @@
 "release": "Jul 31, 2026",
 "total": 58,
 "ts": "2026-08-02T04:22:40.626178+00:00",
+"verdict": "Very Positive"
+},
+"3088700": {
+"desc": "Drift, slipstream, and chain risky near-misses at insane speeds to build huge combos. Adapt to procedurally generated streets and challenges, upgrade your ride, unlock abilities, and stack powerful cards to break records. Climb the Redline rankings and fight your way to the top of the leaderboards.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Racing"
+],
+"name": "Driving Rogue",
+"pct": 98,
+"price": "$8.99",
+"release": "Sep 17, 2026",
+"total": 91,
+"ts": "2026-09-19T12:50:14.163501+00:00",
 "verdict": "Very Positive"
 },
 "3100970": {
@@ -3277,6 +3311,22 @@
 "release": "Aug 27, 2026",
 "total": 50,
 "ts": "2026-09-14T15:33:07.364480+00:00",
+"verdict": "Very Positive"
+},
+"3201730": {
+"desc": "Flamecraft is a 1-5 player cozy strategy game filled with magic. Become a Flamekeeper and help adorable dragon artisans find the perfect home. Enchant the town\u2019s stores and fill them with dragon cards as you watch the whimsical shopping district come to life.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Flamecraft",
+"pct": 100,
+"price": "$15.99",
+"release": "Sep 17, 2026",
+"total": 57,
+"ts": "2026-09-19T12:50:10.847476+00:00",
 "verdict": "Very Positive"
 },
 "3201830": {
@@ -4683,6 +4733,25 @@
 "ts": "2026-09-06T12:32:21.245120+00:00",
 "verdict": "Very Positive"
 },
+"3640200": {
+"desc": "A proximity voice chat social deduction game where criminals must commit secret crimes while a Supervisor hunts them, and a hidden Snitch betrays them from within.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Dawson Oaks Trailer Park",
+"pct": 89,
+"price": "$8.99",
+"release": "Sep 17, 2026",
+"total": 142,
+"ts": "2026-09-19T12:50:30.917180+00:00",
+"verdict": "Very Positive"
+},
 "3640430": {
 "desc": "Resettle the shards of a shattered world in this peaceful roguelite deckbuilder, covering centuries of classical Japanese art. Nurture communities, befriend animal spirits, and shape a new civilization through choices that echo across generations.",
 "descriptors": [],
@@ -5156,6 +5225,23 @@
 "release": "Aug 13, 2026",
 "total": 339,
 "ts": "2026-08-14T14:13:09.958725+00:00",
+"verdict": "Very Positive"
+},
+"3829310": {
+"desc": "Sublight is a space bullet heaven roguelike, where you captain a powerful warship and carve through escalating waves of enemies. Upgrade your arsenal, unlock new ships, and experiment with countless builds to dominate the battlefield.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "Sublight",
+"pct": 91,
+"price": "$11.99",
+"release": "Sep 15, 2026",
+"total": 54,
+"ts": "2026-09-19T12:50:27.567961+00:00",
 "verdict": "Very Positive"
 },
 "3837350": {
@@ -7679,6 +7765,22 @@
 "ts": "2026-08-24T02:21:23.694466+00:00",
 "verdict": "Very Positive"
 },
+"4384820": {
+"desc": "Global Football is a multiplayer football game focused on real skill, teamwork, and identity. Here, each player controls a single athlete on the field \u2014 not an entire team. No pay-to-win. No scripts. Victory depends solely on your game awareness, technique, and team chemistry.",
+"descriptors": [],
+"genres": [
+"Massively Multiplayer",
+"Sports",
+"Free To Play"
+],
+"name": "Global Football",
+"pct": 93,
+"price": "Free",
+"release": "Sep 18, 2026",
+"total": 54,
+"ts": "2026-09-19T12:50:20.915687+00:00",
+"verdict": "Very Positive"
+},
 "4385270": {
 "desc": "A cozy pet sim where you raise Ember, your magical fox-like companion. Bring her home, care for her, and venture into the Otherlands together -- deepening your bond one adventure at a time.",
 "descriptors": [],
@@ -9235,6 +9337,20 @@
 "ts": "2026-07-30T03:54:37.408317+00:00",
 "verdict": "Very Positive"
 },
+"4668870": {
+"desc": "Craft your special recipe juices and sell them in medieval villages. Expand your business with new recipes, machines, properties, and workers. Play online with your friend or go solo, and enjoy the growth of your business.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Medieval Juice Crafter",
+"pct": 87,
+"price": "$10.79",
+"release": "Sep 15, 2026",
+"total": 53,
+"ts": "2026-09-19T12:50:37.586221+00:00",
+"verdict": "Very Positive"
+},
 "4668890": {
 "desc": "Run your mall. Open new stores, sign contracts with leading brands, hire teammates, and meet customer needs. Play with friends or go solo, and enjoy the growth of your mall.",
 "descriptors": [],
@@ -9589,6 +9705,25 @@
 "release": "Aug 21, 2026",
 "total": 65,
 "ts": "2026-09-03T13:11:42.794751+00:00",
+"verdict": "Very Positive"
+},
+"4810070": {
+"desc": "Equipped only with a weapon that consumes your own blood, explore an ancient brutalist catacomb. Beware the Eyes of The Whispering Crypt. Find the 4 artifacts of desire. Confront God.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "CONCRETE BURIAL",
+"pct": 89,
+"price": "$3.19",
+"release": "Sep 17, 2026",
+"total": 55,
+"ts": "2026-09-19T12:50:34.227582+00:00",
 "verdict": "Very Positive"
 },
 "4821420": {
@@ -10470,6 +10605,22 @@
 "release": "Sep 3, 2026",
 "total": 56,
 "ts": "2026-09-07T14:41:40.544794+00:00",
+"verdict": "Very Positive"
+},
+"5120650": {
+"desc": "Transform a chaotic area into a satisfying work of art. Follow the paver layout plan and place 4,064 pavers in their correct locations. Work alone or together with friends, develop useful skills, and restore the plaza piece by piece.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Paver: Tidy Up Together",
+"pct": 92,
+"price": "$4.49",
+"release": "Sep 18, 2026",
+"total": 108,
+"ts": "2026-09-19T12:50:24.232121+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
