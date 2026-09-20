@@ -1169,6 +1169,25 @@
 "ts": "2026-09-11T13:09:15.085505+00:00",
 "verdict": "Very Positive"
 },
+"2231460": {
+"desc": "A service industry adventure with an apocalyptic flavor. A manic genre mashup told across two broken realities. Step through the cracks: find your Exit.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Roman Sands RE:Build",
+"pct": 93,
+"price": "$13.49",
+"release": "Sep 16, 2026",
+"total": 60,
+"ts": "2026-09-20T13:24:54.994063+00:00",
+"verdict": "Very Positive"
+},
 "2233770": {
 "desc": "A fable from your childhood. Don't you remember it?",
 "descriptors": [
@@ -2527,6 +2546,21 @@
 "ts": "2026-07-14T17:22:28.297777+00:00",
 "verdict": "Very Positive"
 },
+"2841650": {
+"desc": "Sniper Dan is a delightfully funny, family-friendly 3D Hidden Object game with a big twist. Use a sniper rifle to solve hundreds of low-stakes jobs across six packed locations, discover surprising secrets, snap hilarious photo ops, and unlock costumes, upgrades, office d\u00e9cor, collectables and more!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Sniper Dan",
+"pct": 94,
+"price": "$10.39",
+"release": "Sep 17, 2026",
+"total": 72,
+"ts": "2026-09-20T13:24:48.403230+00:00",
+"verdict": "Very Positive"
+},
 "2845270": {
 "desc": "\ud83d\udc7d\ud83d\udef8 100 Aliens Cats - \ud83d\udc3e Join the cutest adventure in the Aliens themed locations full of cats! Explore the charming hand-drawn artwork of aliens places and Cats as you embark on a quest to find 100 adorable cats hidden throughout the game. \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\u274c Can you find them all? \ud83d\udd75\ufe0f\u200d\u2642\ufe0f\ud83d\udc08\u2705",
 "descriptors": [],
@@ -3277,6 +3311,21 @@
 "release": "Aug 20, 2026",
 "total": 207,
 "ts": "2026-08-22T02:13:29.429149+00:00",
+"verdict": "Very Positive"
+},
+"3199470": {
+"desc": "What's this? An off-the-wall, riveting jetpunk nose-breaking ricochet action platformer, lovingly crafted by the oddballs behind the Teslagrad series!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Knuckle Jet",
+"pct": 98,
+"price": "$13.49",
+"release": "Sep 15, 2026",
+"total": 63,
+"ts": "2026-09-20T13:24:45.035491+00:00",
 "verdict": "Very Positive"
 },
 "3199870": {
@@ -4537,6 +4586,24 @@
 "ts": "2026-08-23T02:23:09.407351+00:00",
 "verdict": "Very Positive"
 },
+"3570490": {
+"desc": "25th century. The war is over, but the Frontier is still full of danger and old secrets. You are a mercenary bound to a mysterious crystal. Explore the sector, shape its story, build your team and win tactical battles.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Frontier: Path of Shadows",
+"pct": 94,
+"price": "$12.74",
+"release": "Sep 10, 2026",
+"total": 53,
+"ts": "2026-09-20T13:24:51.701890+00:00",
+"verdict": "Very Positive"
+},
 "3584920": {
 "desc": "A heartfelt game where you run a night market stall, cooking kaolengmian (grilled cold noodles). Customers come and go, stopping by to chat and share bits of their lives, joys, frustrations, and everyday struggles. At this little stall, you cook, listen, and keep living an ordinary person\u2019s life.",
 "descriptors": [],
@@ -5298,6 +5365,26 @@
 "release": "Aug 17, 2026",
 "total": 293,
 "ts": "2026-08-18T09:26:55.681001+00:00",
+"verdict": "Very Positive"
+},
+"3861870": {
+"desc": "Future? No Thanks! is a narrative-driven, open-world adventure set in an ecosocialist utopia. You're old, bitter, and scheduled for euthanasia. Enjoy your last day in a future that works for everyone but you.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Future? No Thanks!",
+"pct": 100,
+"price": "$19.99",
+"release": "Sep 4, 2026",
+"total": 57,
+"ts": "2026-09-20T13:24:41.669613+00:00",
 "verdict": "Very Positive"
 },
 "3869850": {
@@ -7979,6 +8066,22 @@
 "ts": "2026-09-18T13:17:55.947832+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4437370": {
+"desc": "Pop! Pachinko is a pachinko roguelite with city pop vibes. Build up your collection of enchanted balls to fire into the machine. Collect charms to build up powerful synergies between your balls. Listen to some pop music as you expand your Chibi Pop collection!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Pop! Pachinko",
+"pct": 100,
+"price": "$9.74",
+"release": "Sep 17, 2026",
+"total": 58,
+"ts": "2026-09-20T13:24:38.368166+00:00",
+"verdict": "Very Positive"
+},
 "4448490": {
 "desc": "Planet Harvester is a relaxing low-poly incremental game. Pilot your crawler across beautiful worlds, chew through resources, unlock new tools, hire drones, and customize your machine for ever bigger hauls. Turn small numbers into massive ones!",
 "descriptors": [],
@@ -9518,6 +9621,23 @@
 "release": "Jul 14, 2026",
 "total": 50,
 "ts": "2026-07-20T04:34:18.739006+00:00",
+"verdict": "Very Positive"
+},
+"4711680": {
+"desc": "Gather, craft, build and explore alone or with up to 3 friends. Unlock new land, collect resources, build and decorate your home, farm, fish, automate production, upgrade your character, and defend against optional enemy raids.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Gathera",
+"pct": 85,
+"price": "$13.99",
+"release": "Aug 31, 2026",
+"total": 62,
+"ts": "2026-09-20T13:24:58.296645+00:00",
 "verdict": "Very Positive"
 },
 "4736640": {
