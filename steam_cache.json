@@ -2070,6 +2070,21 @@
 "ts": "2026-07-20T04:34:12.100786+00:00",
 "verdict": "Very Positive"
 },
+"2695500": {
+"desc": "An active incremental game about searching for scraps and drag racing to rule over all the territories in the wasteland.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Rushcremental",
+"pct": 96,
+"price": "$3.29",
+"release": "Sep 15, 2026",
+"total": 57,
+"ts": "2026-09-21T15:33:50.090492+00:00",
+"verdict": "Very Positive"
+},
 "2704090": {
 "desc": "Loot, bribe, gamble, survive. The dice will be your savior or your downfall in this story-driven RPG. Every roll matters when trying to uncover cosmic horrors and outwit megacorps. Pray your next roll won\u2019t be your last.",
 "descriptors": [],
@@ -2665,6 +2680,21 @@
 "ts": "2026-07-31T04:20:08.056382+00:00",
 "verdict": "Very Positive"
 },
+"2929040": {
+"desc": "From the creators of Halo Wars and Age of Empires, Fleetbreakers is an action RTS roguelite with satisfying fleet combat in bite-sized sessions. Strategic depth meets cataclysmic space battles in an ever-evolving campaign that keeps you coming back for just. One. More. Run.",
+"descriptors": [],
+"genres": [
+"Strategy",
+"Early Access"
+],
+"name": "Fleetbreakers",
+"pct": 96,
+"price": "$9.89",
+"release": "Sep 15, 2026",
+"total": 52,
+"ts": "2026-09-21T15:33:46.905698+00:00",
+"verdict": "Very Positive"
+},
 "2933200": {
 "desc": "Tukoni: Forest Keepers is a cute &amp; cozy puzzle adventure. Play as Traveller, a forest spirit on a special journey, as you explore magical hand-drawn locations, meet charming characters, solve handcrafted puzzles, collect herbs and tea recipes, and help the forest prepare for the coming winter.",
 "descriptors": [],
@@ -3059,6 +3089,26 @@
 "release": "Jul 21, 2026",
 "total": 185,
 "ts": "2026-07-23T04:13:29.023946+00:00",
+"verdict": "Very Positive"
+},
+"3120460": {
+"desc": "Build your dream nightclub in Night Club Simulator: Party King! Play solo or team up in online co-op with up to 8 players. Design your club, serve drinks and hire bartenders, dancers and many other staff. Can you keep the party going when chaos takes over?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Night Club Simulator: Party King",
+"pct": 94,
+"price": "$11.19",
+"release": "Sep 16, 2026",
+"total": 80,
+"ts": "2026-09-21T15:33:53.429838+00:00",
 "verdict": "Very Positive"
 },
 "3123060": {
@@ -4736,6 +4786,23 @@
 "ts": "2026-07-19T04:20:41.644925+00:00",
 "verdict": "Very Positive"
 },
+"3623530": {
+"desc": "Forge your strategy around powerful relics in this turn-based tactical roguelite. Choose your slots, manage their constraints, and face formidable bosses.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Strategy"
+],
+"name": "Deified",
+"pct": 96,
+"price": "$13.49",
+"release": "Sep 21, 2026",
+"total": 283,
+"ts": "2026-09-21T15:33:43.689706+00:00",
+"verdict": "Very Positive"
+},
 "3633760": {
 "desc": "Dopamine-fueled minimalist grid-based game that pushes the boundaries of psychedelic visuals and fast reaction time. KAZ is an action roguelike arcade game where choice of items, buffs, and maluses allows you to unlock cool visuals and themes while showing everybody your skill on the leaderboards",
 "descriptors": [],
@@ -5959,6 +6026,23 @@
 "ts": "2026-09-03T13:11:25.207878+00:00",
 "verdict": "Very Positive"
 },
+"3983860": {
+"desc": "Forage, craft and automate to grow your factory, unlock new technologies and expand your island to discover new biomes. Progress through the ages from sticks and stones to the Bronze Age, the Industrial Era and into the future to uncover the secret of the Lighthouse and escape this reality.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Nightwater",
+"pct": 85,
+"price": "$13.49",
+"release": "Sep 18, 2026",
+"total": 86,
+"ts": "2026-09-21T15:33:59.948195+00:00",
+"verdict": "Very Positive"
+},
 "3985060": {
 "desc": "You've been hired by a real estate agency to photograph their listings at night, giving them a unique look online. Grab your camera, explore dark, quiet homes, and capture every required shot before the property notices you. Uncover the truth: why do these listings need to be photographed at night?",
 "descriptors": [
@@ -6887,6 +6971,25 @@
 "release": "Jul 23, 2026",
 "total": 66,
 "ts": "2026-07-26T04:24:43.564772+00:00",
+"verdict": "Very Positive"
+},
+"4182430": {
+"desc": "YOU ARE SENTENCED TO DEATH... Slither your way through an impenetrable fortress crawling with devils faster, stronger, and more cunning than any human. By sheer luck you've slipped through the cracks, but discovery means certain death. How long are you going to delay the inevitable?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "DEATH PENALTY",
+"pct": 87,
+"price": "$10.19",
+"release": "Sep 15, 2026",
+"total": 68,
+"ts": "2026-09-21T15:34:03.188607+00:00",
 "verdict": "Very Positive"
 },
 "4191350": {
@@ -9343,6 +9446,21 @@
 "ts": "2026-09-07T14:41:33.877256+00:00",
 "verdict": "Very Positive"
 },
+"4655600": {
+"desc": "In 1921: a kidnapping, a revolution... Investigate and uncover the truth behind a dark, mysterious story.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "The Bird of the North",
+"pct": 100,
+"price": "$5.80",
+"release": "Sep 17, 2026",
+"total": 56,
+"ts": "2026-09-21T15:33:40.424137+00:00",
+"verdict": "Very Positive"
+},
 "4656000": {
 "desc": "Chaotic bomb disposal fun with friends &amp; monkeys! Work together as a 3-player co-op team of blind, deaf, and mute monkeys. Each player has only part of the needed information. Communicate, solve puzzles, and race against the clock. Can you defuse the bombs before they explode?",
 "descriptors": [
@@ -9656,6 +9774,26 @@
 "release": "Jul 23, 2026",
 "total": 51,
 "ts": "2026-07-26T04:24:40.232269+00:00",
+"verdict": "Very Positive"
+},
+"4739040": {
+"desc": "\ud83d\udd25 UP TO 8-PLAYER HARDCORE DISCIPLINE SIMULATOR!!! \ud83d\udcaa Build power at max speed and WIN! Upload your target pics, use gadgets, and wreck faces in insane massive brawls! Dominate, sweat, and become the ABSOLUTE GOD OF DISCIPLINE!!! \ud83d\ude08",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "DISCIPLINE SIMULATOR",
+"pct": 85,
+"price": "$4.24",
+"release": "Sep 20, 2026",
+"total": 354,
+"ts": "2026-09-21T15:33:56.638923+00:00",
 "verdict": "Very Positive"
 },
 "4740420": {
@@ -10709,6 +10847,23 @@
 "release": "Sep 7, 2026",
 "total": 120,
 "ts": "2026-09-08T13:14:30.317068+00:00",
+"verdict": "Very Positive"
+},
+"5099380": {
+"desc": "Start with one five-a-side pitch. Answer the phone, haggle over the price, fill the hours. Reinvest: more pitches, more land, more staff. Grow enough and the neighbourhood league plays its season on your grass.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Sports",
+"Strategy"
+],
+"name": "Pitchside Empire",
+"pct": 86,
+"price": "Free",
+"release": "Sep 5, 2026",
+"total": 57,
+"ts": "2026-09-21T15:34:06.587457+00:00",
 "verdict": "Very Positive"
 },
 "5101080": {
