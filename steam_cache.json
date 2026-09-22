@@ -4460,6 +4460,21 @@
 "ts": "2026-09-06T12:30:21.393628+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3510740": {
+"desc": "A very normal golf simulator. Hit anything. Shoot from anywhere. But remember: you\u2019re not leaving until Luke Muscat himself (Fruit Ninja, Jetpack Joyride) is satisfied.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Sports"
+],
+"name": "Normal Golf Game",
+"pct": 99,
+"price": "$7.99",
+"release": "Sep 21, 2026",
+"total": 207,
+"ts": "2026-09-22T13:50:50.924626+00:00",
+"verdict": "Very Positive"
+},
 "3516590": {
 "desc": "A classic voxel sandbox combined with in-depth progression through exploration, dungeon crawling and boss battles. Spend every minute discovering new weapons, abilities, resources, enemies, structures, mechanics and tools. With a strong focus on discovery, variety and creativity, the world is yours.",
 "descriptors": [],
@@ -6320,6 +6335,21 @@
 "total": 123,
 "ts": "2026-08-13T14:20:17.959365+00:00",
 "verdict": "Very Positive"
+},
+"4019220": {
+"desc": "Become a dressmaker! Choose fabric, cut out patterns, and sew them all together to satisfy (or sabotage!) townsfolk in this cozy crafting game inspired by real dressmaking.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Dressmaker",
+"pct": 96,
+"price": "$13.49",
+"release": "Sep 21, 2026",
+"total": 636,
+"ts": "2026-09-22T13:48:47.869192+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4020320": {
 "desc": "Starvault is the first true VR MOBA shooter, blending classic MOBA strategy with explosive hero-shooter action. Squad up, master unique heroes, unlock insane skins, and jump into intense 5v5 battles. Step into the arena!",
@@ -9706,6 +9736,26 @@
 "ts": "2026-07-26T04:24:46.873578+00:00",
 "verdict": "Very Positive"
 },
+"4705510": {
+"desc": "Choose your inadequately prepared racer, and disregard severe consequences in your desperate pursuit of short-lived victory.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Racing"
+],
+"name": "Happy Wheels",
+"pct": 95,
+"price": "$4.99",
+"release": "Sep 21, 2026",
+"total": 1624,
+"ts": "2026-09-22T13:48:51.190496+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4705650": {
 "desc": "A tactical, map-based WWII submarine sim set in the Pacific Theater: Approach, intercept, strike unseen, withdraw into the deep. With realistic instruments, a Torpedo Data Computer (TDC), and including a full campaign with missions, patrol zones, radio intel, and more.",
 "descriptors": [],
@@ -10801,6 +10851,23 @@
 "release": "Sep 3, 2026",
 "total": 80,
 "ts": "2026-09-06T12:32:17.850866+00:00",
+"verdict": "Very Positive"
+},
+"5044390": {
+"desc": "Harvey's 1-dollar-a-click clicking store is open! Click him for all the money you want! But how far will you go to have money in your hands?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Simulation"
+],
+"name": "BLOODMONEY: Requiem",
+"pct": 88,
+"price": "$4.99",
+"release": "Sep 15, 2026",
+"total": 56,
+"ts": "2026-09-22T13:50:54.298770+00:00",
 "verdict": "Very Positive"
 },
 "5048740": {
