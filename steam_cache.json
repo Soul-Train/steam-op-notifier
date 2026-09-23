@@ -212,6 +212,22 @@
 "ts": "2026-08-01T04:19:35.541584+00:00",
 "verdict": "Very Positive"
 },
+"1374860": {
+"desc": "The afterlife is now digital. Discover that eternal life comes with sacrifice in a genre-defying RPG with unique rhythm combat.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Nocturne",
+"pct": 98,
+"price": "$17.99",
+"release": "Sep 22, 2026",
+"total": 81,
+"ts": "2026-09-23T14:01:43.596501+00:00",
+"verdict": "Very Positive"
+},
 "1441840": {
 "desc": "Accidentally, you obtained a legendary sword and traveled to the &quot;Labyrinth City of Veria-pool&quot;. What awaits you, is not only the wonderful dungeon &quot;Labyrinthos&quot;, which can obtain unlimited treasure, but also the encounters with beautiful and mysterious heroines.",
 "descriptors": [
@@ -2629,6 +2645,23 @@
 "ts": "2026-08-26T02:24:17.090689+00:00",
 "verdict": "Very Positive"
 },
+"2876200": {
+"desc": "Snap, rotate and launch your own warship in minutes, then pilot it into bullet-hell boss fights to hunt the galaxy's supervillains. Master intuitive engineering, evolve from drone to dreadnought, and use the fully gridless designer to build anything you can imagine!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "eXoSpace Combat Engineer",
+"pct": 88,
+"price": "$12.74",
+"release": "Sep 22, 2026",
+"total": 66,
+"ts": "2026-09-23T14:02:03.596863+00:00",
+"verdict": "Very Positive"
+},
 "2880010": {
 "desc": "The evil goddess seeks to devour and remake the world\u2026 and you are what stands in her way. Fight and kill, expand your skill tree, craft and build, and lead the world\u2019s people to victory in Din\u2019s Champion, a multiplayer fantasy action-RPG where every choice matters, and the choices are endless.",
 "descriptors": [],
@@ -2837,6 +2870,23 @@
 "total": 2520,
 "ts": "2026-08-03T04:25:33.360421+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"2999500": {
+"desc": "Blast through cardboard tracks, master your momentum and shave off milliseconds to earn medals and challenge friends on a fingerboard with no speed limit.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Racing"
+],
+"name": "STUNTBOOST",
+"pct": 99,
+"price": "$5.95",
+"release": "Sep 22, 2026",
+"total": 77,
+"ts": "2026-09-23T14:01:40.092484+00:00",
+"verdict": "Very Positive"
 },
 "3036350": {
 "desc": "A short non-linear detective adventure where every clue is hidden in plain sight. Carefully read and cross-reference documents to unravel a CEO\u2019s disappearance and expose a case of fraud.",
@@ -5093,6 +5143,23 @@
 "release": "Sep 2, 2026",
 "total": 56,
 "ts": "2026-09-04T13:05:20.964749+00:00",
+"verdict": "Very Positive"
+},
+"3699590": {
+"desc": "Well Dweller is a dark fairy-tale metroidvania, full of charming characters living in a wretched kingdom. Play as Glimmer - a tiny bird armed with a matchstick - who must burn the wicked queen to save his family.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Well Dweller",
+"pct": 96,
+"price": "$16.99",
+"release": "Sep 22, 2026",
+"total": 194,
+"ts": "2026-09-23T14:01:53.716562+00:00",
 "verdict": "Very Positive"
 },
 "3703200": {
@@ -7474,6 +7541,22 @@
 "ts": "2026-08-21T05:32:47.793762+00:00",
 "verdict": "Very Positive"
 },
+"4289410": {
+"desc": "BuGarden is a cozy flower garden that lives at the bottom of your screen! Plant seeds, water and fertilise them at your own pace, harvest cute fruits and flowers, and swat some pesky bugs. No stress, no mess. A friendly companion moving at a snail\u2019s pace.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "BuGarden",
+"pct": 97,
+"price": "$3.99",
+"release": "Sep 21, 2026",
+"total": 102,
+"ts": "2026-09-23T14:01:47.105898+00:00",
+"verdict": "Very Positive"
+},
 "4290680": {
 "desc": "Exorcise hordes of demons using gun-wielding nuns and angels in this survivors-like bullet heaven! Collect and keep angels with unique weapons, stats, and abilities to create god-like builds as you fend off waves of enemies! Do you have enough faith to survive?",
 "descriptors": [],
@@ -7888,6 +7971,22 @@
 "release": "Jul 16, 2026",
 "total": 85,
 "ts": "2026-07-23T04:13:35.500781+00:00",
+"verdict": "Very Positive"
+},
+"4358690": {
+"desc": "The most inaccurate medieval cemetery sim is back! Restore The Town, manage the graveyard, automate production, lead your undead army into battle and turn the zombie problem into a thriving business! Graveyard Keeper 2 is the grotesque sequel that's deeper than six feet, and more unhinged than ever!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG",
+"Simulation"
+],
+"name": "Graveyard Keeper 2",
+"pct": 88,
+"price": "$24.99",
+"release": "Sep 22, 2026",
+"total": 1191,
+"ts": "2026-09-23T14:02:00.243769+00:00",
 "verdict": "Very Positive"
 },
 "4364910": {
@@ -8568,11 +8667,11 @@
 ],
 "name": "MOLDRISE",
 "pct": 97,
-"price": "$10.79",
+"price": "$11.99",
 "release": "Jul 20, 2026",
-"total": 60,
-"ts": "2026-07-22T04:15:15.195502+00:00",
-"verdict": "Very Positive"
+"total": 521,
+"ts": "2026-09-23T13:59:51.037469+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4524800": {
 "desc": "You are a British WW1 soldier, trapped in an endless looping trench. Inspect your surroundings and report anything that is out of place. Will you escape? Shellshock is a short anomaly hunting experience (-30 minutes) inspired by liminal spaces and psychological horror.",
@@ -10188,6 +10287,23 @@
 "ts": "2026-07-21T04:13:34.472245+00:00",
 "verdict": "Very Positive"
 },
+"4838460": {
+"desc": "The classic visual novel 'HimaNatsu' from the critically acclaimed developer Makura is available in English for the first time! Weave a cheerful yet sometimes painful tale of promises and redemption together with the Oboshiro Choir Squad in this never-ending summer vacation.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "HimaNatsu: Of Churches, Sunflowers, and Long Summers",
+"pct": 93,
+"price": "$27.99",
+"release": "Sep 10, 2026",
+"total": 58,
+"ts": "2026-09-23T14:01:56.974481+00:00",
+"verdict": "Very Positive"
+},
 "4842670": {
 "desc": "Raise, Collect, Trade! Discover rare fish, grow your collection, and build a living aquarium right on your desktop.",
 "descriptors": [],
@@ -10979,6 +11095,35 @@
 "release": "Sep 18, 2026",
 "total": 108,
 "ts": "2026-09-19T12:50:24.232121+00:00",
+"verdict": "Very Positive"
+},
+"5130150": {
+"desc": "Put Back Stuff is a cozy organisation simulator where you put items back where they belong. Enjoy meditative, play at your pace organisation.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Put Back Stuff",
+"pct": 97,
+"price": "$4.79",
+"release": "Sep 13, 2026",
+"total": 67,
+"ts": "2026-09-23T14:01:50.408672+00:00",
+"verdict": "Very Positive"
+},
+"5206420": {
+"desc": "A desktop pet game with a companion who blinks, breathes, and follows your cursor. Drag, resize, pin, lock or hide her, and pair her with static, GIF or MP4 wallpapers. Discover and share characters and wallpapers through Steam Workshop for company while you work, study or relax.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Big Sister",
+"pct": 100,
+"price": "$0.79",
+"release": "Sep 21, 2026",
+"total": 50,
+"ts": "2026-09-23T14:01:36.723952+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
