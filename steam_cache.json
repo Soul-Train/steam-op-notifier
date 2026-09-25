@@ -111,6 +111,12 @@
 "ts": "2026-07-23T15:03:31.422078+00:00",
 "verdict": "Very Positive"
 },
+"1221950": {
+"pct": 95,
+"total": 96,
+"ts": "2026-09-25T14:23:10.045757+00:00",
+"verdict": "Very Positive"
+},
 "1269640": {
 "desc": "Beacon Pines is a cute and creepy adventure set within a mysterious book. Sneak out late, make new friends, uncover hidden truths, and collect words that will change the course of fate!",
 "descriptors": [],
@@ -2188,6 +2194,12 @@
 "ts": "2026-07-27T04:34:37.604058+00:00",
 "verdict": "Very Positive"
 },
+"2712590": {
+"pct": 94,
+"total": 62,
+"ts": "2026-09-25T14:22:52.665971+00:00",
+"verdict": "Very Positive"
+},
 "2713000": {
 "desc": "Embark on an original story, prequel to the award-winning games: A Plague Tale. As Sophia, journey to the Minotaur\u2019s Island, outsmart deadly foes, unravel ancient secrets, and confront a mythical creature at the heart of a devastating curse.",
 "descriptors": [
@@ -2271,6 +2283,12 @@
 "release": "Apr 10, 2026",
 "total": 4868,
 "ts": "2026-07-30T15:04:40.974681+00:00",
+"verdict": "Very Positive"
+},
+"2760580": {
+"pct": 91,
+"total": 274,
+"ts": "2026-09-25T14:23:02.999126+00:00",
 "verdict": "Very Positive"
 },
 "2764460": {
@@ -2429,6 +2447,12 @@
 "release": "Jul 15, 2026",
 "total": 76,
 "ts": "2026-07-25T04:01:19.755438+00:00",
+"verdict": "Very Positive"
+},
+"2796640": {
+"pct": 92,
+"total": 133,
+"ts": "2026-09-25T14:23:06.537935+00:00",
 "verdict": "Very Positive"
 },
 "2802740": {
@@ -3320,6 +3344,22 @@
 "ts": "2026-07-28T03:58:56.983074+00:00",
 "verdict": "Very Positive"
 },
+"3160570": {
+"desc": "Perform a dark ritual with your own hands under relentless pressure. Draw runes in real time, defend the ritual from enemies trying to stop it, and upgrade your skills to unleash devastating magic. Summon ancient eldritch gods in this dark fantasy game driven by skill, strategy and constant tension.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy"
+],
+"name": "Runeomicon",
+"pct": 88,
+"price": "$9.99",
+"release": "Sep 16, 2026",
+"total": 57,
+"ts": "2026-09-25T14:23:20.625970+00:00",
+"verdict": "Very Positive"
+},
 "3160640": {
 "desc": "Use your mouse to balance a cake that slides with every step in this horror game. Escape twisted beings and overcome dangerous traps, uncover the mystery behind the cake, and see the story through to its conclusion.",
 "descriptors": [
@@ -3563,6 +3603,23 @@
 "release": "Aug 31, 2026",
 "total": 162,
 "ts": "2026-08-31T16:36:58.616020+00:00",
+"verdict": "Very Positive"
+},
+"3208930": {
+"desc": "&quot;Welcome, adventurer! What quest have you completed today?\u201d A classic fantasy guild reception simulation \u2014 \u300eGalvatein: Adventurer\u2019s Guild\u300f",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Galvatein : Adventurers' Guild",
+"pct": 87,
+"price": "$11.89",
+"release": "Sep 22, 2026",
+"total": 319,
+"ts": "2026-09-25T14:23:24.204713+00:00",
 "verdict": "Very Positive"
 },
 "3213120": {
@@ -5133,6 +5190,12 @@
 "ts": "2026-09-08T13:14:33.775003+00:00",
 "verdict": "Very Positive"
 },
+"3669870": {
+"pct": 88,
+"total": 2518,
+"ts": "2026-09-25T14:23:17.149771+00:00",
+"verdict": "Very Positive"
+},
 "3674680": {
 "desc": "Roguecraft DX is a turn-based roguelike set in a Lovecraftian dungeon that rebuilds itself every run. Fight tentacled horrors and scary chickens, and free a caged badger who'll fetch loot for you. Compact runs that respect your time: die, learn, and dive right back in!",
 "descriptors": [],
@@ -5581,6 +5644,23 @@
 "ts": "2026-09-19T12:50:27.567961+00:00",
 "verdict": "Very Positive"
 },
+"3836120": {
+"desc": "An action-adventure survival game where every night could be your last. Explore a vast, dangerous world where survival depends on smart resource management, tactical combat, and what you choose to do before night falls.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Land of Glarefall",
+"pct": 97,
+"price": "$9.74",
+"release": "Sep 24, 2026",
+"total": 79,
+"ts": "2026-09-25T14:22:45.806508+00:00",
+"verdict": "Very Positive"
+},
 "3837350": {
 "desc": "Staffer Retro is a mystery adventure game where you uncover past incidents related to \u2018Mana\u2019, the source of supernatural powers. Gather information through dialogue and exploration, and piece together clues found in documents to guide the choices of Verita Retro, the protagonist.",
 "descriptors": [
@@ -5637,6 +5717,22 @@
 "ts": "2026-08-18T09:26:55.681001+00:00",
 "verdict": "Very Positive"
 },
+"3861710": {
+"desc": "Swim, dive, and explore as a curious sea otter far from home. Meet charming animals, discover hidden places, use tools, and solve light challenges as you make your way back with your favorite rock by your side.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Otterly Lost",
+"pct": 100,
+"price": "$15.29",
+"release": "Sep 23, 2026",
+"total": 79,
+"ts": "2026-09-25T14:22:38.876477+00:00",
+"verdict": "Very Positive"
+},
 "3861870": {
 "desc": "Future? No Thanks! is a narrative-driven, open-world adventure set in an ecosocialist utopia. You're old, bitter, and scheduled for euthanasia. Enjoy your last day in a future that works for everyone but you.",
 "descriptors": [
@@ -5690,6 +5786,26 @@
 "total": 567,
 "ts": "2026-07-15T14:44:19.923736+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3880400": {
+"desc": "A voxel-based death sandbox. Shoot, dismember, and crush NPCs with realistic body physics.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "FRUKT",
+"pct": 93,
+"price": "$6.74",
+"release": "Sep 24, 2026",
+"total": 85,
+"ts": "2026-09-25T14:22:59.546991+00:00",
+"verdict": "Very Positive"
 },
 "3880410": {
 "desc": "Glisynth is a rhythm game that uses two types of notes. The Q row on the keyboard is used for yellow notes, while the A row is used for white notes.",
@@ -11040,6 +11156,22 @@
 "ts": "2026-08-19T09:27:47.666824+00:00",
 "verdict": "Very Positive"
 },
+"4981570": {
+"desc": "Cozy first person co-op organizing and cleaning simulator! Sort wands, tarot decks and potions. Tidy up the shop to earn points and unlock powerful spells that help you restore order before the Alchemist returns!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Wand & Order: Tidy up the magic shop!",
+"pct": 96,
+"price": "$4.97",
+"release": "Sep 23, 2026",
+"total": 68,
+"ts": "2026-09-25T14:22:49.246017+00:00",
+"verdict": "Very Positive"
+},
 "4981740": {
 "desc": "action 3d platformer with a variety of gimmicks including block throwing, whip combat, pinball and stealth",
 "descriptors": [],
@@ -11128,6 +11260,12 @@
 "release": "Sep 13, 2026",
 "total": 87,
 "ts": "2026-09-24T13:59:03.761102+00:00",
+"verdict": "Very Positive"
+},
+"5019920": {
+"pct": 93,
+"total": 72,
+"ts": "2026-09-25T14:22:56.120757+00:00",
 "verdict": "Very Positive"
 },
 "5020310": {
@@ -11335,6 +11473,22 @@
 "ts": "2026-09-23T14:01:50.408672+00:00",
 "verdict": "Very Positive"
 },
+"5134970": {
+"desc": "An absurd personality testing experience with a whole lot of questions for you.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Foole's World",
+"pct": 99,
+"price": "Free",
+"release": "Sep 23, 2026",
+"total": 77,
+"ts": "2026-09-25T14:22:42.341203+00:00",
+"verdict": "Very Positive"
+},
 "5206420": {
 "desc": "A desktop pet game with a companion who blinks, breathes, and follows your cursor. Drag, resize, pin, lock or hide her, and pair her with static, GIF or MP4 wallpapers. Discover and share characters and wallpapers through Steam Workshop for company while you work, study or relax.",
 "descriptors": [],
@@ -11348,6 +11502,21 @@
 "release": "Sep 21, 2026",
 "total": 50,
 "ts": "2026-09-23T14:01:36.723952+00:00",
+"verdict": "Very Positive"
+},
+"5212940": {
+"desc": "Bunker Tidy Up is a relaxing game about organizing a bunker. Arrange 17,437 supplies on shelves, categorize resources, and relax!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Bunker Tidy Up",
+"pct": 92,
+"price": "$3.99",
+"release": "Sep 23, 2026",
+"total": 96,
+"ts": "2026-09-25T14:23:13.577004+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
