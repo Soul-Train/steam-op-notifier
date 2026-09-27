@@ -3477,6 +3477,24 @@
 "ts": "2026-08-14T14:13:30.348678+00:00",
 "verdict": "Very Positive"
 },
+"3179120": {
+"desc": "Lead your monks in prayer and labor to build a thriving medieval monastery. Manage resources, brew ale, craft manuscripts, and face trials like war and weather. Customize, expand, and guide your brotherhood to achieve spiritual and economic prosperity.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Monastery: Ora et Labora",
+"pct": 94,
+"price": "$11.99",
+"release": "Sep 24, 2026",
+"total": 54,
+"ts": "2026-09-27T14:29:35.804939+00:00",
+"verdict": "Very Positive"
+},
 "3180340": {
 "desc": "RIG Riot is a roguelike third-person mech-action shooter. Fight increasingly difficult enemies while completing objectives, level up, and choose the Weapons and Volatile Mods that will let you return from your raids victorious. Discover thousands of permanent parts, and build a RIG unlike any other.",
 "descriptors": [
@@ -5545,6 +5563,23 @@
 "release": "Aug 20, 2026",
 "total": 87,
 "ts": "2026-08-26T02:24:06.610504+00:00",
+"verdict": "Very Positive"
+},
+"3789080": {
+"desc": "Date a state! Buy low, sell high, dodge the Royal Navy and Patriot Privateers, and romance colonial state-chans in a chaotic American Revolution merchant sim. Mercantilism ho!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "HIROTONFA\u2019s American Revolution Smuggler",
+"pct": 99,
+"price": "$17.99",
+"release": "Sep 24, 2026",
+"total": 80,
+"ts": "2026-09-27T14:29:32.516930+00:00",
 "verdict": "Very Positive"
 },
 "3804370": {
@@ -7782,6 +7817,22 @@
 "total": 548,
 "ts": "2026-09-05T12:15:50.122357+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4259190": {
+"desc": "Kingdom Rush 6: Genesis is a fantasy tower defense strategy game that takes you back in time to the early days of the Kingdom with bold new twists. Build towers, command heroes, and stop Vez\u2019nan\u2019s corruption before it tears the kingdom apart!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy"
+],
+"name": "Kingdom Rush 6: Genesis TD",
+"pct": 64,
+"price": "$17.99",
+"release": "Sep 24, 2026",
+"total": 2271,
+"ts": "2026-09-27T14:29:45.682705+00:00",
+"verdict": "Mixed"
 },
 "4260270": {
 "desc": "In this survival game, you are stranded on an tropical island with your lovely friend Mitsuki. Explore your surroundings together, build a small shelter, and hunt for supplies. Have fun keeping up with all the heat!",
@@ -11175,6 +11226,21 @@
 "ts": "2026-08-24T02:21:37.141673+00:00",
 "verdict": "Very Positive"
 },
+"4964580": {
+"desc": "Museologist: Tidy Up the Museum! A single-player simulation. The whole collection has fallen apart. Find where each fragment belongs, piece it back together like a puzzle, and restore 543 objects from 3,513 scattered pieces.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Museologist: Tidy Up the Museum!",
+"pct": 91,
+"price": "$5.39",
+"release": "Sep 25, 2026",
+"total": 53,
+"ts": "2026-09-27T14:29:39.109719+00:00",
+"verdict": "Very Positive"
+},
 "4969200": {
 "desc": "Your parents have left, and you're home alone. What begins as an ordinary evening after school slowly turns into a living nightmare, where every little sound makes your heart race. Remember the most important rule: don't open the door for anyone.",
 "descriptors": [],
@@ -11465,6 +11531,21 @@
 "release": "Sep 1, 2026",
 "total": 87,
 "ts": "2026-09-02T13:09:55.377186+00:00",
+"verdict": "Very Positive"
+},
+"5086560": {
+"desc": "A tank combat action game with retro-style visuals, featuring WWII tanks in single-player battles.",
+"descriptors": [],
+"genres": [
+"Action",
+"Simulation"
+],
+"name": "Tank Battle Classic",
+"pct": 86,
+"price": "$6.99",
+"release": "Sep 24, 2026",
+"total": 76,
+"ts": "2026-09-27T14:29:42.407712+00:00",
 "verdict": "Very Positive"
 },
 "5097840": {
