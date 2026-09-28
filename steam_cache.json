@@ -269,6 +269,22 @@
 "ts": "2026-08-06T04:02:02.909347+00:00",
 "verdict": "Very Positive"
 },
+"1443430": {
+"desc": "Experience the commercial port of the game that spawned a thousand 'Rogue-likes'. Venture into the Dungeons of Doom in search of the legendary Amulet of Yendor, and hopefully escape with your life! Randomly generated dungeons await you, full of nasty monsters, insidious traps, and glittering loot.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG",
+"Strategy"
+],
+"name": "Rogue",
+"pct": 95,
+"price": "$2.99",
+"release": "Oct 22, 2020",
+"total": 514,
+"ts": "2026-09-28T17:13:33.726005+00:00",
+"verdict": "Very Positive"
+},
 "1444080": {
 "desc": "Gun-jump your way through a buzzing world full of quirky monsters, tricky puzzles, and outlandish bosses in this fast-paced, lighthearted Metroidvania.",
 "descriptors": [],
@@ -2178,6 +2194,23 @@
 "ts": "2026-07-18T03:52:17.713072+00:00",
 "verdict": "Very Positive"
 },
+"2710040": {
+"desc": "Explore, Build, Farm, Craft and Fight in this survival sandbox adventure for 1-8 players. Delve deep to uncover the secret of the invading 'Faults' and restore stability to the land.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Delverium",
+"pct": 86,
+"price": "$9.99",
+"release": "Sep 21, 2026",
+"total": 151,
+"ts": "2026-09-28T17:15:41.563860+00:00",
+"verdict": "Very Positive"
+},
 "2710650": {
 "desc": "Lost in an unexplored star system after a dimensional anomaly dispersed your fleet, you start to pick up signals scattered throughout the system. Explore the wrecks of the corporate fleet, discover the secrets of the anomaly, and try to get the good ending.",
 "descriptors": [],
@@ -2706,6 +2739,21 @@
 "release": "Aug 13, 2026",
 "total": 52,
 "ts": "2026-08-26T02:24:17.090689+00:00",
+"verdict": "Very Positive"
+},
+"2873060": {
+"desc": "The Bell Echoes is a story-driven tactical roguelite. Fight alongside a cast of distinctive companions as you venture deeper into the Corrupted Lands, defeat powerful foes, collect Echoes and memory fragments, and uncover the truth behind the characters and the world.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Strategy"
+],
+"name": "The Bell Echoes",
+"pct": 95,
+"price": "$12.59",
+"release": "Sep 27, 2026",
+"total": 175,
+"ts": "2026-09-28T17:15:28.245045+00:00",
 "verdict": "Very Positive"
 },
 "2876200": {
@@ -3239,6 +3287,24 @@
 "ts": "2026-08-14T14:13:26.978690+00:00",
 "verdict": "Very Positive"
 },
+"3115490": {
+"desc": "Lunar Drifter is an Arcade First Person Shooter, your mission is to tear, blast, and crush an entire legion as fast as possible within the time limit. Featuring 4 playable characters with their own gimmicks and arsenal, more than 15 unique hand-crafted levels, and includes online Co-Op!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Lunar Drifter",
+"pct": 88,
+"price": "$13.49",
+"release": "Sep 25, 2026",
+"total": 64,
+"ts": "2026-09-28T17:15:48.293776+00:00",
+"verdict": "Very Positive"
+},
 "3116700": {
 "desc": "Reap and Rush is an absurdly addictive action roguelike. Step into the role of an underworld envoy thrust into a chaotic underworld. Fight through hordes of Yaoguai, leveling-up skills to become a soul-harvesting reaper and unravel a shocking conspiracy across endless cycles...",
 "descriptors": [],
@@ -3752,6 +3818,22 @@
 "total": 139,
 "ts": "2026-08-12T14:18:31.959440+00:00",
 "verdict": "Very Positive"
+},
+"3256150": {
+"desc": "From the creators of Snufkin: Melody of Moominvalley comes a heartwarming new adventure inspired by the beloved Moomin stories by Tove Jansson. This time, join Moomintroll himself on a charming but cold winter journey.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Moomintroll: Winter's Warmth",
+"pct": 98,
+"price": "$19.99",
+"release": "Apr 27, 2026",
+"total": 590,
+"ts": "2026-09-28T17:13:36.947883+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3258560": {
 "desc": "&quot;I'm No Demonlord&quot; is a Roguelike shooter bullet hell game. High freedom in mechanics leads to unique playthroughs. As a demon-possessed hero, battle enemies, grow, and unveil dark schemes. Can he accept his new role? Save &quot;kinds&quot; or destroy &quot;outsiders&quot;? Good or evil? The choice is yours.",
@@ -5226,6 +5308,23 @@
 "ts": "2026-08-06T04:01:46.656595+00:00",
 "verdict": "Very Positive"
 },
+"3664090": {
+"desc": "Hold the line or everything falls. Wavecrashers is a 3-player co-op strategy game where heroes defend against relentless waves of enemies. Build powerful synergies, push your limits, and survive the chaos. Play solo with bots or team up with friends. Every run is a fight to endure the storm.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Wavecrashers",
+"pct": 92,
+"price": "$9.89",
+"release": "Sep 25, 2026",
+"total": 61,
+"ts": "2026-09-28T17:15:34.912513+00:00",
+"verdict": "Very Positive"
+},
 "3669570": {
 "desc": "Start small, team up with friends, and automate production with conveyor belts, pipes, and magical devices. Stock your shop with potions, jewelry, and relics, complete commissions, and build an alchemy empire! Alchemy Factory 1.0 is out now with the Wagon Logistics System and revamped shopkeeping.",
 "descriptors": [],
@@ -6120,6 +6219,20 @@
 "release": "Aug 17, 2026",
 "total": 62,
 "ts": "2026-08-22T02:13:04.938631+00:00",
+"verdict": "Very Positive"
+},
+"3932790": {
+"desc": "Wake up Garfield from this nightmarish veggie filled 3D Platformer! The laziest cat is about to work hard in Garfield - Escape from Monday!",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Garfield - Escape from Monday",
+"pct": 93,
+"price": "$22.49",
+"release": "Sep 24, 2026",
+"total": 59,
+"ts": "2026-09-28T17:15:31.551996+00:00",
 "verdict": "Very Positive"
 },
 "3934270": {
@@ -7751,6 +7864,22 @@
 "ts": "2026-09-17T14:02:09.265885+00:00",
 "verdict": "Very Positive"
 },
+"4246520": {
+"desc": "A unique card-based turn-based battle system set in a universe of cosmic opera.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Galaxy Hunter",
+"pct": 98,
+"price": "$7.19",
+"release": "Sep 23, 2026",
+"total": 57,
+"ts": "2026-09-28T17:15:24.814186+00:00",
+"verdict": "Very Positive"
+},
 "4251370": {
 "desc": "Survive 365 days to earn absolute freedom. Become the operator of a remote D.E.C.A.Y. bunker, explore the scorched sectors of the United States with your robot companion, gather resources, and maintain the Atlas network in hardcore VR, where order is a matter of choice.",
 "descriptors": [
@@ -8738,6 +8867,23 @@
 "ts": "2026-09-18T13:17:55.947832+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4436200": {
+"desc": "Every block of this planet is real, including fluids! Dig it, flood it, process it. FluxWerks is a factory automation game on a fully destructible voxel world with physical fluid and heat simulation. Dig anywhere, automate everything, and survey a world that was supposed to be empty.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "FluxWerks",
+"pct": 90,
+"price": "$21.24",
+"release": "Sep 23, 2026",
+"total": 62,
+"ts": "2026-09-28T17:15:38.299815+00:00",
+"verdict": "Very Positive"
+},
 "4437370": {
 "desc": "Pop! Pachinko is a pachinko roguelite with city pop vibes. Build up your collection of enchanted balls to fire into the machine. Collect charms to build up powerful synergies between your balls. Listen to some pop music as you expand your Chibi Pop collection!",
 "descriptors": [],
@@ -8816,6 +8962,22 @@
 "release": "Jul 20, 2026",
 "total": 50,
 "ts": "2026-07-29T04:01:37.765981+00:00",
+"verdict": "Very Positive"
+},
+"4457150": {
+"desc": "A bite-sized puzzle adventure in a garden full of deceptively cute plants. Play as a tiny glowing lamp and shape them with your light to make your way deeper and find your pup.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Chomp Garden",
+"pct": 100,
+"price": "$2.39",
+"release": "Sep 23, 2026",
+"total": 53,
+"ts": "2026-09-28T17:15:21.574516+00:00",
 "verdict": "Very Positive"
 },
 "4464990": {
@@ -10154,6 +10316,22 @@
 "release": "Jul 24, 2026",
 "total": 67,
 "ts": "2026-07-25T04:01:09.496119+00:00",
+"verdict": "Very Positive"
+},
+"4671380": {
+"desc": "30 skills. Three combat styles. Clans, raids, hiscores, pets, capes. Set up your queue, close the tab, come back richer. Scapewatch is the idle MMO for people who actually like the grind.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Massively Multiplayer",
+"RPG"
+],
+"name": "Scapewatch: Idle MMO",
+"pct": 86,
+"price": "$9.74",
+"release": "Sep 25, 2026",
+"total": 257,
+"ts": "2026-09-28T17:15:44.791127+00:00",
 "verdict": "Very Positive"
 },
 "4671680": {
