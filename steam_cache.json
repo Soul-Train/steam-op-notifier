@@ -2113,6 +2113,23 @@
 "ts": "2026-08-07T01:03:15.520134+00:00",
 "verdict": "Very Positive"
 },
+"2680440": {
+"desc": "MONOWAVE is a puzzle adventure through colorful worlds powered by four emotions. Alone or with a friend, express your feelings through song, empathize with your spirit friends, and solve puzzles to find your way forward.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "MONOWAVE",
+"pct": 95,
+"price": "$8.99",
+"release": "Sep 16, 2026",
+"total": 75,
+"ts": "2026-09-30T15:32:10.536616+00:00",
+"verdict": "Very Positive"
+},
 "2682270": {
 "desc": "Pight is a minimalist puzzle game inspired by the Minecraft redstone system, in which we try to turn on the light by using pistons and different block types. It offers a rich puzzle experience thanks to new mechanics added approximately every 10 levels.",
 "descriptors": [],
@@ -2839,6 +2856,22 @@
 "release": "Jul 29, 2026",
 "total": 98,
 "ts": "2026-07-31T04:20:08.056382+00:00",
+"verdict": "Very Positive"
+},
+"2900640": {
+"desc": "Step back into the shoes of a curious photographer and set off on a brand new adventure all about uncovering hidden details, helping friends along the way, and documenting the world\u2019s little wonders in TOEM 2, the sequel to the acclaimed TOEM.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "TOEM 2",
+"pct": 95,
+"price": "$16.99",
+"release": "Sep 29, 2026",
+"total": 167,
+"ts": "2026-09-30T15:32:13.748530+00:00",
 "verdict": "Very Positive"
 },
 "2929040": {
@@ -6191,6 +6224,22 @@
 "ts": "2026-07-18T03:51:57.974831+00:00",
 "verdict": "Very Positive"
 },
+"3917700": {
+"desc": "Dicevaders is a dice-based roguelike deckbuilder about leading the ultimate alien invasion. Set in the StarVaders universe, draft and manipulate the dice row, build an unstoppable army, and unleash adrenaline pumping combos through powerful synergies and strategic play.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Dicevaders",
+"pct": 97,
+"price": "$13.49",
+"release": "Sep 29, 2026",
+"total": 111,
+"ts": "2026-09-30T15:32:07.257643+00:00",
+"verdict": "Very Positive"
+},
 "3920300": {
 "desc": "Mothkeep is a short singleplayer moth documenting game where you step into a peaceful nature sanctuary and discover its native moths, one journal entry at a time. \u2712\ufe0f\ud83e\udd8b",
 "descriptors": [],
@@ -6574,6 +6623,25 @@
 "ts": "2026-09-09T13:19:59.218951+00:00",
 "verdict": "Very Positive"
 },
+"3975470": {
+"desc": "Are you ready for the session? Let yourself be hypnotized and immerse yourself in the dazzling world of Moka Efti, known from the series Babylon Berlin. As a journalist, you follow the clues to a mysterious case at the famous nightclub. But can you trust your memories?",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure",
+"Free To Play"
+],
+"name": "A Night at Moka Efti: A Babylon Berlin Story",
+"pct": 100,
+"price": "Free",
+"release": "Sep 10, 2026",
+"total": 50,
+"ts": "2026-09-30T15:32:03.949079+00:00",
+"verdict": "Very Positive"
+},
 "3982450": {
 "desc": "Hitler Waifu 2 - is a parody third-person 3D shooter with satire and black humor",
 "descriptors": [
@@ -6626,6 +6694,22 @@
 "release": "Jul 15, 2026",
 "total": 52,
 "ts": "2026-07-20T04:34:25.473631+00:00",
+"verdict": "Very Positive"
+},
+"3989550": {
+"desc": "Use just two buttons to climb a colossal pinball table spanning the history of western philosophy. Fallosophy is a minimalist game that turns pinball into a quiet struggle against gravity. No score. No tilts. No savers. Falling down means climbing back up again. Why climb? What does it all mean?",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Fallosophy",
+"pct": 86,
+"price": "$8.99",
+"release": "Sep 25, 2026",
+"total": 77,
+"ts": "2026-09-30T15:32:17.026777+00:00",
 "verdict": "Very Positive"
 },
 "3992580": {
