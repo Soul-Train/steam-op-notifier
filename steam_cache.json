@@ -1,4 +1,19 @@
 {
+"1025960": {
+"desc": "A mystery adventure set at the collapse site of a live survival audition show. Trapped contestants communicate with each other\u2014and the outside world through social media\u2014as they wait for rescue. But as unexpected events unfold, trust begins to crack, and survival becomes far more complicated.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "BURIED STARS",
+"pct": 84,
+"price": "$39.99",
+"release": "Nov 29, 2021",
+"total": 2271,
+"ts": "2026-10-01T15:53:46.778722+00:00",
+"verdict": "Very Positive"
+},
 "1067360": {
 "desc": "Build a grand totalitarian colony then personally storm roguelite battlefields with your soldiers. Shape citizens fears, loyalties, bonds, and feuds. Capture enemies, convert them into true believers. Sacrifice the weak. Feed the strong. Wield absolute power and make every life bend to your will.",
 "descriptors": [
@@ -568,6 +583,21 @@
 "release": "Jul 22, 2026",
 "total": 94,
 "ts": "2026-07-24T04:11:55.841253+00:00",
+"verdict": "Very Positive"
+},
+"1706510": {
+"desc": "Become immersed in a musical woodland fantasy world where casting a spell is as easy as playing a song. Attend classes, grow the university garden, make friends with classmates and townsfolk, and explore the island\u2019s many oddities and mysteries in this story-driven witch academy RPG.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG"
+],
+"name": "Songs of Glimmerwick",
+"pct": 95,
+"price": "$22.49",
+"release": "Sep 30, 2026",
+"total": 87,
+"ts": "2026-10-01T15:55:13.204893+00:00",
 "verdict": "Very Positive"
 },
 "1708110": {
@@ -4606,6 +4636,23 @@
 "ts": "2026-09-05T12:17:54.085849+00:00",
 "verdict": "Very Positive"
 },
+"3445190": {
+"desc": "Breakout Garage is an open world racing game, created by 2 indie developers, that takes place in small town USA. Featuring old-school American vehicles that you can build from scratch based on your preferences and race them in different types of races.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Racing",
+"Simulation",
+"Early Access"
+],
+"name": "Breakout Garage",
+"pct": 89,
+"price": "$21.99",
+"release": "Sep 22, 2026",
+"total": 148,
+"ts": "2026-10-01T15:55:19.771533+00:00",
+"verdict": "Very Positive"
+},
 "3453910": {
 "desc": "The original cooking horror returns in an unhinged co-op experience for 1-4 players. Grill burgers, serve customers, and hit your quota before the kitchen turns into a nightmare. When Asset Joy begins her hunt, try to escape alive and extract your hard-earned cash to survive another shift.",
 "descriptors": [],
@@ -5613,6 +5660,22 @@
 "ts": "2026-07-23T04:13:22.417625+00:00",
 "verdict": "Very Positive"
 },
+"3725800": {
+"desc": "A mysterious island suddenly appears at sea. Rick, a protagonist suffering from amnesia, encounters two beautiful girls, Sienna and Mila. The three embark on a journey of exploration across the island.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Island of Rebirth~NTR and Love~",
+"pct": 97,
+"price": "$13.49",
+"release": "Sep 29, 2026",
+"total": 76,
+"ts": "2026-10-01T15:55:09.944612+00:00",
+"verdict": "Very Positive"
+},
 "3726730": {
 "desc": "A roguelike deckbuilder about dreams. Choose cards, by combining 6 different strategies during the day, and at night build your deck while facing the nightmare, to uncover a great mystery.",
 "descriptors": [],
@@ -5951,6 +6014,22 @@
 "release": "Aug 17, 2026",
 "total": 293,
 "ts": "2026-08-18T09:26:55.681001+00:00",
+"verdict": "Very Positive"
+},
+"3854870": {
+"desc": "ShipCrafter is a naval sandbox simulation game. Build your ship, unlock new components and defeat increasingly powerful foes in the campaign !",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "ShipCrafter",
+"pct": 91,
+"price": "$7.99",
+"release": "Sep 30, 2026",
+"total": 279,
+"ts": "2026-10-01T15:55:16.499346+00:00",
 "verdict": "Very Positive"
 },
 "3861710": {
@@ -12180,6 +12259,24 @@
 "release": "Oct 10, 2019",
 "total": 17619,
 "ts": "2026-08-06T15:08:14.920817+00:00",
+"verdict": "Very Positive"
+},
+"866570": {
+"desc": "System Shock\u00ae 2: 25th Anniversary Remaster is a genre defining experience that established innovative game-play mechanics that are a staple of the FPS and RPG genre today. Survive the wretched corridors of the Von Braun. Your training has prepared you for this.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "System Shock 2: 25th Anniversary Remaster",
+"pct": 88,
+"price": "$29.99",
+"release": "Jun 26, 2025",
+"total": 2278,
+"ts": "2026-10-01T15:53:41.988757+00:00",
 "verdict": "Very Positive"
 },
 "868160": {
