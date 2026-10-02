@@ -981,6 +981,26 @@
 "ts": "2026-08-26T02:21:36.813850+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2067820": {
+"desc": "Immersive, disco-punk, space horror where you can be a sneaky chap or a mutant action hero as you try to survive on a space station swallowed by a black hole. A mind-bending ride with weird creatures, immersive features, time jumps, and '70s mustaches!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "RetroSpace",
+"pct": 93,
+"price": "$17.99",
+"release": "Oct 1, 2026",
+"total": 83,
+"ts": "2026-10-02T15:16:18.987892+00:00",
+"verdict": "Very Positive"
+},
 "2082560": {
 "desc": "Mutagenic: A mashup of ARPG and Survivor gameplay, bridging the best of both genres. With unrivaled depth to character customization, Mutagenic has the depth of high-budget ARPG games with the simplified controls of a Survivor-style game. Can you craft a build to outdo everyone else?",
 "descriptors": [],
@@ -3658,6 +3678,26 @@
 "ts": "2026-09-15T14:04:58.336336+00:00",
 "verdict": "Very Positive"
 },
+"3183450": {
+"desc": "Magic Realm is a narrative-driven breakout roguelike game. Play as mage Sistaya with friend Yinghuo to explore a magical world, enter the Misty Forest, and uncover ancient castle secrets. Fight monsters, use potions, make tough choices.Your wisdom and courage shape the story.Ready for the adventure?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "\u9b54\u6cd5\u4e4b\u5883 Magic Realm",
+"pct": 82,
+"price": "$6.39",
+"release": "Sep 24, 2026",
+"total": 67,
+"ts": "2026-10-02T15:16:32.508400+00:00",
+"verdict": "Very Positive"
+},
 "3195440": {
 "desc": "Welcome to Elderfield, a cozy horror RPG with hand-drawn art and dark lofi music. Manage your farm, befriend or romance the locals, investigate mysteries, decorate your home, fight terrifying creatures, fish, cook, seek the Old Gods, die in your sleep, and more... There's lots to do in Elderfield!",
 "descriptors": [],
@@ -4534,6 +4574,22 @@
 "ts": "2026-09-12T12:34:54.101396+00:00",
 "verdict": "Very Positive"
 },
+"3418160": {
+"desc": "Rise against the corporate overlords and become a cyber activist hacker. Join the uprising in a cyberpunk world using radio waves.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Radiotext",
+"pct": 98,
+"price": "$8.39",
+"release": "Sep 28, 2026",
+"total": 57,
+"ts": "2026-10-02T15:16:05.240300+00:00",
+"verdict": "Very Positive"
+},
 "3421740": {
 "desc": "Paint, combine and discover! Garden Ink is a cozy sandbox game. Combine decorations and use painting tools to customize your world. With hand-painted graphics and a relaxing soundtrack, it\u2019s time to discover every cute surprise.",
 "descriptors": [],
@@ -4914,6 +4970,24 @@
 "release": "Jul 9, 2026",
 "total": 344,
 "ts": "2026-07-14T17:22:05.115826+00:00",
+"verdict": "Very Positive"
+},
+"3541630": {
+"desc": "In a broken world ruled by demons, the gears of productivity still turn. Complete tasks, solve puzzles, and explore a society under demonic regime from the perspective of an ordinary office clerk.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "HR: Human Remains",
+"pct": 100,
+"price": "$9.89",
+"release": "Sep 28, 2026",
+"total": 62,
+"ts": "2026-10-02T15:16:08.674033+00:00",
 "verdict": "Very Positive"
 },
 "3547270": {
@@ -5462,6 +5536,21 @@
 "ts": "2026-09-24T13:58:43.622732+00:00",
 "verdict": "Very Positive"
 },
+"3681780": {
+"desc": "Feed your cute little monsters, then put them to work. No breaks, no unions, no mercy. Keep them productive long enough and your adorable workforce won't stay little: overfed and overworked, they'll swell into towering, monstrous beasts. Capitalism has never looked so squishy.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "WinMon",
+"pct": 100,
+"price": "$4.49",
+"release": "Sep 23, 2026",
+"total": 83,
+"ts": "2026-10-02T15:16:01.871704+00:00",
+"verdict": "Very Positive"
+},
 "3683770": {
 "desc": "You\u2019re reborn\u2014back at the beginning of your startup journey. In your last life, poor management led to your shop being crushed by competitors. This time, the sweet scent of condensed milk runs through your veins, and you\u2019re set on one goal: turn \u201cSugarville\u201d into the top name in the industry.",
 "descriptors": [],
@@ -5978,6 +6067,22 @@
 "ts": "2026-07-24T04:12:19.128043+00:00",
 "verdict": "Very Positive"
 },
+"3841510": {
+"desc": "A warrior worth a thousand reforged. A remake of DYNASTY WARRIORS 3 and DYNASTY WARRIORS 3: Xtreme Legends with modern graphics and even more thrilling action.",
+"descriptors": [],
+"genres": [
+"Action",
+"RPG",
+"Strategy"
+],
+"name": "DYNASTY WARRIORS 3: Complete Edition Remastered",
+"pct": 85,
+"price": "$39.99",
+"release": "Sep 30, 2026",
+"total": 952,
+"ts": "2026-10-02T15:16:29.061179+00:00",
+"verdict": "Very Positive"
+},
 "3848900": {
 "desc": "Put the \u2018love\u2019 in 'Lovecraftian horror!' When a captivating comet named Hheily crashes into your apartment, you are drawn into an interplanetary conflict between light and dark. Feed Hheily's fire to save the world in this horror-comedy visual novel\u2026 and maybe even win a smooch!",
 "descriptors": [
@@ -6066,6 +6171,24 @@
 "release": "Sep 4, 2026",
 "total": 57,
 "ts": "2026-09-20T13:24:41.669613+00:00",
+"verdict": "Very Positive"
+},
+"3867170": {
+"desc": "Fresh from wreaking havoc on the vast fields of the Continent, the sword-wielding warrior Rance has reached the eastern nation of Nippon. With his loyal companion Sill by his side, Rance hopes to enjoy Nippon's hot springs!",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"RPG"
+],
+"name": "Sengoku Rance",
+"pct": 96,
+"price": "$19.99",
+"release": "Oct 1, 2026",
+"total": 228,
+"ts": "2026-10-02T15:16:15.599061+00:00",
 "verdict": "Very Positive"
 },
 "3869850": {
@@ -9287,6 +9410,23 @@
 "ts": "2026-07-15T14:46:37.124457+00:00",
 "verdict": "Very Positive"
 },
+"4483600": {
+"desc": "Manage one of over 1,000 real non-league clubs through the English football pyramid. Day jobs, ground grading, gate receipts, cup runs, and a world where clubs can fold around you. Football management at its most real.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Sports",
+"Strategy",
+"Early Access"
+],
+"name": "Non-League Manager",
+"pct": 92,
+"price": "$19.99",
+"release": "Sep 21, 2026",
+"total": 52,
+"ts": "2026-10-02T15:16:22.365535+00:00",
+"verdict": "Very Positive"
+},
 "4486870": {
 "desc": "Feed the AI. Collect data. Unlock upgrades. Watch the algorithm grow beyond your control. An active incremental where you feed an evolving AI with data and shape what it becomes. Will it save the world... or take it over?",
 "descriptors": [],
@@ -9339,6 +9479,21 @@
 "total": 4117,
 "ts": "2026-08-20T09:26:13.848928+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4491690": {
+"desc": "The setting is the Russian outback, the courtyards, garages, and entryways where underground hip-hop was born. Here, instead of outer space, there are residential areas, instead of fantasy, there's harsh reality, and instead of abstract blocks, there are fragments of the urban environment.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "KUNTEYNIR",
+"pct": 89,
+"price": "$1.19",
+"release": "Sep 29, 2026",
+"total": 61,
+"ts": "2026-10-02T15:16:25.662166+00:00",
+"verdict": "Very Positive"
 },
 "4492990": {
 "desc": "Dread Admiral is a turn-based naval roguelite where every ship you lose is gone forever. Forge a floating empire, fend off the Black Fleet, and protect your Flagship through a brutal campaign to destroy the Dread Admiral himself.",
@@ -12109,6 +12264,22 @@
 "release": "Sep 23, 2026",
 "total": 96,
 "ts": "2026-09-25T14:23:13.577004+00:00",
+"verdict": "Very Positive"
+},
+"5220090": {
+"desc": "A cozy organizing simulator about tidying up your farm's biggest harvest ever. Tidy up the chaos by sorting 2500+ adorable fruits and vegetables into greenhouses, then explore the farm at day or night to uncover the secrets hidden beneath the valley!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Cozy Farm: Tidy Up!",
+"pct": 97,
+"price": "$6.39",
+"release": "Sep 25, 2026",
+"total": 66,
+"ts": "2026-10-02T15:16:12.137386+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
