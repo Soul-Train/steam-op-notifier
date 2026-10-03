@@ -1585,6 +1585,23 @@
 "ts": "2026-08-01T04:19:18.817015+00:00",
 "verdict": "Very Positive"
 },
+"2438180": {
+"desc": "What does your dog get up to when you're not home? In this bone-afide adventure, unleash adorable chaos, solve puzzles, and leave your mark (literally!) as a mischievous pup on the loose.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Doggy Don't Care",
+"pct": 96,
+"price": "$13.49",
+"release": "Sep 24, 2026",
+"total": 75,
+"ts": "2026-10-03T14:08:07.503979+00:00",
+"verdict": "Very Positive"
+},
 "2445260": {
 "desc": "Tyr is a multiplayer tank shooter. Pilot heavy-armored vehicles with unique capabilities and upgrade them as you battle for victory with your team.",
 "descriptors": [],
@@ -1750,6 +1767,20 @@
 "total": 231,
 "ts": "2026-08-14T14:13:33.717614+00:00",
 "verdict": "Very Positive"
+},
+"2507620": {
+"desc": "I want to confess my feelings for you...",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "The Quintessential Quintuplets - Five Memories Spent With You",
+"pct": 97,
+"price": "$20.64",
+"release": "May 23, 2024",
+"total": 532,
+"ts": "2026-10-03T14:06:08.195754+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "2510970": {
 "desc": "Renovate and manage a ruined office building. Clean, repair, and furnish rooms, rent them to picky tenants, fix printers and coffee machines, enjoy an exaggerated office joke system, and survive daily chaos. Turn neglect into profit \u2014 money doesn\u2019t print itself, even if the printer tries.",
@@ -3937,6 +3968,23 @@
 "release": "Aug 10, 2026",
 "total": 139,
 "ts": "2026-08-12T14:18:31.959440+00:00",
+"verdict": "Very Positive"
+},
+"3231480": {
+"desc": "Dreamspring is a dark fantasy styled, open world dungeon crawler inspired by games like Morrowind and King's Field. Explore a dying kingdom and it's different realms in first person action combat, styled in a mix of retro and vaporwave aesthetics.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Dreamspring",
+"pct": 91,
+"price": "$12.59",
+"release": "Oct 2, 2026",
+"total": 57,
+"ts": "2026-10-03T14:08:14.168836+00:00",
 "verdict": "Very Positive"
 },
 "3256150": {
@@ -9856,6 +9904,24 @@
 "ts": "2026-08-05T03:57:00.224963+00:00",
 "verdict": "Very Positive"
 },
+"4548120": {
+"desc": "Play as a tumbling bumblebee on a quest to rescue its captured family from a cave filled with arachnid nightmares.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Tumblebee",
+"pct": 95,
+"price": "$6.99",
+"release": "Sep 17, 2026",
+"total": 57,
+"ts": "2026-10-03T14:08:10.820084+00:00",
+"verdict": "Very Positive"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -10304,6 +10370,23 @@
 "release": "Jul 13, 2026",
 "total": 58,
 "ts": "2026-07-25T04:01:23.112336+00:00",
+"verdict": "Very Positive"
+},
+"4614210": {
+"desc": "Open booster packs, buy upgrades, and collect over 1001 cards and their variants. Build a true automated booster factory by endlessly multiplying production until you unlock cloning and nuclear fusion !",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Crack the Pack",
+"pct": 97,
+"price": "$2.69",
+"release": "Oct 2, 2026",
+"total": 79,
+"ts": "2026-10-03T14:08:00.912853+00:00",
 "verdict": "Very Positive"
 },
 "4618590": {
@@ -11508,6 +11591,45 @@
 "ts": "2026-07-16T10:53:40.530004+00:00",
 "verdict": "Very Positive"
 },
+"4884960": {
+"desc": "A retro-inspired PSX survival horror game set in the mysterious Noiret Mansion. Explore a cursed estate, solve puzzles, uncover the fate of the Noiret family, and survive the horrors lurking within its walls.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "VESSELS: Noiret Mansion",
+"pct": 97,
+"price": "$4.24",
+"release": "Sep 30, 2026",
+"total": 59,
+"ts": "2026-10-03T14:08:04.192198+00:00",
+"verdict": "Very Positive"
+},
+"4890770": {
+"desc": "Tense stealth action, tactical hardcore gunplay, and missions &amp; story shaped by the way you play. Step into the shoes of Gideon, a feared mercenary with nothing left to lose, and carve a bloody path of revenge through deep systemic stealth and brutal tactical gunplay.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Simulation",
+"Strategy"
+],
+"name": "Intravenous 3: Borderline",
+"pct": 98,
+"price": "Free",
+"release": "Oct 2, 2026",
+"total": 113,
+"ts": "2026-10-03T14:07:57.555576+00:00",
+"verdict": "Very Positive"
+},
 "4892010": {
 "desc": "An idle RPG where your bomber squadron gathers resources for you. Destroy rocks, hunt for rare items, forge and upgrade your equipment, master a vast skill tree, and trade items with other players on the Steam Market. Free to play.",
 "descriptors": [],
@@ -11523,6 +11645,23 @@
 "release": "Aug 28, 2026",
 "total": 158,
 "ts": "2026-08-29T19:37:35.317023+00:00",
+"verdict": "Very Positive"
+},
+"4892910": {
+"desc": "Hyperboard Extreme combines PS2-era arcade style racing with cool girls, crazy\u00a0powerups, and intense, speedy action! This is a free vertical slice as a complete proof-of-concept for the next generation of indie racers!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Racing",
+"Free To Play"
+],
+"name": "Hyperboard Extreme",
+"pct": 100,
+"price": "Free",
+"release": "Sep 26, 2026",
+"total": 51,
+"ts": "2026-10-03T14:07:54.275796+00:00",
 "verdict": "Very Positive"
 },
 "4911340": {
@@ -12234,6 +12373,20 @@
 "release": "Sep 13, 2026",
 "total": 57,
 "ts": "2026-09-26T13:34:01.143803+00:00",
+"verdict": "Very Positive"
+},
+"5186690": {
+"desc": "Game Keeper: Somebody Messed Up My Shop! is a single-player organizing game set in a chaotic video game store. Sort 4,290 cases by genre and order, fill 96 racks, progress and unlock powerful abilities, and complete 650 parody-filled series - with questionable help from Jeff, the coolest cat ever.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Game Keeper: Somebody Messed Up My Shop!",
+"pct": 89,
+"price": "$7.19",
+"release": "Oct 2, 2026",
+"total": 203,
+"ts": "2026-10-03T14:08:17.481247+00:00",
 "verdict": "Very Positive"
 },
 "5206420": {
