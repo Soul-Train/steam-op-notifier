@@ -417,6 +417,21 @@
 "ts": "2026-08-26T02:21:29.984085+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1565490": {
+"desc": "A punctual train is never an accident. In this immersive management game, take control of a bustling railway station with your friends. Assign platforms, coordinate teams, expand your infrastructure from 2 to 30 tracks, and manage real-time crises to keep the traffic flowing smoothly!",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Early Access"
+],
+"name": "Train Station Tycoon",
+"pct": 89,
+"price": "$9.99",
+"release": "Oct 1, 2026",
+"total": 57,
+"ts": "2026-10-04T14:34:18.765418+00:00",
+"verdict": "Very Positive"
+},
 "1574480": {
 "desc": "A retro spy FPS inspired by the N64 era. Go guns-blazing in action-packed shootouts, steal secret plans, and accomplish objectives while foiling evildoers\u2019 schemes as a secret agent in a solo or co-op campaign. Fight friends in both local split-screen multiplayer and online with up to 8 opponents.",
 "descriptors": [],
@@ -4165,6 +4180,21 @@
 "ts": "2026-09-11T13:11:50.817270+00:00",
 "verdict": "Very Positive"
 },
+"3309750": {
+"desc": "What if you lost all your memories? An emotional family drama seen through the eyes of a woman with Alzheimer's disease. As Annie\u2019s life slowly unravels, uncover memories of her deceased brother as her past bleeds into the present.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "As Long As You're Here",
+"pct": 100,
+"price": "$4.99",
+"release": "Oct 28, 2025",
+"total": 565,
+"ts": "2026-10-04T14:32:17.678603+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "33100": {
 "desc": "The endless darkness and the somber, long passages of a military complex have become the abode of evil, thousands of blood-thirsty creatures fill its offices, storehouses and mysterious laboratories. About 1,000 monsters on each map, showing up to 100 monsters simultaneously on one playing screen.",
 "descriptors": [
@@ -4909,6 +4939,24 @@
 "release": "Aug 6, 2026",
 "total": 68,
 "ts": "2026-08-09T21:25:55.263340+00:00",
+"verdict": "Very Positive"
+},
+"3503300": {
+"desc": "An overworked office lady discovers a sludge girl abandoned in a box and takes her home. A poisonous and fluffy romance begins. Will your relationship be healthy? Disastrous? Completely tepid? The choice is up to you in the only visual novel to prominently feature a literal dead dove.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Toxic Yuri",
+"pct": 100,
+"price": "$14.99",
+"release": "Sep 18, 2026",
+"total": 51,
+"ts": "2026-10-04T14:34:05.879227+00:00",
 "verdict": "Very Positive"
 },
 "3503710": {
@@ -7726,6 +7774,23 @@
 "ts": "2026-09-24T13:58:46.999274+00:00",
 "verdict": "Very Positive"
 },
+"4133550": {
+"desc": "Duola Mage is a fast-paced roguelike action game: multiple characters \u00d7 hundreds of weapons \u00d7 randomized builds = a fresh mowing experience every run. Climb the roguelike ladder floor by floor, each layer more exhilarating. Out-of-run progression: level-60 cap + stat allocation + equipment forging!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Duola Mage",
+"pct": 98,
+"price": "$6.99",
+"release": "Sep 23, 2026",
+"total": 59,
+"ts": "2026-10-04T14:34:09.132635+00:00",
+"verdict": "Very Positive"
+},
 "4140530": {
 "desc": "A cozy horror game where you craft plants for late-night customers while you manage a small plant shop. Expand your plant collection, upgrade your shop &amp; grow your business.",
 "descriptors": [
@@ -8428,6 +8493,24 @@
 "release": "Jul 26, 2026",
 "total": 60,
 "ts": "2026-07-28T03:58:33.716998+00:00",
+"verdict": "Very Positive"
+},
+"4285110": {
+"desc": "Fight through a zombie-ravaged city as Olivenia, a daring cop on an escort mission in this rogue-lite RPG/ADV. Use various weapons and upgrade your gear to survive brutal gunplay and deadly encounters where every choice counts. Fail, and very bad things might happen to you\u2026",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "Tunnel Escape Fates Entwined",
+"pct": 88,
+"price": "$15.99",
+"release": "Oct 2, 2026",
+"total": 58,
+"ts": "2026-10-04T14:34:22.039298+00:00",
 "verdict": "Very Positive"
 },
 "4285320": {
@@ -11610,6 +11693,25 @@
 "ts": "2026-10-03T14:08:04.192198+00:00",
 "verdict": "Very Positive"
 },
+"4887360": {
+"desc": "Grandpa wants two ice creams. Grandma is dead and left you 100 kroner. An absurdist Norwegian first-person shooter in PSX style, about getting two ice creams through the bank, the police, L\u00e5nekassa and the cashier lady at KJIWI. Nobody comments on any of it.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "erdetspill",
+"pct": 98,
+"price": "Free",
+"release": "Jul 26, 2026",
+"total": 1078,
+"ts": "2026-10-04T14:32:20.920004+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4890770": {
 "desc": "Tense stealth action, tactical hardcore gunplay, and missions &amp; story shaped by the way you play. Step into the shoes of Gideon, a feared mercenary with nothing left to lose, and carve a bloody path of revenge through deep systemic stealth and brutal tactical gunplay.",
 "descriptors": [
@@ -12433,6 +12535,37 @@
 "release": "Sep 25, 2026",
 "total": 66,
 "ts": "2026-10-02T15:16:12.137386+00:00",
+"verdict": "Very Positive"
+},
+"5221510": {
+"desc": "The grand opening is tomorrow, and someone has helpfully unpacked the entire delivery onto the floor. Pick the flowers up an armful at a time, sort them by species into baskets, paint them in patterns, and have the place ready by morning. No timers, nobody watching. A cozy first-person tidy-up.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Tidy Up the Flower Shop",
+"pct": 92,
+"price": "$5.39",
+"release": "Oct 2, 2026",
+"total": 63,
+"ts": "2026-10-04T14:34:12.379414+00:00",
+"verdict": "Very Positive"
+},
+"5230220": {
+"desc": "From kana to JLPT N1, turn every answer into a strike and every lesson into strength! Lexicon Odyssey blends 9,800+ learning entries and spaced review with RPG auto-battles. Study vocabulary and grammar, correct mistakes, collect 290+ items and 140+ spells, and travel with your camp companions.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Lexicon Odyssey ~~A Japanese-Learning RPG~~",
+"pct": 88,
+"price": "$10.99",
+"release": "Sep 25, 2026",
+"total": 52,
+"ts": "2026-10-04T14:34:15.571076+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
