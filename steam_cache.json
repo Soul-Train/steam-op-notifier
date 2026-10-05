@@ -201,6 +201,22 @@
 "ts": "2026-08-27T00:24:52.570497+00:00",
 "verdict": "Very Positive"
 },
+"1293820": {
+"desc": "YOU and ME and HER: A Love Story is the visual novel medium in its purest form. Will Shinichi choose Miyuki, the beautiful queen bee of the school, or the endearingly awkward misfit Aoi? With art by Tsuji Santa, these beautifully rendered romances will stay with you forever.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "YOU and ME and HER: A Love Story",
+"pct": 95,
+"price": "$17.99",
+"release": "May 25, 2020",
+"total": 7114,
+"ts": "2026-10-05T17:38:21.719169+00:00",
+"verdict": "Very Positive"
+},
 "1318690": {
 "desc": "shapez is an easy-going, minimalistic factory building game about the automation of shapes through extraction and satisfying production lines. Adapt to increasingly complex shapes and grow your factory across an infinitely expanding map. Your only limitation is your creativity!",
 "descriptors": [],
@@ -4412,6 +4428,23 @@
 "ts": "2026-07-27T04:34:50.652374+00:00",
 "verdict": "Very Positive"
 },
+"3351280": {
+"desc": "A turn-based skill-crafting dungeon crawler roguelike, where you combine crazy effects and upgrades for your skills and use them on enemies. With a strategic physics-based gameplay, unlock and grow your arsenal of spells and items to overcome the challenging dungeon of Underground Ruins!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Tinker Shot",
+"pct": 90,
+"price": "$4.99",
+"release": "Sep 16, 2026",
+"total": 52,
+"ts": "2026-10-05T17:40:35.744175+00:00",
+"verdict": "Very Positive"
+},
 "3351430": {
 "desc": "Play as a curious bat on his mission to take a full fledged photo of the moon. Run, Climb, Glide and Snap your way through an array of obstacles while interacting with the cheeky characters in the neighbourhood. Can you collect all the moon cakes?",
 "descriptors": [],
@@ -6440,6 +6473,21 @@
 "ts": "2026-09-16T13:58:35.127418+00:00",
 "verdict": "Very Positive"
 },
+"3901910": {
+"desc": "Embark on a journey to save the prince\u2019s eyesight in this 2D puzzle-adventure game featuring beautiful hand-drawn art and a bittersweet tale of wishes and what we\u2019re willing to do to make them come true. Utilize your wolf and princess forms to lead the way!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "The Liar Princess and the Blind Prince",
+"pct": 95,
+"price": "$13.39",
+"release": "Mar 11, 2026",
+"total": 548,
+"ts": "2026-10-05T17:38:25.201495+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3902800": {
 "desc": "Detective horror about a night shift far from the city. Refuel cars, serve customers, keep the gas station running, and investigate why people are disappearing in the area. But most importantly, be careful with visitors - not all of them are human.",
 "descriptors": [],
@@ -8128,6 +8176,12 @@
 "ts": "2026-07-30T03:54:47.332005+00:00",
 "verdict": "Very Positive"
 },
+"4209920": {
+"pct": 88,
+"total": 1415,
+"ts": "2026-10-05T17:40:39.030002+00:00",
+"verdict": "Very Positive"
+},
 "4210580": {
 "desc": "Ore Factory Squad is a co-op mining and factory-building game with procedural mining and fun at its core! Play alone or with friends, buy properties, dig deep for valuable resources, complete contracts, upgrade and automate production lines and grow your factory from zero to industry!",
 "descriptors": [],
@@ -9040,6 +9094,21 @@
 "release": "Aug 14, 2026",
 "total": 275,
 "ts": "2026-08-15T13:26:42.268203+00:00",
+"verdict": "Very Positive"
+},
+"4364930": {
+"desc": "Start as a humble birb, eat popcorn, and evolve into a cosmic force of nature! Birb blends addictive idle mechanics with active roguelite expeditions. Build your nest, catch rare fish, challenge bosses, and compete on the global leaderboard. How many pecks will it take to rule the world?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Birb",
+"pct": 95,
+"price": "$3.99",
+"release": "Oct 2, 2026",
+"total": 59,
+"ts": "2026-10-05T17:40:29.161146+00:00",
 "verdict": "Very Positive"
 },
 "4368560": {
@@ -11843,11 +11912,11 @@
 "Strategy"
 ],
 "name": "Pot's On!",
-"pct": 100,
+"pct": 97,
 "price": "Free",
 "release": "Jul 31, 2026",
-"total": 55,
-"ts": "2026-08-02T04:22:20.655479+00:00",
+"total": 499,
+"ts": "2026-10-05T17:38:28.596078+00:00",
 "verdict": "Very Positive"
 },
 "4914610": {
@@ -11996,6 +12065,20 @@
 "release": "Sep 7, 2026",
 "total": 61,
 "ts": "2026-09-10T13:17:16.545333+00:00",
+"verdict": "Very Positive"
+},
+"4947900": {
+"desc": "It\u2019s Yut Nori\u2014but you can throw your pieces, summon a demon god, and even poop your way to victory! A 2\u20134 player online competitive game featuring 50 unique augments.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Augmented Yut",
+"pct": 97,
+"price": "$1.99",
+"release": "Sep 18, 2026",
+"total": 62,
+"ts": "2026-10-05T17:40:25.773184+00:00",
 "verdict": "Very Positive"
 },
 "4951190": {
@@ -12475,6 +12558,21 @@
 "release": "Sep 13, 2026",
 "total": 57,
 "ts": "2026-09-26T13:34:01.143803+00:00",
+"verdict": "Very Positive"
+},
+"5174540": {
+"desc": "Post Office: Tidy Up is a cozy first-person sorting game. A huge post office is buried under 3,268 parcels. Pick one up, look at it, put it where it belongs. Sort by colour, pattern and shape, learn the tricks of the job, and turn the mess into perfectly filled shelves.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Post Office: Tidy Up",
+"pct": 91,
+"price": "$3.84",
+"release": "Sep 24, 2026",
+"total": 53,
+"ts": "2026-10-05T17:40:32.445214+00:00",
 "verdict": "Very Positive"
 },
 "5186690": {
