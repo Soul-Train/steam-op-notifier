@@ -234,6 +234,23 @@
 "ts": "2026-07-16T17:59:54.580187+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1321120": {
+"desc": "Survive seven days with a cursed painting. Rely on notes from past victims and manage to successfully paint her portrait. But be careful not to upset her, or you'll quickly find yourself dead! An assortment of terminal tableaus awaits you. Will you be the one to finally finish her?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Matsuro Palette",
+"pct": 99,
+"price": "$4.49",
+"release": "Oct 14, 2020",
+"total": 555,
+"ts": "2026-10-06T18:43:45.436327+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1368140": {
 "desc": "Build a sprawling pirate haven, raise a fleet to explore the high seas, and take on the Crown to keep the Age of Piracy alive! From ale to flintlock pistols, and from scallywags to swashbucklers, you\u2019ll need to manage complex production chains and govern a rowdy crew to reign supreme over the seas!",
 "descriptors": [],
@@ -412,6 +429,22 @@
 "release": "Jul 21, 2026",
 "total": 77,
 "ts": "2026-07-23T04:13:32.287683+00:00",
+"verdict": "Very Positive"
+},
+"1554840": {
+"desc": "A bite-sized 3D Platformer with a few weird elements.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Toree 3D",
+"pct": 95,
+"price": "$0.69",
+"release": "Apr 9, 2021",
+"total": 1685,
+"ts": "2026-10-06T18:43:48.850603+00:00",
 "verdict": "Very Positive"
 },
 "1558510": {
@@ -1511,6 +1544,21 @@
 "release": "Sep 2, 2026",
 "total": 3224,
 "ts": "2026-09-03T13:11:52.732981+00:00",
+"verdict": "Very Positive"
+},
+"2361460": {
+"desc": "Are you prepared for a thrilling toy army tower defense adventure? Welcome to the Toy Shire! Battle diverse foes in various locations, defend your family, and repel foes from your area. Save the world by strengthening your defense with toy towers!",
+"descriptors": [],
+"genres": [
+"Action",
+"Strategy"
+],
+"name": "Toy Shire",
+"pct": 87,
+"price": "$4.99",
+"release": "Oct 6, 2026",
+"total": 744,
+"ts": "2026-10-06T18:46:18.105981+00:00",
 "verdict": "Very Positive"
 },
 "2372240": {
@@ -3178,6 +3226,23 @@
 "ts": "2026-09-26T13:33:51.098562+00:00",
 "verdict": "Very Positive"
 },
+"3020510": {
+"desc": "This Three Kingdoms sandbox RPG lets you do whatever you wish in the late Han Dynasty. Be a ruler, courtier, or hermit. Make friends, marry, raise children, manage estates, train yourself &amp; allies, govern, drill troops, experience &amp; alter history, and conquer all to win the hearts of the people.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Heroes' Vow: Three Kingdoms",
+"pct": 88,
+"price": "$19.99",
+"release": "Sep 23, 2026",
+"total": 8739,
+"ts": "2026-10-06T18:46:11.142357+00:00",
+"verdict": "Very Positive"
+},
 "3036350": {
 "desc": "A short non-linear detective adventure where every clue is hidden in plain sight. Carefully read and cross-reference documents to unravel a CEO\u2019s disappearance and expose a case of fraud.",
 "descriptors": [],
@@ -3536,6 +3601,23 @@
 "release": "Aug 26, 2026",
 "total": 60,
 "ts": "2026-08-27T00:24:41.986630+00:00",
+"verdict": "Very Positive"
+},
+"3133010": {
+"desc": "From the creators of Human Fall Flat - Tiny Flock, a cosy, physics-based VR puzzle game for all ages. Help guide your adorable wayward sheep through beautiful hand-crafted diorama puzzles using the environment around you to get them to safety!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Tiny Flock",
+"pct": 100,
+"price": "$15.00",
+"release": "Sep 29, 2026",
+"total": 54,
+"ts": "2026-10-06T18:45:52.958732+00:00",
 "verdict": "Very Positive"
 },
 "3141630": {
@@ -5926,6 +6008,24 @@
 "ts": "2026-08-28T22:50:22.312922+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3737680": {
+"desc": "Bloodspill is a fast-paced, pvp retro fps with one hit combat, featuring classic gamemodes like deathmatch, capture the flag and conquest!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Bloodspill",
+"pct": 95,
+"price": "$3.60",
+"release": "Oct 2, 2026",
+"total": 55,
+"ts": "2026-10-06T18:46:03.990792+00:00",
+"verdict": "Very Positive"
+},
 "3739190": {
 "desc": "People across the kingdom are vanishing. Young hero Harold Sageblood is ordered by the king to defeat the mastermind behind it all. Joined by the loyal mage Martha Bethraeor, the hero sets out\u2014seeking answers about his missing father and the truth behind the disappearances.",
 "descriptors": [],
@@ -6335,6 +6435,21 @@
 "release": "Jul 16, 2026",
 "total": 95,
 "ts": "2026-07-17T07:15:41.796110+00:00",
+"verdict": "Very Positive"
+},
+"3872650": {
+"desc": "Panzer Deck is a unique blend of cards, geometric puzzles and wargaming. Recruit an army, manage resources, and maneuver units to create powerful synergies. Acquire new cards and expand your deck to lead you to victory across the Western Front of WWII.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Panzer Deck",
+"pct": 89,
+"price": "$12.99",
+"release": "Sep 22, 2026",
+"total": 53,
+"ts": "2026-10-06T18:46:14.651197+00:00",
 "verdict": "Very Positive"
 },
 "3880190": {
@@ -8314,6 +8429,20 @@
 "ts": "2026-09-17T14:02:12.974384+00:00",
 "verdict": "Very Positive"
 },
+"4229200": {
+"desc": "Hardcore yet cute Danmaku shooting makes a grand comeback!",
+"descriptors": [],
+"genres": [
+"Action"
+],
+"name": "Muchi Muchi Pork! & PinkSweets Boosted",
+"pct": 90,
+"price": "$35.99",
+"release": "Oct 1, 2026",
+"total": 52,
+"ts": "2026-10-06T18:46:07.508740+00:00",
+"verdict": "Very Positive"
+},
 "4235410": {
 "desc": "Frenetic action and LCD aesthetic! In this 2D Shoot 'Em Up, switch between a robot hero and his benign tumor to stop a bizarre cult. You have 8 hours to save humanity's memory: defeat grotesque bosses, ride the skies on your Future Board, and master the chaos in a retro-futuristic Tokyo.",
 "descriptors": [],
@@ -9572,12 +9701,12 @@
 "Early Access"
 ],
 "name": "OFFBEAT",
-"pct": 100,
-"price": "$10.79",
+"pct": 98,
+"price": "$9.59",
 "release": "Jul 22, 2026",
-"total": 61,
-"ts": "2026-07-23T04:13:12.678650+00:00",
-"verdict": "Very Positive"
+"total": 535,
+"ts": "2026-10-06T18:43:52.233573+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "447700": {
 "desc": "An all-star cast of heroes has gathered to test their mettle in this cute and chaotic new color-matching ONLINE combat game! Crystal Crisis is presented like a fighting game, but players attack by arranging falling crystals and clearing them from the screen. It\u2019s the ultimate Online puzzle battle throwdown!",
@@ -11388,6 +11517,22 @@
 "ts": "2026-09-19T12:50:34.227582+00:00",
 "verdict": "Very Positive"
 },
+"4813190": {
+"desc": "Camp Whittlewood is an old-school horror RPG. You've been dropped off for a weekend of outdoor fun, but soon find bullies are the least of your problems when a twisted campfire story begins to come true.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Camp Whittlewood",
+"pct": 98,
+"price": "$4.99",
+"release": "Sep 28, 2026",
+"total": 51,
+"ts": "2026-10-06T18:46:00.192727+00:00",
+"verdict": "Very Positive"
+},
 "4821420": {
 "desc": "King of Jade: Stone Tycoon is a casual management simulation game. Inspect raw stones, polish the surface to reveal unique hidden jadeite, craft products of all sizes, and sell them to build your ultimate business empire!",
 "descriptors": [],
@@ -12449,6 +12594,39 @@
 "ts": "2026-09-27T14:29:42.407712+00:00",
 "verdict": "Very Positive"
 },
+"5090060": {
+"desc": "Command your ship and fleet in a galaxy that truly lives: 150 sectors where six factions mine, haul, trade, build and wage war whether you're there or not. Trade it, rob it, defend it \u2014 or forge your own fleet and carve out your place in it.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Starlathe",
+"pct": 85,
+"price": "$11.99",
+"release": "Oct 1, 2026",
+"total": 62,
+"ts": "2026-10-06T18:46:21.661265+00:00",
+"verdict": "Very Positive"
+},
+"5095310": {
+"desc": "Where will the trail lead you? Join your new friend Tendou on a hiking date and find out in this short and sweet fully voice-acted Visual Novel!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Nature Hike",
+"pct": 100,
+"price": "$2.00",
+"release": "Sep 23, 2026",
+"total": 50,
+"ts": "2026-10-06T18:45:56.361994+00:00",
+"verdict": "Very Positive"
+},
 "5097840": {
 "desc": "A wizard-academy library has vanished under its own books. Hire gnomes, unlock shelves, and let the tidying run itself \u2014 a cozy idle game about turning magical chaos into calm, one neatly filed spellbook at a time.",
 "descriptors": [],
@@ -12587,6 +12765,21 @@
 "release": "Oct 2, 2026",
 "total": 203,
 "ts": "2026-10-03T14:08:17.481247+00:00",
+"verdict": "Very Positive"
+},
+"5204830": {
+"desc": "A cozy incremental sorting game. A vandal deleted all 10,324 items from a 2007 fan wiki, and you're the new Moderator. Drag each item into its category, sub-folder and row, earn userscripts that automate the work, and watch the broken pages come back.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Deleted Wiki: Clean Up the Lost Files",
+"pct": 98,
+"price": "$3.59",
+"release": "Sep 30, 2026",
+"total": 65,
+"ts": "2026-10-06T18:45:49.431270+00:00",
 "verdict": "Very Positive"
 },
 "5206420": {
