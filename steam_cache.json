@@ -5183,6 +5183,23 @@
 "ts": "2026-07-14T17:22:05.115826+00:00",
 "verdict": "Very Positive"
 },
+"3541130": {
+"desc": "A short interactive essay on dreams, pressure, and expectations. Take part in an ancient ritual where one shot determines the fate of a generation.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Many Nights a Whisper",
+"pct": 95,
+"price": "$2.00",
+"release": "Apr 29, 2025",
+"total": 748,
+"ts": "2026-10-07T15:57:08.929364+00:00",
+"verdict": "Very Positive"
+},
 "3541630": {
 "desc": "In a broken world ruled by demons, the gears of productivity still turn. Complete tasks, solve puzzles, and explore a society under demonic regime from the perspective of an ordinary office clerk.",
 "descriptors": [
@@ -5940,6 +5957,23 @@
 "release": "Aug 13, 2026",
 "total": 79,
 "ts": "2026-08-13T14:20:01.100352+00:00",
+"verdict": "Very Positive"
+},
+"3715790": {
+"desc": "Tame magical creatures called Decklings and lead them into challenging battles in this resource management, deckbuilding card game. Explore wild biomes, gather resources, and craft items to build your base and raise your Decklings as you shape your path to become the Deckling Champion.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"RPG",
+"Simulation"
+],
+"name": "Decklings",
+"pct": 92,
+"price": "$11.04",
+"release": "Sep 25, 2026",
+"total": 61,
+"ts": "2026-10-07T15:59:11.870660+00:00",
 "verdict": "Very Positive"
 },
 "3722330": {
@@ -7082,6 +7116,22 @@
 "release": "Sep 9, 2026",
 "total": 88,
 "ts": "2026-09-09T13:19:59.218951+00:00",
+"verdict": "Very Positive"
+},
+"3972410": {
+"desc": "A magical library you can place on your desktop. Help the black cat study ancient tomes and learn spells in this cozy idle game.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Black Cat Book Club",
+"pct": 100,
+"price": "$4.49",
+"release": "Sep 25, 2026",
+"total": 52,
+"ts": "2026-10-07T15:59:08.451616+00:00",
 "verdict": "Very Positive"
 },
 "3975470": {
