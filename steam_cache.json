@@ -413,6 +413,24 @@
 "ts": "2026-09-17T19:57:36.463500+00:00",
 "verdict": "Very Positive"
 },
+"1551980": {
+"desc": "Experience a new chapter in the legendary horror series like never before. Clive Barker's Hellraiser: Revival takes first-person action horror survival to the next level. Wield the powers of the Genesis Configuration puzzle box to survive your bargain with the infamous Pinhead.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action"
+],
+"name": "Clive Barker's Hellraiser: Revival",
+"pct": 95,
+"price": "$39.99",
+"release": "Oct 8, 2026",
+"total": 110,
+"ts": "2026-10-08T16:01:43.991311+00:00",
+"verdict": "Very Positive"
+},
 "1553260": {
 "desc": "An embroidered dark medieval folk tale. While life in a seemingly ordinary village is all about simple chores and idle gossip, sinister secrets hide below.",
 "descriptors": [
@@ -597,6 +615,24 @@
 "release": "Jun 23, 2026",
 "total": 51,
 "ts": "2026-07-19T04:20:48.442911+00:00",
+"verdict": "Very Positive"
+},
+"1674270": {
+"desc": "Move fast and shoot fast in Cyberfrags '69. Double jump, wall-run, and blast your way to victory in intense PvP and Co-Op, or play as Cyber-Frank as he slaughters the Cyber-Nazis invading his home!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Free To Play"
+],
+"name": "Cyberfrags '69",
+"pct": 99,
+"price": "Free",
+"release": "Oct 7, 2026",
+"total": 137,
+"ts": "2026-10-08T16:01:37.384504+00:00",
 "verdict": "Very Positive"
 },
 "1696770": {
@@ -1380,6 +1416,26 @@
 "ts": "2026-09-04T13:03:12.249992+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2235200": {
+"desc": "Dive into the cybermyth roguelike chaos of Neon Abyss 2! Now featuring up to 4-player online co-op, more combat styles, and unlimited item synergies, every run delivers a dramatic, action-packed experience you won't forget.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Neon Abyss 2",
+"pct": 71,
+"price": "$15.99",
+"release": "Oct 7, 2026",
+"total": 2390,
+"ts": "2026-10-08T16:01:50.690791+00:00",
+"verdict": "Mostly Positive"
+},
 "2238400": {
 "desc": "Take control of PizzaBoy as he delivers pizza to monsters in this precision platformer. Use all of PizzaBoy's smooth and snappy moves to navigate through dangerous levels or break away from the path to discover who PizzaBoy really is...",
 "descriptors": [],
@@ -1495,6 +1551,23 @@
 "total": 2561,
 "ts": "2026-08-07T01:03:12.121581+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"2290000": {
+"desc": "Build gorgeous kingdoms on floating islands by strategically placing buildings in this cozy, medieval City-Puzzler. Discover secret combinations, take on weekly challenges and explore randomly generated maps in various single- and multiplayer game modes.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "TerraScape",
+"pct": 89,
+"price": "$7.49",
+"release": "Jul 17, 2024",
+"total": 2252,
+"ts": "2026-10-08T16:00:13.549797+00:00",
+"verdict": "Very Positive"
 },
 "233150": {
 "desc": "The skies are aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
@@ -1943,6 +2016,21 @@
 "release": "Jul 15, 2026",
 "total": 296,
 "ts": "2026-07-16T10:53:33.961942+00:00",
+"verdict": "Very Positive"
+},
+"2526310": {
+"desc": "You\u2019re Sophie, a young blind girl who sees through her teddy bear\u2019s eyes. Escape your captors and uncover the evil history of the dark mansion you desperately seek to escape in this unique, atmospheric horror puzzle/adventure game.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Out of Sight",
+"pct": 95,
+"price": "$6.99",
+"release": "May 22, 2025",
+"total": 981,
+"ts": "2026-10-08T16:00:08.647026+00:00",
 "verdict": "Very Positive"
 },
 "2527160": {
@@ -3032,6 +3120,22 @@
 "release": "Sep 29, 2026",
 "total": 167,
 "ts": "2026-09-30T15:32:13.748530+00:00",
+"verdict": "Very Positive"
+},
+"2902720": {
+"desc": "SPAM is a free-to-play online turn-based combat game. Jump into dynamic battles where you\u2019ll have to adapt to your opponents and try to impose your strategy. Earn new cards through your victories and create devastating combos!!",
+"descriptors": [],
+"genres": [
+"RPG",
+"Strategy",
+"Free To Play"
+],
+"name": "SPAM",
+"pct": 85,
+"price": "Free",
+"release": "Oct 7, 2026",
+"total": 798,
+"ts": "2026-10-08T16:01:54.069672+00:00",
 "verdict": "Very Positive"
 },
 "2929040": {
@@ -4948,6 +5052,22 @@
 "release": "Aug 6, 2026",
 "total": 78,
 "ts": "2026-08-08T21:24:51.075618+00:00",
+"verdict": "Very Positive"
+},
+"3479420": {
+"desc": "Okko The Exiled is an action-packed adventure where you stomp, launch and bash your way through Kutala, a land of demons, on a quest to defeat the Demon Lord Yalda and link Okko\u2019s isolated world with the heavens.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Okko The Exiled",
+"pct": 94,
+"price": "$14.99",
+"release": "Sep 30, 2026",
+"total": 80,
+"ts": "2026-10-08T16:01:47.294081+00:00",
 "verdict": "Very Positive"
 },
 "3488640": {
@@ -8272,9 +8392,9 @@
 "pct": 97,
 "price": "Free",
 "release": "Sep 1, 2026",
-"total": 76,
-"ts": "2026-09-03T13:11:36.172636+00:00",
-"verdict": "Very Positive"
+"total": 500,
+"ts": "2026-10-08T15:59:32.453278+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4195110": {
 "desc": "The pool bar is always open! Ultrapool is a colorful roguelike about playing pool with a bunch of wacky balls with crazy effects. Carefully craft a perfect build and get the craziest trickshots!",
@@ -9432,6 +9552,23 @@
 "total": 52,
 "ts": "2026-08-24T02:21:30.410521+00:00",
 "verdict": "Very Positive"
+},
+"440310": {
+"desc": "A musical bullet-hell where all things beautiful are deadly. Dodge well little nanobot, you don't have much time.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Strategy"
+],
+"name": "Afterbeat (Project Arrhythmia)",
+"pct": 95,
+"price": "$11.24",
+"release": "Oct 8, 2026",
+"total": 2714,
+"ts": "2026-10-08T16:01:40.697382+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "4403510": {
 "desc": "A dropper game designed to overwhelm your senses. Twisting tunnels, psychedelic patterns, and breathing walls assault your sense of balance as the chaos escalates with every level.",
