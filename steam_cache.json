@@ -772,6 +772,23 @@
 "ts": "2026-07-16T17:59:44.293449+00:00",
 "verdict": "Very Positive"
 },
+"1731170": {
+"desc": "Lead a squadron against the Drone invasion in a top-down space shooter with RPG depth. Play a voiced story with three endings, hunt pirate captains, step inside the spaceports, send your crew down to the planets you scan, and hold a front that falls without you.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Space Defender: Frontier Squadron",
+"pct": 96,
+"price": "$9.99",
+"release": "Sep 25, 2026",
+"total": 53,
+"ts": "2026-10-09T15:43:49.687061+00:00",
+"verdict": "Very Positive"
+},
 "1755830": {
 "pct": 92,
 "total": 4558,
@@ -1601,6 +1618,25 @@
 "release": "Aug 20, 2026",
 "total": 80,
 "ts": "2026-08-25T02:16:54.308247+00:00",
+"verdict": "Very Positive"
+},
+"2333000": {
+"desc": "Silver Pines is a survival horror metroidvania set in small town America. Fight nightmarish terrors and solve puzzles, while carefully managing your scarce resources as you uncover the mysteries that could hold the key to redemption.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Silver Pines",
+"pct": 91,
+"price": "$22.49",
+"release": "Oct 8, 2026",
+"total": 234,
+"ts": "2026-10-09T15:44:03.038747+00:00",
 "verdict": "Very Positive"
 },
 "2350790": {
@@ -3347,6 +3383,23 @@
 "ts": "2026-10-06T18:46:11.142357+00:00",
 "verdict": "Very Positive"
 },
+"3031880": {
+"desc": "The car industry needs you to design and build the greatest car parks that simple town life hasn't seen before. Introduce the need for car commuting and turn neighborhoods into car parks! Use propaganda to convince people to pay you for it. Fight people that see through your oily business.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Car Park Capital",
+"pct": 96,
+"price": "$15.29",
+"release": "Oct 9, 2026",
+"total": 93,
+"ts": "2026-10-09T15:43:52.998533+00:00",
+"verdict": "Very Positive"
+},
 "3036350": {
 "desc": "A short non-linear detective adventure where every clue is hidden in plain sight. Carefully read and cross-reference documents to unravel a CEO\u2019s disappearance and expose a case of fraud.",
 "descriptors": [],
@@ -4202,6 +4255,20 @@
 "release": "Oct 2, 2026",
 "total": 57,
 "ts": "2026-10-03T14:08:14.168836+00:00",
+"verdict": "Very Positive"
+},
+"3232690": {
+"desc": "Run a maid caf\u00e9 with five charming kemonomimi maids! Make drinks, serve customers, and tackle troublemakers in this first-person management sim. Get to know the girls behind the aprons as you turn a rundown caf\u00e9 into a thriving business and aim for three Maidchelin stars.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Maid Cafe Simulator",
+"pct": 89,
+"price": "$19.19",
+"release": "Oct 7, 2026",
+"total": 61,
+"ts": "2026-10-09T15:44:09.695935+00:00",
 "verdict": "Very Positive"
 },
 "3256150": {
@@ -6673,6 +6740,23 @@
 "ts": "2026-09-06T12:32:38.055883+00:00",
 "verdict": "Very Positive"
 },
+"3883570": {
+"desc": "A co-op survival horror game about a cursed board game. Play in a group of 6 players. Roll the dice, survive the horrors that are summoned, and beat the Gamemaster to win your freedom.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Invokyr",
+"pct": 95,
+"price": "$9.74",
+"release": "Oct 8, 2026",
+"total": 175,
+"ts": "2026-10-09T15:43:56.313214+00:00",
+"verdict": "Very Positive"
+},
 "3883710": {
 "desc": "LET'S BE HONEST. You're in deep shit. Straitjacket locked tight. Hood over your head. And the atmosphere? Definitely not a dream vacation. But hey\u2026 it happened. You did what you did. And now you're here...",
 "descriptors": [
@@ -8733,6 +8817,23 @@
 "ts": "2026-08-31T16:37:08.717613+00:00",
 "verdict": "Very Positive"
 },
+"4252340": {
+"desc": "Open-world racing sandbox with cross-platform multiplayer. Complete parking challenges, drift, and participate in races: drag, rally, circuit, and Drift. Tune cars and organize car meets with friends.",
+"descriptors": [],
+"genres": [
+"Massively Multiplayer",
+"Racing",
+"Simulation",
+"Sports"
+],
+"name": "CPM 2",
+"pct": 88,
+"price": "Free",
+"release": "Oct 8, 2026",
+"total": 352,
+"ts": "2026-10-09T15:44:12.969057+00:00",
+"verdict": "Very Positive"
+},
 "4252700": {
 "desc": "Archon Soul is a 2D roguelike dice-builder where you create powerful dice using swappable faces, runes, and bodies with unique effects. \u200bDraft spells, craft powerful synergies, defeat challenging enemies, and conquer the Archon's palace.",
 "descriptors": [],
@@ -8860,6 +8961,23 @@
 "release": "Jul 26, 2026",
 "total": 60,
 "ts": "2026-07-28T03:58:33.716998+00:00",
+"verdict": "Very Positive"
+},
+"4282780": {
+"desc": "Build your elite team in Duelist: Idle Expedition, the idle auto-battler that lives on your taskbar. Recruit from a pool of 90+ JRPG pixel-art roles and lead your traveling camp to victory against all the powerful Guilds on the Continent. Your epic journey continues even when you are busy!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Duelist: Idle Expedition",
+"pct": 85,
+"price": "$7.19",
+"release": "Oct 8, 2026",
+"total": 73,
+"ts": "2026-10-09T15:44:16.288590+00:00",
 "verdict": "Very Positive"
 },
 "4285110": {
@@ -11384,6 +11502,23 @@
 "ts": "2026-09-11T13:11:47.524391+00:00",
 "verdict": "Very Positive"
 },
+"4699770": {
+"desc": "An idle game where you gather resources and grow your city. Sit back and watch your city expand!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Babel Legacy",
+"pct": 94,
+"price": "$3.99",
+"release": "Oct 7, 2026",
+"total": 53,
+"ts": "2026-10-09T15:43:59.656842+00:00",
+"verdict": "Very Positive"
+},
 "4699920": {
 "desc": "\u300aInner Scales 1:Choice\u300bis a first-person FMV. Set in a sealed cage. It pushes survival, humanity, emotion and moral dilemmas to the extreme. You will face surveillance, cages, and the fates of eight trapped women\u2014every choice you make decides life and death for others and yourself.",
 "descriptors": [
@@ -12564,6 +12699,22 @@
 "release": "Aug 5, 2026",
 "ts": "2026-08-20T17:21:11.118467+00:00"
 },
+"499170": {
+"desc": "From director Jonathan Blow (Braid, The Witness), Order of the Sinking Star is a massive puzzle adventure set in a realm of magic and enigma. Solve over 1000 interconnected, hand-crafted puzzles, discover unique playable heroes, master evolving gameplay mechanics, and decipher a grand mystery.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Strategy"
+],
+"name": "Order of the Sinking Star",
+"pct": 97,
+"price": "$29.99",
+"release": "Oct 8, 2026",
+"total": 633,
+"ts": "2026-10-09T15:42:02.480074+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "4992070": {
 "desc": "Sort Them Ducks is a cozy organizing simulator where you sort over 4,000 unique rubber ducks onto the correct shelves. Enjoy the satisfying process of turning a messy duck store into a perfectly organized collection at your own pace.",
 "descriptors": [],
@@ -12921,6 +13072,22 @@
 "release": "Sep 23, 2026",
 "total": 77,
 "ts": "2026-09-25T14:22:42.341203+00:00",
+"verdict": "Very Positive"
+},
+"5158320": {
+"desc": "This is a open world hunting simulation. Hunt some of North Americas best hunting spots for trophy Whitetail Deer, Mule Deer, and more to come soon! Manage and grow your bucks from one year to the next. Hunt with multiple firearms including compound bows, Rifle, Shotgun &amp; Muzzleloader.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Simulation",
+"Sports"
+],
+"name": "Deer Hunting - The Season 2",
+"pct": 89,
+"price": "$20.00",
+"release": "Oct 2, 2026",
+"total": 53,
+"ts": "2026-10-09T15:44:06.367354+00:00",
 "verdict": "Very Positive"
 },
 "5166890": {
