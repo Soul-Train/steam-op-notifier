@@ -126,6 +126,21 @@
 "ts": "2026-07-23T15:03:31.422078+00:00",
 "verdict": "Very Positive"
 },
+"1215940": {
+"desc": "Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption in this single-player road trip adventure.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Forever Ago",
+"pct": 93,
+"price": "$17.99",
+"release": "Oct 8, 2026",
+"total": 73,
+"ts": "2026-10-10T14:58:42.098374+00:00",
+"verdict": "Very Positive"
+},
 "1221950": {
 "pct": 95,
 "total": 96,
@@ -2395,6 +2410,24 @@
 "release": "Aug 4, 2026",
 "total": 83,
 "ts": "2026-08-07T01:03:15.520134+00:00",
+"verdict": "Very Positive"
+},
+"2680280": {
+"desc": "In the cute cardboard world, something went horribly wrong... Use the magical pencil, a good old shotgun, and various other weapons as well as the strength of your mighty boots, to uncover the dark truth and find out WHY WOULD CARDBOARD... BLEED?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "PAPERHEAD",
+"pct": 97,
+"price": "$15.99",
+"release": "Oct 9, 2026",
+"total": 125,
+"ts": "2026-10-10T14:58:32.511752+00:00",
 "verdict": "Very Positive"
 },
 "2680440": {
@@ -6331,6 +6364,21 @@
 "ts": "2026-08-26T02:24:06.610504+00:00",
 "verdict": "Very Positive"
 },
+"3775510": {
+"desc": "Experience (mildly) accurate historical battles from the Napoleonic era, but from the perspective of DUCKS! Duckoleon is a multiplayer FPS/TPS with strategic elements. Exciting combat with units ranging from line infantry to cavalry and artillery, historical uniforms, cute ducks and much more!",
+"descriptors": [],
+"genres": [
+"Action",
+"Free To Play"
+],
+"name": "Duckoleon",
+"pct": 93,
+"price": "Free",
+"release": "Oct 9, 2026",
+"total": 273,
+"ts": "2026-10-10T14:58:38.907930+00:00",
+"verdict": "Very Positive"
+},
 "3789080": {
 "desc": "Date a state! Buy low, sell high, dodge the Royal Navy and Patriot Privateers, and romance colonial state-chans in a chaotic American Revolution merchant sim. Mercantilism ho!",
 "descriptors": [],
@@ -8304,6 +8352,23 @@
 "release": "Sep 23, 2026",
 "total": 79,
 "ts": "2026-09-24T13:58:53.691281+00:00",
+"verdict": "Very Positive"
+},
+"4149040": {
+"desc": "Drillbound is a short incremental game about mining your way to the planet\u2019s core. Crush layers of rock, gather resources, upgrade your drill, and unlock powerful machines as you descend into the depths.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Drillbound",
+"pct": 88,
+"price": "$3.59",
+"release": "Oct 8, 2026",
+"total": 74,
+"ts": "2026-10-10T14:58:52.076777+00:00",
 "verdict": "Very Positive"
 },
 "4150860": {
@@ -12638,6 +12703,23 @@
 "ts": "2026-09-27T14:29:39.109719+00:00",
 "verdict": "Very Positive"
 },
+"4968640": {
+"desc": "Japanese Ramen Simulator is a ramen shop management sim for up to six players. Prepare ingredients, cook noodles, and arrange toppings to craft the perfect bowl. Create original dishes, design your kitchen and dining area, and build your ramen restaurant with friends or on your own!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Japanese Ramen Simulator",
+"pct": 90,
+"price": "$12.74",
+"release": "Oct 9, 2026",
+"total": 128,
+"ts": "2026-10-10T14:58:45.380977+00:00",
+"verdict": "Very Positive"
+},
 "4969200": {
 "desc": "Your parents have left, and you're home alone. What begins as an ordinary evening after school slowly turns into a living nightmare, where every little sound makes your heart race. Remember the most important rule: don't open the door for anyone.",
 "descriptors": [],
@@ -13073,6 +13155,21 @@
 "ts": "2026-09-23T14:01:50.408672+00:00",
 "verdict": "Very Positive"
 },
+"5130480": {
+"desc": "Sort The Capybaras is a cozy organizing simulator for 1\u20134 players. Sort more than 4,800 capybara toys with 240 unique designs and place them on their proper shelves. Enjoy the satisfying rush of using powerful skills to turn a messy capybara shop into a perfectly organized collection.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Sort The Capybaras",
+"pct": 92,
+"price": "$3.74",
+"release": "Oct 8, 2026",
+"total": 64,
+"ts": "2026-10-10T14:58:35.708874+00:00",
+"verdict": "Very Positive"
+},
 "5134970": {
 "desc": "An absurd personality testing experience with a whole lot of questions for you.",
 "descriptors": [],
@@ -13087,6 +13184,23 @@
 "release": "Sep 23, 2026",
 "total": 77,
 "ts": "2026-09-25T14:22:42.341203+00:00",
+"verdict": "Very Positive"
+},
+"5155360": {
+"desc": "Rival gangs fight for control of Chicago. Pick a side, customize your weapons, and fight other players across a variety of action-packed game modes. Spin the block and take over the streets in this chaotic multiplayer FPS.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action"
+],
+"name": "Hood Warfare 2",
+"pct": 90,
+"price": "$5.39",
+"release": "Oct 8, 2026",
+"total": 70,
+"ts": "2026-10-10T14:58:48.706822+00:00",
 "verdict": "Very Positive"
 },
 "5158320": {
