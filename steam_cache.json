@@ -6114,6 +6114,25 @@
 "ts": "2026-09-23T14:01:53.716562+00:00",
 "verdict": "Very Positive"
 },
+"3702140": {
+"desc": "A fast-paced action roguelite where you shoot, weaken, and execute enemies to refill your ammo. Keep attacking to survive.Fight across a continuous wasteland battlefield, collect weapons and mutations, and build your own killing machine. Local 2-player co-op supported.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Gunblade Ranger",
+"pct": 98,
+"price": "$4.99",
+"release": "Sep 24, 2026",
+"total": 61,
+"ts": "2026-10-11T15:15:26.013785+00:00",
+"verdict": "Very Positive"
+},
 "3703200": {
 "desc": "See the four spirits of Dampness, Heat, Cold, and Toxicity through Ah Song's eyes. Learn medicinal herbs, brew herbal tea, solve the townsfolk's troubles, and uncover the hidden mystery behind the warm, slice-of-life stories of Sap Jit Street.",
 "descriptors": [],
@@ -8555,6 +8574,21 @@
 "ts": "2026-09-21T15:34:03.188607+00:00",
 "verdict": "Very Positive"
 },
+"4183770": {
+"desc": "CELESTAY is a calm idle building game where you fish for materials and grow your home toward the sky. In a world sunk beneath the sea, you stack pieces of a house and spend quiet days fishing and watching the stars. The higher you build, the more constellations and memories fill your world.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "CELESTAY Craft&Slowlife",
+"pct": 87,
+"price": "$7.19",
+"release": "Oct 8, 2026",
+"total": 67,
+"ts": "2026-10-11T15:15:35.944334+00:00",
+"verdict": "Very Positive"
+},
 "4191350": {
 "desc": "Can you tell the difference between truth and tale? Experience three short horror stories and gather clues as to which are true and which are just part of our imagination. Immerse yourself in the protagonist's perspective and discover eerie tales from around the world.",
 "descriptors": [
@@ -8789,6 +8823,22 @@
 "release": "Oct 1, 2026",
 "total": 52,
 "ts": "2026-10-06T18:46:07.508740+00:00",
+"verdict": "Very Positive"
+},
+"4233960": {
+"desc": "Become part demon and fight in the demons' proxy war, conquering your rivals to help your species claim dominance!",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "Do Disciplinary Committee Members Dream of Succubi?",
+"pct": 90,
+"price": "$11.99",
+"release": "Oct 8, 2026",
+"total": 61,
+"ts": "2026-10-11T15:15:32.644812+00:00",
 "verdict": "Very Positive"
 },
 "4235410": {
@@ -13217,6 +13267,22 @@
 "release": "Oct 2, 2026",
 "total": 53,
 "ts": "2026-10-09T15:44:06.367354+00:00",
+"verdict": "Very Positive"
+},
+"5159730": {
+"desc": "Raise your very own Yukkuri in this free-to-play Yukkuri raising simulator, featuring 3D environments and multiplayer. Take it easy!!!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Free To Play"
+],
+"name": "Touhou Garden of the Yukkuri",
+"pct": 96,
+"price": "Free",
+"release": "Oct 9, 2026",
+"total": 51,
+"ts": "2026-10-11T15:15:29.360856+00:00",
 "verdict": "Very Positive"
 },
 "5166890": {
