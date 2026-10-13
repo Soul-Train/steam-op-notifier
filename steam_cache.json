@@ -1299,6 +1299,22 @@
 "ts": "2026-08-02T04:22:37.312751+00:00",
 "verdict": "Very Positive"
 },
+"2184080": {
+"desc": "Time is your greatest resource and secrets are your only upgrades. Master an unraveling time loop in this knowledge-based Metroidvania. As the last Weaver, exploit time-altering anomalies and use what you learn to break the cycle. Explore what remains. Uncover the mystery. Perfect the loop.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Echo Weaver",
+"pct": 97,
+"price": "$17.99",
+"release": "Oct 8, 2026",
+"total": 77,
+"ts": "2026-10-13T19:44:14.573583+00:00",
+"verdict": "Very Positive"
+},
 "2191280": {
 "desc": "An unforgiving game with precise combat. Fight challenging bosses in any order, acquire their unique powers, and succeed on your own terms.",
 "descriptors": [],
@@ -3302,6 +3318,22 @@
 "ts": "2026-08-07T01:00:48.525132+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2954010": {
+"desc": "Burn With Me is a story-centric deckbuilder filled with cozy dread and occultic mysteries. In order to summon a Personal Demon you'll master inventive gameplay with position-based synergies, and permanently burn your cards and your soul.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Burn With Me",
+"pct": 94,
+"price": "$9.89",
+"release": "Oct 12, 2026",
+"total": 117,
+"ts": "2026-10-13T19:44:18.064115+00:00",
+"verdict": "Very Positive"
+},
 "2980270": {
 "desc": "Unravel cyber secrets and foil mass surveillance as a skilled hacker in Hackhub. Challenge authority, rewrite the rules, and emerge as the ultimate digital rebel.",
 "descriptors": [],
@@ -3547,6 +3579,21 @@
 "total": 508,
 "ts": "2026-09-12T12:32:52.561393+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3048840": {
+"desc": "Hungry Horrors is a story-driven deckbuilder set in the folklore of the British Isles. Cook real traditional dishes, chain flavour synergies, meet mythical characters, and feed legendary Horrors before they feed on you.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Hungry Horrors",
+"pct": 98,
+"price": "$11.99",
+"release": "Oct 13, 2026",
+"total": 269,
+"ts": "2026-10-13T19:43:53.648870+00:00",
+"verdict": "Very Positive"
 },
 "3056840": {
 "desc": "Take a jaunt into the world of A Bumpy Ride, a cozy train-driving and exploration game! Inspired by railroading of the 19th century with a whimsical spin, you'll adventure around the open frontier in your trusty little train, picking up passengers and freight.",
@@ -4335,6 +4382,22 @@
 "ts": "2026-10-09T15:44:09.695935+00:00",
 "verdict": "Very Positive"
 },
+"3239360": {
+"desc": "Beat, Heart, Beat is a psychedelic action-platformer where every attack is set to a grungy midwest emo soundtrack. Soar across the crumbling Psyche, recruit bizarre party members, and tear a path towards your withering Heart.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "Beat, Heart, Beat",
+"pct": 100,
+"price": "$6.74",
+"release": "Oct 9, 2026",
+"total": 66,
+"ts": "2026-10-13T19:43:50.260683+00:00",
+"verdict": "Very Positive"
+},
 "3256150": {
 "desc": "From the creators of Snufkin: Melody of Moominvalley comes a heartwarming new adventure inspired by the beloved Moomin stories by Tove Jansson. This time, join Moomintroll himself on a charming but cold winter journey.",
 "descriptors": [],
@@ -5102,6 +5165,23 @@
 "total": 332,
 "ts": "2026-07-24T04:12:09.089089+00:00",
 "verdict": "Very Positive"
+},
+"3441280": {
+"desc": "A short and wholesome incremental journey about exploring and reawakening a forgotten world. Wash away the ashes to discover the secrets hidden beneath, upgrade your versatile watering abilities, and grow your own cozy space garden.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "The Greenening",
+"pct": 96,
+"price": "$3.99",
+"release": "May 7, 2026",
+"total": 517,
+"ts": "2026-10-13T19:41:57.995596+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3441990": {
 "desc": "A ghost and her doll guardian explore the mysterious town of Penwyll and the sprawling graveyards, tombs, caves and rotting estates that surround it in this Horror Action RPG from the creator of Withering Rooms.",
@@ -6360,6 +6440,23 @@
 "ts": "2026-10-12T18:27:49.502882+00:00",
 "verdict": "Very Positive"
 },
+"3746950": {
+"desc": "Run a restaurant in a bizarre universe and cook for customers who call themselves &quot;gods&quot;! Expand your restaurant, deploy robots, and automate your kitchen. Keep business booming\u2014and be ready to deal with any unruly customers.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Life, the Universe, and Restaurants",
+"pct": 96,
+"price": "$9.74",
+"release": "Oct 12, 2026",
+"total": 83,
+"ts": "2026-10-13T19:44:11.163564+00:00",
+"verdict": "Very Positive"
+},
 "3748520": {
 "desc": "SPRAWL zero is a fast-paced shooter inspired by the Golden Age of 2000s FPS. Survive a brutal cyberpunk city collapsing under military rule and cult fanaticism. Use your Gravity-Gloves, augments, and an arsenal of over 40 weapons to crush those who stand in your way.",
 "descriptors": [
@@ -6375,6 +6472,22 @@
 "release": "Sep 8, 2026",
 "total": 169,
 "ts": "2026-09-09T13:19:42.510447+00:00",
+"verdict": "Very Positive"
+},
+"3749130": {
+"desc": "The fusion of deck-building roguelike and tower defense returns, bigger than ever! Build your deck with powerful new cards, unlock unique trinkets, and deploy enhanced towers to overcome relentless waves of enemies and new strategic challenges.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy",
+"Early Access"
+],
+"name": "Tower Tactics II",
+"pct": 97,
+"price": "$9.74",
+"release": "Oct 8, 2026",
+"total": 62,
+"ts": "2026-10-13T19:44:00.521683+00:00",
 "verdict": "Very Positive"
 },
 "3749320": {
@@ -6804,6 +6917,23 @@
 "release": "Sep 22, 2026",
 "total": 53,
 "ts": "2026-10-06T18:46:14.651197+00:00",
+"verdict": "Very Positive"
+},
+"3878440": {
+"desc": "Xianxia inspired Cultivation game. Cultivate, farm materials, learn manuals, craft pills and equipments, hunt monsters and fight bosses!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Solo Cultivation \u72ec\u4fee",
+"pct": 86,
+"price": "$9.80",
+"release": "Oct 5, 2026",
+"total": 57,
+"ts": "2026-10-13T19:44:24.772844+00:00",
 "verdict": "Very Positive"
 },
 "3880190": {
@@ -7916,6 +8046,23 @@
 "ts": "2026-07-23T04:11:25.911464+00:00",
 "verdict": "Very Positive"
 },
+"4024440": {
+"desc": "Haunted Heist is a 3-8 player round-based PvP horror party game where Heisters find and retrieve gems in a procedurally generated mansion, while Tricksters use chaotic abilities to distress, disrupt, and dispose of them to protect their home.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Haunted Heist",
+"pct": 99,
+"price": "$7.99",
+"release": "Oct 12, 2026",
+"total": 74,
+"ts": "2026-10-13T19:43:57.068944+00:00",
+"verdict": "Very Positive"
+},
 "4029740": {
 "desc": "Journey through the Doggie Underworld in this heartwarming rhythm visual novel. Reunite with your lost Pup by connecting with other dog spirits, learning their stories, and lifting their moods through rhythm games full of charm and challenges!",
 "descriptors": [],
@@ -8123,6 +8270,25 @@
 "total": 546,
 "ts": "2026-07-18T03:50:07.668671+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4080520": {
+"desc": "Horns of Deliverance is a first-person action roguelike with grounded gunplay where you need to consume psychoactive substances to prevent your brain chip from taking over.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "Horns of Deliverance",
+"pct": 87,
+"price": "$10.79",
+"release": "Oct 12, 2026",
+"total": 89,
+"ts": "2026-10-13T19:44:21.401097+00:00",
+"verdict": "Very Positive"
 },
 "4086480": {
 "desc": "Scorched Sun is a short experience that combines top down survival horror with turn based combat. As a new initiate, delve into the depths of a monastery of The Scorched Sun Order and discover the secrets within.",
@@ -8527,6 +8693,24 @@
 "release": "Aug 12, 2026",
 "total": 337,
 "ts": "2026-08-12T14:18:25.341513+00:00",
+"verdict": "Very Positive"
+},
+"4159680": {
+"desc": "Barfender is a chaotic 1\u20134 player co-op bar sim where you pour drinks, clean disasters, stop fights, and try to keep the bar alive while everything falls apart. Build the place, serve the crowd, survive the night.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Barfender: CO-OP Bar Simulator",
+"pct": 97,
+"price": "$9.74",
+"release": "Oct 12, 2026",
+"total": 109,
+"ts": "2026-10-13T19:44:07.322979+00:00",
 "verdict": "Very Positive"
 },
 "4161140": {
@@ -13027,6 +13211,23 @@
 "ts": "2026-09-04T13:05:07.070652+00:00",
 "verdict": "Very Positive"
 },
+"5005680": {
+"desc": "Build your deck, bomb your friends into oblivion, and score 9,999 gold with a single card. CatPoker is an online 1\u20133 player roguelike Dou Dizhu game, packed with adorable cats and tons of fun items. Gather your friends for a match of Dou Dizhu where strategy meets friendship-ending chaos!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy",
+"Free To Play"
+],
+"name": "CatPoker",
+"pct": 98,
+"price": "Free",
+"release": "Oct 7, 2026",
+"total": 51,
+"ts": "2026-10-13T19:44:03.970623+00:00",
+"verdict": "Very Positive"
+},
 "5018390": {
 "desc": "In this free prologue, step into a world full of relaxing yard work. Complete the first three jobs where you'll use a variety of tools, such as a lawnmower, pressure washer, or leaf blower. But that's not all - there's so much more to do!",
 "descriptors": [],
@@ -13524,6 +13725,22 @@
 "release": "Sep 25, 2026",
 "total": 52,
 "ts": "2026-10-04T14:34:15.571076+00:00",
+"verdict": "Very Positive"
+},
+"5249210": {
+"desc": "NekoTrak blends time tracking with focus-based pet care. Raise a cat that roams your desktop. Earn experience, collect coins, and unlock cats, and play multiplayer so your cats can meet. It tracks app and website time and shares your activity, music, and tasks on Steam and Discord.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "NekoTrak",
+"pct": 100,
+"price": "$3.19",
+"release": "Oct 10, 2026",
+"total": 76,
+"ts": "2026-10-13T19:43:46.856522+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
