@@ -126,6 +126,23 @@
 "ts": "2026-07-23T15:03:31.422078+00:00",
 "verdict": "Very Positive"
 },
+"1175140": {
+"desc": "Get in your ship, push the throttle to max, and try not to die. Daily leaderboards where your name stays forever if you're good enough. Custom colors, custom music, YouTube in-game. It's free. What are you waiting for?",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Racing"
+],
+"name": "Vecter",
+"pct": 95,
+"price": "Free",
+"release": "Oct 14, 2020",
+"total": 2921,
+"ts": "2026-10-14T20:23:55.298940+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1215940": {
 "desc": "Following a tragic stroke of fate, Alfred embarks on a journey north in search of redemption in this single-player road trip adventure.",
 "descriptors": [],
@@ -265,6 +282,23 @@
 "total": 555,
 "ts": "2026-10-06T18:43:45.436327+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"1333410": {
+"desc": "Stream Racer is a racing game for Twitch.tv streamers. Build your own tracks, host your own races, stream it on Twitch.tv and have your viewers join you. Engage more with your viewers by giving them a racing car on your stream. Get ready for a hilariously chaotic time for your viewers and you!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Free To Play",
+"Massively Multiplayer",
+"Racing"
+],
+"name": "Stream Racer",
+"pct": 86,
+"price": "Free",
+"release": "Oct 14, 2026",
+"total": 278,
+"ts": "2026-10-14T20:26:17.314335+00:00",
+"verdict": "Very Positive"
 },
 "1368140": {
 "desc": "Build a sprawling pirate haven, raise a fleet to explore the high seas, and take on the Crown to keep the Age of Piracy alive! From ale to flintlock pistols, and from scallywags to swashbucklers, you\u2019ll need to manage complex production chains and govern a rowdy crew to reign supreme over the seas!",
@@ -2635,6 +2669,23 @@
 "ts": "2026-08-30T19:36:05.431262+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2725250": {
+"desc": "A 2D action-adventure where the story unfolds by tuning the stage with music. A play by Aleph and Liora, who have lost their memories. A beautiful yet eerie stage, and the secret of the forgotten theater await. Your choices will determine the play's ending \u2014 and their fates.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Nientum - Op.ZERO",
+"pct": 98,
+"price": "$15.99",
+"release": "Oct 13, 2026",
+"total": 231,
+"ts": "2026-10-14T20:25:42.779652+00:00",
+"verdict": "Very Positive"
+},
 "2726490": {
 "desc": "You come home for an annual family reunion, only to find your family missing with an eerie note left by your father. After you discover what has happened you SEEK REVENGE!",
 "descriptors": [
@@ -3238,6 +3289,23 @@
 "ts": "2026-09-21T15:33:46.905698+00:00",
 "verdict": "Very Positive"
 },
+"2929250": {
+"desc": "Explore the world in the golden age of offroading. Drive iconic 4x4 vehicles from the 60s to 80s by yourself or with friends through challenging trails and beautiful scenery.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Racing"
+],
+"name": "over the hill",
+"pct": 93,
+"price": "$19.99",
+"release": "Oct 14, 2026",
+"total": 222,
+"ts": "2026-10-14T20:26:06.931487+00:00",
+"verdict": "Very Positive"
+},
 "2933200": {
 "desc": "Tukoni: Forest Keepers is a cute &amp; cozy puzzle adventure. Play as Traveller, a forest spirit on a special journey, as you explore magical hand-drawn locations, meet charming characters, solve handcrafted puzzles, collect herbs and tea recipes, and help the forest prepare for the coming winter.",
 "descriptors": [],
@@ -3301,6 +3369,23 @@
 "total": 519,
 "ts": "2026-08-10T17:45:15.177426+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"2949320": {
+"desc": "Ratatan is a rhythm roguelike action game that combines rhythm games and side-scrolling action, with online co-op gameplay supporting up to 4 players. An intense battle unfolds with over 100 characters fighting in a massive melee. Let's defeat the enemies together!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Ratatan",
+"pct": 85,
+"price": "$34.99",
+"release": "Oct 14, 2026",
+"total": 3136,
+"ts": "2026-10-14T20:26:13.856783+00:00",
+"verdict": "Very Positive"
 },
 "2950790": {
 "desc": "IRON NEST is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics, and gunlay the cannons to unleash devastating blows \u27f9 Will you obey High Command, Operator?",
@@ -3780,6 +3865,24 @@
 "release": "Aug 13, 2026",
 "total": 357,
 "ts": "2026-08-14T14:13:26.978690+00:00",
+"verdict": "Very Positive"
+},
+"3115160": {
+"desc": "Obliterate heretics in the name of the Emperor in Warhammer 40,000: Boltgun 2! Play as Ultramarine Malum Caedo or Sister of Battle Nyra Veyrath in this sequel to retro FPS Warhammer 40,000: Boltgun with MORE enemies, MORE weapons, and NEW ways to purge!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Warhammer 40,000: Boltgun 2",
+"pct": 96,
+"price": "$24.99",
+"release": "Oct 14, 2026",
+"total": 84,
+"ts": "2026-10-14T20:25:59.861427+00:00",
 "verdict": "Very Positive"
 },
 "3115490": {
@@ -4560,6 +4663,25 @@
 "ts": "2026-08-26T02:23:55.882808+00:00",
 "verdict": "Very Positive"
 },
+"3295810": {
+"desc": "Realistic Ukrainian FPV combat drone simulator built with frontline pilots. Train like a real pilot: fight through enemy jamming, watch your battery, find armor weak spots, and finish the strike before the signal dies. Supports RadioMaster, DJI FPV, TBS and gamepads. Online co-op, mission editor.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "Remote Reaper: FPV Combat Drone Simulator",
+"pct": 93,
+"price": "$14.99",
+"release": "Oct 14, 2026",
+"total": 271,
+"ts": "2026-10-14T20:26:03.302855+00:00",
+"verdict": "Very Positive"
+},
 "3302080": {
 "desc": "Effulgence RPG is a party-based RPG where symbols form 3D visuals. Enemies are more than obstacles - they ARE the resource \ud83d\udc80. Destroy them to forge better gear!",
 "descriptors": [],
@@ -4641,6 +4763,21 @@
 "release": "Jul 14, 2026",
 "total": 60,
 "ts": "2026-07-17T07:15:35.026539+00:00",
+"verdict": "Very Positive"
+},
+"3314580": {
+"desc": "Team up with your raccoon squad in this physics-based co-op adventure for up to 6 players. Scavenge trash, fill your stolen wagon, and haul it to Raccoon Paradise. Live your best raccoon life.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Trash Day",
+"pct": 97,
+"price": "$7.19",
+"release": "Oct 13, 2026",
+"total": 157,
+"ts": "2026-10-14T20:25:49.439456+00:00",
 "verdict": "Very Positive"
 },
 "3315060": {
@@ -5312,6 +5449,23 @@
 "release": "Aug 24, 2026",
 "total": 72,
 "ts": "2026-08-26T02:23:34.802206+00:00",
+"verdict": "Very Positive"
+},
+"3492120": {
+"desc": "Steal a face. Study a life. Survive the conversation.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Legion Was Here",
+"pct": 93,
+"price": "$8.99",
+"release": "Oct 13, 2026",
+"total": 57,
+"ts": "2026-10-14T20:26:10.396232+00:00",
 "verdict": "Very Positive"
 },
 "3492150": {
@@ -7620,6 +7774,22 @@
 "ts": "2026-09-30T15:32:03.949079+00:00",
 "verdict": "Very Positive"
 },
+"3977340": {
+"desc": "Poly Fighter is a single-player roguelike fighting game. Learn new moves from every opponent you defeat to build your fighter\u2019s unique style. Battle through tense retro-arcade duels with beginner-friendly controls to master your moveset and claim your title!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "Poly Fighter",
+"pct": 97,
+"price": "$17.99",
+"release": "Oct 13, 2026",
+"total": 58,
+"ts": "2026-10-14T20:25:52.754771+00:00",
+"verdict": "Very Positive"
+},
 "3982450": {
 "desc": "Hitler Waifu 2 - is a parody third-person 3D shooter with satire and black humor",
 "descriptors": [
@@ -8389,6 +8559,22 @@
 "release": "Jul 24, 2026",
 "total": 72,
 "ts": "2026-07-27T04:34:44.103363+00:00",
+"verdict": "Very Positive"
+},
+"4112840": {
+"desc": "Kirsten is a soldier troubled by her current way of life. During her adventure, she'll encounter a wide variety of people, and those warm exchanges will shape her in one direction or another...",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Demon General Kirsten",
+"pct": 88,
+"price": "$9.89",
+"release": "Oct 8, 2026",
+"total": 115,
+"ts": "2026-10-14T20:26:20.693252+00:00",
 "verdict": "Very Positive"
 },
 "4113050": {
@@ -9362,6 +9548,21 @@
 "release": "Jul 17, 2026",
 "total": 78,
 "ts": "2026-08-07T21:34:03.589996+00:00",
+"verdict": "Very Positive"
+},
+"4274730": {
+"desc": "An open-world roguelike RPG where magic comes from cheesemaking. Explore a living continent, join Guilds, crawl dungeons, build a homestead and sail with friends. Or start a settlement in Fortress mode and manage its people, farms and workshops.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Early Access"
+],
+"name": "Roguefort",
+"pct": 96,
+"price": "$8.99",
+"release": "Oct 13, 2026",
+"total": 55,
+"ts": "2026-10-14T20:25:56.415016+00:00",
 "verdict": "Very Positive"
 },
 "4278010": {
@@ -13133,6 +13334,21 @@
 "price": "$0.99",
 "release": "Aug 5, 2026",
 "ts": "2026-08-20T17:21:11.118467+00:00"
+},
+"4991240": {
+"desc": "Witch's Cabin Cleanup is a cozy organizing simulator where you sort 5,313 curios in a cluttered witch's cabin. Clean, learn spells, and restore order in a calm and atmospheric environment.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Witch Cabin Cleanup",
+"pct": 97,
+"price": "$5.39",
+"release": "Oct 12, 2026",
+"total": 88,
+"ts": "2026-10-14T20:25:46.116882+00:00",
+"verdict": "Very Positive"
 },
 "499170": {
 "desc": "From director Jonathan Blow (Braid, The Witness), Order of the Sinking Star is a massive puzzle adventure set in a realm of magic and enigma. Solve over 1000 interconnected, hand-crafted puzzles, discover unique playable heroes, master evolving gameplay mechanics, and decipher a grand mystery.",
