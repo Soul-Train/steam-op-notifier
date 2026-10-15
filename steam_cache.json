@@ -838,6 +838,26 @@
 "ts": "2026-10-09T15:43:49.687061+00:00",
 "verdict": "Very Positive"
 },
+"1751730": {
+"desc": "You wake up in a terrifying psychiatric hospital. Fire and Ashes is an immersive horror game where madness and reality blur, and every monster hears your scream\u2026 even beyond the hospital walls.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "FIRE AND ASHES",
+"pct": 92,
+"price": "$8.99",
+"release": "Oct 14, 2026",
+"total": 73,
+"ts": "2026-10-15T20:11:06.562482+00:00",
+"verdict": "Very Positive"
+},
 "1755830": {
 "pct": 92,
 "total": 4558,
@@ -2034,6 +2054,23 @@
 "total": 532,
 "ts": "2026-10-03T14:06:08.195754+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"2509870": {
+"desc": "You're stuck in a dream. Blink and change your surroundings to escape the shadows of your past.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Time To Wake Up",
+"pct": 95,
+"price": "$11.99",
+"release": "Oct 12, 2026",
+"total": 57,
+"ts": "2026-10-15T20:10:59.736556+00:00",
+"verdict": "Very Positive"
 },
 "2510970": {
 "desc": "Renovate and manage a ruined office building. Clean, repair, and furnish rooms, rent them to picky tenants, fix printers and coffee machines, enjoy an exaggerated office joke system, and survive daily chaos. Turn neglect into profit \u2014 money doesn\u2019t print itself, even if the printer tries.",
@@ -3419,6 +3456,22 @@
 "ts": "2026-10-13T19:44:18.064115+00:00",
 "verdict": "Very Positive"
 },
+"2967950": {
+"desc": "The Witch's Bakery is a 2D narrative Adventure RPG where you live a magical life as a witch-baker in Paris! Serve customers, visit iconic streets and heal people's heart with your croissants \ud83e\udd50",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "The Witch's Bakery",
+"pct": 97,
+"price": "$17.99",
+"release": "Oct 14, 2026",
+"total": 108,
+"ts": "2026-10-15T20:10:52.781074+00:00",
+"verdict": "Very Positive"
+},
 "2980270": {
 "desc": "Unravel cyber secrets and foil mass surveillance as a skilled hacker in Hackhub. Challenge authority, rewrite the rules, and emerge as the ultimate digital rebel.",
 "descriptors": [],
@@ -3818,6 +3871,23 @@
 "total": 91,
 "ts": "2026-09-19T12:50:14.163501+00:00",
 "verdict": "Very Positive"
+},
+"3094480": {
+"desc": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. Step into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. Be on your best behavior and KEEP DADDY HAPPY.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Bad Cheese",
+"pct": 71,
+"price": "$5.19",
+"release": "Sep 1, 2025",
+"total": 694,
+"ts": "2026-10-15T20:09:19.451524+00:00",
+"verdict": "Mostly Positive"
 },
 "3100970": {
 "desc": "Make a pilgrimage skybound to the Isle of Reveries, where any wish can be granted. Conquer mysterious dungeons, solve puzzles, and explore a vast overworld in this retro-inspired adventure.",
@@ -7073,6 +7143,20 @@
 "ts": "2026-10-06T18:46:14.651197+00:00",
 "verdict": "Very Positive"
 },
+"3874950": {
+"desc": "Bit Buddy reacts to your keyboard, mouse, and even your voice in real time. Collect decorations as you use your computer, customize your workspace, explore over 3,000 community-made buddies and decorations through Steam Workshop, or create and share your own.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Bit Buddy",
+"pct": 99,
+"price": "$1.59",
+"release": "Nov 18, 2025",
+"total": 592,
+"ts": "2026-10-15T20:08:42.802098+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3878440": {
 "desc": "Xianxia inspired Cultivation game. Cultivate, farm materials, learn manuals, craft pills and equipments, hunt monsters and fight bosses!",
 "descriptors": [],
@@ -8492,6 +8576,22 @@
 "release": "Aug 7, 2026",
 "total": 95,
 "ts": "2026-08-11T14:16:57.386496+00:00",
+"verdict": "Very Positive"
+},
+"4098030": {
+"desc": "You're the manager of a bankrupt delivery service in the future. Do everything yourself or automate with robots and drones. VIP customers, the black market, competitors' dirty tricks, and van races\u2014just a glimpse of a vibrant city that holds many secrets.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Simulation"
+],
+"name": "Shipping Store Simulator 2037",
+"pct": 95,
+"price": "$17.99",
+"release": "Oct 14, 2026",
+"total": 117,
+"ts": "2026-10-15T20:10:56.257575+00:00",
 "verdict": "Very Positive"
 },
 "4098230": {
@@ -12229,6 +12329,23 @@
 "ts": "2026-09-20T13:24:58.296645+00:00",
 "verdict": "Very Positive"
 },
+"4732690": {
+"desc": "Arknights: Endfield is a 3D real-time strategy RPG from Gryphline. You will take on the role of the Endministrator of Endfield Industries, explore Talos-II, and defend and expand the frontiers of human civilization.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"RPG",
+"Free To Play"
+],
+"name": "Arknights: Endfield",
+"pct": 89,
+"price": "Free",
+"release": "Oct 14, 2026",
+"total": 958,
+"ts": "2026-10-15T20:11:10.061059+00:00",
+"verdict": "Very Positive"
+},
 "4736640": {
 "desc": "Sinheritance is a terrifying and mind-bending puzzle game. Explore every corner in an intensely oppressive atmosphere to piece together a chilling story. Every step must be taken with caution, for the deepest fears often stem from your own choices and your gradually crumbling sanity.",
 "descriptors": [
@@ -12824,6 +12941,23 @@
 "release": "Sep 24, 2026",
 "total": 56,
 "ts": "2026-09-29T15:18:29.570488+00:00",
+"verdict": "Very Positive"
+},
+"4870960": {
+"desc": "Shot across Los Angeles by a team with Hollywood experience, this live-action interactive drama stars Zhong Chenyao as Ayaka, with a cast shaped by 200,000+ votes. As a cash-strapped student posing as a wealthy heir, navigate five dangerous relationships\u2014and risk losing yourself behind the mask.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"RPG"
+],
+"name": "The Fame Game II: L.A. Heartbreaker",
+"pct": 99,
+"price": "$10.19",
+"release": "Oct 14, 2026",
+"total": 450,
+"ts": "2026-10-15T20:10:49.445969+00:00",
 "verdict": "Very Positive"
 },
 "4881550": {
@@ -13583,6 +13717,20 @@
 "ts": "2026-09-26T13:33:54.431389+00:00",
 "verdict": "Very Positive"
 },
+"5067360": {
+"desc": "Take on the role of a town\u2019s rules-driven (and reckless) bus driver in Thank You Bus Driver! Drive fast, slap faster, and toss any rulebreakers out of your bus to reach true victory: being appreciated.",
+"descriptors": [],
+"genres": [
+"Indie"
+],
+"name": "Thank You Bus Driver",
+"pct": 95,
+"price": "$4.99",
+"release": "Oct 14, 2026",
+"total": 91,
+"ts": "2026-10-15T20:11:03.096485+00:00",
+"verdict": "Very Positive"
+},
 "5084260": {
 "desc": "Help Fireboy and Watergirl explore the Forest Temple, the first game in the series. Play solo or team up with a friend locally or via Steam's Remote Play Together!",
 "descriptors": [],
@@ -14073,6 +14221,21 @@
 "total": 141,
 "ts": "2026-09-01T13:52:31.525014+00:00",
 "verdict": "Very Positive"
+},
+"801480": {
+"desc": "A suave secret agent adventure game. Your mission (should you choose to accept) is to infiltrate enemy spy Ruby La Rouge\u2019s secret hideaway and put a stop to her evil plans!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Agent A: A puzzle in disguise",
+"pct": 95,
+"price": "$19.99",
+"release": "Aug 29, 2019",
+"total": 6299,
+"ts": "2026-10-15T20:09:24.526139+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "802890": {
 "desc": "Playtime's over. Time for despair. Experience the definitive version of a masterpiece in the Muv-Luv trilogy's thrilling conclusion. Note: therapy not included.",
