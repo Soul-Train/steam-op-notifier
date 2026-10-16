@@ -180,6 +180,21 @@
 "ts": "2026-08-06T15:08:09.644420+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1271150": {
+"desc": "A sandbox crafting adventure with quests, magic, automation, and exploration. Gather resources, build your base, unlock new technologies, and shape your own path through a world full of secrets and progression. Inspired by Yogscast and classic Minecraft modpacks with many new and unique features.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Elsewhere",
+"pct": 97,
+"price": "$11.19",
+"release": "Oct 16, 2026",
+"total": 90,
+"ts": "2026-10-16T19:48:59.743858+00:00",
+"verdict": "Very Positive"
+},
 "1272160": {
 "desc": "A narrative-driven hardcore RPG set in a gritty world ruled by real but unrelenting gods. Set out on a challenging lifetime journey, where every choice has a price and entails consequences. Will you become an inquisitor, a judge, or conspire against the old order? Dare to decide!",
 "descriptors": [
@@ -5472,6 +5487,23 @@
 "ts": "2026-08-08T21:24:51.075618+00:00",
 "verdict": "Very Positive"
 },
+"3470960": {
+"desc": "Tales of Eternia returns as a remastered edition! As the threat of world destruction looms, an epic journey begins to determine the fate of two worlds: Inferia and Celestia.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"RPG"
+],
+"name": "Tales of Eternia Remastered",
+"pct": 88,
+"price": "$29.99",
+"release": "Oct 15, 2026",
+"total": 75,
+"ts": "2026-10-16T19:49:13.126798+00:00",
+"verdict": "Very Positive"
+},
 "3479420": {
 "desc": "Okko The Exiled is an action-packed adventure where you stomp, launch and bash your way through Kutala, a land of demons, on a quest to defeat the Demon Lord Yalda and link Okko\u2019s isolated world with the heavens.",
 "descriptors": [],
@@ -5916,6 +5948,23 @@
 "release": "Aug 20, 2026",
 "total": 74,
 "ts": "2026-08-23T02:23:09.407351+00:00",
+"verdict": "Very Positive"
+},
+"3569420": {
+"desc": "Chained Beasts is a 1-4 player co-op gladiator roguelike. Fight chaotic battles chained to your friends. Use your chains or the arena to beat up foes in creative ways and win over the bloodthirsty crowd. Endure physical and mental injuries to defeat fearsome bosses and survive the day.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action"
+],
+"name": "Chained Beasts",
+"pct": 89,
+"price": "$12.99",
+"release": "Oct 15, 2026",
+"total": 216,
+"ts": "2026-10-16T19:49:09.797992+00:00",
 "verdict": "Very Positive"
 },
 "3570490": {
@@ -6734,6 +6783,23 @@
 "ts": "2026-09-17T14:00:04.333396+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3755350": {
+"desc": "Explore, talk, and solve puzzles with cards in a solo tabletop adventure! Play as Alice, a girl trapped in the Beyond. Drag cards to craft items, meet curious companions, and find your way home. Stuck? Try a different card\u2014and a different approach. This charming fairy-tale world has its secrets.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Alice Nation",
+"pct": 99,
+"price": "$7.19",
+"release": "Oct 15, 2026",
+"total": 74,
+"ts": "2026-10-16T19:48:56.353349+00:00",
+"verdict": "Very Positive"
+},
 "3764970": {
 "desc": "Become the Mexican Ninja and fight to take back Nuevo Tokyo, where Narcos and Yakuzas have fused into the ruthless Narkuzas. Master slick combos, unleash outrageous Mexican Jutsus and craft deadly builds in this fast, chaotic 2.5D roguelike beat \u2019em up.",
 "descriptors": [
@@ -7055,6 +7121,23 @@
 "release": "Sep 30, 2026",
 "total": 279,
 "ts": "2026-10-01T15:55:16.499346+00:00",
+"verdict": "Very Positive"
+},
+"3859210": {
+"desc": "Rhythm Animal Cafe is a hilarious, heartwarming collection of hand-drawn rhythm mini-games! Enjoy 35 tracks, creative challenges, and quirky animal stories. With varied gameplay, charming characters, and plenty of laughs, even your mistakes will make you smile!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Rhythm Animal Caf\u00e9",
+"pct": 93,
+"price": "$10.79",
+"release": "Oct 12, 2026",
+"total": 87,
+"ts": "2026-10-16T19:49:06.444723+00:00",
 "verdict": "Very Positive"
 },
 "3861710": {
@@ -9981,6 +10064,23 @@
 "ts": "2026-09-07T14:41:43.918322+00:00",
 "verdict": "Very Positive"
 },
+"4317160": {
+"desc": "Build your pixel farm: sow seeds, tend crops, and turn each harvest into better tools. Unlock rare crop qualities, explore the valley, and get to know its villagers through stories and commissions. Grow at your own pace in Starlight Farm.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Starlight Farm",
+"pct": 100,
+"price": "$3.20",
+"release": "Oct 7, 2026",
+"total": 54,
+"ts": "2026-10-16T19:48:53.021111+00:00",
+"verdict": "Very Positive"
+},
 "4319660": {
 "desc": "A cozy incremental game about growing your way home. Strategically plant flowers, optimize machinery, and grow your tree tall enough to escape!",
 "descriptors": [],
@@ -10959,6 +11059,24 @@
 "release": "Jul 15, 2026",
 "total": 227,
 "ts": "2026-07-17T07:15:55.051678+00:00",
+"verdict": "Very Positive"
+},
+"4516190": {
+"desc": "A melancholic first-person adventure through a dreamlike, half-remembered nowhere. Explore, encounter its strange inhabitants, and solve puzzles as you unravel a story about the fragility of existence.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "My Beautiful Faraway, Please Don't Be Cruel To Me",
+"pct": 90,
+"price": "$9.89",
+"release": "Oct 13, 2026",
+"total": 68,
+"ts": "2026-10-16T19:49:16.423318+00:00",
 "verdict": "Very Positive"
 },
 "4516490": {
@@ -14073,6 +14191,22 @@
 "release": "Oct 2, 2026",
 "total": 63,
 "ts": "2026-10-04T14:34:12.379414+00:00",
+"verdict": "Very Positive"
+},
+"5228920": {
+"desc": "Brick By Brick is a relaxing tidy-up game you can play solo or co-op with up to 5 players. Collect, sort, and place 18,490 bricks to rebuild a charming town. Unlock helpful abilities and watch scattered piles become finished buildings. One brick at a time!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Brick by Brick: Tidy Up the Small Town!",
+"pct": 95,
+"price": "$4.95",
+"release": "Oct 15, 2026",
+"total": 62,
+"ts": "2026-10-16T19:49:03.123301+00:00",
 "verdict": "Very Positive"
 },
 "5230220": {
