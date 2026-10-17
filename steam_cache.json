@@ -1255,6 +1255,22 @@
 "ts": "2026-09-06T12:32:41.413849+00:00",
 "verdict": "Very Positive"
 },
+"2085660": {
+"desc": "Devices Tycoon is a unique business simulator that will make you feel like the owner of a company that creates your own devices! In the game you can create your own smartphones, tablets, laptops, smart watches, headphones, operating systems and even your own processors!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Devices Tycoon",
+"pct": 88,
+"price": "$17.99",
+"release": "Oct 16, 2026",
+"total": 176,
+"ts": "2026-10-17T16:05:55.952793+00:00",
+"verdict": "Very Positive"
+},
 "2099090": {
 "desc": "Discover secrets long forgotten, and nurture relationships waiting to bloom. In a game inspired by the lore of Dragon and Fae, make choices that can shape your story, relationships, and even personality. Will you be brave, kind, wise, charismatic? Only you know the answer to your fate.",
 "descriptors": [],
@@ -1285,6 +1301,21 @@
 "release": "Sep 4, 2026",
 "total": 61,
 "ts": "2026-09-11T13:11:40.717377+00:00",
+"verdict": "Very Positive"
+},
+"2121510": {
+"desc": "Tenebris Somnia is a 2D retro survival horror adventure game with live action cutscenes created by an award winning film crew from Argentina. Unveil the depths of a disturbing story by solving puzzles and fighting horrible creatures. ...What if they aren't just nightmares?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Tenebris Somnia",
+"pct": 96,
+"price": "$19.99",
+"release": "Oct 16, 2026",
+"total": 189,
+"ts": "2026-10-17T16:05:42.665807+00:00",
 "verdict": "Very Positive"
 },
 "212630": {
@@ -4917,6 +4948,23 @@
 "ts": "2026-08-06T04:01:59.658788+00:00",
 "verdict": "Very Positive"
 },
+"3327120": {
+"desc": "Dreadline Express is a 1st-person, psychological horror metroidbrainia set aboard the last human train. Unravel mysteries of the enigmatic train, face strange passengers, and shape your path using a unique card-based mechanic that gives you full narrative control. This is no longer our world.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Dreadline Express",
+"pct": 100,
+"price": "$9.74",
+"release": "Oct 16, 2026",
+"total": 61,
+"ts": "2026-10-17T16:05:35.947094+00:00",
+"verdict": "Very Positive"
+},
 "3330210": {
 "desc": "Cook or be cooked! In this cosmic deck-building roguelike, ingredients crash, merge, and react in chaotic ways. As the witch chef of Stewpendous Spoons, craft the perfect stew, master strategic combos, and satisfy bizarre patrons, before you end up in the cauldron yourself!",
 "descriptors": [],
@@ -7069,6 +7117,22 @@
 "ts": "2026-10-02T15:16:29.061179+00:00",
 "verdict": "Very Positive"
 },
+"3845070": {
+"desc": "A solo deduction roguelite with over 175 roles, set in a noir city run by a criminal syndicate. Investigate everyone, make arrests and protect your reputation. Take down the syndicate and don\u2019t get duped like the rest. Everyone is a suspect, trust no one. No friends required.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Dupery: A Game of Solo Deduction",
+"pct": 86,
+"price": "$11.99",
+"release": "Oct 15, 2026",
+"total": 223,
+"ts": "2026-10-17T16:06:02.636538+00:00",
+"verdict": "Very Positive"
+},
 "3848900": {
 "desc": "Put the \u2018love\u2019 in 'Lovecraftian horror!' When a captivating comet named Hheily crashes into your apartment, you are drawn into an interplanetary conflict between light and dark. Feed Hheily's fire to save the world in this horror-comedy visual novel\u2026 and maybe even win a smooch!",
 "descriptors": [
@@ -7105,6 +7169,22 @@
 "release": "Aug 17, 2026",
 "total": 293,
 "ts": "2026-08-18T09:26:55.681001+00:00",
+"verdict": "Very Positive"
+},
+"3851680": {
+"desc": "The Doll Shop is a hand-drawn narrative game \u2013 part romance, part horror \u2013 set in the Japanese countryside. Play as a young dollmaker who reunites with his childhood friend in an eerie snowbound village. Will you dare confess your secret?",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "The Doll Shop",
+"pct": 94,
+"price": "$11.69",
+"release": "Oct 12, 2026",
+"total": 54,
+"ts": "2026-10-17T16:05:46.009919+00:00",
 "verdict": "Very Positive"
 },
 "3854870": {
@@ -8500,6 +8580,21 @@
 "release": "Sep 8, 2026",
 "total": 122,
 "ts": "2026-09-09T13:19:45.928422+00:00",
+"verdict": "Very Positive"
+},
+"4049180": {
+"desc": "Reopen the toy chest and saddle up as Woody, Buzz Lightyear, and Jessie in Toy Story 3 Complete Edition, a 3D adventure based on the hit 2010 animated film, Toy Story 3. Play through authentic movie moments in Story Mode, or drop into the wild west sandbox of Woody\u2019s Roundup in Toy Box Mode.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Disney/Pixar Toy Story 3 Complete Edition",
+"pct": 86,
+"price": "$24.99",
+"release": "Oct 15, 2026",
+"total": 277,
+"ts": "2026-10-17T16:06:05.989105+00:00",
 "verdict": "Very Positive"
 },
 "4054100": {
@@ -12447,6 +12542,22 @@
 "ts": "2026-09-20T13:24:58.296645+00:00",
 "verdict": "Very Positive"
 },
+"4727860": {
+"desc": "War Footing puts you in command of a nation's defenses. With limited time &amp; resources, and tension rising, can you build the military needed to save your country's independence?",
+"descriptors": [
+5
+],
+"genres": [
+"Strategy"
+],
+"name": "War Footing",
+"pct": 87,
+"price": "$10.79",
+"release": "Oct 15, 2026",
+"total": 55,
+"ts": "2026-10-17T16:05:59.304569+00:00",
+"verdict": "Very Positive"
+},
 "4732690": {
 "desc": "Arknights: Endfield is a 3D real-time strategy RPG from Gryphline. You will take on the role of the Endministrator of Endfield Industries, explore Talos-II, and defend and expand the frontiers of human civilization.",
 "descriptors": [],
@@ -12585,6 +12696,22 @@
 "release": "Jul 10, 2026",
 "total": 54,
 "ts": "2026-07-24T04:12:02.432708+00:00",
+"verdict": "Very Positive"
+},
+"4773180": {
+"desc": "They killed your cat. Fatal mistake. In this magic-infused bullet-heaven roguelike, develop your wizard, upgrade and evolve spells, collect items, and create unstoppable builds while battling hordes of enemies.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "For The Cat! Sorcerer's Revenge",
+"pct": 95,
+"price": "$5.09",
+"release": "Oct 12, 2026",
+"total": 73,
+"ts": "2026-10-17T16:05:49.304609+00:00",
 "verdict": "Very Positive"
 },
 "4774170": {
@@ -14239,6 +14366,40 @@
 "release": "Oct 10, 2026",
 "total": 76,
 "ts": "2026-10-13T19:43:46.856522+00:00",
+"verdict": "Very Positive"
+},
+"5257930": {
+"desc": "From making new friends \u2014 or enemies \u2014 to exploring this island for secrets, how will your story end? Play as Grian in this visual-novel RPG and encounter new, shocking twists that you wouldn\u2019t expect!",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Free To Play"
+],
+"name": "Heartfall \u2014 A Tale in Three Lives",
+"pct": 99,
+"price": "Free",
+"release": "Oct 15, 2026",
+"total": 94,
+"ts": "2026-10-17T16:05:39.326535+00:00",
+"verdict": "Very Positive"
+},
+"5258340": {
+"desc": "A short, focused first-person incremental mining game. Dig through a vault of one million coins, bank your haul, buy better tools, and build an ever-faster gold-collecting operation.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "One Million Coins",
+"pct": 90,
+"price": "$1.99",
+"release": "Oct 13, 2026",
+"total": 80,
+"ts": "2026-10-17T16:05:52.635854+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
