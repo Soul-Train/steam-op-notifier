@@ -2457,6 +2457,23 @@
 "ts": "2026-09-05T12:17:57.395508+00:00",
 "verdict": "Very Positive"
 },
+"2644100": {
+"desc": "Join Nora in this mysterious and macabre point and click adventure game. Find and collect items to solve puzzles. Talk to peculiar people and monsters alike. Explore Gruesome Grove and beyond to uncover forgotten truths and save the people of her town!",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "Allogloom",
+"pct": 100,
+"price": "$13.49",
+"release": "Oct 13, 2026",
+"total": 69,
+"ts": "2026-10-18T12:56:30.986868+00:00",
+"verdict": "Very Positive"
+},
 "2646720": {
 "desc": "Face the Ancient Gods! Set the sails of your flying pirate ship and embark on a roguelite adventure in the steampunk world of Dead Weight. Explore floating islands in search of loot. Choose a class and enjoy turn-based tactical combat on tiny battlefields where every step matters.",
 "descriptors": [
@@ -3848,6 +3865,25 @@
 "release": "Aug 24, 2026",
 "total": 55,
 "ts": "2026-08-27T00:24:31.616445+00:00",
+"verdict": "Very Positive"
+},
+"3070450": {
+"desc": "Nightblood W: Cutthroat Wolf is a cyberpunk 2D pixel action game. Customize your own build, zip through neon skyscrapers with your grappling, unleash lethal combos, immerse yourself in lightning-fast combat, and feel the ultimate adrenaline rush!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Night Blood W : Cutthroat Wolf",
+"pct": 100,
+"price": "$9.59",
+"release": "Oct 16, 2026",
+"total": 54,
+"ts": "2026-10-18T12:56:27.615051+00:00",
 "verdict": "Very Positive"
 },
 "3075410": {
@@ -6464,6 +6500,26 @@
 "ts": "2026-07-17T07:15:51.728139+00:00",
 "verdict": "Very Positive"
 },
+"3687630": {
+"desc": "Join two close friends in building a cozy seaside B&amp;B. Every choice affects the story and your relationships. Spend heartfelt moments with six unique girls and create a summer worth remembering. 4K visuals, nearly 1,000 minutes of video, side stories, mini-games, and 20+ endings await.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"RPG",
+"Simulation"
+],
+"name": "Such a guy",
+"pct": 96,
+"price": "$12.99",
+"release": "Oct 14, 2025",
+"total": 723,
+"ts": "2026-10-18T12:54:42.516709+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3687790": {
 "desc": "Unleash total destruction to avenge the little chick! Soar through chaos, weaponize yourself to obliterate physics-based enemies and everything in your path.",
 "descriptors": [
@@ -7032,6 +7088,22 @@
 "ts": "2026-08-14T14:13:09.958725+00:00",
 "verdict": "Very Positive"
 },
+"3826670": {
+"desc": "No Legs. Just Flips. A hard and punishing game where you flip, fall, and climb as Flippy, using only rotation. Do you have what it takes to get back to Jeff?",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Flipping is Hard",
+"pct": 94,
+"price": "$9.74",
+"release": "Oct 16, 2026",
+"total": 83,
+"ts": "2026-10-18T12:56:47.879479+00:00",
+"verdict": "Very Positive"
+},
 "3829310": {
 "desc": "Sublight is a space bullet heaven roguelike, where you captain a powerful warship and carve through escalating waves of enemies. Upgrade your arsenal, unlock new ships, and experiment with countless builds to dominate the battlefield.",
 "descriptors": [],
@@ -7488,6 +7560,25 @@
 "release": "Sep 15, 2026",
 "total": 58,
 "ts": "2026-09-16T13:58:35.127418+00:00",
+"verdict": "Very Positive"
+},
+"3897080": {
+"desc": "Dimenshot is a melee-focused boomer shooter FPS set in distinct worlds, each representing one of the Seven Deadly Sins with its own unique theme. Melee combat is central, ranged weapons are supportive. Play fast and aggressive; combine parkour with combat.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Early Access"
+],
+"name": "Dimenshot",
+"pct": 95,
+"price": "$7.42",
+"release": "Oct 16, 2026",
+"total": 100,
+"ts": "2026-10-18T12:56:44.490636+00:00",
 "verdict": "Very Positive"
 },
 "3901910": {
@@ -9677,6 +9768,24 @@
 "release": "Sep 23, 2026",
 "total": 57,
 "ts": "2026-09-28T17:15:24.814186+00:00",
+"verdict": "Very Positive"
+},
+"4251070": {
+"desc": "Silent Wounds is an episodic psychological horror anthology. Each episode offers a compact and intense narrative experience. In this first episode, a man returns home and trades reality for the dangerous, silent obsession with a perfect doll.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "Silent Wounds - The Doll",
+"pct": 96,
+"price": "Free",
+"release": "Oct 15, 2026",
+"total": 51,
+"ts": "2026-10-18T12:56:41.150691+00:00",
 "verdict": "Very Positive"
 },
 "4251370": {
@@ -11888,6 +11997,21 @@
 "ts": "2026-08-08T21:24:44.263502+00:00",
 "verdict": "Very Positive"
 },
+"4613180": {
+"desc": "Train an AutoDog to escape a dystopian mecha-city in this tactical roguelite. Craft powerful modular attacks, plan every move with stress-free real-time previews, and unleash devastating chain reactions to outsmart hordes of killjoy robots!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Dog in the Machine",
+"pct": 100,
+"price": "$17.99",
+"release": "Sep 29, 2026",
+"total": 62,
+"ts": "2026-10-18T12:56:34.417543+00:00",
+"verdict": "Very Positive"
+},
 "4613890": {
 "desc": "Lazy Kickers is an incremental soccer manager! Manage your team, grow balls from plants and shoot goals for coins! Start small and climb the leaderboards, unlocking new upgrades! Score millions and plunge the playing field into total chaos.",
 "descriptors": [],
@@ -13758,6 +13882,21 @@
 "release": "Aug 13, 2026",
 "total": 241,
 "ts": "2026-08-15T13:26:55.189160+00:00",
+"verdict": "Very Positive"
+},
+"4995030": {
+"desc": "Unwind in a relaxing first-person Tidy Up game where you'll sort and arrange 5,648 treasures in a papercraft world. Level up, unlock new skills, and tally every coin. Play solo or tidy up together with friends. Supports up to 16 players in online co-op.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Folded Fables: Tidy Up The Dragon Hoard",
+"pct": 98,
+"price": "$5.39",
+"release": "Oct 15, 2026",
+"total": 97,
+"ts": "2026-10-18T12:56:37.788733+00:00",
 "verdict": "Very Positive"
 },
 "4996190": {
