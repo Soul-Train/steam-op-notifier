@@ -444,6 +444,23 @@
 "ts": "2026-08-05T03:57:10.140515+00:00",
 "verdict": "Very Positive"
 },
+"1478970": {
+"desc": "Join the rebels in a third-person shooter with RPG elements and base-building mode. Fight against various combat drone models under the control of the supreme AI.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "AI Olympius",
+"pct": 91,
+"price": "$12.74",
+"release": "Oct 18, 2026",
+"total": 180,
+"ts": "2026-10-19T16:05:59.577729+00:00",
+"verdict": "Very Positive"
+},
 "1496970": {
 "desc": "A vibrant co-op social deduction adventure with roguelike twists, wild abilities, monsters, and nonstop mayhem.",
 "descriptors": [],
@@ -2806,6 +2823,25 @@
 "ts": "2026-08-04T04:00:12.884098+00:00",
 "verdict": "Very Positive"
 },
+"2729480": {
+"desc": "Step into the wild world of Nightclub Simulator VR! Experience an exclusive party where you can dance, mingle, fight, or flirt your way through a chaotic nightclub scene. Interact with lifelike NPCs, build relationships, cause a little mayhem, or just enjoy the music. Your night, your rules..",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "NightClub Simulator",
+"pct": 92,
+"price": "$7.99",
+"release": "Oct 18, 2026",
+"total": 907,
+"ts": "2026-10-19T16:05:56.185719+00:00",
+"verdict": "Very Positive"
+},
 "2736370": {
 "desc": "Journey into the forgotten world of Helix, where ancient powers awaken within you. Unlock and combine embodied abilities to unravel the mysteries of a lost civilization. Descend into a tale that will challenge your mind and soul, solving intricate puzzles as you ascend to the light of a new day.",
 "descriptors": [],
@@ -4970,6 +5006,22 @@
 "ts": "2026-08-29T19:37:48.895234+00:00",
 "verdict": "Mostly Positive"
 },
+"3318210": {
+"desc": "&quot;Real friends exist in the online world!&quot; The Doomed Otaku is a multi-ending adventure that follows a wandering 20-something otaku as they navigate both the real and cyber worlds, experiencing various events along the way.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Doomed Otaku",
+"pct": 96,
+"price": "$16.19",
+"release": "Oct 15, 2026",
+"total": 74,
+"ts": "2026-10-19T16:05:52.720426+00:00",
+"verdict": "Very Positive"
+},
 "3323490": {
 "desc": "Take down hordes of alien invaders with your Power Shot, Truxton Beam, Thunder Laser, Homing Shot, Star\u2011mine Shot, and more! Don't forget to breathe as you face off against gigantic bosses in the ultimate battle for humanity\u2019s survival!",
 "descriptors": [],
@@ -6119,6 +6171,25 @@
 "ts": "2026-07-22T04:15:11.867717+00:00",
 "verdict": "Very Positive"
 },
+"3591360": {
+"desc": "In this mind-blowing insane-arcade RPG, Jennyfer takes down &quot;The Organization&quot; and summons The Legendary Devourer of Dead in order to wipe the planet.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Bad Bitch Blasters",
+"pct": 99,
+"price": "$2.99",
+"release": "Oct 26, 2025",
+"total": 555,
+"ts": "2026-10-19T16:04:01.216882+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "3597200": {
 "desc": "In this deckbuilder your deck plays automatically. Upgrade, enchant and stickerize your cards to create clever cascading effects that defeat monsters and other players. Can you reach the Grail?",
 "descriptors": [],
@@ -6168,6 +6239,20 @@
 "release": "Aug 10, 2026",
 "total": 324,
 "ts": "2026-08-10T17:47:07.785414+00:00",
+"verdict": "Very Positive"
+},
+"3605230": {
+"desc": "Turn-Based + Survivor-Like?Play as a agent in a burning cyberpunk city! Strategize grid-by-grid, unleash skills to clear waves of enemies, and survive escalating challenges. Uncover secrets behind the chaos with simple, tactical moves. Can you outsmart the flames?",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Fire Burning City",
+"pct": 100,
+"price": "$4.05",
+"release": "Oct 14, 2026",
+"total": 66,
+"ts": "2026-10-19T16:05:49.279530+00:00",
 "verdict": "Very Positive"
 },
 "3607470": {
@@ -7391,6 +7476,22 @@
 "total": 592,
 "ts": "2026-10-15T20:08:42.802098+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3878090": {
+"desc": "Pixel Survivors: Defense is a roguelite tower defense game. Stand your ground as a lone hero against hordes of monsters, combine auto-casting spells with 200+ items, and survive up to 40 waves of elites and bosses to protect your base.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Pixel Survivors: Defense",
+"pct": 85,
+"price": "$2.39",
+"release": "Oct 13, 2026",
+"total": 68,
+"ts": "2026-10-19T16:06:06.373641+00:00",
+"verdict": "Very Positive"
 },
 "3878440": {
 "desc": "Xianxia inspired Cultivation game. Cultivate, farm materials, learn manuals, craft pills and equipments, hunt monsters and fight bosses!",
@@ -10691,6 +10792,20 @@
 "release": "Jul 14, 2026",
 "total": 60,
 "ts": "2026-07-27T04:34:34.369672+00:00",
+"verdict": "Very Positive"
+},
+"4385780": {
+"desc": "Just one more minute. Then another. Outlast endless hordes and a new boss every three minutes in this survival roguelite with 21 characters, 32 weapons, and relics triggered by weapon combos.",
+"descriptors": [],
+"genres": [
+"Action"
+],
+"name": "Maldhalla",
+"pct": 88,
+"price": "$3.99",
+"release": "Oct 16, 2026",
+"total": 52,
+"ts": "2026-10-19T16:06:03.007061+00:00",
 "verdict": "Very Positive"
 },
 "4403010": {
