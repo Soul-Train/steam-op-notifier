@@ -870,6 +870,21 @@
 "ts": "2026-10-09T15:43:49.687061+00:00",
 "verdict": "Very Positive"
 },
+"1747050": {
+"desc": "The Freelance Police are back on the crime beat in a newly remastered version of their second episodic season. Zombies will dance. Mariachis will sing. A giant battle robot will trash the streets. And when their friends\u2019 lives are at stake, Sam &amp; Max will risk their very souls to set things right.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Sam & Max: Beyond Time and Space",
+"pct": 99,
+"price": "$9.99",
+"release": "Dec 8, 2021",
+"total": 543,
+"ts": "2026-10-20T14:00:49.122814+00:00",
+"verdict": "Overwhelmingly Positive"
+},
 "1751730": {
 "desc": "You wake up in a terrifying psychiatric hospital. Fire and Ashes is an immersive horror game where madness and reality blur, and every monster hears your scream\u2026 even beyond the hospital walls.",
 "descriptors": [
@@ -10300,6 +10315,22 @@
 "ts": "2026-07-30T03:54:34.152536+00:00",
 "verdict": "Very Positive"
 },
+"4304900": {
+"desc": "Big Dig is a short incremental narrative game about digging up artifacts to help Mayor Dog win the election! Recover artifacts, grow your museum, and upgrade your tools while building a highway across the Animal Republic!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Big Dig",
+"pct": 97,
+"price": "$5.99",
+"release": "Oct 19, 2026",
+"total": 123,
+"ts": "2026-10-20T14:02:40.840533+00:00",
+"verdict": "Very Positive"
+},
 "4309120": {
 "desc": "You can't save him... but what if you could meet him again? Unquiet Grey is a heartbreaking timeloop visual novel about a troubled young woman and the kind-hearted musician she loves through countless lifetimes.",
 "descriptors": [
@@ -10350,6 +10381,23 @@
 "release": "Aug 19, 2026",
 "total": 244,
 "ts": "2026-08-20T09:28:08.389664+00:00",
+"verdict": "Very Positive"
+},
+"4315830": {
+"desc": "Skibidi Wars is a fast-paced multiplayer FPS/TPS action game inspired by internet meme culture. The game pits two iconic and absurd factions against each other: the technologically advanced Cameraman and the chaotic Skibidi Toilets.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "Skibidi Wars",
+"pct": 90,
+"price": "$0.79",
+"release": "Oct 13, 2026",
+"total": 67,
+"ts": "2026-10-20T14:02:44.285557+00:00",
 "verdict": "Very Positive"
 },
 "4315910": {
@@ -14512,6 +14560,22 @@
 "release": "Oct 2, 2026",
 "total": 203,
 "ts": "2026-10-03T14:08:17.481247+00:00",
+"verdict": "Very Positive"
+},
+"5190030": {
+"desc": "What have you done to the market?! Practising your amateur sorcery in the town square might not have been the best idea\u2026 You should really tidy up the market stalls before everyone arrives for a hard day\u2019s work!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Tidy Up the Town",
+"pct": 100,
+"price": "$4.94",
+"release": "Oct 16, 2026",
+"total": 62,
+"ts": "2026-10-20T14:02:37.318292+00:00",
 "verdict": "Very Positive"
 },
 "5204830": {
