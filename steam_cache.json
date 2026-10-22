@@ -461,6 +461,25 @@
 "ts": "2026-10-19T16:05:59.577729+00:00",
 "verdict": "Very Positive"
 },
+"1492070": {
+"desc": "Tear through endless waves of supernatural enemies in this co-op horror horde shooter. Play solo or with up to 4 players, unleash god-like Miracle powers, supercharge your arsenal, and survive devastating boss encounters on Sker Island.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Sker Ritual",
+"pct": 81,
+"price": "$6.79",
+"release": "Apr 18, 2024",
+"total": 6020,
+"ts": "2026-10-22T20:21:45.158719+00:00",
+"verdict": "Very Positive"
+},
 "1496970": {
 "desc": "A vibrant co-op social deduction adventure with roguelike twists, wild abilities, monsters, and nonstop mayhem.",
 "descriptors": [],
@@ -6085,11 +6104,11 @@
 ],
 "name": "Worming from Home",
 "pct": 98,
-"price": "$5.99",
+"price": "$7.99",
 "release": "Sep 4, 2026",
-"total": 118,
-"ts": "2026-09-05T12:17:47.323784+00:00",
-"verdict": "Very Positive"
+"total": 1112,
+"ts": "2026-10-22T20:21:51.875953+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "3551190": {
 "desc": "Battle enemy forces reminiscent of alien weapons from retro sci-fi works in this single-player 2.5D FPS.",
