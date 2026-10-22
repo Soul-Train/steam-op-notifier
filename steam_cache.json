@@ -1715,6 +1715,26 @@
 "ts": "2026-09-03T13:09:33.302974+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"2279440": {
+"desc": "You\u2019re trapped inside a haunted house, stalked by angry ghosts. To survive, you\u2019ll have to run, hide, strategize, give gifts, chat, flirt\u2026 Wait, what kind of game is this? Oh right, it\u2019s a point-and-click survival horror dating sim!",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Soul Mates",
+"pct": 97,
+"price": "$12.99",
+"release": "Oct 21, 2026",
+"total": 114,
+"ts": "2026-10-22T14:17:54.730495+00:00",
+"verdict": "Very Positive"
+},
 "2285550": {
 "desc": "Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.",
 "descriptors": [],
@@ -1918,6 +1938,22 @@
 "total": 62,
 "ts": "2026-08-26T02:23:41.936277+00:00",
 "verdict": "Very Positive"
+},
+"2434600": {
+"desc": "ShantyTown is a relaxing diorama-building game about finding beauty in everyday chaos. Bring new locations to life, stack your urban buildings high, and fill each little nook and cranny with your own touch. Try your hand at shaping a cozy little town that is unique to you.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "ShantyTown",
+"pct": 97,
+"price": "$14.99",
+"release": "Apr 16, 2026",
+"total": 548,
+"ts": "2026-10-22T14:16:02.977249+00:00",
+"verdict": "Overwhelmingly Positive"
 },
 "2436940": {
 "desc": "Save Bunnyville from a doomed fate: a top-down action/RPG roguelite from the makers of Dungreed. Explore the depths of the tower, collect and upgrade artifacts, and defeat hordes of demons to keep your village safe.",
@@ -4227,6 +4263,23 @@
 "ts": "2026-08-08T21:24:54.493524+00:00",
 "verdict": "Very Positive"
 },
+"3154800": {
+"desc": "Build your own football pitch business. Make repairs, expand your facilities, and attract the interest of football fans.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Sports"
+],
+"name": "Football Pitch Simulator",
+"pct": 93,
+"price": "$5.99",
+"release": "Oct 22, 2026",
+"total": 204,
+"ts": "2026-10-22T14:18:01.564375+00:00",
+"verdict": "Very Positive"
+},
 "3156330": {
 "desc": "In this presidential rogue-like action game, gather votes and run for presidency by day, then transform into a warrior to take down your enemies by night! Master unique skills to become a swordmaster, a cyber mage, or anything in between, and overthrow the ruthless president!",
 "descriptors": [
@@ -4609,6 +4662,24 @@
 "release": "Jul 10, 2026",
 "total": 51,
 "ts": "2026-07-15T14:46:47.314663+00:00",
+"verdict": "Very Positive"
+},
+"3216230": {
+"desc": "Meat Train is an open world zombie survival game where you operate a train that uses MEAT for FUEL. Scavenge for weapons and loot while you explore a wasteland where everything wants you dead. Upgrade your train and attempt to destroy GRM: a rogue AI that has enslaved what's left of humanity.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "MEAT TRAIN",
+"pct": 93,
+"price": "$9.00",
+"release": "Oct 21, 2026",
+"total": 81,
+"ts": "2026-10-22T14:18:04.984908+00:00",
 "verdict": "Very Positive"
 },
 "3219010": {
@@ -9239,6 +9310,22 @@
 "ts": "2026-10-12T18:27:52.774426+00:00",
 "verdict": "Very Positive"
 },
+"4131220": {
+"desc": "Thirteen years ago, six girls vanished in Akihabara in the unsolved case \u201cThe Akiba Vanishing\u201d. Daiki Shinjo announces a live-action game based on the incident, gathering six women who embody Akihabara\u2019s subculture. But their story begins to seep into reality. Can AKIBA LOST be finished?",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "AKIBA LOST",
+"pct": 99,
+"price": "$19.99",
+"release": "Oct 20, 2026",
+"total": 113,
+"ts": "2026-10-22T14:17:51.294958+00:00",
+"verdict": "Very Positive"
+},
 "4131730": {
 "desc": "VHOLUME is a melancholic first-person parkour adventure set in a dystopian brutalist city where bureaucracy turns a simple task into an odyssey.",
 "descriptors": [],
@@ -9694,6 +9781,22 @@
 "total": 552,
 "ts": "2026-08-07T21:31:39.823721+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4207990": {
+"desc": "Forge and combine magical gems, build deadly defenses, and survive relentless waves in the Flash-era tower defense classics GemCraft, Chapter Zero, and Labyrinth. Now with up to 9x speed, new hotkeys, easier gem combining, and smoother performance.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "GemCraft - Legacy Collection",
+"pct": 91,
+"price": "$9.99",
+"release": "Oct 21, 2026",
+"total": 65,
+"ts": "2026-10-22T14:18:08.295320+00:00",
+"verdict": "Very Positive"
 },
 "4209160": {
 "desc": "A cozy idle island sim that lives quietly above your taskbar. Five islanders \u2014 a farmer, woodcutter, fisherman, miner, and chef \u2014 farm, fish, mine, cook, and craft on their own. Build a self-sustaining isle while you work or browse.",
@@ -14863,6 +14966,25 @@
 "release": "Oct 13, 2026",
 "total": 80,
 "ts": "2026-10-17T16:05:52.635854+00:00",
+"verdict": "Very Positive"
+},
+"5342930": {
+"desc": "The original Dementium II, restored by the team who made it. William Redmoor wakes with fresh staples in his skull inside an asylum for the criminally insane, where the walls peel back to reveal something worse. Fight, solve and survive the cult DS horror classic, now on PC.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Dementium II",
+"pct": 97,
+"price": "$14.99",
+"release": "Oct 20, 2026",
+"total": 97,
+"ts": "2026-10-22T14:17:58.232833+00:00",
 "verdict": "Very Positive"
 },
 "564940": {
