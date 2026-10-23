@@ -685,6 +685,22 @@
 "ts": "2026-07-30T15:04:35.823478+00:00",
 "verdict": "Very Positive"
 },
+"1617120": {
+"desc": "Good Heavens! is an open-world crafting and building RPG for solo and online co-op up to 8 players. Explore mysterious biomes, build your base, master six distinct tech trees, rebuild fallen cities, and help a clumsy God restore his world on the brink of collapse.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Good Heavens!",
+"price": "$14.99",
+"release": "Oct 14, 2026",
+"ts": "2026-10-23T14:01:33.826832+00:00"
+},
 "1619230": {
 "desc": "The Star Named EOS is a story-rich puzzle adventure built around photography. Recreate compositions of past photos to uncover the truth of a family mystery. Experience a harmonious mixture of beautiful hand-drawn art and engaging puzzles on a journey of reminiscence.",
 "descriptors": [],
@@ -1105,6 +1121,20 @@
 "total": 72,
 "ts": "2026-08-16T13:27:25.503269+00:00",
 "verdict": "Very Positive"
+},
+"1965550": {
+"desc": "Tame any creature. Ride them into battle. Challenge the Animal Gods. Explore an infinite, procedurally generated fantasy world. Fight, quest, trade, and grow stronger alongside your pets in this open-world action-adventure RPG.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Wildaria",
+"price": "$14.99",
+"release": "Oct 8, 2026",
+"ts": "2026-10-23T14:01:19.573701+00:00"
 },
 "1983620": {
 "desc": "A metroidvania that combines the visual style of classic retro games with the fluid gameplay of modern titles. Explore different worlds, face challenging enemies and bosses, and absorb their powers to destroy the Core of Infinitevania.",
@@ -2403,6 +2433,20 @@
 "total": 142,
 "ts": "2026-08-14T14:13:23.623668+00:00",
 "verdict": "Very Positive"
+},
+"2552310": {
+"desc": "This is a cozy strategy management game where you manage an inn placed cleverly at the mouth of a dungeon. Juggle visits and business from 2 rivaling guilds, maximize profits, but keep your double-dealing a secret! Keep everyone happy and watch your inn thrive!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Dungeon Inn",
+"price": "$11.99",
+"release": "Oct 22, 2026",
+"ts": "2026-10-23T14:01:26.733311+00:00"
 },
 "2559690": {
 "desc": "Set sail on a voyage full of pirates, dark magic, and the thrill of discovery! Draco and the Seven Scales is a retro-inspired adventure that harkens back to an age of top down dungeon crawlers and lovable, crunchy pixel art.",
@@ -4844,6 +4888,17 @@
 "total": 58,
 "ts": "2026-08-07T21:33:39.737735+00:00",
 "verdict": "Very Positive"
+},
+"3259780": {
+"desc": "Return to the pixel\u2011art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
+"descriptors": [],
+"genres": [
+"RPG"
+],
+"name": "FINAL FANTASY RESONANCE",
+"price": "$49.99",
+"release": "Oct 22, 2026",
+"ts": "2026-10-23T13:59:17.669465+00:00"
 },
 "3271280": {
 "desc": "Gather and grow cards in Shroom &amp; Gloom, a moody first-person, roguelike double-deckbuilder bursting with fungal foes and mountains of mega-combos!",
@@ -9786,6 +9841,22 @@
 "ts": "2026-07-14T17:22:14.951657+00:00",
 "verdict": "Very Positive"
 },
+"4198430": {
+"desc": "The Last Camp is a post-apocalyptic world-themed game. It utilizes high-quality graphics, a rich weapon and item system, and a vast world map to create a cross-generational twin-stick shooter, bringing a feast to hardcore shooter players.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"RPG"
+],
+"name": "The Last Camp : Dawn",
+"price": "$22.49",
+"release": "Oct 22, 2026",
+"ts": "2026-10-23T14:01:04.801839+00:00"
+},
 "4198660": {
 "desc": "Cyber Detective L solves Paradoxes\u2014bizarre incidents by supernatural Demons\u2014via the social media giant Parrotter. The Cyber Detective Squad, L and his Demon partner Nyasuteria, wield elite hacking and psychic powers to take on the final Paradox investigation.",
 "descriptors": [],
@@ -11288,6 +11359,22 @@
 "ts": "2026-09-28T17:15:38.299815+00:00",
 "verdict": "Very Positive"
 },
+"4437140": {
+"desc": "Winter 1999. Kicked out of your house after being outed by your closest friend, you plan to leave your hometown. Your girlfriend, Mika, wants to see you one more time. Decide whether or not you'll stay together.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "if you stay",
+"price": "Free",
+"release": "Oct 21, 2026",
+"ts": "2026-10-23T14:01:15.871314+00:00"
+},
 "4437370": {
 "desc": "Pop! Pachinko is a pachinko roguelite with city pop vibes. Build up your collection of enchanted balls to fire into the machine. Collect charms to build up powerful synergies between your balls. Listen to some pop music as you expand your Chibi Pop collection!",
 "descriptors": [],
@@ -11943,6 +12030,19 @@
 "ts": "2026-10-03T14:08:10.820084+00:00",
 "verdict": "Very Positive"
 },
+"4554330": {
+"desc": "You broke into the house of a popular blogger to uncover all his secrets, but it\u2019s not that simple! He locks you inside, and now you must do everything you can to escape. Hide, solve puzzle quests, and make your way out in this horror escape adventure!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Escape from Vlogger: Runaway",
+"price": "$4.49",
+"release": "Oct 20, 2026",
+"ts": "2026-10-23T14:01:23.096615+00:00"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -12342,6 +12442,17 @@
 "total": 63,
 "ts": "2026-07-19T04:20:55.159593+00:00",
 "verdict": "Very Positive"
+},
+"4607340": {
+"desc": "After the Demon King is defeated, hero Edmond rescues Princess Ilyana. With his fall, the balance of power unravels and darkness returns. As hidden schemes arise, you become her guardian. Will you guide her through the shadows to a brighter future?",
+"descriptors": [],
+"genres": [
+"RPG"
+],
+"name": "Princess Ilyana: Night of Falling Grace",
+"price": "$3.99",
+"release": "Oct 22, 2026",
+"ts": "2026-10-23T14:01:11.994510+00:00"
 },
 "4607690": {
 "desc": "Solve fast. Think faster. Math-Havoc is a rapid-fire logic game where every second counts. Chain correct answers, push your limits, and survive as long as you can.",
@@ -13202,6 +13313,19 @@
 "ts": "2026-07-24T04:12:02.432708+00:00",
 "verdict": "Very Positive"
 },
+"4771880": {
+"desc": "Solo-developed in 2 months. Three Kingdoms: Yi is a 2D turn-based roguelite deckbuilder. Command a sovereign across 8 provinces and 49 cities \u2014 form your battle line, sway enemy generals, raise banners, awaken your avatar. Every choice reshapes your deck and destiny. No two runs are alike.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Three Kingdoms:Yi",
+"price": "$8.37",
+"release": "Oct 22, 2026",
+"ts": "2026-10-23T14:01:08.423821+00:00"
+},
 "4773180": {
 "desc": "They killed your cat. Fatal mistake. In this magic-infused bullet-heaven roguelike, develop your wizard, upgrade and evolve spells, collect items, and create unstoppable builds while battling hordes of enemies.",
 "descriptors": [],
@@ -13370,6 +13494,20 @@
 "total": 152,
 "ts": "2026-10-21T14:22:44.832992+00:00",
 "verdict": "Very Positive"
+},
+"4817620": {
+"desc": "\u201cOne Way Tickets\u201d is a roguelite incremental adventure game where you embark on a exciting journey in a fantasy world. Choose your vehicle, equip your device and face challenges from all kinds of enemies. Ram! Unload bullets! Swing with all your might! Keep growing and push forward!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Racing"
+],
+"name": "One Way Tickets",
+"price": "$14.39",
+"release": "Oct 22, 2026",
+"ts": "2026-10-23T14:01:30.258849+00:00"
 },
 "4821420": {
 "desc": "King of Jade: Stone Tycoon is a casual management simulation game. Inspect raw stones, polish the surface to reveal unique hidden jadeite, craft products of all sizes, and sell them to build your ultimate business empire!",
