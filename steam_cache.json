@@ -7094,6 +7094,23 @@
 "ts": "2026-08-02T04:20:33.478429+00:00",
 "verdict": "Very Positive"
 },
+"3740090": {
+"desc": "Bruisers is unlike any boxing game before it. Climb from amateur bouts to the top of the pros. Train, eat, fight, dope, and deal with anyone who wants a piece of you on the way up \u2014 but tread lightly. Some consequences here are fatal.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"RPG",
+"Sports"
+],
+"name": "Bruisers 2D Boxing",
+"price": "$19.99",
+"release": "Oct 21, 2026",
+"ts": "2026-10-24T13:03:41.576612+00:00"
+},
 "3744190": {
 "desc": "A psychological horror adventure experienced through a &quot;selfie-cam&quot; perspective. Contradictions in the timeline, subtle anomalies in the footage\u2014every detail holds the key to the truth. Reconstruct her fragmented records, and uncover what was truly left behind.",
 "descriptors": [],
@@ -7480,6 +7497,18 @@
 "total": 952,
 "ts": "2026-10-02T15:16:29.061179+00:00",
 "verdict": "Very Positive"
+},
+"3844750": {
+"desc": "FlatOut 4: Total Insanity VR is destructive arcade racing at windshield distance. Trade paint, survive pileups, and fly through the windshield when the impact hits. Race across remastered FlatOut 2 tracks, wreck rivals online, and fight to finish with your car still moving.",
+"descriptors": [],
+"genres": [
+"Racing",
+"Simulation"
+],
+"name": "FlatOut 4: Total Insanity VR",
+"price": "$29.99",
+"release": "Oct 23, 2026",
+"ts": "2026-10-24T13:03:45.033691+00:00"
 },
 "3845070": {
 "desc": "A solo deduction roguelite with over 175 roles, set in a noir city run by a criminal syndicate. Investigate everyone, make arrests and protect your reputation. Take down the syndicate and don\u2019t get duped like the rest. Everyone is a suspect, trust no one. No friends required.",
@@ -9787,6 +9816,20 @@
 "total": 67,
 "ts": "2026-10-11T15:15:35.944334+00:00",
 "verdict": "Very Positive"
+},
+"4190960": {
+"desc": "LOST &amp; FOUND is a free to play dynamic sorting game. Match forms to the right items and build your own warehouse, or compete with your friends in multiplayer mode after your shift is over.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "LOST & FOUND",
+"price": "Free",
+"release": "Oct 9, 2026",
+"ts": "2026-10-24T13:03:48.615102+00:00"
 },
 "4191350": {
 "desc": "Can you tell the difference between truth and tale? Experience three short horror stories and gather clues as to which are true and which are just part of our imagination. Immerse yourself in the protagonist's perspective and discover eerie tales from around the world.",
