@@ -14741,6 +14741,23 @@
 "ts": "2026-10-06T18:46:21.661265+00:00",
 "verdict": "Very Positive"
 },
+"5090990": {
+"desc": "MAFIA HOTEL is a multiplayer social deduction game for up to 16 players. Talk, lie, accuse, and vote by day, then return to your hotel room at night\u2014where the Mafia may come knocking. Survive the night and uncover who you can trust.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "MAFIA HOTEL",
+"price": "",
+"release": "Nov 27, 2026",
+"ts": "2026-10-25T05:32:45.988619+00:00"
+},
 "5095310": {
 "desc": "Where will the trail lead you? Join your new friend Tendou on a hiking date and find out in this short and sweet fully voice-acted Visual Novel!",
 "descriptors": [],
