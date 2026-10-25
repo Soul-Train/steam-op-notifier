@@ -9086,6 +9086,18 @@
 "ts": "2026-10-08T21:40:51.134667+00:00",
 "verdict": "Very Positive"
 },
+"4059000": {
+"desc": "Build, design, and decorate your dream ch\u00e2teau in a cozy vineyard valley. Live among your creations, harvest grapes from sunlit vineyards, and craft artisanal wine blends in a relaxing sandbox builder where every home helps restore beauty and balance to the countryside.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Cozy Builder",
+"price": "$11.99",
+"release": "Oct 14, 2026",
+"ts": "2026-10-25T13:30:52.822408+00:00"
+},
 "4073860": {
 "desc": "Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, unlock new areas and complete quests.",
 "descriptors": [],
@@ -12772,6 +12784,18 @@
 "ts": "2026-09-09T13:19:55.918807+00:00",
 "verdict": "Very Positive"
 },
+"4644170": {
+"desc": "A hyper-fast shopkeeping game where every task is performed with your aim! Keep performing at your best by thinking carefully about efficiency and task order. Three difficulty levels, from mouse beginners to seasoned experts! Online co-op and versus multiplayer supported.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "AMPANIC",
+"price": "$3.19",
+"release": "Oct 15, 2026",
+"ts": "2026-10-25T13:30:42.844159+00:00"
+},
 "4646020": {
 "desc": "Crystal Breaker is a short incremental space game about flying, mining, and upgrading. Destroy crystal formations with your ship, unlock rare new upgrades, mine crystals and credits, and grow stronger through a skill tree.",
 "descriptors": [],
@@ -14540,6 +14564,21 @@
 "ts": "2026-10-13T19:44:03.970623+00:00",
 "verdict": "Very Positive"
 },
+"5013160": {
+"desc": "Co-op hookah shop sim for 1 to 4 friends. Run Ghalyan's Hookah Lounge on a space station: pack the bowl, light the coals, serve the aliens and act normal. Nothing on this station is normal.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Hubble Bubble",
+"price": "$6.39",
+"release": "Oct 23, 2026",
+"ts": "2026-10-25T13:30:49.504487+00:00"
+},
 "5018390": {
 "desc": "In this free prologue, step into a world full of relaxing yard work. Complete the first three jobs where you'll use a variety of tools, such as a lawnmower, pressure washer, or leaf blower. But that's not all - there's so much more to do!",
 "descriptors": [],
@@ -15184,6 +15223,18 @@
 "total": 80,
 "ts": "2026-10-17T16:05:52.635854+00:00",
 "verdict": "Very Positive"
+},
+"5316540": {
+"desc": "Something has made a spectacular mess of this cozy Halloween shop. Put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. A relaxing first-person tidy-up, with a little mischief.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Tidy Up the Halloween Shop",
+"price": "$5.39",
+"release": "Oct 23, 2026",
+"ts": "2026-10-25T13:30:46.227136+00:00"
 },
 "5342930": {
 "desc": "The original Dementium II, restored by the team who made it. William Redmoor wakes with fresh staples in his skull inside an asylum for the criminally insane, where the walls peel back to reveal something worse. Fight, solve and survive the cult DS horror classic, now on PC.",
