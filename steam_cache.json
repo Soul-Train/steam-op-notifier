@@ -3815,6 +3815,18 @@
 "ts": "2026-09-26T13:33:51.098562+00:00",
 "verdict": "Very Positive"
 },
+"3010610": {
+"desc": "Wander a castle built of bitter memories in LOVE ETERNAL, a psychological horror platformer with devious trials and an unsettling, experimental narrative. Find a way out - or live in Shelter forever more.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "LOVE ETERNAL",
+"price": "$9.99",
+"release": "Feb 19, 2026",
+"ts": "2026-10-26T15:40:44.693606+00:00"
+},
 "3020510": {
 "desc": "This Three Kingdoms sandbox RPG lets you do whatever you wish in the late Han Dynasty. Be a ruler, courtier, or hermit. Make friends, marry, raise children, manage estates, train yourself &amp; allies, govern, drill troops, experience &amp; alter history, and conquer all to win the hearts of the people.",
 "descriptors": [],
@@ -6861,6 +6873,22 @@
 "total": 56,
 "ts": "2026-09-04T13:05:20.964749+00:00",
 "verdict": "Very Positive"
+},
+"3695930": {
+"desc": "Cosmic horror, through the eyes of a penguin. Rival human factions have come to your home in the Antarctic, seeking an ancient and inconceivable being. Observe their descent into insanity in this faithful re-imagining of H.P. Lovecraft\u2019s At the Mountains of Madness, and other stories.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Penguin Colony",
+"price": "$13.49",
+"release": "Oct 16, 2026",
+"ts": "2026-10-26T15:42:55.176823+00:00"
 },
 "3699590": {
 "desc": "Well Dweller is a dark fairy-tale metroidvania, full of charming characters living in a wretched kingdom. Play as Glimmer - a tiny bird armed with a matchstick - who must burn the wicked queen to save his family.",
@@ -11526,6 +11554,17 @@
 "ts": "2026-09-28T17:15:21.574516+00:00",
 "verdict": "Very Positive"
 },
+"4461870": {
+"desc": "Birds of a feather solve puzzles together! An online co-op puzzle adventure for 2 friends (or soon-to-be-friends)",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Reason and Rhyme",
+"price": "$7.99",
+"release": "Oct 15, 2026",
+"ts": "2026-10-26T15:42:44.486531+00:00"
+},
 "4464990": {
 "desc": "Rollout Inline is a brand new Aggressive Inline game created by a solo dev who is passionate about the sport. This game aims to scratch the itch for those who have been craving a new, modern, and intuitive inline skating game!",
 "descriptors": [],
@@ -12316,6 +12355,18 @@
 "total": 64,
 "ts": "2026-09-15T14:05:08.668598+00:00",
 "verdict": "Very Positive"
+},
+"4581880": {
+"desc": "\ud83c\udf10 Language Independent \u201cRules are absolute. Break them, and you die. No Exceptions.\u201d Escape a building from the 10th floor in this death game. Each floor has prohibited actions. Break a rule and it\u2019s game over. Don\u2019t run. Don\u2019t stop. Don\u2019t look. Learn the rules. Obey them. Escape alive.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "No exceptions",
+"price": "$2.93",
+"release": "Oct 16, 2026",
+"ts": "2026-10-26T15:42:51.656833+00:00"
 },
 "4583230": {
 "desc": "Harvest Dice Profit is an Incremental Idle Farming &amp; Dice Game where you grow diceshrooms into dice, roll for profit, and automate your economy. Stay ahead of debt... or face the consequences.",
@@ -14332,6 +14383,20 @@
 "ts": "2026-08-24T02:21:37.141673+00:00",
 "verdict": "Very Positive"
 },
+"4957110": {
+"desc": "Survive 20 waves in this wuxia action roguelite. Master 153 martial arts, collect 247 items, and face 55 enemy types from 8 factions. Combine Outer, Inner, and Movement Arts, then snowball your build with Resonance, Stored Power, Combos, and training bonuses to become a martial arts master.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Free To Play",
+"Early Access"
+],
+"name": "\u7fa4\u4fa0\u4f20\uff1a\u5e78\u5b58\u8005",
+"price": "Free",
+"release": "Aug 11, 2026",
+"ts": "2026-10-26T15:40:48.675290+00:00"
+},
 "4964580": {
 "desc": "Museologist: Tidy Up the Museum! A single-player simulation. The whole collection has fallen apart. Find where each fragment belongs, piece it back together like a puzzle, and restore 543 objects from 3,513 scattered pieces.",
 "descriptors": [],
@@ -14411,6 +14476,21 @@
 "total": 51,
 "ts": "2026-08-19T09:27:47.666824+00:00",
 "verdict": "Very Positive"
+},
+"4977840": {
+"desc": "A first-person psychological horror game with a found-footage aesthetic. In search of the mysterious Street 7, an urban explorer finds himself trapped in a loop of distorted realities, rituals, and a supernatural presence that controls the Favela das Almas.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Otherside Tapes: Favela",
+"price": "$8.09",
+"release": "Oct 22, 2026",
+"ts": "2026-10-26T15:42:48.120891+00:00"
 },
 "4981570": {
 "desc": "Cozy first person co-op organizing and cleaning simulator! Sort wands, tarot decks and potions. Tidy up the shop to earn points and unlock powerful spells that help you restore order before the Alchemist returns!",
