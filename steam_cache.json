@@ -513,6 +513,19 @@
 "ts": "2026-09-17T19:57:36.463500+00:00",
 "verdict": "Very Positive"
 },
+"1549030": {
+"desc": "Hidden object game in a surreal style. Extremely hard!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "100 hidden snails 2",
+"price": "$0.59",
+"release": "Feb 26, 2021",
+"ts": "2026-10-27T15:07:15.539741+00:00"
+},
 "1551980": {
 "desc": "Experience a new chapter in the legendary horror series like never before. Clive Barker's Hellraiser: Revival takes first-person action horror survival to the next level. Wield the powers of the Genesis Configuration puzzle box to survive your bargain with the infamous Pinhead.",
 "descriptors": [
@@ -2352,6 +2365,19 @@
 "ts": "2026-07-19T04:20:51.846924+00:00",
 "verdict": "Very Positive"
 },
+"2529960": {
+"desc": "It's time to wield the beat! Play as Cello and slice through an army of rogue puppets in a vibrant, melody-twisted world. Combat pulses to the soundtrack - time your moves to the beat to unleash show-stopping combos and perfectly choreographed chaos!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Alpha Nomos",
+"price": "$17.99",
+"release": "Oct 12, 2026",
+"ts": "2026-10-27T15:09:24.013739+00:00"
+},
 "2530250": {
 "desc": "PARKSIDE is an FPS-Immersive Sim that chronicles the future of biomechanical subterfuge and suffering. Shoot, hack, and either save or sour the future of humanity in the dystopian city of Abbotsford, California in the awful year of 2038. Will you serve the Divine Rod?",
 "descriptors": [
@@ -2433,6 +2459,23 @@
 "total": 142,
 "ts": "2026-08-14T14:13:23.623668+00:00",
 "verdict": "Very Positive"
+},
+"2548880": {
+"desc": "A fever dream experience about the total collapse of reality as it lingers between states of erasure and transcendence.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Early Access"
+],
+"name": "Divine Frequency",
+"price": "$17.99",
+"release": "Oct 26, 2026",
+"ts": "2026-10-27T15:09:13.104336+00:00"
 },
 "2552310": {
 "desc": "This is a cozy strategy management game where you manage an inn placed cleverly at the mouth of a dungeon. Juggle visits and business from 2 rivaling guilds, maximize profits, but keep your double-dealing a secret! Keep everyone happy and watch your inn thrive!",
@@ -4475,6 +4518,17 @@
 "total": 50,
 "ts": "2026-08-18T09:26:45.313155+00:00",
 "verdict": "Very Positive"
+},
+"3168520": {
+"desc": "BloomTale is a cozy flower shop simulation game where creativity meets management. Arrange beautiful flower compositions, manage your shop, and satisfy your customers in a magical world of blooming potential.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "BloomTale",
+"price": "$9.89",
+"release": "Oct 23, 2026",
+"ts": "2026-10-27T15:09:09.520040+00:00"
 },
 "3170490": {
 "desc": "Cat Me If You Can is a charming and cozy game where you explore beautifully handcrafted black-and-white worlds, searching for hidden cats to photograph and bring their colours back into the world.",
@@ -6907,6 +6961,20 @@
 "ts": "2026-09-23T14:01:53.716562+00:00",
 "verdict": "Very Positive"
 },
+"3702120": {
+"desc": "You are trapped in the observatory of a star-obsessed professor atop Mount Clearveil. Plan your survival during the day, confront the darkness of the basement at night. Can you break the ritual and uncover the mystery?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Life & Shadow: Celestial Call",
+"price": "$6.39",
+"release": "Oct 26, 2026",
+"ts": "2026-10-27T15:09:20.408832+00:00"
+},
 "3702140": {
 "desc": "A fast-paced action roguelite where you shoot, weaken, and execute enemies to refill your ammo. Keep attacking to survive.Fight across a continuous wasteland battlefield, collect weapons and mutations, and build your own killing machine. Local 2-player co-op supported.",
 "descriptors": [
@@ -8377,6 +8445,18 @@
 "total": 68,
 "ts": "2026-08-27T22:45:33.802503+00:00",
 "verdict": "Very Positive"
+},
+"3965430": {
+"desc": "Survive the horrors of hell\u2019s deadest-end job: a human mail clerk. Process occult specimens, sort infernal mail, repair cursed machinery, and survive your shift in a cozy horror workplace simulator.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "The Mailroom",
+"price": "$6.79",
+"release": "Oct 26, 2026",
+"ts": "2026-10-27T15:09:05.979327+00:00"
 },
 "3966510": {
 "desc": "A dice roguelike about feeding a dragon for twenty years. Roll ingredients, build your island, and fuse absurd recipes into combos that break the score wide open. Miss a meal and you're next on the menu.",
@@ -10172,6 +10252,22 @@
 "ts": "2026-08-19T09:27:41.039221+00:00",
 "verdict": "Very Positive"
 },
+"4236650": {
+"desc": "&quot;Adultery Marriage Punisher&quot; Curing marriage pests! Investigate. Infiltrate. Snap. Spy. Steal. Outwit. What is your spouse doing behind your back? Your evidence, the deadliest sanction. Now, become the shadow of justice, and unveil every betrayal and infidelity!",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Adultery Marriage Punisher",
+"price": "$10.79",
+"release": "Oct 26, 2026",
+"ts": "2026-10-27T15:09:31.293817+00:00"
+},
 "4240150": {
 "desc": "A dark visual novel by acclaimed creator nyalra. Overly sensitive to other people's emotions, the protagonist\u2014a light novel writer\u2014develops the ability to read minds, only to be driven even deeper into isolation. His sole remaining comfort is his younger sister, gifted yet lonely.",
 "descriptors": [
@@ -10721,6 +10817,18 @@
 "total": 84,
 "ts": "2026-08-07T21:33:46.546523+00:00",
 "verdict": "Very Positive"
+},
+"4312190": {
+"desc": "Why is there a giant egg in this lab? Your job is simple: crack it open. Don't ask questions. CRACK is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Simulation"
+],
+"name": "CRACK",
+"price": "$6.79",
+"release": "Oct 26, 2026",
+"ts": "2026-10-27T15:09:27.735104+00:00"
 },
 "4315040": {
 "desc": "Start with a campfire. Build a kingdom. Hearth and Hamlet is a medieval citybuilder clicker that blends resource management, in-depth upgrade trees and relaxing idle gameplay. Build your empire by researching new technologies, passing new laws, trading with far-off lands, and more.",
@@ -15334,6 +15442,22 @@
 "total": 97,
 "ts": "2026-10-22T14:17:58.232833+00:00",
 "verdict": "Very Positive"
+},
+"5372440": {
+"desc": "Onion Voting Simulator 3D is an action-packed walking sim where you perform America's most taboo act: Voting. It\u2019s Election Day and your choice could change the country's fate! But it won\u2019t be easy: Resist the allure of staying home! Explore a school gym! And don\u2019t get lost, because Hell is real!",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation",
+"Free To Play"
+],
+"name": "The Onion Voting Simulator 3D",
+"price": "Free",
+"release": "Oct 26, 2026",
+"ts": "2026-10-27T15:09:16.784994+00:00"
 },
 "564940": {
 "desc": "Alone With You is a bittersweet sci-fi adventure game that goes right for the heart. Escape a doomed space colony with the help of your troubled AI companion and four chatty holograms in this unique blend of adventure &amp; visual novel storytelling.",
