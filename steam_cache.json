@@ -1608,6 +1608,20 @@
 "ts": "2026-07-18T03:52:24.375091+00:00",
 "verdict": "Very Positive"
 },
+"2223980": {
+"desc": "Repair your rundown RV and hit the road solo or in 1\u20134 player co-op through a procedurally generated post-apocalyptic world. Gather resources, customize your RV, and survive as long as you can.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Nomad Drive",
+"price": "$13.49",
+"release": "Oct 27, 2026",
+"ts": "2026-10-28T15:41:58.142654+00:00"
+},
 "222440": {
 "desc": "KOF 2002 UM is the 2nd title in the UM Series and a fully upgraded ver. of KOF 2002, a masterpiece of the KOF Series deserving its place of honor alongside KOF \u201998. Based on THE NESTS CHRONICLES, 2002 UM includes the most characters of any title in the KOF Series, and fighting game history!",
 "descriptors": [],
@@ -2476,6 +2490,20 @@
 "price": "$17.99",
 "release": "Oct 26, 2026",
 "ts": "2026-10-27T15:09:13.104336+00:00"
+},
+"2551970": {
+"desc": "A challenging post-apocalyptic roguelite turn-based RPG about the psychological stresses of adventuring with complete idiots. Lead a crew of flawed heroes against the consequences of their own terrible decisions. Can you keep your heroes together when everyone thinks they're in charge?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Outcast Tales",
+"price": "Free",
+"release": "Oct 26, 2026",
+"ts": "2026-10-28T15:41:29.880464+00:00"
 },
 "2552310": {
 "desc": "This is a cozy strategy management game where you manage an inn placed cleverly at the mouth of a dungeon. Juggle visits and business from 2 rivaling guilds, maximize profits, but keep your double-dealing a secret! Keep everyone happy and watch your inn thrive!",
@@ -3886,6 +3914,20 @@
 "total": 8739,
 "ts": "2026-10-06T18:46:11.142357+00:00",
 "verdict": "Very Positive"
+},
+"3024130": {
+"desc": "Welcome to PAO PAO! Discover a cozy seaside town full of little joys! Play solo or in co-op with up to three friends. Cook delicious meals, go fishing, grow crops, and create a home of your own by the sea.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "PAO PAO",
+"price": "$8.99",
+"release": "Oct 26, 2026",
+"ts": "2026-10-28T15:41:47.537790+00:00"
 },
 "3031880": {
 "desc": "The car industry needs you to design and build the greatest car parks that simple town life hasn't seen before. Introduce the need for car commuting and turn neighborhoods into car parks! Use propaganda to convince people to pay you for it. Fight people that see through your oily business.",
@@ -7206,6 +7248,21 @@
 "price": "$19.99",
 "release": "Oct 21, 2026",
 "ts": "2026-10-24T13:03:41.576612+00:00"
+},
+"3743260": {
+"desc": "Go back to your hometown and tear it down with a sledgehammer in this narrative exploration game. Confront your past in a devastating story about feeling like you no longer belong in the place you grew up.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Virtue and a Sledgehammer",
+"price": "$14.99",
+"release": "Oct 27, 2026",
+"ts": "2026-10-28T15:41:19.389493+00:00"
 },
 "3744190": {
 "desc": "A psychological horror adventure experienced through a &quot;selfie-cam&quot; perspective. Contradictions in the timeline, subtle anomalies in the footage\u2014every detail holds the key to the truth. Reconstruct her fragmented records, and uncover what was truly left behind.",
@@ -10616,6 +10673,20 @@
 "ts": "2026-07-22T04:15:21.868522+00:00",
 "verdict": "Very Positive"
 },
+"4287040": {
+"desc": "Sneak through sunlit villages as a clumsy vampire. Move the sun with a fairy's help to cast shadows, then spare or devour the villagers.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Vampy's Big Day",
+"price": "$8.99",
+"release": "Oct 27, 2026",
+"ts": "2026-10-28T15:41:26.279383+00:00"
+},
 "4289150": {
 "desc": "Players will take on the role of a savior transported to a miniature world, rescuing flowers through battles and trials, protecting and caring for them, and embarking on a new harem life in a perilous fantasy world.",
 "descriptors": [
@@ -10702,6 +10773,18 @@
 "total": 80,
 "ts": "2026-08-03T04:27:30.721788+00:00",
 "verdict": "Very Positive"
+},
+"4297360": {
+"desc": "A fast-paced online multiplayer game of tag built around ridiculously satisfying movement. Wall kick, swing, slide and roll through colourful maps, and do whatever it takes to escape your friends... or tag them. No friends? Run a time trial!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Burg Tag",
+"price": "$4.24",
+"release": "Oct 22, 2026",
+"ts": "2026-10-28T15:42:01.718913+00:00"
 },
 "4297840": {
 "desc": "Mine. Smelt. Upgrade. Repeat. Rock Bottom is an incremental mining game where every swing makes you stronger. Descend through 8 unique layers, unlock devastating abilities, and discover what lies at Rock Bottom",
@@ -11061,6 +11144,22 @@
 "ts": "2026-08-06T04:02:09.412572+00:00",
 "verdict": "Very Positive"
 },
+"4348910": {
+"desc": "Probably Stolen is a cyberpunk shopkeeping simulator set in a dystopian space station. Craft, trade, and smuggle goods of questionable origin, navigate faction loyalties, and decide how far you\u2019re willing to go to stay afloat. Earn enough to buy out your shop before rising rent forces your hand.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+"price": "$17.99",
+"release": "Oct 28, 2026",
+"ts": "2026-10-28T15:41:36.892485+00:00"
+},
 "4353350": {
 "desc": "Roll dice to move Meeples around the board and collect money, skill points, and capsule tickets. Unlock unique skills and minigames, powerful collectibles, and automate dice rolls to increase your income.",
 "descriptors": [],
@@ -11111,6 +11210,18 @@
 "total": 197,
 "ts": "2026-09-12T12:34:44.223579+00:00",
 "verdict": "Very Positive"
+},
+"4356780": {
+"desc": "Screen Stocks is an online multiplayer trading game featuring a real-time simulated market. Buy, short, and sell stocks to gain unprecedented levels of wealth. Team up with other traders or outsmart them all. It's time to make some money!",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "Screen Stocks",
+"price": "$2.99",
+"release": "Oct 27, 2026",
+"ts": "2026-10-28T15:41:40.362655+00:00"
 },
 "4358310": {
 "desc": "Coin Tavern is not your average tavern! In this roguelike game, you\u2019ll wield a wild array of quirky coins to build your one-of-a-kind coin deck. Hoard coins, refine strategies, streamline your deck, unlock hidden treasures, and land outrageous combos in randomized runs!",
@@ -11532,6 +11643,20 @@
 "total": 598,
 "ts": "2026-09-18T13:17:55.947832+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4429430": {
+"desc": "Outplay rivals in a fast PvP card game where both players move at once. Adapt your strategy and battle for three of 100+ rotating locations. Build decks with reimagined legends like Robin Hood and Mulan. Every competitive card is free. Rip packs for rare, limited-edition variants to trade on Steam.",
+"descriptors": [],
+"genres": [
+"Action",
+"Strategy",
+"Free To Play",
+"Early Access"
+],
+"name": "Origins Trading Card Game",
+"price": "Free",
+"release": "Oct 27, 2026",
+"ts": "2026-10-28T15:41:54.544401+00:00"
 },
 "4436200": {
 "desc": "Every block of this planet is real, including fluids! Dig it, flood it, process it. FluxWerks is a factory automation game on a fully destructible voxel world with physical fluid and heat simulation. Dig anywhere, automate everything, and survey a world that was supposed to be empty.",
@@ -13522,6 +13647,20 @@
 "ts": "2026-09-24T13:58:50.309336+00:00",
 "verdict": "Very Positive"
 },
+"4760480": {
+"desc": "A forgotten cult classic shooter set in an alternate history 1950s Soviet Kyiv, most of the city's population has mysteriously vanished, and horrific monsters roam its abandoned streets. Can you uncover the cause of the catastrophe and set things right?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action"
+],
+"name": "You Are Empty: Absolute Edition",
+"price": "$7.99",
+"release": "Oct 27, 2026",
+"ts": "2026-10-28T15:41:43.965923+00:00"
+},
 "4764810": {
 "desc": "There\u2019s no place like home - and yours is no home at all. Play as Rosa, a neglected child trying to escape her abusive family. Sneak out, but be ever so quiet. Mom is listening, dad is angry, and your big sister is always watching\u2026",
 "descriptors": [
@@ -14628,6 +14767,18 @@
 "release": "Aug 5, 2026",
 "ts": "2026-08-20T17:21:11.118467+00:00"
 },
+"4984870": {
+"desc": "Selkie\u2019s Salvage&amp;Co. is a first-person physics based incremental fishing game. Your task is to clean up the flooded planet! Fish up scrap, grind all of it down and collect trinkets of the past. Expand your salvaging operation and go beyond!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Selkie's Salvage&Co.",
+"price": "$6.79",
+"release": "Oct 27, 2026",
+"ts": "2026-10-28T15:41:22.801814+00:00"
+},
 "4991240": {
 "desc": "Witch's Cabin Cleanup is a cozy organizing simulator where you sort 5,313 curios in a cluttered witch's cabin. Clean, learn spells, and restore order in a calm and atmospheric environment.",
 "descriptors": [],
@@ -15442,6 +15593,39 @@
 "total": 97,
 "ts": "2026-10-22T14:17:58.232833+00:00",
 "verdict": "Very Positive"
+},
+"5352720": {
+"desc": "A brutal voxel gore sandbox. Every body is built from blocks you can shoot, slice, burn and blow apart. Play God: hurl people, strike them with lightning, hang them or impale them on spikes. Or grab a gun for Police raids, zombie waves and fully destructible cities.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "MemeticBox",
+"price": "$5.22",
+"release": "Oct 26, 2026",
+"ts": "2026-10-28T15:41:51.044331+00:00"
+},
+"5356470": {
+"desc": "Review with caution.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "Playable Archive",
+"price": "Free",
+"release": "Oct 26, 2026",
+"ts": "2026-10-28T15:41:33.331620+00:00"
 },
 "5372440": {
 "desc": "Onion Voting Simulator 3D is an action-packed walking sim where you perform America's most taboo act: Voting. It\u2019s Election Day and your choice could change the country's fate! But it won\u2019t be easy: Resist the allure of staying home! Explore a school gym! And don\u2019t get lost, because Hell is real!",
