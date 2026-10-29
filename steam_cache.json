@@ -959,6 +959,38 @@
 "ts": "2026-09-24T20:13:51.532009+00:00",
 "verdict": "Very Positive"
 },
+"1761910": {
+"desc": "Fight the past in Athanasia, an immersive horror FPS set in an abandoned research facility overrun with prehistoric predators. Outwit nature, delve deep and uncover the facility's mysteries.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Early Access"
+],
+"name": "Athanasia",
+"price": "$14.39",
+"release": "Oct 19, 2026",
+"ts": "2026-10-29T15:47:57.934315+00:00"
+},
+"1796580": {
+"desc": "Sorry We're Closed is an eccentric story-driven survival horror game about demons, angels and what happens when both sides collide. A mix of classic fixed-camera exploration and arcade-style shooting where Michelle must use her Third Eye to see between worlds, uncover secrets and solve puzzles.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Sorry We're Closed",
+"price": "$17.49",
+"release": "Nov 14, 2024",
+"ts": "2026-10-29T15:46:18.375341+00:00"
+},
 "1812370": {
 "desc": "Venture into the woods as you play Little Goody Two Shoes, a phantasmagorical horror narrative adventure where all your decisions matter!",
 "descriptors": [],
@@ -3869,6 +3901,20 @@
 "ts": "2026-09-23T14:01:40.092484+00:00",
 "verdict": "Very Positive"
 },
+"3010170": {
+"desc": "Sink your teeth into Fangtopia, a cozy and relaxing tile puzzle game where you assemble landscapes to craft a monsterrific paradise for friendly ghouls and ghosts. Design a carefree, scare-free world of gentle chills.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Fangtopia",
+"price": "$11.69",
+"release": "Oct 26, 2026",
+"ts": "2026-10-29T15:47:46.986678+00:00"
+},
 "3010380": {
 "desc": "A psychological horror descending through liminal spaces shaped by the K\u00fcbler Ross model - the five stages of grief, where your perception and an RC car are the only tools to grasp what\u2019s real.",
 "descriptors": [],
@@ -3928,6 +3974,18 @@
 "price": "$8.99",
 "release": "Oct 26, 2026",
 "ts": "2026-10-28T15:41:47.537790+00:00"
+},
+"3026450": {
+"desc": "Loot, shoot, and mow down zombie hordes in this bullet heaven fever dream. Hit the road, decide when to extract, organize your backpack into game-breaking builds \u2013 and get that sweet inventory management kick when new loot fits just right.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Deadly Days: Roadtrip",
+"price": "$9.74",
+"release": "Oct 29, 2026",
+"ts": "2026-10-29T15:48:05.478376+00:00"
 },
 "3031880": {
 "desc": "The car industry needs you to design and build the greatest car parks that simple town life hasn't seen before. Introduce the need for car commuting and turn neighborhoods into car parks! Use propaganda to convince people to pay you for it. Fight people that see through your oily business.",
@@ -5321,6 +5379,19 @@
 "total": 74,
 "ts": "2026-10-19T16:05:52.720426+00:00",
 "verdict": "Very Positive"
+},
+"3322630": {
+"desc": "A hidden classic that fuses board and card games, Culdcept features a unique, innovative system that has captivated fans since its debut. Players become Cepters, wielding cards in intense battles where luck and strategy collide. After ten years, a brand-new story begins once again.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Strategy"
+],
+"name": "Culdcept BEGINS",
+"price": "$40.49",
+"release": "Oct 27, 2026",
+"ts": "2026-10-29T15:48:16.598360+00:00"
 },
 "3323490": {
 "desc": "Take down hordes of alien invaders with your Power Shot, Truxton Beam, Thunder Laser, Homing Shot, Star\u2011mine Shot, and more! Don't forget to breathe as you face off against gigantic bosses in the ultimate battle for humanity\u2019s survival!",
@@ -9524,6 +9595,18 @@
 "ts": "2026-08-07T01:03:05.214126+00:00",
 "verdict": "Very Positive"
 },
+"4115450": {
+"desc": "S-GAME presents Phantom Blade Zero, a fusion of classic Wuxia storytelling and exhilarating action powered by Unreal Engine 5. You play as Soul, a warrior with only sixty-six days left to live. Fend off assassins, unravel world-ending conspiracies, and defend your values with your life.",
+"descriptors": [],
+"genres": [
+"Action",
+"RPG"
+],
+"name": "Phantom Blade Zero",
+"price": "$59.99",
+"release": "Oct 28, 2026",
+"ts": "2026-10-29T15:48:20.201458+00:00"
+},
 "4120790": {
 "desc": "A cozy sorting game set in a quiet Tokyo workshop. Clients bring you boxes of clutter: buttons, coins, gears, stamps. Sort, match, and piece everything together with satisfying ASMR clicks. No timers. Mistakes cost nothing. Just the joy of tidying up.",
 "descriptors": [],
@@ -10544,6 +10627,19 @@
 "ts": "2026-09-24T13:58:26.955551+00:00",
 "verdict": "Very Positive"
 },
+"4272020": {
+"desc": "WOIM is a puzzle game where you play as a worm! Push blocks, flip switches, eat apples and... cut yourself in half! WOIM will push you to keep digging downwards, solving tricky puzzles, finding secrets, and making new friends (that were once part of you).",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Strategy"
+],
+"name": "WOIM",
+"price": "$8.49",
+"release": "Oct 21, 2026",
+"ts": "2026-10-29T15:47:50.608599+00:00"
+},
 "4272270": {
 "desc": "Summon the mighty power of gods in this fun incremental game about chopping down trees on a secluded island by using the forces of nature: earthquakes, sunbeams, tornadoes, hail, lightning strikes and tidal waves! It's Chopping Time!",
 "descriptors": [],
@@ -11008,6 +11104,20 @@
 "total": 64,
 "ts": "2026-07-16T10:53:27.441210+00:00",
 "verdict": "Very Positive"
+},
+"4326130": {
+"desc": "Spooky Market is a co-op shop simulator for 1\u20134 players set in a world of eternal Halloween. Open your own business, sell a variety of goods, serve vampires, skeletons, and other creatures, hire unusual employees, and gradually grow and expand your store.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Massively Multiplayer",
+"Simulation"
+],
+"name": "Spooky Market",
+"price": "$3.99",
+"release": "Oct 26, 2026",
+"ts": "2026-10-29T15:47:43.378830+00:00"
 },
 "4329100": {
 "desc": "A horror-fantasy visual novel following the trials of a dysfunctional friend group thrust back into the wish-granting wonderland of their youth. Either they face the issues plaguing them or risk dying in horrific ways again\u2026 and again\u2026 and again.",
@@ -11827,6 +11937,19 @@
 "total": 104,
 "ts": "2026-07-28T03:59:00.266551+00:00",
 "verdict": "Very Positive"
+},
+"4466850": {
+"desc": "Where is My Pet? is a hidden object, sorting, and animal game! Run your cozy shelter: place animals, sell them to loving homes, upgrade your shelter, build your dream house, and search the city for pets. Can you turn a shabby shelter into a profitable business?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Strategy"
+],
+"name": "Where is My Pet?",
+"price": "$4.89",
+"release": "Oct 26, 2026",
+"ts": "2026-10-29T15:47:54.227471+00:00"
 },
 "4468030": {
 "desc": "OFFBEAT is a music-tycoon game where you build the recording studio of your dreams. Collect and upgrade increasingly strange musical objects, complete jobs for cash, and record real, actual music.",
@@ -14584,6 +14707,17 @@
 "ts": "2026-10-05T17:40:25.773184+00:00",
 "verdict": "Very Positive"
 },
+"4950600": {
+"desc": "Approve or censor live chat in Happy Propaganda. Balance viewer anger and the host's well-being, choose broadcast topics, and talk off-air. Five days of choices lead to multiple endings.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "HAPPY PROPAGANDA",
+"price": "$4.39",
+"release": "Oct 27, 2026",
+"ts": "2026-10-29T15:47:36.286939+00:00"
+},
 "4951190": {
 "desc": "Konbini Cleanup is a cozy organizing simulator where you sort 2,928 products in a messy konbini. Clean, learn abilities, and restore order in a calm and atmospheric environment.",
 "descriptors": [],
@@ -15201,6 +15335,20 @@
 "ts": "2026-09-07T14:41:40.544794+00:00",
 "verdict": "Very Positive"
 },
+"5103870": {
+"desc": "An AI-directed RPG that unfolds in real time.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Anywhere RPG",
+"price": "$14.99",
+"release": "Oct 27, 2026",
+"ts": "2026-10-29T15:48:09.251322+00:00"
+},
 "5120650": {
 "desc": "Transform a chaotic area into a satisfying work of art. Follow the paver layout plan and place 4,064 pavers in their correct locations. Work alone or together with friends, develop useful skills, and restore the plaza piece by piece.",
 "descriptors": [],
@@ -15342,6 +15490,23 @@
 "ts": "2026-10-05T17:40:32.445214+00:00",
 "verdict": "Very Positive"
 },
+"5179280": {
+"desc": "Goddess Cultivation: Idle RPG is a fantasy idle JRPG. Summon goddesses, forge bonds, fight goblins &amp; minotaurs, and uncover a conspiracy. It blends turn-based combat, collection &amp; customization, balancing tactics with relaxed offline growth.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"RPG",
+"Strategy",
+"Free To Play"
+],
+"name": "Goddess Cultivation: Idle RPG",
+"price": "Free",
+"release": "Oct 22, 2026",
+"ts": "2026-10-29T15:48:23.926519+00:00"
+},
 "5182260": {
 "desc": "2,692 keycaps. 32 keyboards. One messy desk. Find the right keycaps, match them to their positions, and complete every keyboard, square or round. Search, organize, and enjoy the satisfying process of turning chaos into perfectly assembled keyboards.",
 "descriptors": [],
@@ -15387,6 +15552,20 @@
 "total": 62,
 "ts": "2026-10-20T14:02:37.318292+00:00",
 "verdict": "Very Positive"
+},
+"5198670": {
+"desc": "Investigate a murder at Grimwick\u2019s harvest festival in this hand-drawn point-and-click mystery. Question suspicious locals, collect clues, use items, and uncover the truth behind a town that insists there was no murder.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "No Murders in Grimwick",
+"price": "$6.99",
+"release": "Oct 21, 2026",
+"ts": "2026-10-29T15:48:01.712717+00:00"
 },
 "5204830": {
 "desc": "A cozy incremental sorting game. A vandal deleted all 10,324 items from a 2007 fan wiki, and you're the new Moderator. Drag each item into its category, sub-folder and row, earn userscripts that automate the work, and watch the broken pages come back.",
@@ -15464,6 +15643,19 @@
 "ts": "2026-10-04T14:34:12.379414+00:00",
 "verdict": "Very Positive"
 },
+"5226940": {
+"desc": "Tidy Farm is a cozy organizing simulator where you transform a chaotic farm into your dream homestead. Pick everything up, figure out where it belongs and sort 4,544 Items.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Tidy Farm",
+"price": "$5.09",
+"release": "Oct 26, 2026",
+"ts": "2026-10-29T15:47:39.808876+00:00"
+},
 "5228920": {
 "desc": "Brick By Brick is a relaxing tidy-up game you can play solo or co-op with up to 5 players. Collect, sort, and place 18,490 bricks to rebuild a charming town. Unlock helpful abilities and watch scattered piles become finished buildings. One brick at a time!",
 "descriptors": [],
@@ -15495,6 +15687,19 @@
 "total": 52,
 "ts": "2026-10-04T14:34:15.571076+00:00",
 "verdict": "Very Positive"
+},
+"5245310": {
+"desc": "Idle Demon Lord\u00a0II combines idle progression with dark fantasy loot hunting. Fight automatically and earn rewards offline. Choose from five classes, each with unique skills and mechanics. Hunt six tiers of gear, customize affixes, gems, runes, and Legendary Powers, and build your endgame character.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Idle Demon Lord II",
+"price": "$3.99",
+"release": "Oct 26, 2026",
+"ts": "2026-10-29T15:48:12.973160+00:00"
 },
 "5249210": {
 "desc": "NekoTrak blends time tracking with focus-based pet care. Raise a cat that roams your desktop. Earn experience, collect coins, and unlock cats, and play multiplayer so your cats can meet. It tracks app and website time and shares your activity, music, and tasks on Steam and Discord.",
