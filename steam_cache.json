@@ -1790,6 +1790,22 @@
 "ts": "2026-07-16T10:53:37.220125+00:00",
 "verdict": "Very Positive"
 },
+"2257440": {
+"desc": "Join Tom, the village\u2019s new postgirl, and get to know the locals, perhaps a little too well. Her method, although controversial, is highly effective: intense, obsessive stalking.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Tom the Postgirl",
+"price": "$8.99",
+"release": "Oct 29, 2026",
+"ts": "2026-10-30T15:29:53.719376+00:00"
+},
 "2275300": {
 "desc": "Lead nomadic families through the Stone Age in this turn-based 4X strategy game with in-depth characters, cultures, and ecosystems. Explore the wilderness, hunt megafauna, outsmart competitors in trade &amp; autobattler combat. Discover fire, agriculture, politics... and survive to tell the tale.",
 "descriptors": [],
@@ -3511,6 +3527,20 @@
 "ts": "2026-09-05T12:17:50.724191+00:00",
 "verdict": "Very Positive"
 },
+"2861210": {
+"desc": "HYPNOS is a first-person adventure and exploration game, set in a lovecraftian megastructure fever dream. Enter the Nameless City at the edge of Dreams. Follow the trail into the shadow of the Holy Mountain. Embrace your destiny.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "HYPNOS",
+"price": "$11.74",
+"release": "Oct 29, 2026",
+"ts": "2026-10-30T15:30:12.183914+00:00"
+},
 "2871010": {
 "desc": "Heroine, a close-combat magic-user, and her partner, an axe to fight and collect magical Tools!",
 "descriptors": [
@@ -4119,6 +4149,20 @@
 "ts": "2026-10-13T19:43:53.648870+00:00",
 "verdict": "Very Positive"
 },
+"3054820": {
+"desc": "Punish the little bastard demon and being punished too! Cemo-Summoning Adventure Game",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "DevilConnection",
+"price": "$14.99",
+"release": "Oct 30, 2025",
+"ts": "2026-10-30T15:27:59.290139+00:00"
+},
 "3056840": {
 "desc": "Take a jaunt into the world of A Bumpy Ride, a cozy train-driving and exploration game! Inspired by railroading of the 19th century with a whimsical spin, you'll adventure around the open frontier in your trusty little train, picking up passengers and freight.",
 "descriptors": [],
@@ -4449,6 +4493,22 @@
 "ts": "2026-08-27T00:24:41.986630+00:00",
 "verdict": "Very Positive"
 },
+"3129420": {
+"desc": "ASPIS is a story-driven first-person horror game set in the late-1980s USSR. Engineer Andrey enters an experimental system to see his deceased family again. But the machine opens worlds it was never meant to find. Explore the institute and step beyond reality.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "ASPIS",
+"price": "$11.99",
+"release": "Oct 23, 2026",
+"ts": "2026-10-30T15:30:29.844109+00:00"
+},
 "3133010": {
 "desc": "From the creators of Human Fall Flat - Tiny Flock, a cosy, physics-based VR puzzle game for all ages. Help guide your adorable wayward sheep through beautiful hand-crafted diorama puzzles using the environment around you to get them to safety!",
 "descriptors": [],
@@ -4480,6 +4540,18 @@
 "total": 72,
 "ts": "2026-08-08T21:24:54.493524+00:00",
 "verdict": "Very Positive"
+},
+"3144010": {
+"desc": "Welcome to Usagi Shima! Build your own bunny paradise, attract fluffy tourists with toys and decorations, and befriend lovable bunnies by feeding, petting, and playing with them. Relax with rabbits in a beautiful sandbox of your own design.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Usagi Shima: Bunny Island",
+"price": "$6.79",
+"release": "Oct 29, 2026",
+"ts": "2026-10-30T15:29:49.621451+00:00"
 },
 "3154800": {
 "desc": "Build your own football pitch business. Make repairs, expand your facilities, and attract the interest of football fans.",
@@ -5456,6 +5528,22 @@
 "total": 429,
 "ts": "2026-08-04T04:02:24.918714+00:00",
 "verdict": "Very Positive"
+},
+"3335310": {
+"desc": "Your daughter has been kidnapped. In the trilogy\u2019s final chapter, enter a nightmare to save her, survive what hunts you, and uncover the Red Nun\u2019s truth through retrocognition, mirror abilities and moth manipulation. A modern return to classic survival horror with an Italian neo-giallo twist.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Remothered: Red Nun's Legacy",
+"price": "$29.99",
+"release": "Oct 27, 2026",
+"ts": "2026-10-30T15:30:26.346886+00:00"
 },
 "3336520": {
 "desc": "Welcome to Dinotica! Stomp into a mysterious and dangerous world filled with action, adventure, and companionship! Together, you'll fight, build, farm, and more as you work toward creating a unique home that is truly your own.",
@@ -8087,6 +8175,23 @@
 "ts": "2026-08-07T21:33:29.480491+00:00",
 "verdict": "Very Positive"
 },
+"3884860": {
+"desc": "A dark detective thriller where folklore is real, violence is chilling, and every choice has consequences.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual"
+],
+"name": "The Wolf Among Us Remastered",
+"price": "$19.99",
+"release": "Oct 29, 2026",
+"ts": "2026-10-30T15:30:22.869337+00:00"
+},
 "3886200": {
 "desc": "BrokenLore: DON'T LIE is a Japanese psychological horror game exploring trauma, isolation, and a fractured reality where perception becomes increasingly unreliable.",
 "descriptors": [],
@@ -8299,6 +8404,20 @@
 "ts": "2026-07-15T14:46:23.328304+00:00",
 "verdict": "Very Positive"
 },
+"3927170": {
+"desc": "CH13: Rest Stop is a psychological horror game set in early 2000s Poland. What begins as a calm drive through the woods turns into something you weren't prepared for... Will you find out what awaits at the end of the road?",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "CH13: Rest Stop",
+"price": "$4.24",
+"release": "Oct 28, 2026",
+"ts": "2026-10-30T15:30:19.485585+00:00"
+},
 "3928980": {
 "desc": "On the fantastical continent of Elfar, where swords and magic reign, you will establish and grow your own guild, leading members to accept quests, challenge dungeons, forge equipment, participate in competitions, and gradually uncover the secrets of the nine sacred sites",
 "descriptors": [],
@@ -8332,6 +8451,20 @@
 "total": 62,
 "ts": "2026-08-22T02:13:04.938631+00:00",
 "verdict": "Very Positive"
+},
+"3929570": {
+"desc": "In November 755, An Lushan launched a rebellion against the Tang Empire. You will be appointed as the acting Military Governor of Shuofang. Conquer territories on a free-roaming world map, build your armies, develop cities, and navigate various events as you fight to quell the rebellion.",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "General Tactics: An Shi Rebellion",
+"price": "$11.43",
+"release": "Oct 27, 2026",
+"ts": "2026-10-30T15:30:15.886137+00:00"
 },
 "3932790": {
 "desc": "Wake up Garfield from this nightmarish veggie filled 3D Platformer! The laziest cat is about to work hard in Garfield - Escape from Monday!",
@@ -9463,6 +9596,20 @@
 "total": 95,
 "ts": "2026-08-11T14:16:57.386496+00:00",
 "verdict": "Very Positive"
+},
+"4096830": {
+"desc": "S.O.N.A.R. (Submarine Operators Not Actually Ready) is a 1\u20136 player co-op submarine sim where teamwork is essential, panic is inevitable, and sinking is always one wrong button away. Use sonar, pilot, fight, repair, and pray your friends know what to do.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "S.O.N.A.R. - Submarine Operators Not Actually Ready",
+"price": "$8.49",
+"release": "Oct 29, 2026",
+"ts": "2026-10-30T15:29:57.535614+00:00"
 },
 "4098030": {
 "desc": "You're the manager of a bankrupt delivery service in the future. Do everything yourself or automate with robots and drones. VIP customers, the black market, competitors' dirty tricks, and van races\u2014just a glimpse of a vibrant city that holds many secrets.",
@@ -10656,6 +10803,20 @@
 "total": 78,
 "ts": "2026-08-07T21:34:03.589996+00:00",
 "verdict": "Very Positive"
+},
+"4272370": {
+"desc": "Coal Duty is a 1-5 player co-op extraction horror-comedy. Meet the state coal quota in procedurally generated mines, spend your tickets, plan your escape. Some miners have reportedly escaped. The state does not confirm this.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Early Access"
+],
+"name": "Coal Duty",
+"price": "$7.19",
+"release": "Oct 27, 2026",
+"ts": "2026-10-30T15:30:01.218760+00:00"
 },
 "4274730": {
 "desc": "An open-world roguelike RPG where magic comes from cheesemaking. Explore a living continent, join Guilds, crawl dungeons, build a homestead and sail with friends. Or start a settlement in Fortress mode and manage its people, farms and workshops.",
@@ -15537,6 +15698,19 @@
 "ts": "2026-10-03T14:08:17.481247+00:00",
 "verdict": "Very Positive"
 },
+"5189500": {
+"desc": "A cozy potion-sorting puzzle game. Pour scrambled liquids until every bottle runs pure, then shelve each one where it belongs. Fill 4,160 potions across 52 shelves. No timers, no fail state, no rush.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "A Place for Every Potion",
+"price": "$5.09",
+"release": "Oct 28, 2026",
+"ts": "2026-10-30T15:30:08.586858+00:00"
+},
 "5190030": {
 "desc": "What have you done to the market?! Practising your amateur sorcery in the town square might not have been the best idea\u2026 You should really tidy up the market stalls before everyone arrives for a hard day\u2019s work!",
 "descriptors": [],
@@ -15767,6 +15941,18 @@
 "total": 80,
 "ts": "2026-10-17T16:05:52.635854+00:00",
 "verdict": "Very Positive"
+},
+"5279620": {
+"desc": "Halloween On Goober Street is a first-person horror-comedy taking place on Halloween night. Players must Trick-or-Treat their way to 100 candies or face the consequences. With lots of fun interactions and scares with the zippiest of characters, this Halloween night is one sure to be remembered.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Free To Play"
+],
+"name": "Halloween On Goober Street",
+"price": "Free",
+"release": "Oct 21, 2026",
+"ts": "2026-10-30T15:30:05.011401+00:00"
 },
 "5316540": {
 "desc": "Something has made a spectacular mess of this cozy Halloween shop. Put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. A relaxing first-person tidy-up, with a little mischief.",
