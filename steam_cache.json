@@ -663,6 +663,22 @@
 "ts": "2026-08-13T17:51:44.974603+00:00",
 "verdict": "Very Positive"
 },
+"1583850": {
+"desc": "Use light to survive a nightmare: each creature reacts differently to it. Explore, solve puzzles, and evade the horrors in the dark. You are in the skin of Ana L\u00facia.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "Asleep: Act 1",
+"price": "Free",
+"release": "May 9, 2024",
+"ts": "2026-10-30T21:16:04.586368+00:00"
+},
 "1602620": {
 "desc": "Deadzoned is a sci-fi turn-based action Roguelike. Blast your way through zones battling the beasts, bandits, and monsters that stalk the blackouts. But you'll need your wits to make best use of the gear you stumble upon to survive and save the fate of the planet!",
 "descriptors": [],
