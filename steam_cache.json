@@ -934,6 +934,21 @@
 "ts": "2026-10-09T15:43:49.687061+00:00",
 "verdict": "Very Positive"
 },
+"1742440": {
+"desc": "COP BASTARD is a classic FPS set in early \u201990s Japan. Play as a tough detective and blast through waves of yakuza in relentless action inspired by \u201990s films. No puzzles, perks or upgrades - just corridors, enemies and the chance to spit in their faces.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "COP BASTARD",
+"price": "$11.69",
+"release": "Oct 29, 2026",
+"ts": "2026-10-31T14:58:19.318364+00:00"
+},
 "1747050": {
 "desc": "The Freelance Police are back on the crime beat in a newly remastered version of their second episodic season. Zombies will dance. Mariachis will sing. A giant battle robot will trash the streets. And when their friends\u2019 lives are at stake, Sam &amp; Max will risk their very souls to set things right.",
 "descriptors": [],
@@ -1006,6 +1021,23 @@
 "price": "$17.49",
 "release": "Nov 14, 2024",
 "ts": "2026-10-29T15:46:18.375341+00:00"
+},
+"1799840": {
+"desc": "A retro-fantasy action RPG with brutal combat and traversal-focused exploration. Embark on a quest to find your father who disappeared on the mysterious Isle of Neasied, where sinister forces gather, secrets hide everywhere, and the sleeping Queen has begun to stir\u2026",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Queen's Domain",
+"price": "$16.99",
+"release": "Oct 30, 2026",
+"ts": "2026-10-31T14:58:12.391316+00:00"
 },
 "1812370": {
 "desc": "Venture into the woods as you play Little Goody Two Shoes, a phantasmagorical horror narrative adventure where all your decisions matter!",
@@ -3691,6 +3723,20 @@
 "ts": "2026-10-08T16:01:54.069672+00:00",
 "verdict": "Very Positive"
 },
+"2920220": {
+"desc": "Terrible Lizards is a horror parkour game set against the backdrop of an old Route 66 attraction\u2026 with something dark and sinister lurking below. To escape, you\u2019ll need to move fast, navigate challenging terrain, and uncover what Dalton\u2019s Dinos is really hiding. You\u2019d better start running.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Terrible Lizards",
+"price": "$19.99",
+"release": "Oct 29, 2026",
+"ts": "2026-10-31T14:58:26.530511+00:00"
+},
 "2929040": {
 "desc": "From the creators of Halo Wars and Age of Empires, Fleetbreakers is an action RTS roguelite with satisfying fleet combat in bite-sized sessions. Strategic depth meets cataclysmic space battles in an ever-evolving campaign that keeps you coming back for just. One. More. Run.",
 "descriptors": [],
@@ -3754,6 +3800,20 @@
 "total": 44,
 "ts": "2026-08-27T22:43:58.025546+00:00",
 "verdict": "Positive"
+},
+"2939510": {
+"desc": "Forget the stress of survival. In this cozy open-world sim, you don't fight nature, you join it. Build your dream cabin piece by piece, cook complex meals with crops you watered yourself, and fill your photo album with rare wildlife. A serene experience where the only enemy is inefficiency.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Under Canopies",
+"price": "$11.24",
+"release": "Oct 23, 2026",
+"ts": "2026-10-31T14:58:05.342548+00:00"
 },
 "2939790": {
 "desc": "Lunarium is an atmospheric fantasy A-RPG. Play as Ave, a light-armored knight, who teams up with Lune, a mysterious Starfarer. Together, they journey to save a dying world, engaging in challenging battles to retrieve the lost glow of the stars and forsaken memories, unveiling cosmic secrets.",
@@ -5641,6 +5701,18 @@
 "ts": "2026-07-27T04:34:50.652374+00:00",
 "verdict": "Very Positive"
 },
+"3347910": {
+"desc": "Asymmetrical horror comedy co-op for up to 8 players. Play either a pack of Rats trying to sabotage a restaurant, or the Chef determined to stop them.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Rat Game",
+"price": "$5.39",
+"release": "Oct 30, 2026",
+"ts": "2026-10-31T14:58:08.858417+00:00"
+},
 "3351280": {
 "desc": "A turn-based skill-crafting dungeon crawler roguelike, where you combine crazy effects and upgrades for your skills and use them on enemies. With a strategic physics-based gameplay, unlock and grow your arsenal of spells and items to overcome the challenging dungeon of Underground Ruins!",
 "descriptors": [],
@@ -6715,6 +6787,20 @@
 "ts": "2026-08-09T13:42:54.137732+00:00",
 "verdict": "Very Positive"
 },
+"3601830": {
+"desc": "Silberheim is a tactical collectible card game where card packs are earned, never sold. Build your collection, discover what your cards become as they evolve through play, and explore an ever-changing world through PvP battles, PvE adventures, and community events.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Silberheim Evolving Card Game",
+"price": "$11.48",
+"release": "Oct 30, 2026",
+"ts": "2026-10-31T14:58:22.981668+00:00"
+},
 "3604560": {
 "desc": "Run your own figure shop! Produce figures with 3D printers, stock your shelves, set prices, and offer the best shopping experience to your customers. Manage your storage, expand and design your store. Try to complete collection sets, follow market trends, and grow your business!",
 "descriptors": [],
@@ -7592,6 +7678,22 @@
 "total": 59,
 "ts": "2026-10-12T18:27:46.173677+00:00",
 "verdict": "Very Positive"
+},
+"3788590": {
+"desc": "Sign is a visual novel series that blends fantasy, urban life, and adventure. The story follows Lyra, a high school girl who encounters Cygnus, a witch from another world. Together, they embark on a journey to reclaim the witch\u2019s lost powers.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Sign: Broken Kether",
+"price": "$7.99",
+"release": "Oct 25, 2026",
+"ts": "2026-10-31T14:58:01.878263+00:00"
 },
 "3789080": {
 "desc": "Date a state! Buy low, sell high, dodge the Royal Navy and Patriot Privateers, and romance colonial state-chans in a chaotic American Revolution merchant sim. Mercantilism ho!",
@@ -8881,6 +8983,20 @@
 "total": 58,
 "ts": "2026-10-14T20:25:52.754771+00:00",
 "verdict": "Very Positive"
+},
+"3978110": {
+"desc": "A digital fidget box of dopamine-fueled micro-challenges. Push buttons. Shoot targets. Chain actions for higher scores. Complete all tasks. Don\u2019t ask questions.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Neuron Activation",
+"price": "$5.94",
+"release": "Oct 28, 2026",
+"ts": "2026-10-31T14:58:15.815081+00:00"
 },
 "3982450": {
 "desc": "Hitler Waifu 2 - is a parody third-person 3D shooter with satire and black humor",
@@ -10306,6 +10422,18 @@
 "total": 69,
 "ts": "2026-07-14T17:22:14.951657+00:00",
 "verdict": "Very Positive"
+},
+"4198360": {
+"desc": "Croc's back, and this time he's searching for his long-lost parents. Revived by the Dantinis, arch enemy Baron Dante vows revenge. Explore four mainland villages, rescue Gobbos, and battle new Guardians. Race cars and speedboats, ride minecarts, and take to the skies in the remastered 1999 classic.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Croc 2 Kingdom of the Gobbos",
+"price": "$29.99",
+"release": "Oct 29, 2026",
+"ts": "2026-10-31T14:57:58.359370+00:00"
 },
 "4198430": {
 "desc": "The Last Camp is a post-apocalyptic world-themed game. It utilizes high-quality graphics, a rich weapon and item system, and a vast world map to create a cross-generational twin-stick shooter, bringing a feast to hardcore shooter players.",
@@ -15570,6 +15698,20 @@
 "total": 64,
 "ts": "2026-10-10T14:58:35.708874+00:00",
 "verdict": "Very Positive"
+},
+"5133900": {
+"desc": "A juicy first-person incremental game about turning cute creatures into cans. Kill them, collect their bodies, can them, and sell them. Make money, upgrade your weapons and machines, and produce more and more.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Can 'Em All",
+"price": "$6.29",
+"release": "Oct 30, 2026",
+"ts": "2026-10-31T14:57:54.792980+00:00"
 },
 "5134970": {
 "desc": "An absurd personality testing experience with a whole lot of questions for you.",
