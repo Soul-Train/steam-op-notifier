@@ -1101,6 +1101,18 @@
 "ts": "2026-07-24T04:12:12.416726+00:00",
 "verdict": "Very Positive"
 },
+"1858720": {
+"desc": "Explore an alien logographic writing system with over 1,000 glyphs, from their number system to their culture and thought.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Message From Aliens",
+"price": "$9.99",
+"release": "Nov 1, 2026",
+"ts": "2026-11-02T19:02:21.594423+00:00"
+},
 "1859620": {
 "desc": "Join BRUTAL JOHN and BRUTAL DOG in a ultraviolent old-school FPS set in a world overrun by crypto-mining technologies, where it\u2019s up to you to destroy them and reclaim control. Prepare for an adrenaline ride that pays homage to the best shooters of the '90s.",
 "descriptors": [],
@@ -2657,6 +2669,20 @@
 "total": 59,
 "ts": "2026-09-24T13:58:23.652105+00:00",
 "verdict": "Very Positive"
+},
+"2562390": {
+"desc": "A co-op horror where you and your friends (if applicable) explore a seemingly infinite expanse of eerie creature-infested liminal spaces, armed only with a glorified vacuum and specialized equipment to help you locate and extract a rare substance in the name of science.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Benny's Backrooms",
+"price": "$7.99",
+"release": "Oct 27, 2026",
+"ts": "2026-11-02T19:02:35.303324+00:00"
 },
 "2566840": {
 "desc": "Shoot it out against crazed bandits in order to save this Old Western town from destruction in this single-sitting, retro-style first person shooter.",
@@ -5394,6 +5420,21 @@
 "ts": "2026-08-26T02:23:55.882808+00:00",
 "verdict": "Very Positive"
 },
+"3294890": {
+"desc": "You are an ambitious paranormal investigator searching for his big break. When you're presented the opportunity of a lifetime--$25.99, to be exact, you jump at the offer. But everything comes with a catch, and Roner and his friends are keen to teach you that...",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Strategy",
+"Free To Play"
+],
+"name": "Five Nights at Roner's: Remastered",
+"price": "Free",
+"release": "Nov 21, 2024",
+"ts": "2026-11-02T19:00:27.669850+00:00"
+},
 "3295810": {
 "desc": "Realistic Ukrainian FPV combat drone simulator built with frontline pilots. Train like a real pilot: fight through enemy jamming, watch your battery, find armor weak spots, and finish the strike before the signal dies. Supports RadioMaster, DJI FPV, TBS and gamepads. Online co-op, mission editor.",
 "descriptors": [
@@ -6963,6 +7004,20 @@
 "ts": "2026-09-21T15:33:43.689706+00:00",
 "verdict": "Very Positive"
 },
+"3624110": {
+"desc": "How far can you push one trade route? Connect villages, trade resources, and find clever routes to bigger profits. A thinky strategy city-builder inspired by Euro board games. Grow your network, optimize every connection, and please the gods.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Prophet Margin",
+"price": "$14.95",
+"release": "Oct 29, 2026",
+"ts": "2026-11-02T19:02:28.449550+00:00"
+},
 "3633760": {
 "desc": "Dopamine-fueled minimalist grid-based game that pushes the boundaries of psychedelic visuals and fast reaction time. KAZ is an action roguelike arcade game where choice of items, buffs, and maluses allows you to unlock cool visuals and themes while showing everybody your skill on the leaderboards",
 "descriptors": [],
@@ -7779,6 +7834,21 @@
 "total": 80,
 "ts": "2026-09-27T14:29:32.516930+00:00",
 "verdict": "Very Positive"
+},
+"3796150": {
+"desc": "In this single-player narrative roguelite, govern a cursed island as you investigate your niece\u2019s mysterious disappearance. Interrogate, trade, upgrade, and embark upon card-based expeditions to uncover dark secrets \u2013 before the next cataclysm strikes.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"RPG"
+],
+"name": "Curse of Resthaven",
+"price": "$17.99",
+"release": "Oct 29, 2026",
+"ts": "2026-11-02T19:02:18.261926+00:00"
 },
 "3804370": {
 "desc": "Grow magical crops\u2014and your own workforce. Run an alchemy shop in a city trapped in a time loop, forge bonds with humans and non-humans, and shape its fate. A dark fantasy management sim with branching stories and multiple endings.",
@@ -11779,6 +11849,19 @@
 "ts": "2026-09-23T14:02:00.243769+00:00",
 "verdict": "Very Positive"
 },
+"4360290": {
+"desc": "Terraclysm Survivors is a fast-paced action roguelike sidescroller. Earth is in peril, jump and attack through treacherous stages packed with enemy hordes while building the ultimate loadout. With up to 4 players online, defeat the invaders and survive in this apocalyptic and chaotic challenge!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Terraclysm Survivors",
+"price": "$8.49",
+"release": "Oct 29, 2026",
+"ts": "2026-11-02T19:02:31.797803+00:00"
+},
 "4364910": {
 "desc": "A loot-driven action role-playing game (ARPG) crafted by a solo loot enthusiast. Switch classes anytime, with hundreds of random affix combinations for gear stats, a unique forging system, and tough bosses, rifts, ruins, and trials awaiting your challenge.",
 "descriptors": [],
@@ -14027,6 +14110,20 @@
 "ts": "2026-09-20T13:24:58.296645+00:00",
 "verdict": "Very Positive"
 },
+"4714010": {
+"desc": "GloveUp! is a singleplayer anime-themed female boxing game featuring realistic and physics-driven animations. Create and customize a roster of fighters, shape unique fighting styles through abilities, unlock outfits, level up and take on tougher opponents and challenges.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Sports",
+"Early Access"
+],
+"name": "GloveUp!",
+"price": "$17.99",
+"release": "Oct 29, 2026",
+"ts": "2026-11-02T19:02:14.836010+00:00"
+},
 "4727860": {
 "desc": "War Footing puts you in command of a nation's defenses. With limited time &amp; resources, and tension rising, can you build the military needed to save your country's independence?",
 "descriptors": [
@@ -15486,6 +15583,22 @@
 "ts": "2026-09-06T12:32:14.537908+00:00",
 "verdict": "Very Positive"
 },
+"5023090": {
+"desc": "A newly assembled face wants to find the perfect body; this mysterious platforming adventure will take you through a maze of rooms with many doors to enter and many puzzles to solve; will you acquire the perfect combination of limbs to suit each situation and discover the secret to a perfect body?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Bouncing Body Bits",
+"price": "$2.12",
+"release": "Oct 30, 2026",
+"ts": "2026-11-02T19:02:25.042965+00:00"
+},
 "5025010": {
 "desc": "Turn a tiny plot into a fortune, one seed at a time. Grow crops, sell them in your shop, and reinvest everything you earn. Better tools, more land, richer harvests. Relaxing from the first seed to the last field.",
 "descriptors": [],
@@ -15988,6 +16101,21 @@
 "total": 62,
 "ts": "2026-10-20T14:02:37.318292+00:00",
 "verdict": "Very Positive"
+},
+"5190580": {
+"desc": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "HELENA : Cloud District",
+"price": "Free",
+"release": "Oct 29, 2026",
+"ts": "2026-11-02T19:02:11.547415+00:00"
 },
 "5198670": {
 "desc": "Investigate a murder at Grimwick\u2019s harvest festival in this hand-drawn point-and-click mystery. Question suspicious locals, collect clues, use items, and uncover the truth behind a town that insists there was no murder.",
