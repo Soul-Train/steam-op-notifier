@@ -1307,6 +1307,18 @@
 "ts": "2026-07-16T17:59:59.602007+00:00",
 "verdict": "Very Positive"
 },
+"2016980": {
+"desc": "Highway Driving is 3D racing game for everyone. Players will be amazed with the overall gaming experience in this game. There are various different tracks and game modes in the game. Players can select many different types of vehicles.",
+"descriptors": [],
+"genres": [
+"Racing",
+"Sports"
+],
+"name": "Highway Driving",
+"price": "$9.99",
+"release": "Jun 16, 2022",
+"ts": "2026-11-02T00:04:28.193200+00:00"
+},
 "2019300": {
 "desc": "A monster-taming RPG meets GBC-era nostalgia. Capture and train 140+ Dokimon across 15+ towns. &quot;Whoa, watch out \u2014 Dokimon are dangerous!&quot; Uncover the mystery behind your missing childhood friend in the Xelos region.",
 "descriptors": [],
@@ -16349,6 +16361,32 @@
 "total": 53,
 "ts": "2026-09-26T13:33:41.049887+00:00",
 "verdict": "Very Positive"
+},
+"655610": {
+"desc": "Horse Racing 2016 is most Fabulous and Entertaining Game for Everyone. If you want to feel real horse racing championship, show your desire and courage to play this game. This Game Uniqueness makes you play this game for hours, you will love to play this game again and again.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Racing",
+"Sports"
+],
+"name": "Horse Racing 2016",
+"price": "$9.99",
+"release": "Jul 14, 2017",
+"ts": "2026-11-02T00:04:39.209572+00:00"
+},
+"660900": {
+"desc": "Dark Mystery is a Puzzled Platformer Game in which player faces different types of difficulties to find his true love.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Strategy"
+],
+"name": "Dark Mystery",
+"price": "$7.99",
+"release": "Aug 14, 2017",
+"ts": "2026-11-02T00:04:33.664661+00:00"
 },
 "669330": {
 "pct": 84,
