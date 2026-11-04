@@ -795,6 +795,18 @@
 "ts": "2026-10-08T16:01:37.384504+00:00",
 "verdict": "Very Positive"
 },
+"1686230": {
+"desc": "After a mysterious crash, you awaken alone on a strange island. Survive by hunting, farming, and crafting, then explore a vast archipelago filled with secrets, ancient ruins, and magical totems. Build your base, uncover the truth, and escape\u2014if you can.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Mayday: The Survival Island",
+"price": "$11.19",
+"release": "Nov 2, 2026",
+"ts": "2026-11-04T16:45:00.980958+00:00"
+},
 "1696770": {
 "desc": "An impossible locked-room murder: Captain Mortuga lies dead beside an ancient cauldron aboard the world\u2019s strangest submarine, crewed by sketchy suspects. A handcrafted point-and-click with sharp humour and tricky puzzles. Dive into the next mystery from the creators of Tangle Tower &amp; Crow Country.",
 "descriptors": [],
@@ -1160,6 +1172,23 @@
 "total": 88,
 "ts": "2026-09-04T13:05:14.117307+00:00",
 "verdict": "Very Positive"
+},
+"1892100": {
+"desc": "Heart Abyss is a brutal action-platformer inspired by Japan during the 17th and 18th centuries. Wake up your inner beast and take vengeance on those who put a collar around your neck. Find your sister and uncover the mystery behind the disappearance of all jinkos.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Strategy"
+],
+"name": "HEART ABYSS",
+"price": "$15.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-04T16:45:08.105364+00:00"
 },
 "1892420": {
 "desc": "Skye and her Handy Pals are looking for a new pal to help them out on her lovely lil' garden! Think you're up for the job, partner?",
@@ -1980,6 +2009,20 @@
 "ts": "2026-10-08T16:00:13.549797+00:00",
 "verdict": "Very Positive"
 },
+"2320980": {
+"desc": "Welcome to Loftia, a cozy, multiplayer world where you can build towards a brighter, more sustainable future! Connect with friends both old and new, to farm, craft, explore, decorate, and create a meaningful impact - together.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Massively Multiplayer"
+],
+"name": "Loftia",
+"price": "$24.89",
+"release": "Nov 3, 2026",
+"ts": "2026-11-04T16:45:15.294656+00:00"
+},
 "233150": {
 "desc": "The skies are aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
 "descriptors": [],
@@ -2261,6 +2304,20 @@
 "total": 66,
 "ts": "2026-07-22T04:15:38.200009+00:00",
 "verdict": "Very Positive"
+},
+"2456860": {
+"desc": "In the barren wasteland on the brink of extinction, the last Train departs, supposedly carrying its passengers in search of a place where they can survive. A creature named Eilf boards the Train, determined to travel to Spring - the station that has been said to have vanished.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "The Last Train",
+"price": "Free",
+"release": "Nov 29, 2023",
+"ts": "2026-11-04T16:42:33.166295+00:00"
 },
 "2467880": {
 "desc": "Fading Echo is a fast-paced elemental action-adventure RPG where creativity fuels combat. Manipulate water, trigger chain reactions, and shift through surreal worlds as One, a young Legend on a mission to save a dying desertscape from the grip of the Paradox corruption.",
@@ -4487,7 +4544,7 @@
 "verdict": "Very Positive"
 },
 "3088700": {
-"desc": "Drift, slipstream, and chain risky near-misses at insane speeds to build huge combos. Adapt to procedurally generated streets and challenges, upgrade your ride, unlock abilities, and stack powerful cards to break records. Climb the Redline rankings and fight your way to the top of the leaderboards.",
+"desc": "Own the streets, one reckless run at a time. Drift through traffic, chase impossible gaps, and push your luck to keep the combo alive. Turn your ride into a high-speed monster, tear up the road solo or with friends in co-op, and make your name on the Redline rankings.",
 "descriptors": [],
 "genres": [
 "Action",
@@ -4496,12 +4553,9 @@
 "Racing"
 ],
 "name": "Driving Rogue",
-"pct": 98,
-"price": "$8.99",
+"price": "$9.99",
 "release": "Sep 17, 2026",
-"total": 91,
-"ts": "2026-09-19T12:50:14.163501+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-04T16:42:36.632247+00:00"
 },
 "3094480": {
 "desc": "Bad Cheese is a psychological horror inspired by the eerie charm of 1920s animation. Step into the tiny paws of a mouse spending the weekend at home with a dysfunctional Dad while Mom's away. Be on your best behavior and KEEP DADDY HAPPY.",
@@ -5259,6 +5313,19 @@
 "total": 61,
 "ts": "2026-10-09T15:44:09.695935+00:00",
 "verdict": "Very Positive"
+},
+"3238580": {
+"desc": "Keflings may be small, but their kingdom-building adventures are gigantic! Build a world with your friends in A World of Keflings! Harvest resources, construct robots, befriend a dragon, and help a creepy witch get even creepier in this update of the classic 2010 city-building adventure.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "A World of Keflings",
+"price": "$11.99",
+"release": "Jul 29, 2025",
+"ts": "2026-11-04T16:42:40.115281+00:00"
 },
 "3239360": {
 "desc": "Beat, Heart, Beat is a psychedelic action-platformer where every attack is set to a grungy midwest emo soundtrack. Soar across the crumbling Psyche, recruit bizarre party members, and tear a path towards your withering Heart.",
@@ -7352,6 +7419,17 @@
 "ts": "2026-07-17T07:15:51.728139+00:00",
 "verdict": "Very Positive"
 },
+"3686510": {
+"desc": "Shape-shifting Kitsune Mio battles the mischievous Tanuki army in this fast-paced, comedic side-scrolling shooter! Unleash powerful y\u014djutsu and transformations to dodge bullet barrages. Packed with modes for both casual and hardcore players, offering plenty of content to master!",
+"descriptors": [],
+"genres": [
+"Action"
+],
+"name": "Fox Flare Night",
+"price": "$12.59",
+"release": "Oct 29, 2026",
+"ts": "2026-11-04T16:44:46.119611+00:00"
+},
 "3687630": {
 "desc": "Join two close friends in building a cozy seaside B&amp;B. Every choice affects the story and your relationships. Spend heartfelt moments with six unique girls and create a summer worth remembering. 4K visuals, nearly 1,000 minutes of video, side stories, mini-games, and 20+ endings await.",
 "descriptors": [
@@ -7647,6 +7725,19 @@
 "total": 64,
 "ts": "2026-08-23T02:22:23.298882+00:00",
 "verdict": "Very Positive"
+},
+"3727090": {
+"desc": "Horses of Hoofprint Bay is a lovingly hand-drawn 2D barn buildup and simulation game. Take care of your horses, train them to build up their strength and confidence and compete for prize money! Breed adorable foals, explore beautiful trails, hire and manage staff and build the stable of your dreams!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Sports"
+],
+"name": "Horses of Hoofprint Bay",
+"price": "$22.94",
+"release": "Nov 4, 2026",
+"ts": "2026-11-04T16:44:38.979340+00:00"
 },
 "3734980": {
 "desc": "\ud83d\udcbc A simple task: Don\u2019t press the red button. Sounds easy? \ud83d\ude0f Featuring an annoying voice, absurd endings, and too many achievements. Free. Pointless. Glorious. \ud83e\udd21\ud83d\udd34",
@@ -11126,6 +11217,18 @@
 "ts": "2026-09-11T13:11:17.464162+00:00",
 "verdict": "Very Positive"
 },
+"4255640": {
+"desc": "Celebrate love with Ellie and Lucien in MyDear.exe. A short and cute game that takes place in the folders of an old PC. In the shoes of Ellie, play the game offered by Lucien after a long life together. Humor, memories and love are on the menu of this short ~2 hours experience.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "MyDear.exe",
+"price": "$4.65",
+"release": "Nov 2, 2026",
+"ts": "2026-11-04T16:44:42.470745+00:00"
+},
 "4258770": {
 "desc": "A slow-burn folk farming horror. You bought an isolated farm to start a new life. Your peaceful routine is shattered when the former owner's terrible secrets rise from beneath the ground.",
 "descriptors": [
@@ -12352,6 +12455,22 @@
 "total": 204,
 "ts": "2026-08-27T00:24:56.002316+00:00",
 "verdict": "Very Positive"
+},
+"4424740": {
+"desc": "The prologue to Agent of Strange \u2014 a dark role-playing thriller where every mission is a labyrinth of choices and possibilities. Start your path as a Conspirator in a desperate struggle against the secret occult regime.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Free To Play"
+],
+"name": "Agent of Strange: Arrival",
+"price": "Free",
+"release": "Nov 2, 2026",
+"ts": "2026-11-04T16:44:49.730702+00:00"
 },
 "4428890": {
 "desc": "A puzzle game with twenty small mazes.",
@@ -15837,6 +15956,18 @@
 "ts": "2026-09-06T12:32:17.850866+00:00",
 "verdict": "Very Positive"
 },
+"5041530": {
+"desc": "A cozy co-op game about turning the toy store of your dreams into a perfectly organized world. Sort all 20,000 toys, find the right home for every doll, dinosaur and train, and watch the shelves spring back to life \u2013 on your own or with up to 8 friends.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Put Your Toys Away Together!",
+"price": "$5.94",
+"release": "Oct 30, 2026",
+"ts": "2026-11-04T16:44:53.278180+00:00"
+},
 "5042370": {
 "desc": "A physics sim meets a tidy-up game. Octbuster has over 10,000 VHS tapes and an octopus with tentacle arms to scoop them up by the armful. A cart that follows you, a kitten army that helps, an arcade buried under the mess, co-op multiplayer, Twitch chat in your store, and no generative AI.",
 "descriptors": [],
@@ -16506,6 +16637,19 @@
 "ts": "2026-10-17T16:05:52.635854+00:00",
 "verdict": "Very Positive"
 },
+"5266240": {
+"desc": "A first-person potato peeling game. You have a knife. You have a bucket. You have a mountain of potatoes. Peel them with real physics. Cut thin, waste nothing. Buy better tools. Finish the pile.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Potato Please",
+"price": "$8.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-04T16:45:11.612519+00:00"
+},
 "5279620": {
 "desc": "Halloween On Goober Street is a first-person horror-comedy taking place on Halloween night. Players must Trick-or-Treat their way to 100 candies or face the consequences. With lots of fun interactions and scares with the zippiest of characters, this Halloween night is one sure to be remembered.",
 "descriptors": [],
@@ -16610,6 +16754,32 @@
 "price": "Free",
 "release": "Oct 26, 2026",
 "ts": "2026-10-27T15:09:16.784994+00:00"
+},
+"5404010": {
+"desc": "A dark isometric action RPG with click-to-move combat, deep loot and five classes with three skill trees each. A pet loots for you and grows. Four acts of random maps, alone or with up to 8 players online. Three world levels and the endless Pyre. Loot, die, return.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG",
+"Early Access"
+],
+"name": "Cinderwake",
+"price": "$5.99",
+"release": "Oct 30, 2026",
+"ts": "2026-11-04T16:44:57.234149+00:00"
+},
+"5475960": {
+"desc": "An incremental logistics game where traffic becomes a challenge. Haul goods from fields, forests and quarries through a procedurally generated town, earn money with every delivery and buy more trucks, until your own fleet jams the streets. Then fix it with traffic rules.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Incremental Traffic",
+"price": "$6.99",
+"release": "Nov 1, 2026",
+"ts": "2026-11-04T16:45:04.626014+00:00"
 },
 "564940": {
 "desc": "Alone With You is a bittersweet sci-fi adventure game that goes right for the heart. Escape a doomed space colony with the help of your troubled AI companion and four chatty holograms in this unique blend of adventure &amp; visual novel storytelling.",
