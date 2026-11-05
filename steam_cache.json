@@ -5562,6 +5562,19 @@
 "ts": "2026-10-14T20:26:03.302855+00:00",
 "verdict": "Very Positive"
 },
+"3299080": {
+"desc": "Start with nothing but a ticket booth in the mountains. Clear snow, chop wood, crack ice off rooftops, all by hand, all in first person. Serve drinks, cook meals, repair ski gear, and turn a rundown mountain stop into a full-blown resort with a hotel, restaurant, bar, and shop.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Snow Resort Simulator",
+"price": "$17.99",
+"release": "Nov 4, 2026",
+"ts": "2026-11-05T17:02:04.474257+00:00"
+},
 "3300": {
 "desc": "With awe-inspiring planetary backdrops, explosive new gems and dazzling special effects, Bejeweled 2 is more wildly addictive than ever before.",
 "descriptors": [],
@@ -5864,6 +5877,20 @@
 "total": 60,
 "ts": "2026-09-07T14:41:47.454982+00:00",
 "verdict": "Very Positive"
+},
+"3339970": {
+"desc": "Welcome to WendyQuest - a well-done 2D adventure RPG from Wendy\u2019s packed with crispy combat, handcrafted pixel art, and fresh, never frozen puzzles. Play as redheaded warrior Wendy &amp; battle evil mech-monsters to save a culinary kingdom in peril.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "WendyQuest: Legend of the Four Corner Stones",
+"price": "Free",
+"release": "Nov 3, 2026",
+"ts": "2026-11-05T17:02:08.108725+00:00"
 },
 "3345550": {
 "desc": "Experience turn-based strategy with free-form base building, multi-unit control, colossal units, and powerful battle skills. It captures the depth of an RTS in turn-based form, like Advanced Wars with massive super units!",
@@ -6281,6 +6308,18 @@
 "total": 133,
 "ts": "2026-07-30T03:54:40.739508+00:00",
 "verdict": "Very Positive"
+},
+"3432860": {
+"desc": "Psycho-Sleuth is a mystery game where cognitive disorders distort the rules of murder. Enter the minds of 13 afflicted players trapped in a deadly game, each with an abnormal mental condition. These disorders are contagious, but the killer hides amongst twisted logic.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Psycho-Sleuth",
+"price": "$17.99",
+"release": "Nov 4, 2026",
+"ts": "2026-11-05T17:01:57.121733+00:00"
 },
 "3440070": {
 "desc": "Dinoblade is an intense action RPG set in a prehistoric world forever changed by a cataclysmic event. Step into the role of a young Spinosaurus, wielding a colossal Great Sword. Confront rival dinosaurs, some armed with weapons of their own, all in a desperate fight to prevent a looming extinction.",
@@ -12500,6 +12539,18 @@
 "release": "Oct 27, 2026",
 "ts": "2026-10-28T15:41:54.544401+00:00"
 },
+"4430260": {
+"desc": "Turn any song into a playable rhythm ride! Import your favorite music or play along with your device's audio in Live Audio Mode. Discover official tracks from indie artists, climb the leaderboards, create custom levels in the Level Editor, and explore endless community levels on Steam Workshop.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Beat For Speed",
+"price": "$11.99",
+"release": "Nov 2, 2026",
+"ts": "2026-11-05T17:02:23.002340+00:00"
+},
 "4436200": {
 "desc": "Every block of this planet is real, including fluids! Dig it, flood it, process it. FluxWerks is a factory automation game on a fully destructible voxel world with physical fluid and heat simulation. Dig anywhere, automate everything, and survey a world that was supposed to be empty.",
 "descriptors": [],
@@ -14940,6 +14991,23 @@
 "ts": "2026-08-15T13:26:45.535688+00:00",
 "verdict": "Very Positive"
 },
+"4844820": {
+"desc": "DARK PGT 2 is a dark post-Soviet action game with souls-like elements and black humor. Max Panin wakes up from a coma in a world of mutants, robots, and Soviet experiments. Survive, fight, and figure out who turned everything into this hellish mess.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "DARK PGT 2: The Red Death",
+"price": "$4.79",
+"release": "Nov 1, 2026",
+"ts": "2026-11-05T17:02:15.720935+00:00"
+},
 "4852580": {
 "desc": "John is a detective searching for a missing colleague. He finds himself trapped in a mysterious loop where reality constantly changes. Explore eerie environments, interact with clues, and uncover the truth behind the disappearance in this third-person psychological horror experience.",
 "descriptors": [
@@ -15956,6 +16024,21 @@
 "ts": "2026-09-06T12:32:17.850866+00:00",
 "verdict": "Very Positive"
 },
+"5037510": {
+"desc": "Thousands of balls are scattered throughout the playrooms. Someone should put them away, and there's no one here but you. Almost no one.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Playrooms",
+"price": "$5.59",
+"release": "Nov 4, 2026",
+"ts": "2026-11-05T17:02:00.820173+00:00"
+},
 "5041530": {
 "desc": "A cozy co-op game about turning the toy store of your dreams into a perfectly organized world. Sort all 20,000 toys, find the right home for every doll, dinosaur and train, and watch the shelves spring back to life \u2013 on your own or with up to 8 friends.",
 "descriptors": [],
@@ -16162,6 +16245,20 @@
 "ts": "2026-09-07T14:41:40.544794+00:00",
 "verdict": "Very Positive"
 },
+"5101960": {
+"desc": "DnD meets Football Manager. Create a guild, watch them form relationships and grow old together. Lose people both to the dark and to rival guilds battling to be the best in the realm. Grow your own town, or vote to help build an existing one. Or take the Cozy approach and run a guild on your terms.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Dungeons & Dynasties",
+"price": "$8.09",
+"release": "Nov 3, 2026",
+"ts": "2026-11-05T17:02:11.896226+00:00"
+},
 "5103870": {
 "desc": "An AI-directed RPG that unfolds in real time.",
 "descriptors": [],
@@ -16175,6 +16272,19 @@
 "price": "$14.99",
 "release": "Oct 27, 2026",
 "ts": "2026-10-29T15:48:09.251322+00:00"
+},
+"5111890": {
+"desc": "&quot;Weeping Souls&quot; is a visual novel game. The player takes on the role of the protagonist and chooses the right path to ensure the safety of themselves and their friends. The game features multiple endings, determined by your choices.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Weeping Souls",
+"price": "$3.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-05T17:01:53.493493+00:00"
 },
 "5120650": {
 "desc": "Transform a chaotic area into a satisfying work of art. Follow the paver layout plan and place 4,064 pavers in their correct locations. Work alone or together with friends, develop useful skills, and restore the plaza piece by piece.",
@@ -16347,6 +16457,18 @@
 "price": "Free",
 "release": "Oct 22, 2026",
 "ts": "2026-10-29T15:48:23.926519+00:00"
+},
+"5181520": {
+"desc": "Grow an ever-expanding fungal network in this relaxing incremental exploration game. Discover hidden resources, cultivate mushrooms that automate your production, and evolve your mycelium into a self-sustaining underground empire.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "Mycelarium",
+"price": "$3.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-05T17:02:19.357523+00:00"
 },
 "5182260": {
 "desc": "2,692 keycaps. 32 keyboards. One messy desk. Find the right keycaps, match them to their positions, and complete every keyboard, square or round. Search, organize, and enjoy the satisfying process of turning chaos into perfectly assembled keyboards.",
@@ -16812,6 +16934,20 @@
 "ts": "2026-08-05T22:06:59.911684+00:00",
 "verdict": "Very Positive"
 },
+"627690": {
+"desc": "Idle Champions of the Forgotten Realms is a Dungeons &amp; Dragons strategy management game uniting Champions from throughout the D&amp;D multiverse into a grand adventure.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Strategy"
+],
+"name": "Idle Champions of the Forgotten Realms",
+"price": "Free",
+"release": "Mar 25, 2020",
+"ts": "2026-11-05T17:00:21.336045+00:00"
+},
 "630060": {
 "desc": "This is a cure Department of small fresh plot to the chamber of Secrets escape game, rich in 18 kinds of endings, a lot of funny content and hidden secrets.",
 "descriptors": [],
@@ -16968,6 +17104,19 @@
 "total": 3717,
 "ts": "2026-07-19T04:18:50.151279+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"821250": {
+"desc": "Sail, scavenge, and rescue survivors in a vibrant floating city-builder. Captain your drifters across the endless garbage sea to uncover soaked ruins, rusting factories, and stories from the old world.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Flotsam",
+"price": "$24.99",
+"release": "Dec 4, 2025",
+"ts": "2026-11-05T17:00:26.649909+00:00"
 },
 "865360": {
 "desc": "As we explore these frozen wastes, misfortune strikes once again. Through the fierce blizzard, a flare lights the sky, followed by a cry for help over the radio - broken, dying... No one else can come to their rescue. Can we make it back - together?",
