@@ -2154,6 +2154,19 @@
 "ts": "2026-09-16T13:58:41.879624+00:00",
 "verdict": "Very Positive"
 },
+"2411200": {
+"desc": "Explore a dangerous fantasy world in this role-playing dungeon crawler with tactical, turn-based combat. Assemble a party of adventurers, upgrade your gear, and explore a fully handcrafted world.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Underkeep",
+"price": "$19.50",
+"release": "Nov 5, 2026",
+"ts": "2026-11-06T16:33:58.779167+00:00"
+},
 "2412960": {
 "desc": "Survive on the edge of space! Craft and upgrade tools, scavenge resources, and save a galaxy gone completely off the rails. Can Ordinary Man save the galaxy with the help of the immortal Chicken and some duct tape?",
 "descriptors": [
@@ -2304,6 +2317,18 @@
 "total": 66,
 "ts": "2026-07-22T04:15:38.200009+00:00",
 "verdict": "Very Positive"
+},
+"2448570": {
+"desc": "Road Rash, the franchise which defined the combat racing genre, returns in the first ever digital version of the game. This 30th Anniversary Edition includes a fully relicensed soundtrack, higher resolution cinematics, up to 60 FPS gameplay, and more.",
+"descriptors": [],
+"genres": [
+"Action",
+"Racing"
+],
+"name": "Road Rash\u2122: 30th Anniversary Edition",
+"price": "$4.99",
+"release": "Nov 5, 2026",
+"ts": "2026-11-06T16:33:47.965386+00:00"
 },
 "2456860": {
 "desc": "In the barren wasteland on the brink of extinction, the last Train departs, supposedly carrying its passengers in search of a place where they can survive. A creature named Eilf boards the Train, determined to travel to Spring - the station that has been said to have vanished.",
@@ -5415,6 +5440,20 @@
 "ts": "2026-09-11T13:11:37.445650+00:00",
 "verdict": "Very Positive"
 },
+"3273260": {
+"desc": "Can a toy car become the hero of a video game? One night, its owner mysteriously vanished without a trace. Left alone in the quiet room, this little car sets out on a spooky and mysterious\u00a0journey - to find the boy...",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Racing"
+],
+"name": "Lost Host",
+"price": "$13.49",
+"release": "Nov 4, 2026",
+"ts": "2026-11-06T16:33:44.336559+00:00"
+},
 "3275750": {
 "desc": "Finland 1994. The golden era of action is back. Dive into a gritty, story-driven sandbox where the 90s hit hard. Survive as Seppo &quot;Zeze&quot; Sahtivaara, drive retro cars, listen to a killer soundtrack, master intense 1v1 fights, and soak in pure nostalgia. Grab a beer and enjoy a Sauna by the lake.",
 "descriptors": [
@@ -6578,6 +6617,20 @@
 "ts": "2026-07-31T04:20:14.878378+00:00",
 "verdict": "Very Positive"
 },
+"3499520": {
+"desc": "Piano in online multiplayer lobbies, with leaderboards, gamified training modes (ear, sheet, rhythm, 4K/7K and falling notes). Play any song using either a QWERTY computer/laptop keyboard or a piano. Convert any piano video or sheet music into falling notes tutorial/MIDI.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Animation & Modeling"
+],
+"name": "Piano Glow",
+"price": "$17.49",
+"release": "Nov 6, 2026",
+"ts": "2026-11-06T16:33:36.751058+00:00"
+},
 "3501540": {
 "desc": "A city builder set in a world of magic. Build a village and care for the people who live there, with the help of hidden spirits you discover along the way. Watch your town grow and flourish as you expand, create, and decorate.",
 "descriptors": [],
@@ -6772,6 +6825,18 @@
 "ts": "2026-10-02T15:16:08.674033+00:00",
 "verdict": "Very Positive"
 },
+"3546610": {
+"desc": "Single-player horde survival with a touch of incremental base building. Cast spells, command troops, and take your town from puddle to paradise. Eight-minute runs. Eight hours to complete.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Wielders of the Essence",
+"price": "$5.39",
+"release": "Nov 5, 2026",
+"ts": "2026-11-06T16:33:51.560950+00:00"
+},
 "3547270": {
 "desc": "Remote work simulator where you are a worm :)",
 "descriptors": [],
@@ -6951,6 +7016,19 @@
 "total": 53,
 "ts": "2026-09-20T13:24:51.701890+00:00",
 "verdict": "Very Positive"
+},
+"3577020": {
+"desc": "Clean and organize other people\u2019s homes while uncovering emotional stories through the objects you find. Discover each room\u2019s unique history, dig up secrets, and feel the satisfaction of tidying up the space in this wholesome, casual puzzle game about new beginnings in a foreign country.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Clean Start",
+"price": "$9.99",
+"release": "Nov 5, 2026",
+"ts": "2026-11-06T16:34:02.585853+00:00"
 },
 "3584120": {
 "desc": "\ud83d\ude9b Truck Town: Kids and Toddlers Driving Game is a fun and easy driving game designed for young kids (ages 3-5). Drive a friendly truck around a colorful city, learn to use a controller or keyboard, and explore interactive areas that teach numbers, colors, and more in a playful way!",
@@ -7961,6 +8039,19 @@
 "total": 74,
 "ts": "2026-10-16T19:48:56.353349+00:00",
 "verdict": "Very Positive"
+},
+"3760370": {
+"desc": "Kick is a nostalgic tale of making your way to school, all the while honing your soccer skills throughout challenging levels packed with unique challenges. Do you have what it takes to Kick it?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Sports"
+],
+"name": "Kick",
+"price": "$3.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-06T16:34:06.179742+00:00"
 },
 "3764970": {
 "desc": "Become the Mexican Ninja and fight to take back Nuevo Tokyo, where Narcos and Yakuzas have fused into the ruthless Narkuzas. Master slick combos, unleash outrageous Mexican Jutsus and craft deadly builds in this fast, chaotic 2.5D roguelike beat \u2019em up.",
@@ -9133,6 +9224,20 @@
 "total": 60,
 "ts": "2026-09-13T13:36:20.139331+00:00",
 "verdict": "Very Positive"
+},
+"3951810": {
+"desc": "At this table, cheating is the game. Hide your power cards up your sleeve or down your pant leg, then strike when the time is right. But stay sharp - a scratch isn't always a cheat. This table is full of traps...",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Cheater's Table",
+"price": "$5.94",
+"release": "Nov 5, 2026",
+"ts": "2026-11-06T16:33:55.114287+00:00"
 },
 "3957810": {
 "desc": "BEGHOST is a narrative-heavy 2D action-adventure game set in the bowels of a haunted dungeon. Uncover the dungeon's darkest secrets with your ghost girl companion Bee, as you navigate your way through enemies, traps, and more, in a desperate attempt to escape!",
@@ -11807,6 +11912,22 @@
 "ts": "2026-10-16T19:48:53.021111+00:00",
 "verdict": "Very Positive"
 },
+"4318080": {
+"desc": "A BLOOD-soaking Movement-FPS platformer\ud83e\ude78where you Splatter walls and floors with your foe\u2019s BLOOD. Stand in that BLOOD to [ALTER] yourself and your Weapons. Soak up BLOOD to replenish and keep fighting. MOTHER created you to stop them. Beckon our Extinction.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "ALTEREDBLOOD+ [AB+]",
+"price": "$8.49",
+"release": "Nov 4, 2026",
+"ts": "2026-11-06T16:33:33.174819+00:00"
+},
 "4319660": {
 "desc": "A cozy incremental game about growing your way home. Strategically plant flowers, optimize machinery, and grow your tree tall enough to escape!",
 "descriptors": [],
@@ -13276,6 +13397,19 @@
 "release": "Oct 20, 2026",
 "ts": "2026-10-23T14:01:23.096615+00:00"
 },
+"4555040": {
+"desc": "Sushiamo is a roguelike deck-builder where you make sushi to reach absurd scores. Discover unique ingredients, sauces, game-changing tools, and navigate the map to break the game with insane combos!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Sushiamo",
+"price": "$11.99",
+"release": "Nov 4, 2026",
+"ts": "2026-11-06T16:33:29.312142+00:00"
+},
 "4555950": {
 "desc": "You\u2019re stuck on the night shift. The code refuses to compile, the deadline is on fire, and your mind is no longer yours. To keep from passing out and blowing the entire shift, you have to drink coffee. Lots of it.",
 "descriptors": [],
@@ -13795,6 +13929,17 @@
 "total": 60,
 "ts": "2026-08-07T21:33:32.870067+00:00",
 "verdict": "Very Positive"
+},
+"4621810": {
+"desc": "Run your own ice cream shop in a vibrant Caribbean setting! Prepare ice cream, mix flavors, add toppings, serve customers, keep your shop clean, restock ingredients, hire staff, and expand your shop from a small stand into a busy business.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Livin' the Cream: Ice Cream Simulator",
+"price": "$7.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-06T16:34:09.687546+00:00"
 },
 "4622110": {
 "desc": "The sequel to &quot;My Cold Girlfriend&quot; is here! Live under the same roof with your tsundere cousin sister sporting red twin tails, experience her daily quiet care beneath her sharp tongue, and unlock exclusive sweet and heartwarming summer moments.",
@@ -15893,6 +16038,20 @@
 "release": "Oct 23, 2026",
 "ts": "2026-10-25T13:30:49.504487+00:00"
 },
+"5017810": {
+"desc": "The dragon's hoard has gotten out of hand. Sit back, sweep up mountains of gold coin by coin, fill chest after chest, and give every buried treasure its rightful place on the shelves. Watch chaos turn into order, piece by piece. A cozy organizing game. There are cats.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Gildoria - Organize a Dragon's Hoard",
+"price": "$4.49",
+"release": "Nov 5, 2026",
+"ts": "2026-11-06T16:34:13.481114+00:00"
+},
 "5018390": {
 "desc": "In this free prologue, step into a world full of relaxing yard work. Complete the first three jobs where you'll use a variety of tools, such as a lawnmower, pressure washer, or leaf blower. But that's not all - there's so much more to do!",
 "descriptors": [],
@@ -16860,6 +17019,19 @@
 "price": "Free",
 "release": "Oct 26, 2026",
 "ts": "2026-10-28T15:41:33.331620+00:00"
+},
+"5365410": {
+"desc": "Explore thousands of builds and MMO-style progression in a 1\u20134 player action roguelite. Discover party synergies and hidden skill interactions, take a god's form, and keep your gear and growth after each run.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "ASTERIS",
+"price": "$16.99",
+"release": "Nov 5, 2026",
+"ts": "2026-11-06T16:33:40.441839+00:00"
 },
 "5372440": {
 "desc": "Onion Voting Simulator 3D is an action-packed walking sim where you perform America's most taboo act: Voting. It\u2019s Election Day and your choice could change the country's fate! But it won\u2019t be easy: Resist the allure of staying home! Explore a school gym! And don\u2019t get lost, because Hell is real!",
