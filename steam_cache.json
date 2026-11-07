@@ -1157,6 +1157,17 @@
 "ts": "2026-09-08T13:14:26.903561+00:00",
 "verdict": "Very Positive"
 },
+"1876930": {
+"desc": "Start by running a saloon and carve your own place in the Wild West. Shape your bar, hire help, and get drawn into the lives and troubles of the people who gather around your counter. Out here, honest business is rarely enough. See what it takes to survive the frontier.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Saloon Simulator",
+"price": "$11.39",
+"release": "Nov 6, 2026",
+"ts": "2026-11-07T15:20:34.529060+00:00"
+},
 "1890310": {
 "desc": "Rogue Blight is a rogue-lite with focus on souls-like combat, featuring a Slay The Spire-inspired map system. Fight your way through ever-changing maps. Customize your playstyle based on what you find. Death is punishing. Only skill and persistence will carry you forward.",
 "descriptors": [],
@@ -1783,6 +1794,18 @@
 "total": 5376,
 "ts": "2026-09-11T13:09:15.085505+00:00",
 "verdict": "Very Positive"
+},
+"2229820": {
+"desc": "Design, maintain and manage a hi-tech hospital facility, making the most of limited resources and turning cures into cash. Can you balance the books and the bedpans?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Theme Hospital\u2122",
+"price": "$2.49",
+"release": "Nov 5, 2026",
+"ts": "2026-11-07T15:20:27.197678+00:00"
 },
 "2231460": {
 "desc": "A service industry adventure with an apocalyptic flavor. A manic genre mashup told across two broken realities. Step through the cracks: find your Exit.",
@@ -5453,6 +5476,18 @@
 "price": "$13.49",
 "release": "Nov 4, 2026",
 "ts": "2026-11-06T16:33:44.336559+00:00"
+},
+"3275210": {
+"desc": "From one-person online store to e-commerce giant - pack, drive and deliver orders across the open world of Pionero Island. Grow with employees, vehicles, properties and new businesses until the company runs without you. Solo or co-op",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Early Access"
+],
+"name": "Pionero Capital",
+"price": "$14.95",
+"release": "Nov 4, 2026",
+"ts": "2026-11-07T15:20:23.549214+00:00"
 },
 "3275750": {
 "desc": "Finland 1994. The golden era of action is back. Dive into a gritty, story-driven sandbox where the 90s hit hard. Survive as Seppo &quot;Zeze&quot; Sahtivaara, drive retro cars, listen to a killer soundtrack, master intense 1v1 fights, and soak in pure nostalgia. Grab a beer and enjoy a Sauna by the lake.",
@@ -16069,6 +16104,18 @@
 "ts": "2026-09-24T13:59:03.761102+00:00",
 "verdict": "Very Positive"
 },
+"5019170": {
+"desc": "This desktop incremental shooter pits you against swarms of mechanical bugs spawning from screen edges to destroy your PC core. Grab weapons and shoot to hold back bug waves. Earn gold each run to unlock a massive skill tree, upgrading weapons, damage, desktop pets, special abilities.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "DESKTOP BUG KILLER",
+"price": "$4.24",
+"release": "Nov 5, 2026",
+"ts": "2026-11-07T15:20:19.783315+00:00"
+},
 "5019920": {
 "pct": 93,
 "total": 72,
@@ -16444,6 +16491,20 @@
 "price": "$3.99",
 "release": "Nov 3, 2026",
 "ts": "2026-11-05T17:01:53.493493+00:00"
+},
+"5119400": {
+"desc": "A tycoon game about building a racing factory from your garage. Scavenge, buy or design your own parts, fix cars, and climb every tier of motorsport. Balancing tight finances and decaying parts forces hard calls: repairs, upgrades, or paying the debts to keep the team alive.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Racing",
+"Sports",
+"Strategy"
+],
+"name": "WORKS: Motorsport Factory",
+"price": "$15.99",
+"release": "Nov 5, 2026",
+"ts": "2026-11-07T15:20:30.751788+00:00"
 },
 "5120650": {
 "desc": "Transform a chaotic area into a satisfying work of art. Follow the paver layout plan and place 4,064 pavers in their correct locations. Work alone or together with friends, develop useful skills, and restore the plaza piece by piece.",
