@@ -5072,6 +5072,18 @@
 "ts": "2026-10-02T15:16:32.508400+00:00",
 "verdict": "Very Positive"
 },
+"3186040": {
+"desc": "Want to grab cute Taffies and toss them around? Dilly-draggy Taffy Town is a casual town-building fan game inspired by indie VTuber Ace Taffy. No one-way doors, complex Metroidvania maps or tough bosses\u2014just loads of Taffies to drag around with your big, merciless hands!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "\u62d6\u62d6\u62c9\u62c9\u5c0f\u83f2\u9547",
+"price": "$1.99",
+"release": "Aug 29, 2025",
+"ts": "2026-11-08T15:42:13.024203+00:00"
+},
 "3195440": {
 "desc": "Welcome to Elderfield, a cozy horror RPG with hand-drawn art and dark lofi music. Manage your farm, befriend or romance the locals, investigate mysteries, decorate your home, fight terrifying creatures, fish, cook, seek the Old Gods, die in your sleep, and more... There's lots to do in Elderfield!",
 "descriptors": [],
@@ -5635,6 +5647,19 @@
 "total": 271,
 "ts": "2026-10-14T20:26:03.302855+00:00",
 "verdict": "Very Positive"
+},
+"3296060": {
+"desc": "Class is (back) in session with Escape Academy 2: Back 2 School! Play in solo or co-op and explore an all-new campus, escape life-threatening puzzle rooms, and unravel a conspiracy as old as the school itself \u2014 all before the bell rings.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "Escape Academy 2: Back 2 School",
+"price": "$16.99",
+"release": "Nov 5, 2026",
+"ts": "2026-11-08T15:44:07.393800+00:00"
 },
 "3299080": {
 "desc": "Start with nothing but a ticket booth in the mountains. Clear snow, chop wood, crack ice off rooftops, all by hand, all in first person. Serve drinks, cook meals, repair ski gear, and turn a rundown mountain stop into a full-blown resort with a hotel, restaurant, bar, and shop.",
@@ -6286,6 +6311,18 @@
 "total": 162,
 "ts": "2026-07-14T17:22:11.669614+00:00",
 "verdict": "Very Positive"
+},
+"3393720": {
+"desc": "Take control of your very own Ramen Shop! Transform a cozy, worn-out Japanese alley back into a vibrant hotspot. From scrubbing floors to cooking the perfect bowl of ramen. Decorate every corner, upgrade everything, and create your unique shop.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Early Access"
+],
+"name": "Ramen Shop Simulator",
+"price": "$13.49",
+"release": "Nov 3, 2026",
+"ts": "2026-11-08T15:44:35.829446+00:00"
 },
 "3396010": {
 "desc": "Black Friday Janitor is a organization game that hands you the biggest clean up job of the year. Over 30,000 things to tidy up: misplaced products to return to their correct spots, rubbish to collect, dirt to scrub, and fallen furniture to set back upright. Don't expect to finish it all in one go!",
@@ -7051,6 +7088,20 @@
 "total": 53,
 "ts": "2026-09-20T13:24:51.701890+00:00",
 "verdict": "Very Positive"
+},
+"3573120": {
+"desc": "Create and combine your own spells through a dynamic spellcrafting system. Fight through a hostile kingdom, disrupt its events and grow your magical powers on a quest to slay the king.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "SpellChain",
+"price": "$8.99",
+"release": "Nov 5, 2026",
+"ts": "2026-11-08T15:44:03.836022+00:00"
 },
 "3577020": {
 "desc": "Clean and organize other people\u2019s homes while uncovering emotional stories through the objects you find. Discover each room\u2019s unique history, dig up secrets, and feel the satisfaction of tidying up the space in this wholesome, casual puzzle game about new beginnings in a foreign country.",
@@ -9072,6 +9123,19 @@
 "ts": "2026-08-22T02:13:04.938631+00:00",
 "verdict": "Very Positive"
 },
+"3929380": {
+"desc": "Retro arcade golf meets real physics. Build your golfer, master your swing and take on Birdie or Bust, where every hole is all or nothing. Play solo or challenge rivals worldwide. 25% off until November 16!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Sports"
+],
+"name": "Golf 5 MAX",
+"price": "$9.74",
+"release": "Nov 2, 2026",
+"ts": "2026-11-08T15:44:32.324738+00:00"
+},
 "3929570": {
 "desc": "In November 755, An Lushan launched a rebellion against the Tang Empire. You will be appointed as the acting Military Governor of Shuofang. Conquer territories on a free-roaming world map, build your armies, develop cities, and navigate various events as you fight to quell the rebellion.",
 "descriptors": [],
@@ -9616,6 +9680,18 @@
 "total": 65,
 "ts": "2026-08-25T02:16:51.124750+00:00",
 "verdict": "Very Positive"
+},
+"3994790": {
+"desc": "Learn to DJ for real with a USB DJ controller or mouse and keyboard. Master beatmatching, EQ and effects in 26 interactive lessons, then rise from house parties to festival stages while a living crowd reacts to every mix you play.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "DJ Life Simulator: Learn to DJ for Real",
+"price": "$15.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-08T15:44:14.344167+00:00"
 },
 "3997240": {
 "desc": "A militaria collecting simulator where you hunt for items through metal detecting, auctions, and markets to build your collection and customize your home. Travel to various locations to uncover the relics of different conflicts throughout history.",
@@ -12075,6 +12151,19 @@
 "ts": "2026-08-06T04:02:16.091866+00:00",
 "verdict": "Very Positive"
 },
+"4337040": {
+"desc": "A base of the worst nightmares. Try to escape before your soul is destroyed...",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Noa and the Bandits' Den",
+"price": "$8.99",
+"release": "Nov 6, 2026",
+"ts": "2026-11-08T15:44:21.774136+00:00"
+},
 "4337440": {
 "desc": "A story-driven productivity adventure where you work alongside Memorie, an apprentice witch from another world. As you focus using the Pomodoro timer, the story progresses and her world gradually transforms. Turn solitary work into time shared with someone.",
 "descriptors": [],
@@ -14229,6 +14318,18 @@
 "ts": "2026-09-07T14:41:33.877256+00:00",
 "verdict": "Very Positive"
 },
+"4655130": {
+"desc": "Find outfits, fall in love with angels, and build a harem! Start a relaxing journey in Heaven Miner and build a unique harem.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Heaven Miner",
+"price": "$5.94",
+"release": "Nov 2, 2026",
+"ts": "2026-11-08T15:44:18.039502+00:00"
+},
 "4655600": {
 "desc": "In 1921: a kidnapping, a revolution... Investigate and uncover the truth behind a dark, mysterious story.",
 "descriptors": [],
@@ -14872,6 +14973,18 @@
 "ts": "2026-07-19T04:20:45.055513+00:00",
 "verdict": "Very Positive"
 },
+"4784510": {
+"desc": "Live through the final days of an old man in a small village threatened by an approaching giant Leviathan. An existential horror game about inevitability, loneliness, and a man with nowhere to go and no reason to leave.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Leviathan: Rhino",
+"price": "$4.98",
+"release": "Nov 6, 2026",
+"ts": "2026-11-08T15:44:10.869880+00:00"
+},
 "4790520": {
 "desc": "&quot;ELEVATOR: AVICI&quot; is a 1st-person psychological horror with a retro, HK lo-fi aesthetic. Trapped in a decaying apartment elevator, your only link to the outside is a strange voice on the intercom claiming to be a repairman. Will you follow his commands, or find your own escape from the darkness?",
 "descriptors": [
@@ -15468,6 +15581,20 @@
 "ts": "2026-10-03T14:07:54.275796+00:00",
 "verdict": "Very Positive"
 },
+"4904200": {
+"desc": "Civitas: World Simulator\u00a0is a deep historical-fantasy simulation where nations will dynamically rise, fall, and evolve. In this game we model internal forces like ethnicity, culture, language and other inner political struggles.",
+"descriptors": [
+5
+],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "Civitas: World Simulator",
+"price": "$10.87",
+"release": "Nov 4, 2026",
+"ts": "2026-11-08T15:44:28.768632+00:00"
+},
 "4911340": {
 "desc": "In the fictional port city of Rissebra, you work as a marine insurance underwriter. Review the documents brought to your desk by shipowners, and uncover the risks hidden in their vessels, routes, and cargo. The decision to approve or reject each insurance contract rests entirely on your judgment.",
 "descriptors": [],
@@ -16058,6 +16185,19 @@
 "ts": "2026-10-13T19:44:03.970623+00:00",
 "verdict": "Very Positive"
 },
+"5009390": {
+"desc": "Welcome to Bob Company! Fill orders, haul goods, and make work easier with automation. Rise from Intern to Director in a relaxing first-person warehouse sim. Each promotion opens new areas of the company and reveals more of the stories behind it.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "BOB LOGISTICS",
+"price": "$5.39",
+"release": "Nov 2, 2026",
+"ts": "2026-11-08T15:44:39.388908+00:00"
+},
 "5013160": {
 "desc": "Co-op hookah shop sim for 1 to 4 friends. Run Ghalyan's Hookah Lounge on a space station: pack the bowl, light the coals, serve the aliens and act normal. Nothing on this station is normal.",
 "descriptors": [
@@ -16352,6 +16492,20 @@
 "ts": "2026-09-27T14:29:42.407712+00:00",
 "verdict": "Very Positive"
 },
+"5088960": {
+"desc": "Let's show\u3008Yuu\u3009, the new student, around school. A short psycho-horror visual novel depicting a mysterious relationship with her, unfolding without context like a dream. The Steam version of an experimental retro game designed to fit on a single 3.5-inch floppy disk.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "DISK-Y",
+"price": "$1.69",
+"release": "Nov 6, 2026",
+"ts": "2026-11-08T15:44:00.336020+00:00"
+},
 "5090060": {
 "desc": "Command your ship and fleet in a galaxy that truly lives: 150 sectors where six factions mine, haul, trade, build and wage war whether you're there or not. Trade it, rob it, defend it \u2014 or forge your own fleet and carve out your place in it.",
 "descriptors": [],
@@ -16550,6 +16704,20 @@
 "total": 64,
 "ts": "2026-10-10T14:58:35.708874+00:00",
 "verdict": "Very Positive"
+},
+"5131440": {
+"desc": "1983: a killer satellite is put into orbit, then forgotten. 2041: it wakes up, and everything circling the Earth becomes a target. One shot, a cloud of debris, a chain reaction. A short incremental pixel-art game where you set off the Kessler syndrome.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "KESSLER: Orbital Incremental",
+"price": "$4.49",
+"release": "Nov 6, 2026",
+"ts": "2026-11-08T15:44:25.290107+00:00"
 },
 "5133900": {
 "desc": "A juicy first-person incremental game about turning cute creatures into cans. Kill them, collect their bodies, can them, and sell them. Make money, upgrade your weapons and machines, and produce more and more.",
