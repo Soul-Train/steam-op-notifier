@@ -4061,6 +4061,19 @@
 "ts": "2026-10-14T20:26:13.856783+00:00",
 "verdict": "Very Positive"
 },
+"2950410": {
+"desc": "A strategic roguelite auto-battler for 1-3 players. Travel through time, recruit historical figures, and gear them up with badass equipment for ridiculous combos. Master tactical missions solo or with friends. Ready to save the world?",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy",
+"Early Access"
+],
+"name": "Gear Up Einstein!",
+"price": "$12.57",
+"release": "Nov 6, 2026",
+"ts": "2026-11-09T19:25:07.228461+00:00"
+},
 "2950790": {
 "desc": "IRON NEST is a brutal dieselpunk heavy-artillery game where you dominate the battlefield through a colossal war machine. Take map measurements based on the received coordinates, strain the hydraulics, and gunlay the cannons to unleash devastating blows \u27f9 Will you obey High Command, Operator?",
 "descriptors": [],
@@ -4573,6 +4586,21 @@
 "total": 72,
 "ts": "2026-08-23T02:22:26.517208+00:00",
 "verdict": "Very Positive"
+},
+"3086720": {
+"desc": "Follow Sybil in her pursuit for survival, having to sacrifice everything - her culture, her identity, her values - to achieve a single objective: escape from a place that is constantly trying to kill her. A short game about persecution and identity.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "One's Own Exile",
+"price": "Free",
+"release": "May 15, 2025",
+"ts": "2026-11-09T19:23:16.656710+00:00"
 },
 "3088400": {
 "desc": "Deadly Trick is a social deduction game playable with up to 8 players. Survive the death game unfolding at school under the name &quot;Special Class.&quot; Depending on the situation or your own choices, you could become the White or the Shadow! Cooperate\u2026 or betray.",
@@ -7184,6 +7212,19 @@
 "total": 555,
 "ts": "2026-10-19T16:04:01.216882+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"3591900": {
+"desc": "Chivalware is a frantic tile-matching action roguelite. Challenge your reflexes and coordination in real-time on a grid battlefield: evade attacks, match tiles to charge your weapons, and find the right opportunity to strike.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Chivalware",
+"price": "$8.99",
+"release": "Nov 5, 2026",
+"ts": "2026-11-09T19:25:24.835851+00:00"
 },
 "3597200": {
 "desc": "In this deckbuilder your deck plays automatically. Upgrade, enchant and stickerize your cards to create clever cascading effects that defeat monsters and other players. Can you reach the Grail?",
@@ -10657,12 +10698,22 @@
 "Simulation"
 ],
 "name": "The Plant Shop",
-"pct": 97,
 "price": "$4.49",
 "release": "Sep 16, 2026",
-"total": 76,
-"ts": "2026-09-18T13:20:03.812175+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-09T19:23:20.098436+00:00"
+},
+"4140700": {
+"desc": "Start with nothing and build your own business empire in sunny Miami Beach! Sell lemonade, run vending machines, automate your companies and turn small side jobs into big profits in this relaxed first-person simulator.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Cash is King! Business Simulator",
+"price": "$14.39",
+"release": "Nov 5, 2026",
+"ts": "2026-11-09T19:25:35.548183+00:00"
 },
 "4141710": {
 "desc": "Sit back and relax with Neko Station, a cozy 2D Pixel Art Desktop Idle Game! Manage your very own 'cat train,' decorating it with the perfect furniture to attract a diverse cast of feline customers. Pick them up at various stations and build friendships in this heartwarming adventure.",
@@ -12995,6 +13046,20 @@
 "ts": "2026-10-06T18:43:52.233573+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4476270": {
+"desc": "Survive the Hundred Years' War in this medieval ensemble sandbox. Play as 1,015 historical figures, from Joan of Arc to the imposter des Armoises. Gain glory as a knight, forge a new kingdom to crush England and France, or thrive as a bandit. Discover 22 tarot-based multiple endings!",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Crown & Coin: The Hundred Years",
+"price": "$19.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-09T19:25:28.370961+00:00"
+},
 "447700": {
 "desc": "An all-star cast of heroes has gathered to test their mettle in this cute and chaotic new color-matching ONLINE combat game! Crystal Crisis is presented like a fighting game, but players attack by arranging falling crystals and clearing them from the screen. It\u2019s the ultimate Online puzzle battle throwdown!",
 "descriptors": [],
@@ -13737,6 +13802,21 @@
 "ts": "2026-09-06T12:32:28.056667+00:00",
 "verdict": "Very Positive"
 },
+"4576490": {
+"desc": "Casualties: Unknown is an unforgiving cave-exploration survival simulator. Your captors have tasked you with retrieving lost cargo on a foreign planet, explore its 11 layers and do your best to survive diverse hostile environments. You are just one of the thousands of test subjects sent to die.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Simulation"
+],
+"name": "Casualties: Unknown",
+"price": "$19.54",
+"release": "Nov 9, 2026",
+"ts": "2026-11-09T19:25:17.919518+00:00"
+},
 "4580600": {
 "desc": "Run your bar as a gorilla and hunt down the humans in animal costumes hiding among your customers. Observe them closely, spot the clues that give their disguises away, test their slogans, and blow the imposters away with your shotgun. Choose your targets wisely... or become the hunted.",
 "descriptors": [],
@@ -13990,6 +14070,20 @@
 "total": 57,
 "ts": "2026-08-08T21:24:44.263502+00:00",
 "verdict": "Very Positive"
+},
+"4612650": {
+"desc": "Watch the behavior of the office clerks closely and find the one who is merely pretending to be human. You have only one bullet to survive this cycle. Make a mistake, and the anomaly will attack you.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Metro Anomaly",
+"price": "$3.19",
+"release": "Nov 6, 2026",
+"ts": "2026-11-09T19:25:39.089291+00:00"
 },
 "4613180": {
 "desc": "Train an AutoDog to escape a dystopian mecha-city in this tactical roguelite. Craft powerful modular attacks, plan every move with stress-free real-time previews, and unleash devastating chain reactions to outsmart hordes of killjoy robots!",
@@ -14742,6 +14836,20 @@
 "ts": "2026-10-15T20:11:10.061059+00:00",
 "verdict": "Very Positive"
 },
+"4736470": {
+"desc": "Run your own data center. Design server boards component by component and use your boards space wisely. Wire power and network throughout your floor to form specialized clusters, and dispatch contracts to your custom hardware. Scale from a single rack to a massive redundant, multi-cluster operation.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Dead Sector",
+"price": "$16.99",
+"release": "Nov 3, 2026",
+"ts": "2026-11-09T19:25:42.633102+00:00"
+},
 "4736640": {
 "desc": "Sinheritance is a terrifying and mind-bending puzzle game. Explore every corner in an intensely oppressive atmosphere to piece together a chilling story. Every step must be taken with caution, for the deepest fears often stem from your own choices and your gradually crumbling sanity.",
 "descriptors": [
@@ -15472,6 +15580,19 @@
 "ts": "2026-10-15T20:10:49.445969+00:00",
 "verdict": "Very Positive"
 },
+"4880410": {
+"desc": "An idle-like alien colony simulator. Study an alien species and expand the colony to discover all their peculiar behaviours.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Tenebrarium",
+"price": "$3.89",
+"release": "Nov 6, 2026",
+"ts": "2026-11-09T19:25:14.432320+00:00"
+},
 "4881550": {
 "desc": "GEL RUN is a colorful obstacle-course adventure where being flexible is your greatest power.",
 "descriptors": [],
@@ -15911,6 +16032,19 @@
 "price": "Free",
 "release": "Aug 11, 2026",
 "ts": "2026-10-26T15:40:48.675290+00:00"
+},
+"4960570": {
+"desc": "An idle cultivation game at the bottom of your desktop. While you work, your thief steals, sells fakes and auctions loot to ascend. When Heaven notices, can he still steal his way to the top?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Get It Free",
+"price": "$3.24",
+"release": "Nov 5, 2026",
+"ts": "2026-11-09T19:25:10.867625+00:00"
 },
 "4964580": {
 "desc": "Museologist: Tidy Up the Museum! A single-player simulation. The whole collection has fallen apart. Find where each fragment belongs, piece it back together like a puzzle, and restore 543 objects from 3,513 scattered pieces.",
@@ -16766,6 +16900,19 @@
 "ts": "2026-10-10T14:58:48.706822+00:00",
 "verdict": "Very Positive"
 },
+"5157730": {
+"desc": "Snow of Penglai is a yuri-themed visual novel set in ancient China. Players will step into the shoes of Xuanhua, a puppet girl, and confront everything about the witch Zhu Hanchuan. This is a story of rebirth. A lotus rising, bleeding, blooming anew.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Snow of Penglai",
+"price": "$0.79",
+"release": "Nov 5, 2026",
+"ts": "2026-11-09T19:25:21.365739+00:00"
+},
 "5158320": {
 "desc": "This is a open world hunting simulation. Hunt some of North Americas best hunting spots for trophy Whitetail Deer, Mule Deer, and more to come soon! Manage and grow your bucks from one year to the next. Hunt with multiple firearms including compound bows, Rifle, Shotgun &amp; Muzzleloader.",
 "descriptors": [],
@@ -16916,6 +17063,20 @@
 "total": 62,
 "ts": "2026-10-20T14:02:37.318292+00:00",
 "verdict": "Very Positive"
+},
+"5190490": {
+"desc": "One More Floor is a short incremental game. Ride an elevator into the mines, hit the targets to multiply your coins each floor, and cash out before you die. Unlock new mines, collect rare gems, and buy permanent prestige upgrades.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "One More Floor",
+"price": "$3.39",
+"release": "Nov 3, 2026",
+"ts": "2026-11-09T19:25:32.001707+00:00"
 },
 "5190580": {
 "desc": "HELENA: Cloud District is an atmospheric first-person exploration game where you explore a decaying mega-structure to photograph strange plants and uncover fragments of melancholic memories.",
