@@ -2921,6 +2921,21 @@
 "ts": "2026-09-18T13:20:20.657401+00:00",
 "verdict": "Very Positive"
 },
+"2638080": {
+"desc": "A story-driven roguelite RPG about a journey through the depths with a broken hero \u2014 and what they have to answer for. The hero's party has been annihilated: you carry one of them out of a cursed dungeon, learn what broke them, and settle it together. Four routes, four heroes, four reckonings.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie",
+"RPG"
+],
+"name": "Annihilated",
+"price": "$15.29",
+"release": "Nov 9, 2026",
+"ts": "2026-11-10T22:08:27.893309+00:00"
+},
 "2638890": {
 "desc": "An Oni Gauntlet-wielding samurai makes a stand in Kyoto against the encroaching Genma menace. Through gritty, blood-soaked brawls, he searches for his reason to fight. What fate awaits at the end of his path?",
 "descriptors": [
@@ -3044,6 +3059,20 @@
 "total": 83,
 "ts": "2026-08-07T01:03:15.520134+00:00",
 "verdict": "Very Positive"
+},
+"2670430": {
+"desc": "Dashoot: ABYA's Adventure is a pixel-art precision platformer. Fire your floating cannon to trigger switches and move platforms. Grab items to dash with varying charges, directions and distances. Chart a path underground, restart power stations, and uncover the AI Deus's secrets.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Racing"
+],
+"name": "Dashoot: ABYA's Adventure",
+"price": "$5.59",
+"release": "Nov 9, 2026",
+"ts": "2026-11-10T22:08:17.464473+00:00"
 },
 "2680280": {
 "desc": "In the cute cardboard world, something went horribly wrong... Use the magical pencil, a good old shotgun, and various other weapons as well as the strength of your mighty boots, to uncover the dark truth and find out WHY WOULD CARDBOARD... BLEED?",
@@ -3485,6 +3514,19 @@
 "total": 66,
 "ts": "2026-08-23T02:22:49.548039+00:00",
 "verdict": "Very Positive"
+},
+"2780850": {
+"desc": "When I was sunken in a deep depression, I set off on a journey.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Moon-Oriented Autonomous Biological Model",
+"price": "$1.69",
+"release": "Nov 3, 2026",
+"ts": "2026-11-10T22:08:38.182557+00:00"
 },
 "2781470": {
 "desc": "Beat the Devil at his own game. The Killing Stone is a deckbuilding card battler wrapped in a 17th century occult horror narrative. Clean the sins of a cursed family by bargaining against a series of demons - and outwitting the Devil himself.",
@@ -4259,6 +4301,17 @@
 "price": "$9.99",
 "release": "Feb 19, 2026",
 "ts": "2026-10-26T15:40:44.693606+00:00"
+},
+"3014860": {
+"desc": "The legendary jumping game is back! Join Harold the Homeboy and friends as they jump up the Icy Tower. Make combo jumps to build up massive scores. How high can you get?",
+"descriptors": [],
+"genres": [
+"Indie"
+],
+"name": "Icy Tower",
+"price": "$8.49",
+"release": "Nov 10, 2026",
+"ts": "2026-11-10T22:08:41.571525+00:00"
 },
 "3020510": {
 "desc": "This Three Kingdoms sandbox RPG lets you do whatever you wish in the late Han Dynasty. Be a ruler, courtier, or hermit. Make friends, marry, raise children, manage estates, train yourself &amp; allies, govern, drill troops, experience &amp; alter history, and conquer all to win the hearts of the people.",
@@ -9037,6 +9090,18 @@
 "ts": "2026-08-01T04:19:38.890428+00:00",
 "verdict": "Very Positive"
 },
+"3909220": {
+"desc": "Explore an abandoned school where memories linger longer than the living. Uncover the mystery of your best friend\u2019s disappearance. Dodge bullets.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Free To Play"
+],
+"name": "Yuki\u300c\u6e05\u9192\u68a6\u300d",
+"price": "Free",
+"release": "Oct 24, 2025",
+"ts": "2026-11-10T22:06:32.647190+00:00"
+},
 "391000": {
 "desc": "Enjoy the farmhouse gems with this solid set of 12 Farm Frenzy titles! Join Scarlett throughout all of her adventures in hundreds of farming challenges. Raise chickens, ostriches, and dolphins. Bake cakes, grow crops, and sell items at markets. It's an all-out farming assault with one of the most enjoyed series ever!",
 "descriptors": [],
@@ -10344,6 +10409,20 @@
 "total": 56,
 "ts": "2026-10-12T18:27:56.029359+00:00",
 "verdict": "Very Positive"
+},
+"4088360": {
+"desc": "Search the ashes of an abandoned Latin American town and uncover 400 years of secrets. An epic non-linear mystery where you travel back in time and untangle the history of a community cursed by generations of supernatural forces.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Funeral for the Sun",
+"price": "$17.99",
+"release": "Nov 9, 2026",
+"ts": "2026-11-10T22:08:20.916894+00:00"
 },
 "4092940": {
 "desc": "A shooting dopamine machine! Lucky Shot is a roguelike mag-builder FPS where you master different weapons, build wild combos, and break the game to reach massive high scores.",
@@ -12607,6 +12686,18 @@
 "ts": "2026-10-19T16:06:03.007061+00:00",
 "verdict": "Very Positive"
 },
+"4402200": {
+"desc": "A base-building survival game with terraforming and crafting. Earth lies poisoned and abandoned ten thousand years after invasion. Awaken from stasis, defend your fragile foothold, and restore a dead world so humanity can live here again.",
+"descriptors": [],
+"genres": [
+"Strategy",
+"Early Access"
+],
+"name": "Project Tomorrow",
+"price": "$5.94",
+"release": "Nov 9, 2026",
+"ts": "2026-11-10T22:08:31.305990+00:00"
+},
 "4403010": {
 "desc": "A pachinko-roguelite about scoring big numbers. Build your board, pop pegs, and discover run-breaking stickers.",
 "descriptors": [],
@@ -13394,6 +13485,19 @@
 "ts": "2026-07-30T03:54:17.638324+00:00",
 "verdict": "Very Positive"
 },
+"4530370": {
+"desc": "Choose the club. Shape the squad. Set the tactics as the manager of the world\u2019s greatest football clubs. FM27 is where footballing beliefs become reality in a living, breathing football world that blends strategy with RPG in the ultimate sport simulation game.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Sports",
+"Strategy"
+],
+"name": "Football Manager 27",
+"price": "$59.99",
+"release": "Nov 10, 2026",
+"ts": "2026-11-10T22:08:34.761786+00:00"
+},
 "4530780": {
 "desc": "The sequel to Brother Hai's Pho Restaurant! While a manhunt unfolds elsewhere, in an unrelated development, you're a HUST student selling Banh Mi at the legendary Parabol Gate. Manage your cart and keep the sales booming!",
 "descriptors": [],
@@ -13629,6 +13733,20 @@
 "total": 339,
 "ts": "2026-09-17T14:02:19.864061+00:00",
 "verdict": "Very Positive"
+},
+"4559930": {
+"desc": "Build and manage a spiritual market inspired by Japan, welcome wandering spirits, produce and sell resources, and grow your space through memories and a cozy atmosphere.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Oboro no Ichi",
+"price": "$11.04",
+"release": "Nov 9, 2026",
+"ts": "2026-11-10T22:08:24.491397+00:00"
 },
 "4560660": {
 "desc": "Arena combat meets mercenary club management. Recruit from a dynamic market, build your squad, and compete season after season in leagues and cups.",
@@ -14132,6 +14250,18 @@
 "total": 79,
 "ts": "2026-10-03T14:08:00.912853+00:00",
 "verdict": "Very Positive"
+},
+"4618570": {
+"desc": "Rip open booster packs and pull your next foil hero in Booster Pack Heroes - an incremental game where every pack could contain your next powerhouse. Defend the tower from an endless onslaught of monsters and fight your way through the realms.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Strategy"
+],
+"name": "Booster Pack Heroes",
+"price": "$6.99",
+"release": "Nov 10, 2026",
+"ts": "2026-11-10T22:08:48.517489+00:00"
 },
 "4618590": {
 "desc": "Play as Conrad, the town's executioner. Investigate a mysterious death, gather clues, question suspects and solve puzzles in this classic point-and-click mystery where witchcraft and superstition conceal a far darker truth.",
@@ -15276,6 +15406,20 @@
 "ts": "2026-08-27T00:24:49.124647+00:00",
 "verdict": "Very Positive"
 },
+"4832970": {
+"desc": "What the Buck?! is a satisfying incremental game about destroying money. Shred stacks of cash, set off chain reactions across the table, prestige for permanent upgrades and automate your money destruction. Your demo progress carries over to the full game.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "What the Buck?!",
+"price": "$4.89",
+"release": "Nov 9, 2026",
+"ts": "2026-11-10T22:08:44.920740+00:00"
+},
 "4833450": {
 "desc": "A girl detective faces her darkest mystery yet, in this horror-romance visual novel with stickers, fashion, and bad ends.",
 "descriptors": [
@@ -15701,6 +15845,18 @@
 "total": 51,
 "ts": "2026-10-03T14:07:54.275796+00:00",
 "verdict": "Very Positive"
+},
+"4901540": {
+"desc": "Pick up a brick and build a little world. Follow the instructions, add stickers, and collect new models in this cozy brick-building game. Unwind on your own or grow your collection with friends.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Brick Buddies",
+"price": "$5.39",
+"release": "Nov 8, 2026",
+"ts": "2026-11-10T22:08:52.075764+00:00"
 },
 "4904200": {
 "desc": "Civitas: World Simulator\u00a0is a deep historical-fantasy simulation where nations will dynamically rise, fall, and evolve. In this game we model internal forces like ethnicity, culture, language and other inner political struggles.",
@@ -16975,6 +17131,20 @@
 "total": 53,
 "ts": "2026-10-05T17:40:32.445214+00:00",
 "verdict": "Very Positive"
+},
+"5175310": {
+"desc": "1 Teacher vs 7 Students. Hide. Prank. Survive. Up to 8-player asymmetric party chaos! Mischievous students blend into dozens of NPC classmates, secretly snacking, texting, and causing trouble, while the teacher must spot these wannabe delinquents and restore complete order to the classroom.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Worst Class Ever",
+"price": "$4.54",
+"release": "Nov 9, 2026",
+"ts": "2026-11-10T22:08:55.438872+00:00"
 },
 "5179280": {
 "desc": "Goddess Cultivation: Idle RPG is a fantasy idle JRPG. Summon goddesses, forge bonds, fight goblins &amp; minotaurs, and uncover a conspiracy. It blends turn-based combat, collection &amp; customization, balancing tactics with relaxed offline growth.",
