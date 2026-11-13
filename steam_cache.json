@@ -1998,6 +1998,23 @@
 "ts": "2026-10-22T14:17:54.730495+00:00",
 "verdict": "Very Positive"
 },
+"2280360": {
+"desc": "Scarecrow: 90s Crime Story blends narrative adventure with brutal top-down action. In a crime-ridden town of humans and animals, you're a resident by day and a hitman by night. Uncover your buried past before it catches up with you.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Scarecrow: 90s Crime Story",
+"price": "$9.59",
+"release": "Nov 12, 2026",
+"ts": "2026-11-13T01:38:18.397514+00:00"
+},
 "2285550": {
 "desc": "Play as a young scavenger and construct your vertical farm one platform at a time under extreme weather. Evolving from a scrap-gathering survivor into an easygoing farming tycoon. Transform the climate, and remake the wasteland into your personal Eden.",
 "descriptors": [],
@@ -2225,6 +2242,19 @@
 "total": 290,
 "ts": "2026-09-01T13:52:28.042274+00:00",
 "verdict": "Very Positive"
+},
+"2423290": {
+"desc": "Handmancers is a Rock, Paper, Scissors Roguelite deckbuilder with a first-person twist where clear tactical choices meet deck-building depth. Craft your deck, enhance your cards, equip tricky artifacts and face powerful enemies in strategic fights",
+"descriptors": [],
+"genres": [
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Handmancers",
+"price": "$16.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-13T01:38:43.439828+00:00"
 },
 "2431080": {
 "desc": "From the creators of Nidhogg, murder hordes of monsters in this 2D platforming autoshooter with a killer soundtrack. Collect Blood, gold, and bones to increase your powers. Can you survive the Blood Dungeon?",
@@ -3828,6 +3858,19 @@
 "total": 2102,
 "ts": "2026-07-17T07:13:16.661595+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"2847780": {
+"desc": "Ignite your sword and explore the dark depths and towering heights of a forgotten island that consumed itself long ago.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Nocturnal 2",
+"price": "$8.09",
+"release": "Nov 10, 2026",
+"ts": "2026-11-13T01:38:21.907845+00:00"
 },
 "2854440": {
 "desc": "You, a military officer from our great autocratic motherland, must protect our precious rockets from the evil capitalist enemy in this revolutionary base building strategy game. Bribe! Surveil! Purge! Imbibe! The end justifies the means when you have to protect our invaluable rockets!",
@@ -5732,6 +5775,18 @@
 "total": 82,
 "ts": "2026-08-01T04:19:15.489681+00:00",
 "verdict": "Very Positive"
+},
+"3285880": {
+"desc": "In MONOMOON, the way forward is reserved for the knowing and the daring. Guided by moonlight, you\u2019ll uncover hidden truths and wander through a tiny and mysterious open world.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "MONOMOON",
+"price": "$10.79",
+"release": "Nov 11, 2026",
+"ts": "2026-11-13T01:38:11.067214+00:00"
 },
 "3287230": {
 "desc": "Explore a world without your eyes and ears to guide you. Uncover the secrets this world has to offer, hoard all the items you can find or get lost trying.",
@@ -9429,6 +9484,19 @@
 "ts": "2026-09-24T13:58:40.281986+00:00",
 "verdict": "Very Positive"
 },
+"3936340": {
+"desc": "HELL WAIT is riichi mahjong crossed with roguelike deckbuilding. Stack your jokers. Upgrade your yaku. Try not to deal in. You'll need those fingers.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Hell Wait",
+"price": "$12.74",
+"release": "Nov 9, 2026",
+"ts": "2026-11-13T01:38:25.576728+00:00"
+},
 "3938640": {
 "desc": "Become a sushi chef in a cozy Japanese conveyor belt sushi bar! \ud83c\udf63 Prepare sushi on your crafting table, serve quirky customers, learn new recipes, unlock fresh ingredients, upgrade your kitchen, and build relationships with your regular customers.",
 "descriptors": [],
@@ -11121,6 +11189,22 @@
 "total": 553,
 "ts": "2026-08-30T19:36:08.728786+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4176000": {
+"desc": "The true sequel to False Myth\u2014 a true classic JRPG \u00d7 beautiful-heroine adventure! Rouge, the agile assassin, sets off with his companions to uncover the truth behind the mysterious girl Sylphina, weaving the most heartrending and fiery \u201cTale of Hearts.\u201d",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "False Myth 2",
+"price": "$17.99",
+"release": "Nov 4, 2026",
+"ts": "2026-11-13T01:38:47.026867+00:00"
 },
 "4178020": {
 "desc": "Run your own cozy aquarium! Travel far and wide to catch exotic fish. Put them on display for idle profits, or sell them for instant cash. Unlock research for new upgrades, and ascend for powerful bonuses. Customize your shop, character, and tanks to make your aquarium your own!",
@@ -12922,6 +13006,17 @@
 "ts": "2026-08-28T22:52:32.925233+00:00",
 "verdict": "Very Positive"
 },
+"4408320": {
+"desc": "An award-winning 4v4 third-person class shooter with more personality than sense! The mobile classic millions grew up with is now on PC. Choose from 11 unique classes, mix hundreds of thousands of loadout combinations, and battle it out online or with friends across 16 wacky maps!",
+"descriptors": [],
+"genres": [
+"Action"
+],
+"name": "BATTLE BEARS GOLD",
+"price": "$6.99",
+"release": "Nov 11, 2026",
+"ts": "2026-11-13T01:38:36.289805+00:00"
+},
 "4412320": {
 "desc": "Dumb Ways to Build is a chaotic, physics-based co-op game. Team up with friends to assemble your crew and take-on dangerous construction jobs. With all the gear and no idea, work together to build your path forward, or die trying!",
 "descriptors": [],
@@ -13558,6 +13653,20 @@
 "ts": "2026-09-23T13:59:51.037469+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4521650": {
+"desc": "Grow fresh ingredients and run your own little restaurant. Enjoy a peaceful day that stretches from the field to the table. Plan a fresh menu for a delightful day, keep your pantry full, and make your customers happy. Earn your own money and build your little world step by step.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Farm & Feast",
+"price": "$11.99",
+"release": "Nov 11, 2026",
+"ts": "2026-11-13T01:38:39.801699+00:00"
+},
 "4524800": {
 "desc": "You are a British WW1 soldier, trapped in an endless looping trench. Inspect your surroundings and report anything that is out of place. Will you escape? Shellshock is a short anomaly hunting experience (-30 minutes) inspired by liminal spaces and psychological horror.",
 "descriptors": [
@@ -14043,6 +14152,20 @@
 "total": 97,
 "ts": "2026-09-06T12:32:28.056667+00:00",
 "verdict": "Very Positive"
+},
+"4574820": {
+"desc": "Climb out of the trash and fight your way back to the artist who rejected you. Defeat sketches, steal their strengths, and begin a months-long incremental journey through an ever-growing web of stats, upgrades, prestige layers, automation, and absurd numbers. Easy to start, hard to master.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Rejected Draft",
+"price": "$9.87",
+"release": "Nov 11, 2026",
+"ts": "2026-11-13T01:38:32.753100+00:00"
 },
 "4576490": {
 "desc": "Casualties: Unknown is an unforgiving cave-exploration survival simulator. Your captors have tasked you with retrieving lost cargo on a foreign planet, explore its 11 layers and do your best to survive diverse hostile environments. You are just one of the thousands of test subjects sent to die.",
@@ -14617,6 +14740,19 @@
 "ts": "2026-08-23T02:23:02.760238+00:00",
 "verdict": "Very Positive"
 },
+"4646190": {
+"desc": "A Roguelite survivor starring streamers. Rescue your followers to stay off the unemployment line, unlock unique characters, stack powerful runes, and become a wrecking ball of total chaos. Learn. Die. Repeat.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "Just Dying",
+"price": "$7.64",
+"release": "Nov 4, 2026",
+"ts": "2026-11-13T01:38:50.591767+00:00"
+},
 "4650950": {
 "desc": "&quot;Please make me human.&quot; A visual novel about a robot longing to become &quot;human&quot; in a world torn apart by rampaging AI. An unforgettable summer unfolds between a boy who has nowhere to call home and a humanoid girl who dreams of marriage...",
 "descriptors": [
@@ -14739,6 +14875,20 @@
 "total": 56,
 "ts": "2026-09-15T14:05:01.814692+00:00",
 "verdict": "Very Positive"
+},
+"4665590": {
+"desc": "Lost in the void, a space probe awakens to a mind it was never designed to possess. Apotheosis Engine is a lore-rich incremental game about exploring an alien operating system and growing from a simple probe into a digital deity.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Apotheosis Engine",
+"price": "$8.09",
+"release": "Nov 11, 2026",
+"ts": "2026-11-13T01:38:14.716046+00:00"
 },
 "4665920": {
 "desc": "Mad Merchant is an incremental management game. Build, arm, and command a merchant train across a hostile wasteland. Choose your routes, trade for profit, upgrade your wagons, and survive deadly ambushes on the rails.",
@@ -15142,6 +15292,21 @@
 "ts": "2026-09-21T15:33:56.638923+00:00",
 "verdict": "Very Positive"
 },
+"4739500": {
+"desc": "JOHN GLEEP is a tiny alien with a big problem. His casino is a failure and he owes the mob a galaxy. Solution? Fly from planet to planet and forcibly abduct gamblers to boost business, pay off your debt, and fix your failed marriage in this unexplainable intergalactic action-roguelike mashup.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "JOHN GLEEP",
+"price": "$9.59",
+"release": "Nov 11, 2026",
+"ts": "2026-11-13T01:38:00.055601+00:00"
+},
 "4740420": {
 "desc": "&lt;A Love Letter in Snowfall&gt; is a live-action, multi-ending interactive romance movie game. As a young B&amp;B keeper in a small southern town, you meet, and fall for a visiting actress\u2014every choice rewrites your love story. Meet someone, and fall in love that trembles in bones.",
 "descriptors": [],
@@ -15253,6 +15418,22 @@
 "total": 54,
 "ts": "2026-07-24T04:12:02.432708+00:00",
 "verdict": "Very Positive"
+},
+"4767430": {
+"desc": "Summer nears. A campus photo job brings you to caring beauty Liu Shilin, aloof yet warm artist Li Feier, mischievous model Xia Wei, and childhood friend Le Tong. Together, you plan graduation shoots, each lending your talents, as your own summer romance with four unique girls quietly begins.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Love in Summer",
+"price": "$10.78",
+"release": "Nov 11, 2026",
+"ts": "2026-11-13T01:38:07.357301+00:00"
 },
 "4771880": {
 "desc": "Solo-developed in 2 months. Three Kingdoms: Yi is a 2D turn-based roguelite deckbuilder. Command a sovereign across 8 provinces and 49 cities \u2014 form your battle line, sway enemy generals, raise banners, awaken your avatar. Every choice reshapes your deck and destiny. No two runs are alike.",
@@ -16462,6 +16643,17 @@
 "release": "Aug 5, 2026",
 "ts": "2026-08-20T17:21:11.118467+00:00"
 },
+"4984400": {
+"desc": "Word Game Tower Defense. Spell AXE to harvest wood. Spell FORT to make an armored tower. Every word you spell becomes a tower with unique stats and powers. Every word is also a unique level with procedural challenges. 121,683 levels. Together we must clear them all to reach paradise.",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Towers of Babble",
+"price": "$7.19",
+"release": "Nov 10, 2026",
+"ts": "2026-11-13T01:38:03.623012+00:00"
+},
 "4984870": {
 "desc": "Selkie\u2019s Salvage&amp;Co. is a first-person physics based incremental fishing game. Your task is to clean up the flooded planet! Fish up scrap, grind all of it down and collect trinkets of the past. Expand your salvaging operation and go beyond!",
 "descriptors": [],
@@ -17484,6 +17676,18 @@
 "ts": "2026-09-23T14:01:36.723952+00:00",
 "verdict": "Very Positive"
 },
+"5211290": {
+"desc": "GroundInFlames is real-time tactics about modern combined-arms warfare. Trenches, suppression and squad morale, FPV drones and electronic warfare, honest armor penetration and vehicle modules. Manpower is scarce, supply runs out, and the enemy only knows what it has seen.",
+"descriptors": [],
+"genres": [
+"Strategy",
+"Early Access"
+],
+"name": "GroundInFlames",
+"price": "$10.79",
+"release": "Nov 10, 2026",
+"ts": "2026-11-13T01:38:54.156518+00:00"
+},
 "5212940": {
 "desc": "Bunker Tidy Up is a relaxing game about organizing a bunker. Arrange 17,437 supplies on shelves, categorize resources, and relax!",
 "descriptors": [],
@@ -17785,6 +17989,21 @@
 "price": "Free",
 "release": "Oct 26, 2026",
 "ts": "2026-10-27T15:09:16.784994+00:00"
+},
+"5378110": {
+"desc": "Mow lawns in first person on a beat-up riding mower, solo or online co-op up to 6 players. You're a grumpy old man who smokes, drinks cheap beer and doesn't care, but leaves perfect stripes. A picky neighbor, an abandoned golf course, an island wedding.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "One More Lawn",
+"price": "$4.89",
+"release": "Nov 12, 2026",
+"ts": "2026-11-13T01:38:29.200814+00:00"
 },
 "5404010": {
 "desc": "A dark isometric action RPG with click-to-move combat, deep loot and five classes with three skill trees each. A pet loots for you and grows. Four acts of random maps, alone or with up to 8 players online. Three world levels and the endless Pyre. Loot, die, return.",
