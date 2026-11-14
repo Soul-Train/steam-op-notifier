@@ -2308,6 +2308,19 @@
 "ts": "2026-08-01T04:19:18.817015+00:00",
 "verdict": "Very Positive"
 },
+"2437330": {
+"desc": "A combo-based deckbuilding roguelike through a space-time loop: collect cards, receive blessings, add pets to your party, and grow stronger. Chain together cards in the right order for max power, and act before the enemy does. Build synergistic decks, find many secrets, and make BIG numbers!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"RPG",
+"Strategy"
+],
+"name": "Novus Orbis",
+"price": "$11.99",
+"release": "Nov 13, 2026",
+"ts": "2026-11-14T01:11:48.628378+00:00"
+},
 "2438180": {
 "desc": "What does your dog get up to when you're not home? In this bone-afide adventure, unleash adorable chaos, solve puzzles, and leave your mark (literally!) as a mischievous pup on the loose.",
 "descriptors": [],
@@ -2398,6 +2411,22 @@
 "price": "$4.99",
 "release": "Nov 5, 2026",
 "ts": "2026-11-06T16:33:47.965386+00:00"
+},
+"2450350": {
+"desc": "Prepare for goblin-packed, hat-stealing, and princess-fattening team based 16v16 combat! Siege the castle walls, rescue your pudgy princess, fatten up the enemy princess with delicious meat, unlock new hats &amp; classes, and kill each other repeatedly in silly and chaotic PvP war!",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "Fat Goblins",
+"price": "$13.49",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:12:03.004583+00:00"
 },
 "2456860": {
 "desc": "In the barren wasteland on the brink of extinction, the last Train departs, supposedly carrying its passengers in search of a place where they can survive. A creature named Eilf boards the Train, determined to travel to Spring - the station that has been said to have vanished.",
@@ -3888,6 +3917,20 @@
 "total": 76,
 "ts": "2026-09-05T12:17:50.724191+00:00",
 "verdict": "Very Positive"
+},
+"2860490": {
+"desc": "\u3010Village-Building Action RPG\u3011Reincarnated into a ravaged world ruled by the Demon King. Gather resources, build your village, and swap hats to change classes! But when the Idol Demon King throws a live concert, a massive wave of hyped-up monsters stampedes straight toward your village!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG",
+"Early Access"
+],
+"name": "Warota: I Live Next to The Demon King's Castle LOL",
+"price": "$22.49",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:11:59.374607+00:00"
 },
 "2861210": {
 "desc": "HYPNOS is a first-person adventure and exploration game, set in a lovecraftian megastructure fever dream. Enter the Nameless City at the edge of Dreams. Follow the trail into the shadow of the Holy Mountain. Embrace your destiny.",
@@ -5470,6 +5513,19 @@
 "total": 81,
 "ts": "2026-10-22T14:18:04.984908+00:00",
 "verdict": "Very Positive"
+},
+"3218570": {
+"desc": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for the big festival!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "TANUKI: Pon's Summer",
+"price": "$16.99",
+"release": "Nov 10, 2026",
+"ts": "2026-11-14T01:11:55.830845+00:00"
 },
 "3219010": {
 "desc": "Fight through the fog in this sci-fi roguelike deckbuilder where clever positioning, explosive chain-reactions, and the environment itself can make the difference between life and death.",
@@ -8562,6 +8618,23 @@
 "ts": "2026-08-16T13:27:32.212325+00:00",
 "verdict": "Very Positive"
 },
+"3816120": {
+"desc": "Interactive movie\u2011game blending SLG gameplay and real\u2011life romance simulation: Step into the shoes of an underdog and live out a power\u2011fantasy rags\u2011to\u2011riches story. Combat, character progression, drinking and romance \u2014 all in one! 100\u2011GB content volume- redefines your power\u2011fantasy experience!",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Casual",
+"RPG",
+"Simulation",
+"Strategy"
+],
+"name": "Re2 I Rise Alone",
+"price": "$7.19",
+"release": "Nov 13, 2026",
+"ts": "2026-11-14T01:09:38.749528+00:00"
+},
 "3817250": {
 "desc": "+ follow the white rabbit + hop, skip, and jump to become one with joyeuse, until you are no longer you +",
 "descriptors": [],
@@ -10401,6 +10474,17 @@
 "ts": "2026-07-17T07:15:25.165043+00:00",
 "verdict": "Very Positive"
 },
+"4045480": {
+"desc": "Draw your very own fish and build a cozy little aquarium. And if you like, set it as your animated desktop wallpaper! Watch your drawings come to life. Feed them, raise them and collect golden scales to unlock new decorations. There's also some handy tools to help you focus and unwind.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Drawquarium",
+"price": "$9.59",
+"release": "Nov 13, 2026",
+"ts": "2026-11-14T01:11:27.024341+00:00"
+},
 "4047270": {
 "desc": "Start with a single orc and build an unstoppable dark army to conquer the realms in this incremental auto battler. Perfect your formation, summon mighty beasts, unlock powerful upgrades, and grow stronger with each rebirth.",
 "descriptors": [
@@ -11411,6 +11495,19 @@
 "ts": "2026-08-07T21:31:39.823721+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4206910": {
+"desc": "Run your own Korean restaurant in Kimbap Heaven Simulator. Dive into a realistic cooking experience\u2014wash, blanch, and roll your way to success. Satisfy customers with delicious recipes, manage your finances, and expand your business to build a culinary empire.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Kimbap Heaven Simulator",
+"price": "$12.74",
+"release": "Nov 9, 2026",
+"ts": "2026-11-14T01:12:06.617739+00:00"
+},
 "4207990": {
 "desc": "Forge and combine magical gems, build deadly defenses, and survive relentless waves in the Flash-era tower defense classics GemCraft, Chapter Zero, and Labyrinth. Now with up to 9x speed, new hotkeys, easier gem combining, and smoother performance.",
 "descriptors": [],
@@ -12219,6 +12316,19 @@
 "ts": "2026-07-30T03:54:34.152536+00:00",
 "verdict": "Very Positive"
 },
+"4304060": {
+"desc": "The co-op action puzzle game series PICO PARK is back... and this time, we're teaming up with SEGA's legendary Sonic the Hedgehog! This collaboration is packed with co-op gameplay that combines the flair of Sonic with the puzzle teamwork fun of PICO PARK! Play locally or online with 2 to 8 players!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "SONIC PICO PARK",
+"price": "$9.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:11:52.119614+00:00"
+},
 "4304900": {
 "desc": "Big Dig is a short incremental narrative game about digging up artifacts to help Mayor Dog win the election! Recover artifacts, grow your museum, and upgrade your tools while building a highway across the Animal Republic!",
 "descriptors": [],
@@ -12894,6 +13004,19 @@
 "ts": "2026-10-19T16:06:03.007061+00:00",
 "verdict": "Very Positive"
 },
+"4390080": {
+"desc": "Join a family of bears and run the buzziest little honey farm! Collect and discover rare bees, bottle honey jars, expand your farm, and watch your flowery field bloom in this cozy idle management game.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Bottled by Bears",
+"price": "$7.49",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:11:34.184159+00:00"
+},
 "4402200": {
 "desc": "A base-building survival game with terraforming and crafting. Earth lies poisoned and abandoned ten thousand years after invasion. Awaken from stasis, defend your fragile foothold, and restore a dead world so humanity can live here again.",
 "descriptors": [],
@@ -13286,6 +13409,18 @@
 "ts": "2026-09-28T17:15:21.574516+00:00",
 "verdict": "Very Positive"
 },
+"4459590": {
+"desc": "A roguelike auto-battler defense where luck meets strategy. Spin a 3x3 slot machine to summon units and grow your army by absorbing others. Use Items and Cores to manipulate the odds and survive challenging judgement waves and boss waves. Every spin and every choice counts.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Slotbound",
+"price": "$8.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:12:13.802639+00:00"
+},
 "4461870": {
 "desc": "Birds of a feather solve puzzles together! An online co-op puzzle adventure for 2 friends (or soon-to-be-friends)",
 "descriptors": [],
@@ -13500,6 +13635,19 @@
 "total": 54,
 "ts": "2026-09-11T13:11:44.118163+00:00",
 "verdict": "Very Positive"
+},
+"4493130": {
+"desc": "You're the Ski-E-O - build the cozy ski resort of your dreams in this management tycoon game. Adapt to ever-changing weather, paint trails, build lifts, and place the lodges and apr\u00e8s bars that keep thousands of skiers warm, fed, and happy.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Ski-E-O! Ski Resort Tycoon",
+"price": "$17.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:11:41.448381+00:00"
 },
 "4502710": {
 "desc": "DWARF COMBAT! Stonewards is a 1-4 player co-op first-person roguelite defense game. Lead a crew of stubborn dwarves from your base camp to aid nearby kingdoms, mine deep for resources, forge powerful upgrades, and hold the line against relentless monster attacks.",
@@ -14355,6 +14503,20 @@
 "total": 64,
 "ts": "2026-08-31T16:37:22.508261+00:00",
 "verdict": "Very Positive"
+},
+"4602120": {
+"desc": "500 STABS. 20 MINUTES TO ESCAPE. A horror roguelite about stabbing yourself in the hand 500 times to escape a deadly trap. Can you make it out with all your fingers? Or will you bleed out on the table?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie"
+],
+"name": "500 FINGER FILLET",
+"price": "$4.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:11:44.984181+00:00"
 },
 "4603670": {
 "desc": "A virus is spreading. You can't afford to pickle everyone. Keep the bar open and decide who gets pickled before the outbreak decides who dies.",
@@ -15692,6 +15854,20 @@
 "ts": "2026-08-31T16:37:15.434060+00:00",
 "verdict": "Very Positive"
 },
+"4829780": {
+"desc": "Frontier Tale is a cozy adventure farming game that blends extraction-style gameplay with town building. Forge weapons, explore a charming cel-shaded fantasy world, gather rare resources, recruit unique companions, and build your dream frontier from the ground up.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Frontier Tale",
+"price": "$12.59",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:12:10.298574+00:00"
+},
 "4830660": {
 "desc": "Just keep walking left. The latest Tsugunohi returns to the series\u2019 roots with its early visual style and atmosphere. On a sweltering summer day, a girl walks home past \u201crighteous\u201d people, a thread of salvation, and her mother beneath a white umbrella. Is that hand salvation\u2014or a curse?",
 "descriptors": [
@@ -16726,6 +16902,21 @@
 "ts": "2026-08-15T13:26:55.189160+00:00",
 "verdict": "Very Positive"
 },
+"4992660": {
+"desc": "Kenguin Sting, a failed horror writer, buys a cheap asset-store house to write his masterpiece. His only job: feed the cats. And keep Grandma on her pills. And survive 4 days and 4 nights. An absurd parody horror game.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "Scawy Game",
+"price": "$7.64",
+"release": "Nov 12, 2026",
+"ts": "2026-11-14T01:11:30.534329+00:00"
+},
 "4995030": {
 "desc": "Unwind in a relaxing first-person Tidy Up game where you'll sort and arrange 5,648 treasures in a papercraft world. Level up, unlock new skills, and tally every coin. Play solo or tidy up together with friends. Supports up to 16 players in online co-op.",
 "descriptors": [],
@@ -17560,6 +17751,20 @@
 "ts": "2026-10-21T14:22:48.212539+00:00",
 "verdict": "Very Positive"
 },
+"5185890": {
+"desc": "Zombies Aren't Real\u00a0is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!",
+"descriptors": [
+5
+],
+"genres": [
+"Strategy",
+"Early Access"
+],
+"name": "Zombies Aren't Real",
+"price": "$8.99",
+"release": "Nov 13, 2026",
+"ts": "2026-11-14T01:11:37.672515+00:00"
+},
 "5186690": {
 "desc": "Game Keeper: Somebody Messed Up My Shop! is a single-player organizing game set in a chaotic video game store. Sort 4,290 cases by genre and order, fill 96 racks, progress and unlock powerful abilities, and complete 650 parody-filled series - with questionable help from Jeff, the coolest cat ever.",
 "descriptors": [],
@@ -17702,6 +17907,18 @@
 "total": 96,
 "ts": "2026-09-25T14:23:13.577004+00:00",
 "verdict": "Very Positive"
+},
+"5217440": {
+"desc": "Experience liminal horror like never before. Inspired by the Backrooms, FailRooms traps you in an endless world of absurd architecture, broken spaces, and things that should never have been built. Laugh while you can. Can you escape a place that was never designed to make sense?",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "FailRooms",
+"price": "$4.49",
+"release": "Nov 10, 2026",
+"ts": "2026-11-14T01:12:17.332496+00:00"
 },
 "5220090": {
 "desc": "A cozy organizing simulator about tidying up your farm's biggest harvest ever. Tidy up the chaos by sorting 2500+ adorable fruits and vegetables into greenhouses, then explore the farm at day or night to uncover the secrets hidden beneath the valley!",
