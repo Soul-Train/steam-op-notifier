@@ -777,6 +777,20 @@
 "ts": "2026-07-19T04:20:48.442911+00:00",
 "verdict": "Very Positive"
 },
+"1652580": {
+"desc": "Imperial Grace is a visual novel about romance, medieval intrigue, and political strategy. Will you rule with your head, or your heart?",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Imperial Grace",
+"price": "$17.91",
+"release": "Nov 11, 2026",
+"ts": "2026-11-15T00:36:48.977880+00:00"
+},
 "1674270": {
 "desc": "Move fast and shoot fast in Cyberfrags '69. Double jump, wall-run, and blast your way to victory in intense PvP and Co-Op, or play as Cyber-Frank as he slaughters the Cyber-Nazis invading his home!",
 "descriptors": [
@@ -2537,6 +2551,23 @@
 "ts": "2026-08-27T22:45:40.500363+00:00",
 "verdict": "Very Positive"
 },
+"2498890": {
+"desc": "Inspired by early 2010s rage games, BOOM! Buster bursts through the arcade genre with a fresh, new experience in this unrelenting hot-potato platformer.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "BOOM! Buster",
+"price": "$7.99",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T00:37:21.189838+00:00"
+},
 "2499040": {
 "desc": "Volkolak: The Will of Gods is an epic 2D soulsvania in a dark Slavic fantasy setting, with hand-drawn animation. Explore an enchanted world full of secrets and enemies. Your choices will lead to several endings: become a warrior, a werewolf, or join the darkness.",
 "descriptors": [
@@ -4105,6 +4136,19 @@
 "price": "$19.99",
 "release": "Oct 29, 2026",
 "ts": "2026-10-31T14:58:26.530511+00:00"
+},
+"2925320": {
+"desc": "\u2764\ufe0f The 4th Cats and Seek series is here! We're off to Tokyo to find cats playing all around the city \ud83d\uddfc. Can you spot them all? \ud83d\ude3b",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Cats and Seek: Tokyo",
+"price": "Free",
+"release": "Apr 27, 2025",
+"ts": "2026-11-15T00:34:44.160274+00:00"
 },
 "2929040": {
 "desc": "From the creators of Halo Wars and Age of Empires, Fleetbreakers is an action RTS roguelite with satisfying fleet combat in bite-sized sessions. Strategic depth meets cataclysmic space battles in an ever-evolving campaign that keeps you coming back for just. One. More. Run.",
@@ -7920,6 +7964,18 @@
 "release": "Oct 29, 2026",
 "ts": "2026-11-04T16:44:46.119611+00:00"
 },
+"3687090": {
+"desc": "Dice Hoarder is a cozy organizing game where you restock a mysterious dice shop. Sort every die in the shop, match them into complete seven-piece sets, and uncover what is hidden behind your new job.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "Dice Hoarder",
+"price": "$5.39",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T00:37:03.361918+00:00"
+},
 "3687630": {
 "desc": "Join two close friends in building a cozy seaside B&amp;B. Every choice affects the story and your relationships. Spend heartfelt moments with six unique girls and create a summer worth remembering. 4K visuals, nearly 1,000 minutes of video, side stories, mini-games, and 20+ endings await.",
 "descriptors": [
@@ -8572,6 +8628,19 @@
 "price": "$2.80",
 "release": "Nov 5, 2026",
 "ts": "2026-11-11T23:17:33.165684+00:00"
+},
+"3810510": {
+"desc": "DERELIKT is a narrative retro FPS built for fans of claustrophobic PS1-era sci-fi horror.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "DERELIKT",
+"price": "$17.99",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T00:37:10.607054+00:00"
 },
 "3812600": {
 "desc": "Run a quaint electronics repair shop in mid-2000s Tokyo. Grow your business by carefully restoring iconic video game consoles, cell phones, music players, and other nostalgic devices. Talk to customers, hear their stories, and see how your decisions impact both their lives and your shop.",
@@ -10718,6 +10787,18 @@
 "release": "Oct 29, 2026",
 "ts": "2026-10-30T15:29:57.535614+00:00"
 },
+"4096910": {
+"desc": "Organize. Optimize. Obliterate. Void Reaver is a sci-fi bullet heaven where your backpack is your firepower. Grid-manage 300+ weapons and artifacts into explosive synergies, unlock specialized skill trees, and blast through alien hordes to a high-octane electronic soundtrack.",
+"descriptors": [],
+"genres": [
+"Action",
+"RPG"
+],
+"name": "Void Reaver",
+"price": "$7.19",
+"release": "Nov 11, 2026",
+"ts": "2026-11-15T00:37:17.671554+00:00"
+},
 "4098030": {
 "desc": "You're the manager of a bankrupt delivery service in the future. Do everything yourself or automate with robots and drones. VIP customers, the black market, competitors' dirty tricks, and van races\u2014just a glimpse of a vibrant city that holds many secrets.",
 "descriptors": [],
@@ -12300,6 +12381,18 @@
 "ts": "2026-09-16T13:58:31.789053+00:00",
 "verdict": "Very Positive"
 },
+"4301580": {
+"desc": "A raccoon co-op extraction game for 1-8 players, blending goofy horror with a roguelite twist. Loot procedural ruins, extract relics, defeat powerful bosses and rescue NPCs together\u2026 All while Mammon, the Greed Demon, tests your trust in each other.",
+"descriptors": [],
+"genres": [
+"Action",
+"Early Access"
+],
+"name": "Greedy",
+"price": "$7.99",
+"release": "Nov 9, 2026",
+"ts": "2026-11-15T00:36:41.879550+00:00"
+},
 "4302940": {
 "desc": "A relaxing idle market simulator that sits at the corner of your screen while you do other things.",
 "descriptors": [],
@@ -12957,6 +13050,20 @@
 "ts": "2026-08-24T02:21:23.694466+00:00",
 "verdict": "Very Positive"
 },
+"4382310": {
+"desc": "Trade, fight, and explore a procedurally generated galaxy in this deep space trading game inspired by 80's sci-fi computer screens and early text based space games. Command fleets, negotiate with alien factions, colonize planets, and forge your legacy across five unique career paths.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Free To Play"
+],
+"name": "Warp to Sector One",
+"price": "$10.19",
+"release": "Nov 12, 2026",
+"ts": "2026-11-15T00:36:56.232108+00:00"
+},
 "4384820": {
 "desc": "Global Football is a multiplayer football game focused on real skill, teamwork, and identity. Here, each player controls a single athlete on the field \u2014 not an entire team. No pay-to-win. No scripts. Victory depends solely on your game awareness, technique, and team chemistry.",
 "descriptors": [],
@@ -13223,6 +13330,21 @@
 "total": 204,
 "ts": "2026-08-27T00:24:56.002316+00:00",
 "verdict": "Very Positive"
+},
+"4424420": {
+"desc": "A multiplayer social deduction horror where spells are spoken aloud. One of you is altered. Cast magic with your voice, hunt the traitor, survive the ritual. Every word can save - or kill.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie"
+],
+"name": "Alterum",
+"price": "$8.99",
+"release": "Nov 9, 2026",
+"ts": "2026-11-15T00:36:52.598433+00:00"
 },
 "4424740": {
 "desc": "The prologue to Agent of Strange \u2014 a dark role-playing thriller where every mission is a labyrinth of choices and possibilities. Start your path as a Conspirator in a desperate struggle against the secret occult regime.",
@@ -15022,6 +15144,23 @@
 "total": 2388,
 "ts": "2026-09-10T13:15:16.417081+00:00",
 "verdict": "Overwhelmingly Positive"
+},
+"4661070": {
+"desc": "HANDS OVER is a 5-player co-op horror game where harmless challenges become cruel tests of luck and nerve. Bluff, sabotage your friends, play dirty, and stay at the table longer than anyone else.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Massively Multiplayer"
+],
+"name": "HANDS OVER",
+"price": "$2.54",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T00:37:14.148337+00:00"
 },
 "4664470": {
 "desc": "A cozy incremental game where you run your own bookstore! Buy hundreds of upgrades, unlock new customers and book types, hire different staff members and build the most profitable bookstore in the world!",
@@ -17779,6 +17918,19 @@
 "ts": "2026-10-03T14:08:17.481247+00:00",
 "verdict": "Very Positive"
 },
+"5189160": {
+"desc": "Start with a few shapes and build an army tens of thousands strong. Paint your troops onto the battlefield and send them to war against enormous hordes in this incremental auto battler where every unit is individually simulated.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "We March as One",
+"price": "$7.99",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T00:36:45.440407+00:00"
+},
 "5189500": {
 "desc": "A cozy potion-sorting puzzle game. Pour scrambled liquids until every bottle runs pure, then shelve each one where it belongs. Fill 4,160 potions across 52 shelves. No timers, no fail state, no rush.",
 "descriptors": [],
@@ -17836,6 +17988,20 @@
 "price": "Free",
 "release": "Oct 29, 2026",
 "ts": "2026-11-02T19:02:11.547415+00:00"
+},
+"5195200": {
+"desc": "Command a capital ship alone or up to 4 players co-op and hold the Belt of Ashes against the Hollow and more until relief arrives. Every upgrade is a turret bolted to a hardpoint you can see, your escorts you recruit keep their names and kills, and every fight has variety to make it new.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Engagement",
+"price": "$7.19",
+"release": "Nov 12, 2026",
+"ts": "2026-11-15T00:37:24.618549+00:00"
 },
 "5198670": {
 "desc": "Investigate a murder at Grimwick\u2019s harvest festival in this hand-drawn point-and-click mystery. Question suspicious locals, collect clues, use items, and uncover the truth behind a town that insists there was no murder.",
@@ -18191,6 +18357,20 @@
 "release": "Nov 5, 2026",
 "ts": "2026-11-06T16:33:40.441839+00:00"
 },
+"5367010": {
+"desc": "You are a reservist. Today is training day. One goal. Early dismissal.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "ROK Reserve Force",
+"price": "$15.00",
+"release": "Nov 6, 2026",
+"ts": "2026-11-15T00:37:06.981366+00:00"
+},
 "5372440": {
 "desc": "Onion Voting Simulator 3D is an action-packed walking sim where you perform America's most taboo act: Voting. It\u2019s Election Day and your choice could change the country's fate! But it won\u2019t be easy: Resist the allure of staying home! Explore a school gym! And don\u2019t get lost, because Hell is real!",
 "descriptors": [
@@ -18235,6 +18415,19 @@
 "price": "$5.99",
 "release": "Oct 30, 2026",
 "ts": "2026-11-04T16:44:57.234149+00:00"
+},
+"5458210": {
+"desc": "A chaotic online co-op building game for 1\u20138 players. Make bricks, build a giant pyramid and turn a small operation into a massive automated production line. Work together, hire help and find increasingly ridiculous ways to get those bricks to the top.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "How They Built the Pyramids",
+"price": "$4.19",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T00:36:59.885327+00:00"
 },
 "5475960": {
 "desc": "An incremental logistics game where traffic becomes a challenge. Haul goods from fields, forests and quarries through a procedurally generated town, earn money with every delivery and buy more trucks, until your own fleet jams the streets. Then fix it with traffic rules.",
