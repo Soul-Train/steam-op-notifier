@@ -7180,6 +7180,17 @@
 "ts": "2026-10-21T23:50:17.619237+00:00",
 "verdict": "8 user reviews"
 },
+"3540610": {
+"desc": "A top-down action roguelite where you capture pets and battle alien hordes. Choose your weapons and combine upgrades and items to create your own combat style. Capture alien creatures to use their abilities or bring them to your base for materials. Recruit new characters and conquer the planet!",
+"descriptors": [],
+"genres": [
+"Action"
+],
+"name": "Astral Hunter: Homebound",
+"price": "$7.19",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T21:28:19.093540+00:00"
+},
 "3541130": {
 "desc": "A short interactive essay on dreams, pressure, and expectations. Take part in an ancient ritual where one shot determines the fate of a generation.",
 "descriptors": [
@@ -10676,6 +10687,17 @@
 "ts": "2026-08-21T05:33:07.908600+00:00",
 "verdict": "Very Positive"
 },
+"4077320": {
+"desc": "Get ready to crack packs and throw cards in a single-player collectible card RPG! Explore a unique world while collecting your own cards to build the deck that'll make you a Cardaire legend.",
+"descriptors": [],
+"genres": [
+"RPG"
+],
+"name": "Cardaire: Eternal Aces",
+"price": "$11.99",
+"release": "Nov 9, 2026",
+"ts": "2026-11-15T21:28:08.123871+00:00"
+},
 "4078110": {
 "desc": "Another sun-filled day begins in this cozy pixel-art adventure. Gather, craft, upgrade, and help the villagers revive the land. Can you rebuild the grand Sunspire and bring the village back to its golden days?",
 "descriptors": [],
@@ -11253,6 +11275,22 @@
 "ts": "2026-08-12T14:18:25.341513+00:00",
 "verdict": "Very Positive"
 },
+"4159350": {
+"desc": "Test your sixth sense. Will you eat a wild rabbit, or tie someone to the train tracks? Every choice is yours to make. May you find a reason to laugh inside your nightmares.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "a Dogs Dream",
+"price": "$9.89",
+"release": "Nov 6, 2026",
+"ts": "2026-11-15T21:28:04.463873+00:00"
+},
 "4159680": {
 "desc": "Barfender is a chaotic 1\u20134 player co-op bar sim where you pour drinks, clean disasters, stop fights, and try to keep the bar alive while everything falls apart. Build the place, serve the crowd, survive the night.",
 "descriptors": [
@@ -11465,6 +11503,18 @@
 "total": 67,
 "ts": "2026-10-11T15:15:35.944334+00:00",
 "verdict": "Very Positive"
+},
+"4184810": {
+"desc": "An adrenaline-pumping bullet heaven where death is permanent. Hire and evolve unique companions, discover 950+ weapon variations, and fight through swarms of enemies and bosses. Grow stronger every run, but if your team falls, they're gone for good.",
+"descriptors": [],
+"genres": [
+"Action",
+"Strategy"
+],
+"name": "Bullet Meltdown",
+"price": "$7.99",
+"release": "Nov 8, 2026",
+"ts": "2026-11-15T21:27:57.170431+00:00"
 },
 "4190960": {
 "desc": "LOST &amp; FOUND is a free to play dynamic sorting game. Match forms to the right items and build your own warehouse, or compete with your friends in multiplayer mode after your shift is over.",
@@ -16344,6 +16394,18 @@
 "ts": "2026-10-15T20:10:49.445969+00:00",
 "verdict": "Very Positive"
 },
+"4876650": {
+"desc": "Somewhere under that mountain of bricks is your floor. Sort the impossible Pile with a magnet glove, sieves, and part-seeking vision. Fill labeled drawers, pull parts, watch MOC builds snap together brick by brick. Cozy, satisfying, and governed by one rule: never sort by color.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Never Sort By Color",
+"price": "$7.99",
+"release": "Nov 10, 2026",
+"ts": "2026-11-15T21:28:29.876488+00:00"
+},
 "4877750": {
 "desc": "Time-loop defense shooter. Aim yourself or let your squad fire on auto as orcs, goblins, boar riders and mechs flood in. Spend the loot on a 38-node upgrade tree, unlock five units, beat the boss waves, then rewind time for permanent upgrades.",
 "descriptors": [],
@@ -16504,6 +16566,18 @@
 "price": "$10.87",
 "release": "Nov 4, 2026",
 "ts": "2026-11-08T15:44:28.768632+00:00"
+},
+"4908110": {
+"desc": "Run a chaotic gas station sandbox: fuel cars, clean and repair vehicles, buy wild tools, catch wanted drivers, earn reviews, unlock upgrades, climb the leaderboard, or turn every stop into total mayhem.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Gas N Cars",
+"price": "$7.99",
+"release": "Nov 11, 2026",
+"ts": "2026-11-15T21:28:26.157509+00:00"
 },
 "4911340": {
 "desc": "In the fictional port city of Rissebra, you work as a marine insurance underwriter. Review the documents brought to your desk by shipowners, and uncover the risks hidden in their vessels, routes, and cargo. The decision to approve or reject each insurance contract rests entirely on your judgment.",
@@ -17436,6 +17510,19 @@
 "ts": "2026-10-15T20:11:03.096485+00:00",
 "verdict": "Very Positive"
 },
+"5069180": {
+"desc": "Hakurei Reimu comes to your desktop. Poke her or pick her up and she reacts just like Reimu would, and she'll keep an eye on your to-dos and alarms too. Blunt, but the type who quietly sticks by your side.",
+"descriptors": [
+5
+],
+"genres": [
+"Casual"
+],
+"name": "Touhou: Your Reimu",
+"price": "$1.69",
+"release": "Nov 10, 2026",
+"ts": "2026-11-15T21:28:15.316174+00:00"
+},
 "5084260": {
 "desc": "Help Fireboy and Watergirl explore the Forest Temple, the first game in the series. Play solo or team up with a friend locally or via Steam's Remote Play Together!",
 "descriptors": [],
@@ -17451,6 +17538,19 @@
 "total": 87,
 "ts": "2026-09-02T13:09:55.377186+00:00",
 "verdict": "Very Positive"
+},
+"5084410": {
+"desc": "Journey TD is a roguelite tower defense where your towers are the maze. Pick your elements and draft from 168 towers. Combine power-ups, gear, runes and three skill trees into deadly builds. Every week, battle other players on the same seed to top the leaderboard.",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy"
+],
+"name": "Journey TD",
+"price": "$7.99",
+"release": "Nov 11, 2026",
+"ts": "2026-11-15T21:28:00.780973+00:00"
 },
 "5086560": {
 "desc": "A tank combat action game with retro-style visuals, featuring WWII tanks in single-player battles.",
@@ -18242,6 +18342,19 @@
 "ts": "2026-10-17T16:05:52.635854+00:00",
 "verdict": "Very Positive"
 },
+"5264930": {
+"desc": "An ink-wash, single-player xianxia RPG. You spend years in seclusion seeking a clear Dao heart, while old friends break through or pass away. Pick your techniques, build your own style and fight hands-on from Qi Refining to Spirit Transformation. Join a sect, find a Dao companion, settle old debts.",
+"descriptors": [],
+"genres": [
+"RPG",
+"Simulation",
+"Early Access"
+],
+"name": "Guixu Cultivation: Mortal Realm",
+"price": "$12.88",
+"release": "Nov 12, 2026",
+"ts": "2026-11-15T21:28:11.661588+00:00"
+},
 "5266240": {
 "desc": "A first-person potato peeling game. You have a knife. You have a bucket. You have a mountain of potatoes. Peel them with real physics. Cut thin, waste nothing. Buy better tools. Finish the pile.",
 "descriptors": [],
@@ -18266,6 +18379,19 @@
 "price": "Free",
 "release": "Oct 21, 2026",
 "ts": "2026-10-30T15:30:05.011401+00:00"
+},
+"5295330": {
+"desc": "Water TD is a tower defense game where the enemy is a real flood. Hundreds of thousands of drops pour downhill toward your base, piling up, finding gaps and carving the terrain as they go. Shoot it, burn it, zap it, or blow it back. Just don't expect the ground to hold.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Water TD",
+"price": "$8.49",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T21:28:22.626210+00:00"
 },
 "5316540": {
 "desc": "Something has made a spectacular mess of this cozy Halloween shop. Put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. A relaxing first-person tidy-up, with a little mischief.",
@@ -18356,6 +18482,19 @@
 "price": "$16.99",
 "release": "Nov 5, 2026",
 "ts": "2026-11-06T16:33:40.441839+00:00"
+},
+"5365570": {
+"desc": "MATE, This Place is a MESS! is a cozy organizing game where you sort 5,000 yerba mate packages in a messy museum. Fill the shelves, brew your mate, unlock abilities and kick packages into place. At the end of the hall, a huge curtain hides the truth about the museum. What could it be?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "MATE, This Place is a MESS!",
+"price": "$4.49",
+"release": "Nov 13, 2026",
+"ts": "2026-11-15T21:27:53.550850+00:00"
 },
 "5367010": {
 "desc": "You are a reservist. Today is training day. One goal. Early dismissal.",
