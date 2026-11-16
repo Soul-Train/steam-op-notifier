@@ -1,4 +1,4 @@
-# Overwhelmingly Positive games (1422)
+# Overwhelmingly Positive games (1424)
 
 - [100 Asian Cats](https://store.steampowered.com/app/2667970/)
 - [100 Capitalist Cats](https://store.steampowered.com/app/2743080/)
@@ -1056,6 +1056,7 @@
 - [SONIC X SHADOW GENERATIONS](https://store.steampowered.com/app/2513280/)
 - [Sorry We're Closed](https://store.steampowered.com/app/1796580/)
 - [Soul Touch](https://store.steampowered.com/app/3947480/)
+- [Soulslayer～灭魂·误佳期～](https://store.steampowered.com/app/466810/)
 - [South Park™: The Stick of Truth™](https://store.steampowered.com/app/213670/)
 - [South Scrimshaw, Part One](https://store.steampowered.com/app/2443110/)
 - [Space Rock Breaker](https://store.steampowered.com/app/4035270/)
@@ -1188,6 +1189,7 @@
 - [The Jackbox Party Pack 3](https://store.steampowered.com/app/434170/)
 - [The Jackbox Party Pack 7](https://store.steampowered.com/app/1211630/)
 - [The Last Campfire](https://store.steampowered.com/app/990630/)
+- [The Last Cat in the Universe](https://store.steampowered.com/app/4197890/)
 - [The Last Clockwinder](https://store.steampowered.com/app/1755100/)
 - [The Last Door - Collector's Edition](https://store.steampowered.com/app/284390/)
 - [The Last Salvage Squad](https://store.steampowered.com/app/3551190/)

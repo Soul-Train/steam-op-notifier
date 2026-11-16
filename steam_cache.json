@@ -6642,6 +6642,20 @@
 "ts": "2026-09-12T12:34:54.101396+00:00",
 "verdict": "Very Positive"
 },
+"3412560": {
+"desc": "Created by zsKnight of ZSNES is this really neat retro game collection containing a fun shuffler story mode and a challenging arcade mode. Features 52 different 8bit style games which includes local competitive multiplayer and various different game modes to play and enjoy.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Retro Endurance 8bit",
+"price": "$4.79",
+"release": "Nov 15, 2026",
+"ts": "2026-11-16T19:08:21.929751+00:00"
+},
 "3418160": {
 "desc": "Rise against the corporate overlords and become a cyber activist hacker. Join the uprising in a cyberpunk world using radio waves.",
 "descriptors": [],
@@ -15928,6 +15942,20 @@
 "ts": "2026-09-03T13:11:42.794751+00:00",
 "verdict": "Very Positive"
 },
+"4809710": {
+"desc": "Paystreak is a top-down gold mining tycoon about running your own modern day gold rush. Take over a small claim, start by hand, and reinvest every ounce into machines, crews, and new land. Sell when the price is right and turn a struggling camp into a mining empire.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Early Access"
+],
+"name": "Paystreak: A Gold Mining Tycoon",
+"price": "$9.89",
+"release": "Nov 12, 2026",
+"ts": "2026-11-16T19:08:43.946032+00:00"
+},
 "4810070": {
 "desc": "Equipped only with a weapon that consumes your own blood, explore an ancient brutalist catacomb. Beware the Eyes of The Whispering Crypt. Find the 4 artifacts of desire. Confront God.",
 "descriptors": [
@@ -16159,6 +16187,18 @@
 "total": 53,
 "ts": "2026-07-21T04:13:34.472245+00:00",
 "verdict": "Very Positive"
+},
+"4838130": {
+"desc": "Command your legion in a war-torn land of blood and steel. A roguelite grand-strategy autobattler: lead one of three legions across Cheonggu, capture strongholds week by week, build your deck, and clash in real-time auto battles. In Story Mode, your choices decide who lives and dies",
+"descriptors": [],
+"genres": [
+"Strategy",
+"Early Access"
+],
+"name": "Edge of the Blade",
+"price": "$16.99",
+"release": "Nov 10, 2026",
+"ts": "2026-11-16T19:08:36.612834+00:00"
 },
 "4838460": {
 "desc": "The classic visual novel 'HimaNatsu' from the critically acclaimed developer Makura is available in English for the first time! Weave a cheerful yet sometimes painful tale of promises and redemption together with the Oboshiro Choir Squad in this never-ending summer vacation.",
@@ -17450,6 +17490,17 @@
 "ts": "2026-09-22T13:50:54.298770+00:00",
 "verdict": "Very Positive"
 },
+"5047230": {
+"desc": "Gas reaction simulator. Build the ultimate jet engine, solve puzzles, or just make everything explode!",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Combustor",
+"price": "$5.09",
+"release": "Nov 10, 2026",
+"ts": "2026-11-16T19:08:25.620967+00:00"
+},
 "5048740": {
 "desc": "This is a desktop incremental idle game about Sisyphus pushing a boulder. Sisyphus will embark on his fateful, never-ending journey of pushing the stone right on your desktop. Of course, you can also help him choose strategies to grow stronger and reach the peak of Olympus again, faster than before.",
 "descriptors": [],
@@ -18117,6 +18168,20 @@
 "release": "Oct 21, 2026",
 "ts": "2026-10-29T15:48:01.712717+00:00"
 },
+"5200620": {
+"desc": "Roguelite Inventory Management Autobattler with PvP/PvE gameplay, craft and build powerful builds to defeat your foes!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Strategy"
+],
+"name": "Dungeonbound",
+"price": "$10.79",
+"release": "Nov 16, 2026",
+"ts": "2026-11-16T19:08:40.259289+00:00"
+},
 "5204830": {
 "desc": "A cozy incremental sorting game. A vandal deleted all 10,324 items from a 2007 fan wiki, and you're the new Moderator. Drag each item into its category, sub-folder and row, earn userscripts that automate the work, and watch the broken pages come back.",
 "descriptors": [],
@@ -18554,6 +18619,34 @@
 "price": "$5.99",
 "release": "Oct 30, 2026",
 "ts": "2026-11-04T16:44:57.234149+00:00"
+},
+"5450430": {
+"desc": "A free fishing game made by one guy who has been making fishing games since 2008. Catch 100+ weird fish for the fridge door, work your way up from an Oak Branch to the Necro-pole, win the weekly derbies, beat real players 1v1, and tune the deck radio: 4 stations, DJs and 160+ original songs.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "Hillbilly Yacht Club: Fishing",
+"price": "Free",
+"release": "Nov 11, 2026",
+"ts": "2026-11-16T19:08:29.214499+00:00"
+},
+"5457010": {
+"desc": "777 HERO is a pixel-art idle RPG that captures all the heart-pounding moments of pachinko! And of course! It's built so that even people who know nothing about pachinko can have plenty of fun, so don't worry! The controls are super simple too!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "777 HERO ~The One Who Defies Time~",
+"price": "$4.79",
+"release": "Nov 12, 2026",
+"ts": "2026-11-16T19:08:32.869200+00:00"
 },
 "5458210": {
 "desc": "A chaotic online co-op building game for 1\u20138 players. Make bricks, build a giant pyramid and turn a small operation into a massive automated production line. Work together, hire help and find increasingly ridiculous ways to get those bricks to the top.",
