@@ -29,6 +29,23 @@
 "ts": "2026-10-01T15:53:46.778722+00:00",
 "verdict": "Very Positive"
 },
+"1038740": {
+"desc": "A string of mysterious wind chimes brought three lovely and uninvited kemonomimi girls to this small convenience store. At such a summer night full of surprises and excitement, what lies ahead on their road of adventure?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Fluffy Store",
+"price": "$1.99",
+"release": "Aug 14, 2019",
+"ts": "2026-11-17T23:43:23.609371+00:00"
+},
 "1067360": {
 "desc": "Build a grand totalitarian colony then personally storm roguelite battlefields with your soldiers. Shape citizens fears, loyalties, bonds, and feuds. Capture enemies, convert them into true believers. Sacrifice the weak. Feed the strong. Wield absolute power and make every life bend to your will.",
 "descriptors": [
@@ -1289,12 +1306,9 @@
 "Indie"
 ],
 "name": "sobosuba",
-"pct": 100,
-"price": "$3.59",
+"price": "$3.99",
 "release": "Aug 14, 2026",
-"total": 72,
-"ts": "2026-08-16T13:27:25.503269+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-17T23:43:27.719586+00:00"
 },
 "1965550": {
 "desc": "Tame any creature. Ride them into battle. Challenge the Animal Gods. Explore an infinite, procedurally generated fantasy world. Fight, quest, trade, and grow stronger alongside your pets in this open-world action-adventure RPG.",
@@ -2505,6 +2519,19 @@
 "ts": "2026-08-07T01:01:29.605636+00:00",
 "verdict": "Very Positive"
 },
+"2483700": {
+"desc": "HARMA is a retro dark fantasy roguelike deckbuilding game featuring a story-driven campaign. Uncover the truth behind the fallen knights, the burning kingdom, and your missing father. Harness the power of mighty artifacts to defeat demons and save a world on the brink of destruction.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy",
+"Early Access"
+],
+"name": "HARMA",
+"price": "$11.69",
+"release": "Nov 16, 2026",
+"ts": "2026-11-17T23:45:31.711736+00:00"
+},
 "2484180": {
 "desc": "You wake up as an army soldier in the middle of a mutant apocalypse, trying to figure out what the hell happened and blasting some heads on the way. Deadshot is a retro styled first person shooter inspired from classics like Half Life, Doom, Quake and many alike.",
 "descriptors": [],
@@ -2634,6 +2661,22 @@
 "total": 57,
 "ts": "2026-10-15T20:10:59.736556+00:00",
 "verdict": "Very Positive"
+},
+"2510770": {
+"desc": "Jude Gray, a wandering Courier, receives a request to deliver some very special cargo. This cargo turns out to be Philia, an android girl who is unaffected by the enigmatic Singularity Machines.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "Stella of The End",
+"price": "$19.99",
+"release": "Sep 25, 2023",
+"ts": "2026-11-17T23:43:33.305454+00:00"
 },
 "2510970": {
 "desc": "Renovate and manage a ruined office building. Clean, repair, and furnish rooms, rent them to picky tenants, fix printers and coffee machines, enjoy an exaggerated office joke system, and survive daily chaos. Turn neglect into profit \u2014 money doesn\u2019t print itself, even if the printer tries.",
@@ -5558,6 +5601,20 @@
 "ts": "2026-10-22T14:18:04.984908+00:00",
 "verdict": "Very Positive"
 },
+"3218350": {
+"desc": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG",
+"Early Access"
+],
+"name": "Melvor Idle 2: A RuneScape Adventure",
+"price": "$13.49",
+"release": "Nov 17, 2026",
+"ts": "2026-11-17T23:45:49.546823+00:00"
+},
 "3218570": {
 "desc": "The Tanuki Festival is just a month away, and the shrine is in disrepair. Follow Pon, a well meaning, if a bit lazy Tanuki with a part-time job at the Post Office, as he works to restore the shrine before summer ends. Deliver packages, make friends, and get the shrine ready for the big festival!",
 "descriptors": [],
@@ -7541,6 +7598,19 @@
 "release": "Nov 5, 2026",
 "ts": "2026-11-09T19:25:24.835851+00:00"
 },
+"3595710": {
+"desc": "A whispering flame craves souls. With each offering, your resolve strengthens. Fight spirits, collect their essences, and feed a hunger that may never subside in this short active incremental.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Strategy"
+],
+"name": "ScopeCreep",
+"price": "$4.79",
+"release": "Nov 16, 2026",
+"ts": "2026-11-17T23:45:35.246165+00:00"
+},
 "3597200": {
 "desc": "In this deckbuilder your deck plays automatically. Upgrade, enchant and stickerize your cards to create clever cascading effects that defeat monsters and other players. Can you reach the Grail?",
 "descriptors": [],
@@ -8247,6 +8317,19 @@
 "total": 61,
 "ts": "2026-10-07T15:59:11.870660+00:00",
 "verdict": "Very Positive"
+},
+"3721530": {
+"desc": "Buy rusty motorcycles, restore every part, add custom paint and decals, then take them for a test ride and sell them for a profit. Turn barn finds into superbikes and grow your small garage into the best dealership in town.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Racing",
+"Simulation"
+],
+"name": "Motorcycle For Sale Simulator",
+"price": "$7.19",
+"release": "Nov 12, 2026",
+"ts": "2026-11-17T23:45:59.897010+00:00"
 },
 "3722330": {
 "desc": "An online co-op detective horror for up to 3 players. Work together across randomly generated shifts to investigate your customers, as some are only pretending to be human. Make one mistake, and you\u2019ll be forced to board up, set traps, and hide.",
@@ -11372,6 +11455,18 @@
 "ts": "2026-08-31T16:37:18.878982+00:00",
 "verdict": "Very Positive"
 },
+"4171850": {
+"desc": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Trees Hate You",
+"price": "$6.95",
+"release": "Nov 16, 2026",
+"ts": "2026-11-17T23:45:56.462809+00:00"
+},
 "4173620": {
 "desc": "Run your pizza shop up front and handle shady business out back. Help hand-crafted NPCs with favors that never go as planned. Play solo or online co-op with up to four players and expand your operation across Hobarey Town. In this darkly comedic management sim - become that guy everyone knows.",
 "descriptors": [
@@ -11438,6 +11533,18 @@
 "total": 55,
 "ts": "2026-07-20T04:34:15.416039+00:00",
 "verdict": "Very Positive"
+},
+"4178790": {
+"desc": "Clicky Islands is an incremental game with a full city builder inside. Settle procedurally generated islands, build production chains, put your workers to work and ship goods for gold as your economy grows. Unlock permanent upgrades and find the perfect island for His Majesty\u2019s future kingdom",
+"descriptors": [],
+"genres": [
+"Casual",
+"Strategy"
+],
+"name": "Clicky Islands",
+"price": "$7.99",
+"release": "Nov 16, 2026",
+"ts": "2026-11-17T23:45:42.647272+00:00"
 },
 "4179280": {
 "desc": "Moonshiner Simulator is an in-depth spirits production simulator. Start from the bottom and build your operation into a thriving empire by mastering the intricacies of the craft and creating unique recipes. But beware \u2013 there will always be those who want to see you fail.",
@@ -13514,6 +13621,19 @@
 "total": 58,
 "ts": "2026-09-20T13:24:38.368166+00:00",
 "verdict": "Very Positive"
+},
+"4444800": {
+"desc": "You are the magistrate, and Lucifer stands trial as the defendant. Judge the fallen angel in this dark romance visual novel. Decide whether he is worthy of salvation, or doomed to destruction. One single, final choice.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure"
+],
+"name": "Obey Me! Sinner's Choice: Lucifer",
+"price": "$26.99",
+"release": "Nov 15, 2026",
+"ts": "2026-11-17T23:45:38.962907+00:00"
 },
 "4448490": {
 "desc": "Planet Harvester is a relaxing low-poly incremental game. Pilot your crawler across beautiful worlds, chew through resources, unlock new tools, hire drones, and customize your machine for ever bigger hauls. Turn small numbers into massive ones!",
@@ -17433,6 +17553,20 @@
 "ts": "2026-09-06T12:32:17.850866+00:00",
 "verdict": "Very Positive"
 },
+"5037200": {
+"desc": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s &amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Sports"
+],
+"name": "just volleyball",
+"price": "$4.95",
+"release": "Nov 16, 2026",
+"ts": "2026-11-17T23:43:36.845695+00:00"
+},
 "5037510": {
 "desc": "Thousands of balls are scattered throughout the playrooms. Someone should put them away, and there's no one here but you. Almost no one.",
 "descriptors": [
@@ -18055,6 +18189,20 @@
 "release": "Nov 13, 2026",
 "ts": "2026-11-14T01:11:37.672515+00:00"
 },
+"5186400": {
+"desc": "Take your first steps on Mars and face the challenge of surviving alone on the Red Planet. Build your first shelter, secure vital resources, grow food, research new technologies, and explore the hostile Martian landscape. Your survival starts here.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "687 Days on Mars - First Steps",
+"price": "Free",
+"release": "Nov 12, 2026",
+"ts": "2026-11-17T23:45:52.988603+00:00"
+},
 "5186690": {
 "desc": "Game Keeper: Somebody Messed Up My Shop! is a single-player organizing game set in a chaotic video game store. Sort 4,290 cases by genre and order, fill 96 racks, progress and unlock powerful abilities, and complete 650 parody-filled series - with questionable help from Jeff, the coolest cat ever.",
 "descriptors": [],
@@ -18606,6 +18754,18 @@
 "release": "Nov 12, 2026",
 "ts": "2026-11-13T01:38:29.200814+00:00"
 },
+"5386810": {
+"desc": "Your first night shift in a police evidence archive nobody has filed in years. Pick up loose papers, photos and tapes, uncover hidden case numbers with the right tool, then press, stamp, box and shelve each case. No clock, no quota, no way to fail.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Evidence Vault",
+"price": "$6.79",
+"release": "Nov 12, 2026",
+"ts": "2026-11-17T23:45:46.058372+00:00"
+},
 "5404010": {
 "desc": "A dark isometric action RPG with click-to-move combat, deep loot and five classes with three skill trees each. A pet loots for you and grows. Four acts of random maps, alone or with up to 8 players online. Three world levels and the endless Pyre. Loot, die, return.",
 "descriptors": [],
@@ -18619,6 +18779,19 @@
 "price": "$5.99",
 "release": "Oct 30, 2026",
 "ts": "2026-11-04T16:44:57.234149+00:00"
+},
+"5404460": {
+"desc": "A cozy first-person tidying game. Thousands of board game boxes lie scattered across a charming two-storey shop. Gather stacks of copies, shelve every game in its category and watch the shop come back to life, one satisfying section at a time.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "The Cozy Board Game Shop: Tidy Up",
+"price": "$3.19",
+"release": "Nov 12, 2026",
+"ts": "2026-11-17T23:46:03.383873+00:00"
 },
 "5450430": {
 "desc": "A free fishing game made by one guy who has been making fishing games since 2008. Catch 100+ weird fish for the fridge door, work your way up from an Oak Branch to the Necro-pole, win the weekly derbies, beat real players 1v1, and tune the deck radio: 4 stations, DJs and 160+ original songs.",
