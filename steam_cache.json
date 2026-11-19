@@ -5505,6 +5505,21 @@
 "ts": "2026-09-14T15:33:07.364480+00:00",
 "verdict": "Very Positive"
 },
+"3200290": {
+"desc": "2D RPG about the brutal daily life of Ray - an artist struggling with addiction, who takes care of her little sister. Look after your condition - no one should know about the addiction. Improve your skills, sell paintings, do everything to ease the withdrawal. Survive and look for a way out.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"RPG"
+],
+"name": "Sister Ray",
+"price": "$11.99",
+"release": "Jun 1, 2026",
+"ts": "2026-11-19T02:10:20.289775+00:00"
+},
 "3201730": {
 "desc": "Flamecraft is a 1-5 player cozy strategy game filled with magic. Become a Flamekeeper and help adorable dragon artisans find the perfect home. Enchant the town\u2019s stores and fill them with dragon cards as you watch the whimsical shopping district come to life.",
 "descriptors": [],
@@ -12204,6 +12219,20 @@
 "ts": "2026-09-27T14:29:45.682705+00:00",
 "verdict": "Mixed"
 },
+"4259360": {
+"desc": "Rebuild a community one bottle at a time in this tiny delivery adventure with your pet cow Milki. Gather resources and upgrade your barn, then bike along dirt paths, breezy meadows, and seaside docks to bring fresh milk back to the sleepy countryside.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Milki Delivery",
+"price": "$5.59",
+"release": "Nov 17, 2026",
+"ts": "2026-11-19T02:12:04.525197+00:00"
+},
 "4260270": {
 "desc": "In this survival game, you are stranded on an tropical island with your lovely friend Mitsuki. Explore your surroundings together, build a small shelter, and hunt for supplies. Have fun keeping up with all the heat!",
 "descriptors": [],
@@ -15904,6 +15933,20 @@
 "ts": "2026-07-24T04:12:02.432708+00:00",
 "verdict": "Very Positive"
 },
+"4767130": {
+"desc": "A resource management incremental mining game where you rebuild your Mountain Hall. Plan each descent, choose where your dwarves dig, gather gold and rare artifacts, and return home when the torch burns out. Manage production, upgrade your crew, dig deeper, and bring your fallen kingdom back to life",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "King in the Mountain",
+"price": "$5.94",
+"release": "Nov 13, 2026",
+"ts": "2026-11-19T02:12:14.516248+00:00"
+},
 "4767430": {
 "desc": "Summer nears. A campus photo job brings you to caring beauty Liu Shilin, aloof yet warm artist Li Feier, mischievous model Xia Wei, and childhood friend Le Tong. Together, you plan graduation shoots, each lending your talents, as your own summer romance with four unique girls quietly begins.",
 "descriptors": [
@@ -15919,6 +15962,19 @@
 "price": "$10.78",
 "release": "Nov 11, 2026",
 "ts": "2026-11-13T01:38:07.357301+00:00"
+},
+"4771830": {
+"desc": "Invest into promising startups with sometimes wacky ideas. Help them grow with your team of experts. Capture the market share with quality product, smart pricing and marketing. Cash out big after the IPO. Compete with the other angels and show them who's the boss.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Angel Investor Simulator\u2122",
+"price": "$9.59",
+"release": "Nov 17, 2026",
+"ts": "2026-11-19T02:12:17.964280+00:00"
 },
 "4771880": {
 "desc": "Solo-developed in 2 months. Three Kingdoms: Yi is a 2D turn-based roguelite deckbuilder. Command a sovereign across 8 provinces and 49 cities \u2014 form your battle line, sway enemy generals, raise banners, awaken your avatar. Every choice reshapes your deck and destiny. No two runs are alike.",
@@ -16738,6 +16794,19 @@
 "price": "$7.99",
 "release": "Nov 11, 2026",
 "ts": "2026-11-15T21:28:26.157509+00:00"
+},
+"4908560": {
+"desc": "Setter is a volleyball management game where every decision shapes your club. Build and develop your squad in a competitive transfer market where rivals can bid for your players, prepare your lineup and tactics, and watch every rally unfold as you compete for domestic titles and continental success.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Sports",
+"Strategy"
+],
+"name": "Setter: Volleyball Manager 27",
+"price": "$17.99",
+"release": "Nov 13, 2026",
+"ts": "2026-11-19T02:12:11.203701+00:00"
 },
 "4911340": {
 "desc": "In the fictional port city of Rissebra, you work as a marine insurance underwriter. Review the documents brought to your desk by shipowners, and uncover the risks hidden in their vessels, routes, and cargo. The decision to approve or reject each insurance contract rests entirely on your judgment.",
@@ -17661,6 +17730,21 @@
 "price": "$9.95",
 "release": "Nov 10, 2026",
 "ts": "2026-11-11T23:17:36.604254+00:00"
+},
+"5051090": {
+"desc": "Take a well-deserved break before searching for your next job! Spend time doing all the things you've always wanted to: cook delicious meals, relax, collect cute figurines, chat with friends, and enjoy life at your own pace. Work can wait a little longer... you've earned this vacation.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "The Cozy Funemployment",
+"price": "$2.54",
+"release": "Nov 18, 2026",
+"ts": "2026-11-19T02:12:07.844542+00:00"
 },
 "5064170": {
 "desc": "Your weapons fire on their own. Your job is to keep moving. Wall-run, dash and bunny-hop through hordes of monsters across 11 worlds, and turn 71 weapons and 131 items into an unstoppable build. Play solo or in online co-op for up to 4 players.",
