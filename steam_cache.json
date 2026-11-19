@@ -1282,6 +1282,19 @@
 "ts": "2026-07-23T04:13:19.140178+00:00",
 "verdict": "Very Positive"
 },
+"1933370": {
+"desc": "Shipwrecked on a myth-shrouded island, play as rookie pirate Marcus \u201cRookie\u201d Ramsey and explore haunting biomes, face unforgiving combat, and unravel a deep-sea curse in search of your lost crew, the Angry Mermaids.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "Mark of the Deep",
+"price": "$19.99",
+"release": "Jan 24, 2025",
+"ts": "2026-11-19T23:22:35.666230+00:00"
+},
 "1939390": {
 "desc": "A 2\u20134 player party brawler where classic party-game chaos meets fast, punchy combat. Score goals, steal stars, dodge hazards, and sabotage your friends in chaotic minigames!",
 "descriptors": [],
@@ -2776,6 +2789,19 @@
 "total": 981,
 "ts": "2026-10-08T16:00:08.647026+00:00",
 "verdict": "Very Positive"
+},
+"2526880": {
+"desc": "Prepare your defenses during the day and survive until dawn. Defender Bros is a Top-Down Tower Defense Roguelike where you play as a Soldier defending your Base. Pick between multiple abilities as you level up to increase your power, then after each run buy perks and get stronger",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Strategy"
+],
+"name": "Defender Bros",
+"price": "$11.99",
+"release": "Nov 19, 2026",
+"ts": "2026-11-19T23:24:26.890952+00:00"
 },
 "2527160": {
 "desc": "Rummage through the abandoned profiles of an old PC to unravel an inherited mystery. What secrets hide in this eerie adventure of cryptic games and outdated software? Who was using this computer? And what happened to them?",
@@ -8458,6 +8484,19 @@
 "ts": "2026-08-02T04:20:33.478429+00:00",
 "verdict": "Very Positive"
 },
+"3739580": {
+"desc": "Fight off hordes of demons in this unforgiving gates shooter! Slay monsters, pick up upgrades, and create overpowered builds to annihilate bosses while listening to heavy metal tracks. Many foes and secrets await you in the catacombs...",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie"
+],
+"name": "KORRIDOR",
+"price": "$4.79",
+"release": "Nov 18, 2026",
+"ts": "2026-11-19T23:24:31.238975+00:00"
+},
 "3740090": {
 "desc": "Bruisers is unlike any boxing game before it. Climb from amateur bouts to the top of the pros. Train, eat, fight, dope, and deal with anyone who wants a piece of you on the way up \u2014 but tread lightly. Some consequences here are fatal.",
 "descriptors": [
@@ -10752,6 +10791,19 @@
 "release": "Oct 14, 2026",
 "ts": "2026-10-25T13:30:52.822408+00:00"
 },
+"4066520": {
+"desc": "A multi-ball roulette roguelite. Spin multiple balls at once and rewrite the wheel: add colors, change the numbers, rebalance payouts and stack multipliers with 100+ mementos and 50 trick balls. You\u2019re live on a twisted TV show, and the puppet Host is grinning. Hit his targets, or the show ends you.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Trust Your Gut",
+"price": "$7.99",
+"release": "Nov 18, 2026",
+"ts": "2026-11-19T23:24:13.593380+00:00"
+},
 "4073860": {
 "desc": "Clean, mine and refine pollution in this active incremental game. Cruise through the countryside earning cash and resources, build a refinery, process materials, upgrade equipment, unlock new areas and complete quests.",
 "descriptors": [],
@@ -12249,6 +12301,17 @@
 "ts": "2026-09-26T13:33:47.763809+00:00",
 "verdict": "Very Positive"
 },
+"4268590": {
+"desc": "Func Key is a word-spelling roguelike deckbuilder where your keyboard is your class: six boards, six different ways to play. Spell words, build your board, and bend the rules with mods, all to the soothing thock of the mechanical keyboard.",
+"descriptors": [],
+"genres": [
+"Strategy"
+],
+"name": "Func Key",
+"price": "$8.99",
+"release": "Nov 16, 2026",
+"ts": "2026-11-19T23:24:10.140291+00:00"
+},
 "4270850": {
 "desc": "Sit back and relax with a desktop fishing game that stays in the corner of your screen. Catch fish, cook recipes, upgrade your gear, and complete your collection guide. Customize your character\u2019s look and even design your very own custom fish to catch!",
 "descriptors": [],
@@ -13324,6 +13387,19 @@
 "release": "Nov 12, 2026",
 "ts": "2026-11-14T01:11:34.184159+00:00"
 },
+"4398690": {
+"desc": "MoSimulator is a robotics simulation game with an arcade feel that lets players mod in their own robots. Experience the excitement of competitive student robotics in a fun, accessible format where you can bring your own robot designs to life and compete in simulated matches.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Free To Play"
+],
+"name": "MoSimulator",
+"price": "Free",
+"release": "Nov 18, 2026",
+"ts": "2026-11-19T23:24:06.710539+00:00"
+},
 "4402200": {
 "desc": "A base-building survival game with terraforming and crafting. Earth lies poisoned and abandoned ten thousand years after invasion. Awaken from stasis, defend your fragile foothold, and restore a dead world so humanity can live here again.",
 "descriptors": [],
@@ -14150,6 +14226,18 @@
 "release": "Nov 11, 2026",
 "ts": "2026-11-13T01:38:39.801699+00:00"
 },
+"4523120": {
+"desc": "Volvy's Adventure: Reslimed is a spectacular remaster of the original remake of the unreleased action-platformer starring the most famous video game mascot of all time.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "Volvy\u2019s Adventure: Reslimed",
+"price": "$3.74",
+"release": "Nov 19, 2026",
+"ts": "2026-11-19T23:24:03.225467+00:00"
+},
 "4524800": {
 "desc": "You are a British WW1 soldier, trapped in an endless looping trench. Inspect your surroundings and report anything that is out of place. Will you escape? Shellshock is a short anomaly hunting experience (-30 minutes) inspired by liminal spaces and psychological horror.",
 "descriptors": [
@@ -14756,6 +14844,19 @@
 "total": 59,
 "ts": "2026-09-01T13:52:24.565502+00:00",
 "verdict": "Very Positive"
+},
+"4593380": {
+"desc": "\u201cThat customer today might turn hot! Maybe you should trust your gut and try dating him!\u201d Encouraged by your pet chinchilla, you start a trial relationship on a hunch! Will he actually turn hot\u2026 or not!? A romantic comedy Otome game. Fully voiced (except for the protagonist).",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Ikemen Big Bang: A Dating Game About Potentially Hot Guys",
+"price": "$3.99",
+"release": "Nov 16, 2026",
+"ts": "2026-11-19T23:24:17.060737+00:00"
 },
 "4594150": {
 "desc": "Sir, We Have an Orc Problem is an incremental-style tower defense game where you face an overwhelming number of orcs. Greet them with even more bullets, bombs and lasers!",
@@ -16184,6 +16285,20 @@
 "ts": "2026-10-21T14:22:44.832992+00:00",
 "verdict": "Very Positive"
 },
+"4815320": {
+"desc": "Gold Miner: Party Rush is a multiplayer party game for 2 to 6 players where the classic Gold Miner crane goes head-to-head. Outlast rivals in Quick Match and Ranked, dig deeper in co-op Endless, share one screen on the couch, or play solo.",
+"descriptors": [],
+"genres": [
+"Action",
+"Casual",
+"Indie",
+"Early Access"
+],
+"name": "Gold Miner: Party Rush",
+"price": "$8.99",
+"release": "Nov 17, 2026",
+"ts": "2026-11-19T23:24:21.396925+00:00"
+},
 "4817620": {
 "desc": "\u201cOne Way Tickets\u201d is a roguelite incremental adventure game where you embark on a exciting journey in a fantasy world. Choose your vehicle, equip your device and face challenges from all kinds of enemies. Ram! Unload bullets! Swing with all your might! Keep growing and push forward!",
 "descriptors": [],
@@ -17465,6 +17580,18 @@
 "release": "Oct 23, 2026",
 "ts": "2026-10-25T13:30:49.504487+00:00"
 },
+"5016130": {
+"desc": "Build a fantasy war-band, pack each unit's backpack, and feed your champions to make them monsters. An async-PvP auto-battler: every opponent is a real player's saved army. Five factions, shaped items, commander skills. Forge a new build every run, then climb the ranked ladder.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Warpack",
+"price": "$11.99",
+"release": "Nov 16, 2026",
+"ts": "2026-11-19T23:24:34.803060+00:00"
+},
 "5017810": {
 "desc": "The dragon's hoard has gotten out of hand. Sit back, sweep up mountains of gold coin by coin, fill chest after chest, and give every buried treasure its rightful place on the shelves. Watch chaos turn into order, piece by piece. A cozy organizing game. There are cats.",
 "descriptors": [],
@@ -18513,6 +18640,21 @@
 "total": 63,
 "ts": "2026-10-04T14:34:12.379414+00:00",
 "verdict": "Very Positive"
+},
+"5224030": {
+"desc": "Complete unhinged jobs in the BEST OPEN WORLD CRIME game of 2026 or cry trying!",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action"
+],
+"name": "FROG IS CRIME",
+"price": "$4.95",
+"release": "Nov 18, 2026",
+"ts": "2026-11-19T23:23:59.674980+00:00"
 },
 "5226940": {
 "desc": "Tidy Farm is a cozy organizing simulator where you transform a chaotic farm into your dream homestead. Pick everything up, figure out where it belongs and sort 4,544 Items.",
