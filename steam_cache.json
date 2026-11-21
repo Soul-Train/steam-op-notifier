@@ -29,6 +29,18 @@
 "ts": "2026-10-01T15:53:46.778722+00:00",
 "verdict": "Very Positive"
 },
+"1038300": {
+"desc": "Jump, burrow, and tail swipe your way to victory in this love letter to classic 3D platformers!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "New Super Lucky's Tale",
+"price": "$29.99",
+"release": "Aug 21, 2020",
+"ts": "2026-11-21T01:54:35.400743+00:00"
+},
 "1038740": {
 "desc": "A string of mysterious wind chimes brought three lovely and uninvited kemonomimi girls to this small convenience store. At such a summer night full of surprises and excitement, what lies ahead on their road of adventure?",
 "descriptors": [
@@ -11522,6 +11534,23 @@
 "ts": "2026-08-31T16:37:18.878982+00:00",
 "verdict": "Very Positive"
 },
+"4169820": {
+"desc": "Our Brief Eternity is a visual novel in which you play as Lin Xiaocou, an ordinary office worker whose quiet life is turned upside down when two girls from another world unexpectedly move in. Amid the warmth, comedy, and chaos of everyday life together, can you find a happy ending for everyone?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "Our Brief Eternity",
+"price": "$3.99",
+"release": "Jul 16, 2026",
+"ts": "2026-11-21T01:54:39.051916+00:00"
+},
 "4171850": {
 "desc": "Hike through the worst forest full of the most horrible trees. Do not trust them. The trees will trick you. They will bully you. They will hurt you. If only you could find an axe...",
 "descriptors": [],
@@ -13843,6 +13872,19 @@
 "release": "Oct 15, 2026",
 "ts": "2026-10-26T15:42:44.486531+00:00"
 },
+"4463520": {
+"desc": "Midsummer is right around the corner in Moominvalley, when a sudden flood sets the Moomins adrift! Join Tove Jansson\u2019s beloved Moominfamily and friends on an adventure of mirth and mischief aboard a mysterious floating theatre.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Moomin: Midsummer Madness",
+"price": "$17.99",
+"release": "Nov 11, 2026",
+"ts": "2026-11-21T01:56:37.195490+00:00"
+},
 "4464990": {
 "desc": "Rollout Inline is a brand new Aggressive Inline game created by a solo dev who is passionate about the sport. This game aims to scratch the itch for those who have been craving a new, modern, and intuitive inline skating game!",
 "descriptors": [],
@@ -14351,6 +14393,19 @@
 "total": 80,
 "ts": "2026-08-21T05:32:44.425157+00:00",
 "verdict": "Very Positive"
+},
+"4535880": {
+"desc": "\u2605 Surreal dice-rolling roguelike about luck and greed \u2605 Feed your dice dumplings, collect game bending trinkets, roll too much and lose it all. Or get lucky, unlock King Fetus, meet God and you might just wake up.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Dice Have No Eyes",
+"price": "$5.99",
+"release": "Nov 20, 2026",
+"ts": "2026-11-21T01:56:47.618401+00:00"
 },
 "4536900": {
 "desc": "Transform a tiny settlement into a thriving medieval kingdom in this incremental strategy game. Build your economy, command your army, and keep discovering new ways to grow with every milestone.",
@@ -15699,6 +15754,23 @@
 "total": 51,
 "ts": "2026-09-11T13:11:47.524391+00:00",
 "verdict": "Very Positive"
+},
+"4697880": {
+"desc": "A first-person rock band life sim. Play rhythm-based gigs, take shady jobs, gamble, fight, and upgrade your gear and garage. Keep the band together and try to stay in one piece. Whatever happens, you\u2019ve still got a show at nine.",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation"
+],
+"name": "Rock Band Simulator",
+"price": "$11.99",
+"release": "Nov 20, 2026",
+"ts": "2026-11-21T01:56:44.081073+00:00"
 },
 "4699770": {
 "desc": "An idle game where you gather resources and grow your city. Sit back and watch your city expand!",
@@ -17155,6 +17227,23 @@
 "ts": "2026-09-10T13:17:16.545333+00:00",
 "verdict": "Very Positive"
 },
+"4946440": {
+"desc": "A physics sandbox about Murray, who didn't let a witch merge onto the highway. She sent him to The Granule, and something already lives there. You. Burn, freeze, shock, slice, and mend him. None of it is scripted, and the room is not all there is.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Granule",
+"price": "$7.64",
+"release": "Nov 18, 2026",
+"ts": "2026-11-21T01:56:40.629078+00:00"
+},
 "4947900": {
 "desc": "It\u2019s Yut Nori\u2014but you can throw your pieces, summon a demon god, and even poop your way to victory! A 2\u20134 player online competitive game featuring 50 unique augments.",
 "descriptors": [],
@@ -17551,6 +17640,18 @@
 "total": 51,
 "ts": "2026-10-13T19:44:03.970623+00:00",
 "verdict": "Very Positive"
+},
+"5005700": {
+"desc": "Muv-Luv Girls Garden Mellow Days is a productivity companion adventure game where you work alongside Meru Momozono. Customize your Pomodoro timer, to-do list, calendar, music, and ambient sounds. As you spend more time together, your story with Meru gradually unfolds.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual"
+],
+"name": "MUV-LUV GIRLS GARDEN Mellow Days",
+"price": "$11.69",
+"release": "Nov 18, 2026",
+"ts": "2026-11-21T01:56:51.121391+00:00"
 },
 "5009390": {
 "desc": "Welcome to Bob Company! Fill orders, haul goods, and make work easier with automation. Rise from Intern to Director in a relaxing first-person warehouse sim. Each promotion opens new areas of the company and reveals more of the stories behind it.",
@@ -18991,6 +19092,21 @@
 "price": "$6.79",
 "release": "Nov 12, 2026",
 "ts": "2026-11-17T23:45:46.058372+00:00"
+},
+"5394070": {
+"desc": "A short horror cooking game. Run your dead uncle's burger cart on a foggy harbour pier in the 1970s. Cook for the locals, spot the drowned before they reach your window, and find out who really killed your uncle.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"Simulation"
+],
+"name": "The Usual, Please",
+"price": "$4.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-21T01:56:33.618176+00:00"
 },
 "5404010": {
 "desc": "A dark isometric action RPG with click-to-move combat, deep loot and five classes with three skill trees each. A pet loots for you and grows. Four acts of random maps, alone or with up to 8 players online. Three world levels and the endless Pyre. Loot, die, return.",
