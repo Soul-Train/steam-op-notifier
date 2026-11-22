@@ -6539,6 +6539,20 @@
 "ts": "2026-09-11T13:11:34.127516+00:00",
 "verdict": "Very Positive"
 },
+"3356440": {
+"desc": "Sam agrees to help his friends by staying the night in their house while they leave for urgent business. Outside, a heavy rainstorm rages, with loud thunderclaps shaking the walls and creating an oppressive atmosphere.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie"
+],
+"name": "Fleshbound",
+"price": "$6.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-22T22:18:21.500945+00:00"
+},
 "3358170": {
 "desc": "Waddle into a reality-bending odyssey where simply being a duck is your greatest superpower. With the help of your magical cap, switch instantly between 2D and 3D to uncover hidden paths, outsmart aliens, and rescue your kidnapped chicken friends in this wholesome puzzle platformer adventure.",
 "descriptors": [],
@@ -9066,6 +9080,19 @@
 "total": 952,
 "ts": "2026-10-02T15:16:29.061179+00:00",
 "verdict": "Very Positive"
+},
+"3842100": {
+"desc": "Chigusa was just an everyday schoolgirl, but once she began to notice the boys, her life gradually started to change in unexpected ways...",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Chigusa's Diary",
+"price": "$9.89",
+"release": "Nov 20, 2026",
+"ts": "2026-11-22T22:18:07.797424+00:00"
 },
 "3844750": {
 "desc": "FlatOut 4: Total Insanity VR is destructive arcade racing at windshield distance. Trade paint, survive pileups, and fly through the windshield when the impact hits. Race across remastered FlatOut 2 tracks, wreck rivals online, and fight to finish with your car still moving.",
@@ -12923,6 +12950,18 @@
 "total": 59,
 "ts": "2026-09-17T14:02:23.315977+00:00",
 "verdict": "Very Positive"
+},
+"4321920": {
+"desc": "The roguelike auto-battler where your deck prints itself! Supply a brave worker droid with synergistic blueprints to defend the planet against hordes of alien invaders. Combine hundreds of cards with custom upgrades and infinitely stackable modules to discover broken builds.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Strategy"
+],
+"name": "Topdeck Automat",
+"price": "$9.59",
+"release": "Nov 16, 2026",
+"ts": "2026-11-22T22:18:11.239806+00:00"
 },
 "4323800": {
 "desc": "&quot;Guardian of the Sacred Seal&quot; is a story-driven adventure game centered on the concept: \u201cTo be unconditionally loved by a yandere young man.\u201d In the otherworldly paradise of Gokurakud\u014d, a young girl partners with a mysterious man to handle seemingly ordinary requests that hide deeper secrets.",
@@ -18159,6 +18198,23 @@
 "ts": "2026-09-27T14:29:42.407712+00:00",
 "verdict": "Very Positive"
 },
+"5087750": {
+"desc": "Maiden Party, an anime waifu idle card RPG. Collect hundreds of Live2D maidens, build decks for tactical battles and gain rewards offline. Explore fantasy dungeons, farm &amp; fish in your homestead, raid world bosses with guildmates and unlock character bonds.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Maiden Party",
+"price": "Free",
+"release": "Nov 19, 2026",
+"ts": "2026-11-22T22:18:14.682163+00:00"
+},
 "5088960": {
 "desc": "Let's show\u3008Yuu\u3009, the new student, around school. A short psycho-horror visual novel depicting a mysterious relationship with her, unfolding without context like a dream. The Steam version of an experimental retro game designed to fit on a single 3.5-inch floppy disk.",
 "descriptors": [
@@ -19086,6 +19142,20 @@
 "ts": "2026-10-22T14:17:58.232833+00:00",
 "verdict": "Very Positive"
 },
+"5343400": {
+"desc": "A first person car flipping game. Find cheap used cars on your phone, on the side of the road or at storage auctions, and inspect them yourself. Fix what a buyer will notice, then sell them on, rent them out or race them for pink slips. Play solo or with up to three friends online.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Early Access"
+],
+"name": "Car Flipper",
+"price": "$19.99",
+"release": "Nov 12, 2026",
+"ts": "2026-11-22T22:18:24.974205+00:00"
+},
 "5345040": {
 "desc": "Just hover. Stuck forks leap up and stab back into giant fruit, and every landing pays out gold. Buy more forks, make jam, Ascend and Transcend, and watch the table get wilder every run. An active incremental game played with your cursor.",
 "descriptors": [],
@@ -19256,6 +19326,32 @@
 "price": "$3.19",
 "release": "Nov 12, 2026",
 "ts": "2026-11-17T23:46:03.383873+00:00"
+},
+"5413320": {
+"desc": "Silver Service is a cozy tidying game where you put 11,132 portions back where they belong aboard a cruise liner, solo or with up to 3 friends. Fill your tray, find the right display, unlock upgrades, and to unwind, grab your fishing rod and see what\u2019s hiding under the water.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Silver Service: Tidy Up the Grand Buffet",
+"price": "$5.09",
+"release": "Nov 14, 2026",
+"ts": "2026-11-22T22:18:18.107226+00:00"
+},
+"5441620": {
+"desc": "Noon casts the shortest shadows. A honkaku mystery told as an interactive sound novel: every clue is in black and white, on pages you've read. Amesaka, winter 2015. A son lies dead at the foot of the stairs; by morning the housekeeper has confessed. The soup spilled on the steps is still warm.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Shadow at Noon",
+"price": "$6.99",
+"release": "Nov 17, 2026",
+"ts": "2026-11-22T22:18:04.232738+00:00"
 },
 "5450430": {
 "desc": "A free fishing game made by one guy who has been making fishing games since 2008. Catch 100+ weird fish for the fridge door, work your way up from an Oak Branch to the Necro-pole, win the weekly derbies, beat real players 1v1, and tune the deck radio: 4 stations, DJs and 160+ original songs.",
