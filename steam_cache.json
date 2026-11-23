@@ -195,12 +195,9 @@
 "Indie"
 ],
 "name": "Forever Ago",
-"pct": 93,
-"price": "$17.99",
+"price": "$15.99",
 "release": "Oct 8, 2026",
-"total": 73,
-"ts": "2026-10-10T14:58:42.098374+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-23T20:45:34.010160+00:00"
 },
 "1221950": {
 "pct": 95,
@@ -7621,6 +7618,23 @@
 "release": "Nov 5, 2026",
 "ts": "2026-11-06T16:34:02.585853+00:00"
 },
+"3582690": {
+"desc": "A co-op horror game where you and up to 5 friends clean, fix and survive, in a lo-fi mall with high-key problems. Welcome to the Night Crew - you are NOT paid enough for this!",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"Early Access"
+],
+"name": "Night Crew",
+"price": "$8.99",
+"release": "Nov 14, 2026",
+"ts": "2026-11-23T20:47:43.180233+00:00"
+},
 "3584120": {
 "desc": "\ud83d\ude9b Truck Town: Kids and Toddlers Driving Game is a fun and easy driving game designed for young kids (ages 3-5). Drive a friendly truck around a colorful city, learn to use a controller or keyboard, and explore interactive areas that teach numbers, colors, and more in a playful way!",
 "descriptors": [],
@@ -9560,6 +9574,17 @@
 "total": 100,
 "ts": "2026-10-18T12:56:44.490636+00:00",
 "verdict": "Very Positive"
+},
+"3897800": {
+"desc": "Seven years after the Inventory closed its doors, this underground social club has reopened for business. Play No Limit Texas Hold\u2019em with four video game icons in a high-stakes battle of cards, bets, and trash talk.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "Poker Night at the Inventory",
+"price": "$9.99",
+"release": "Mar 5, 2026",
+"ts": "2026-11-23T20:45:37.787370+00:00"
 },
 "3901850": {
 "desc": "Your desktop deserves a duck. It lives on your screen, perches on your windows, and reacts to you. Earn hats together, then trade, sell, or show them off.",
@@ -13074,6 +13099,21 @@
 "release": "Nov 6, 2026",
 "ts": "2026-11-08T15:44:21.774136+00:00"
 },
+"4337080": {
+"desc": "Draconite is a Furry-themed side-scrolling adventure game focused on exploration and storytelling. As a security team member of the Draconite Research Institute, you'll carry out security duties during the summit and gradually uncover the turbulent undercurrents hidden beneath the calm facade.",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Draconite",
+"price": "$12.74",
+"release": "Nov 13, 2026",
+"ts": "2026-11-23T20:48:00.486641+00:00"
+},
 "4337440": {
 "desc": "A story-driven productivity adventure where you work alongside Memorie, an apprentice witch from another world. As you focus using the Pomodoro timer, the story progresses and her world gradually transforms. Turn solitary work into time shared with someone.",
 "descriptors": [],
@@ -16346,6 +16386,19 @@
 "ts": "2026-07-19T04:21:01.895072+00:00",
 "verdict": "Very Positive"
 },
+"4778330": {
+"desc": "Sardoinky is a weird, chill, hand drawn clicker about opening cans of sardines. Buy a can, crack it open and sell whatever is inside. Spend the cash on better cans and upgrades. Collect every fish and find out what the company is hiding.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Sardoinky",
+"price": "$4.24",
+"release": "Nov 19, 2026",
+"ts": "2026-11-23T20:47:46.604507+00:00"
+},
 "4782480": {
 "desc": "This is a super casual little game where you can earn rewards just by playing offline. You can also listen to several nice original songs. After a busy day, relax and enjoy a moment of peace.",
 "descriptors": [
@@ -17128,6 +17181,17 @@
 "price": "$17.99",
 "release": "Nov 13, 2026",
 "ts": "2026-11-19T02:12:11.203701+00:00"
+},
+"4909330": {
+"desc": "You play as a young woman taking a temporary evening job at a bakery on New Year's Eve. Your task is to serve a variety of customers while trying to uncover why, instead of holiday cheer, this place is shrouded in darkness...",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Last Bake",
+"price": "$4.49",
+"release": "Nov 20, 2026",
+"ts": "2026-11-23T20:47:53.581104+00:00"
 },
 "4911340": {
 "desc": "In the fictional port city of Rissebra, you work as a marine insurance underwriter. Review the documents brought to your desk by shipowners, and uncover the risks hidden in their vessels, routes, and cargo. The decision to approve or reject each insurance contract rests entirely on your judgment.",
@@ -18652,6 +18716,23 @@
 "ts": "2026-10-21T14:22:48.212539+00:00",
 "verdict": "Very Positive"
 },
+"5185210": {
+"desc": "Unravel the dark secrets of Reverend Lawrence, known for his appearance in The Happyhills Homicide 2: Out For Blood. Prior to his death, Reverend Lawrence was a devout Christian and an example for the community of Happyhills. Everyone has skeletons in their closets, but some more than others...",
+"descriptors": [
+1,
+2,
+5
+],
+"genres": [
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "The Reverend: A Happyhills Homicide Story",
+"price": "Free",
+"release": "Nov 17, 2026",
+"ts": "2026-11-23T20:47:50.083976+00:00"
+},
 "5185890": {
 "desc": "Zombies Aren't Real\u00a0is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!",
 "descriptors": [
@@ -18806,6 +18887,17 @@
 "price": "$10.79",
 "release": "Nov 16, 2026",
 "ts": "2026-11-16T19:08:40.259289+00:00"
+},
+"5203560": {
+"desc": "Your Grandma has willed you a collection of rocks deep in the woods, but when you arrive, you find that the rocks are strewn across the floor. Armed with your Grandma's journal, a determination to clean the collection, and the tools she left behind, you begin sorting through thousands of rocks.",
+"descriptors": [],
+"genres": [
+"Adventure"
+],
+"name": "Rock and Found",
+"price": "$14.99",
+"release": "Nov 16, 2026",
+"ts": "2026-11-23T20:47:39.740946+00:00"
 },
 "5204830": {
 "desc": "A cozy incremental sorting game. A vandal deleted all 10,324 items from a 2007 fan wiki, and you're the new Moderator. Drag each item into its category, sub-folder and row, earn userscripts that automate the work, and watch the broken pages come back.",
@@ -19299,6 +19391,19 @@
 "price": "$4.99",
 "release": "Nov 12, 2026",
 "ts": "2026-11-21T01:56:33.618176+00:00"
+},
+"5395920": {
+"desc": "Bring order to a shop overflowing with collectible frogs. Pick up and sort colorful figures, fill themed shelves, unlock helpful upgrades, and search for hidden eggs. Build your collection one frog at a time.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Frog Collector",
+"price": "$5.39",
+"release": "Nov 18, 2026",
+"ts": "2026-11-23T20:47:57.010699+00:00"
 },
 "5404010": {
 "desc": "A dark isometric action RPG with click-to-move combat, deep loot and five classes with three skill trees each. A pet loots for you and grows. Four acts of random maps, alone or with up to 8 players online. Three world levels and the endless Pyre. Loot, die, return.",
