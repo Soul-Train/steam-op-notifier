@@ -897,6 +897,22 @@
 "ts": "2026-07-24T04:11:55.841253+00:00",
 "verdict": "Very Positive"
 },
+"1700270": {
+"desc": "Escape from an incredibly dangerous, randomly generated tower in a slapstick, roguelite adventure that looks like a cartoon and feels like a joke. Slashy slashy!",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "Lucky Tower Ultimate",
+"price": "$11.99",
+"release": "Apr 16, 2026",
+"ts": "2026-11-24T19:50:39.518338+00:00"
+},
 "1706510": {
 "desc": "Become immersed in a musical woodland fantasy world where casting a spell is as easy as playing a song. Attend classes, grow the university garden, make friends with classmates and townsfolk, and explore the island\u2019s many oddities and mysteries in this story-driven witch academy RPG.",
 "descriptors": [],
@@ -6452,12 +6468,9 @@
 "Strategy"
 ],
 "name": "Capote",
-"pct": 93,
 "price": "$4.19",
 "release": "Aug 20, 2026",
-"total": 178,
-"ts": "2026-08-21T05:32:57.807082+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-24T19:50:43.189713+00:00"
 },
 "3347200": {
 "desc": "Cat Gladiator is a hardcore 2D slow-paced Monster Hunter-like action game! 4-player co-op, a wide variety of weapons, equipment, and items to aid in arena Boss battles. Become an adorable gladiator cat, team up with friends, conquer tough Bosses, and savor victory!",
@@ -6582,6 +6595,21 @@
 "total": 73,
 "ts": "2026-08-21T05:33:21.232133+00:00",
 "verdict": "Very Positive"
+},
+"3358400": {
+"desc": "Survive 30 days in this psychological horror nursing sim. Balance routine medical tasks and time management while evading terrifying anomalies in the dark wards. Manage your dropping sanity, earn your paycheck, and escape before becoming the hospital's next permanent patient.",
+"descriptors": [
+5
+],
+"genres": [
+"Indie",
+"RPG",
+"Simulation"
+],
+"name": "\u591c\u73ed\u62a4\u58eb\u6a21\u62df\u5668",
+"price": "$8.99",
+"release": "Nov 20, 2026",
+"ts": "2026-11-24T19:53:28.988747+00:00"
 },
 "3364150": {
 "desc": "Whack-A-Monster. An incremental game about Whacking, Smashing, Splashing &amp; BONKING monsters. Upgrade through the skill tree and unlock new weapons to vanquish all evil from this world.",
@@ -7933,6 +7961,22 @@
 "ts": "2026-08-14T14:11:07.453109+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"3639010": {
+"desc": "In a game show starring only criminals, you must gamble against rival players to prove yourself worthy of being pardoned for your wrong deeds\u2014 But is the show really about proving your innocence? Jackpot Crash Course is a death game visual novel about crime, luck and spectacle.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie",
+"RPG",
+"Free To Play"
+],
+"name": "Jackpot Crash Course",
+"price": "Free",
+"release": "May 8, 2026",
+"ts": "2026-11-24T19:50:46.829248+00:00"
+},
 "3639590": {
 "desc": "NITRO ORIGIN's debut title, Phantom PHANTOM OF INFERNO, is coming to Steam! A web of swirling conspiracies. A whirlwind of bullets. Amidst it all, a poignant tale of a boy and a girl unfolds...",
 "descriptors": [
@@ -8702,12 +8746,9 @@
 "Strategy"
 ],
 "name": "Alice Nation",
-"pct": 99,
-"price": "$7.19",
+"price": "$7.99",
 "release": "Oct 15, 2026",
-"total": 74,
-"ts": "2026-10-16T19:48:56.353349+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-24T19:50:50.618681+00:00"
 },
 "3760370": {
 "desc": "Kick is a nostalgic tale of making your way to school, all the while honing your soccer skills throughout challenging levels packed with unique challenges. Do you have what it takes to Kick it?",
@@ -11112,12 +11153,9 @@
 "Free To Play"
 ],
 "name": "Flats Full of Cats",
-"pct": 96,
 "price": "Free",
 "release": "Aug 3, 2026",
-"total": 69,
-"ts": "2026-08-05T03:57:03.525111+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-24T19:50:54.295522+00:00"
 },
 "4108000": {
 "desc": "Machine Party is a collection of violent party games where failure is lethal. Gather your friends and endure high stakes situations to prove your life is worth more than theirs. Survival is unlikely.",
@@ -11796,6 +11834,18 @@
 "ts": "2026-09-21T15:34:03.188607+00:00",
 "verdict": "Very Positive"
 },
+"4183130": {
+"desc": "Experience minigame chaos in WE\u2019RE ALL IN!, an online party game for 1-8 players where you win by betting on your friends in a series of fast-paced games and challenges.",
+"descriptors": [],
+"genres": [
+"Simulation",
+"Strategy"
+],
+"name": "WE'RE ALL IN!",
+"price": "$4.95",
+"release": "Nov 20, 2026",
+"ts": "2026-11-24T19:53:32.454284+00:00"
+},
 "4183770": {
 "desc": "CELESTAY is a calm idle building game where you fish for materials and grow your home toward the sky. In a world sunk beneath the sea, you stack pieces of a house and spend quiet days fishing and watching the stars. The higher you build, the more constellations and memories fill your world.",
 "descriptors": [],
@@ -11998,6 +12048,19 @@
 "total": 131,
 "ts": "2026-07-17T07:15:28.462470+00:00",
 "verdict": "Very Positive"
+},
+"4211860": {
+"desc": "Mushrooms of all kinds\u2014adorable, quirky, and even some with unique abilities\u2014are spring up randomly on your computer! Collect and nurture them, then decorate with various objects to create your own cozy mushroom haven, keeping you company while you work, study, or simply unwind.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Mushroom Nook",
+"price": "$3.94",
+"release": "Mar 11, 2026",
+"ts": "2026-11-24T19:50:59.736340+00:00"
 },
 "4216280": {
 "desc": "When the Dwarves of Dverghold awakened something ancient beneath the isle of Rekestt, King Sterren sent word across the Shattered Sea: brave the haunted depths, or let the darkness rise. Oldschool dungeon crawler with turn-based combat and atmospheric soundtrack by Dungeon Synth artist Splendorius.",
@@ -12866,6 +12929,20 @@
 "total": 84,
 "ts": "2026-08-07T21:33:46.546523+00:00",
 "verdict": "Very Positive"
+},
+"4311000": {
+"desc": "&lt;Trust Me, I Nailed It&gt; is a turn-based strategy game where you edit video clips to make a screwed up warrior into a monster-slaying legend. Edit, stitch, and fake your way to epic battle videos. Make every fight look like a glorious win.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy",
+"Free To Play"
+],
+"name": "Trust Me, I Nailed It",
+"price": "Free",
+"release": "Feb 5, 2026",
+"ts": "2026-11-24T19:51:03.485798+00:00"
 },
 "4312190": {
 "desc": "Why is there a giant egg in this lab? Your job is simple: crack it open. Don't ask questions. CRACK is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg.",
@@ -13837,6 +13914,19 @@
 "release": "Nov 2, 2026",
 "ts": "2026-11-05T17:02:23.002340+00:00"
 },
+"4435720": {
+"desc": "HOLY GRAIL for DUMMIES is a colorful and absurd action-platformer about Buckethead, a hero past his prime, in a world that, let's be honest, has seen better days...",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "HOLY GRAIL for DUMMIES",
+"price": "$9.99",
+"release": "May 8, 2026",
+"ts": "2026-11-24T19:51:07.293813+00:00"
+},
 "4436200": {
 "desc": "Every block of this planet is real, including fluids! Dig it, flood it, process it. FluxWerks is a factory automation game on a fully destructible voxel world with physical fluid and heat simulation. Dig anywhere, automate everything, and survey a world that was supposed to be empty.",
 "descriptors": [],
@@ -14031,20 +14121,18 @@
 "ts": "2026-11-21T01:56:37.195490+00:00"
 },
 "4464990": {
-"desc": "Rollout Inline is a brand new Aggressive Inline game created by a solo dev who is passionate about the sport. This game aims to scratch the itch for those who have been craving a new, modern, and intuitive inline skating game!",
+"desc": "Rollout Inline is a brand new inline skating game created by a solo dev who is passionate about the sport. This game aims to scratch the itch for those who have been craving a new, modern, and intuitive inline skating game!",
 "descriptors": [],
 "genres": [
 "Indie",
 "Simulation",
-"Sports"
+"Sports",
+"Early Access"
 ],
 "name": "Rollout Inline",
-"pct": 97,
 "price": "$18.99",
 "release": "Sep 15, 2026",
-"total": 146,
-"ts": "2026-09-16T13:58:28.383621+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-24T19:51:11.006096+00:00"
 },
 "4465600": {
 "desc": "Bowling Alley Simulator lets you build, manage, and grow your own bowling alley. Run the lanes, cook classic food, hire staff, and expand your business into a thriving entertainment destination.",
@@ -16886,6 +16974,22 @@
 "ts": "2026-08-14T14:13:20.188900+00:00",
 "verdict": "Very Positive"
 },
+"4860910": {
+"desc": "What are you in for? Prison Legacy is a social MMORPG set inside a mixed-gender maximum-security prison. Choose one of 12 criminal classes, then fight turn-based battles, craft contraband, trade, steal, chat, and build a clan strong enough to outlast the hilarious darkness rising behind bars.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Indie",
+"Massively Multiplayer",
+"RPG"
+],
+"name": "Prison Legacy",
+"price": "$14.99",
+"release": "Nov 20, 2026",
+"ts": "2026-11-24T19:53:25.582941+00:00"
+},
 "4861510": {
 "desc": "A slacker stick figure named Bota moves onto your desktop. An idle app where you sneak peeks between tasks as he idly mutters to himself to match the time of day and the day of the week. He won't get in your way. Sometimes he talks to you. That's the whole app.",
 "descriptors": [],
@@ -17090,12 +17194,9 @@
 "Strategy"
 ],
 "name": "Intravenous 3: Borderline",
-"pct": 98,
 "price": "Free",
 "release": "Oct 2, 2026",
-"total": 113,
-"ts": "2026-10-03T14:07:57.555576+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-24T19:51:14.840486+00:00"
 },
 "4892010": {
 "desc": "An idle RPG where your bomber squadron gathers resources for you. Destroy rocks, hunt for rare items, forge and upgrade your equipment, master a vast skill tree, and trade items with other players on the Steam Market. Free to play.",
@@ -18447,6 +18548,20 @@
 "release": "Nov 3, 2026",
 "ts": "2026-11-05T17:01:53.493493+00:00"
 },
+"5111980": {
+"desc": "Yuki leads an ordinary life, weighed down by debt, surrounded by a few friends, and consumed by poems shared with no one. Until the arrival of a transfer student. Because some presences cannot be resisted. Only surrender is possible.",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Indie"
+],
+"name": "Highschool J",
+"price": "$5.59",
+"release": "Nov 18, 2026",
+"ts": "2026-11-24T19:53:18.657447+00:00"
+},
 "5119400": {
 "desc": "A tycoon game about building a racing factory from your garage. Scavenge, buy or design your own parts, fix cars, and climb every tier of motorsport. Balancing tight finances and decaying parts forces hard calls: repairs, upgrades, or paying the debts to keep the team alive.",
 "descriptors": [],
@@ -19510,6 +19625,58 @@
 "price": "$6.99",
 "release": "Nov 1, 2026",
 "ts": "2026-11-04T16:45:04.626014+00:00"
+},
+"5482350": {
+"desc": "Become Rinnosuke, owner of the Kourindou curio shop, and play chess with the Gensokyo regulars who drop by. Your guests laugh, panic and grumble as the game turns. Learn in a 9-chapter story, sharpen your play with puzzles, and battle with spell cards or play friends online.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Strategy"
+],
+"name": "Touhou Chess",
+"price": "$2.39",
+"release": "Nov 16, 2026",
+"ts": "2026-11-24T19:53:35.971737+00:00"
+},
+"5484410": {
+"desc": "Tidy up a private space company's scrapyard, collect rocket parts into sets on your racks and build your own rocket every evening. In the morning it launches \u2013 will it reach the edge of space, orbit, or help build a space station?",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Rocket Scrapyard",
+"price": "$4.79",
+"release": "Nov 19, 2026",
+"ts": "2026-11-24T19:53:11.814946+00:00"
+},
+"5524170": {
+"desc": "Return to the flower shop for a Christmas tidy-up. Sort 16 festive flower varieties, stock gifts, decorate the tree, and discover the notes left behind.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "Tidy Up the Flower Shop: Christmas",
+"price": "$5.39",
+"release": "Nov 20, 2026",
+"ts": "2026-11-24T19:53:15.261994+00:00"
+},
+"5532770": {
+"desc": "The best-looking flight sim the 90s never had. Pick a job at a real airport, watch your plane fly it in real time, and get paid when it lands. A relaxed flight career over the real world, with live weather, thousands of airports and pilots from everywhere sharing one sky.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Massively Multiplayer",
+"Simulation",
+"Free To Play"
+],
+"name": "Pocket Pilots",
+"price": "Free",
+"release": "Nov 17, 2026",
+"ts": "2026-11-24T19:53:22.097984+00:00"
 },
 "564940": {
 "desc": "Alone With You is a bittersweet sci-fi adventure game that goes right for the heart. Escape a doomed space colony with the help of your troubled AI companion and four chatty holograms in this unique blend of adventure &amp; visual novel storytelling.",
