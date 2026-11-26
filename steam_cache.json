@@ -737,6 +737,20 @@
 "ts": "2026-09-11T13:11:14.076886+00:00",
 "verdict": "Very Positive"
 },
+"1607680": {
+"desc": "Grab your best bud for help in this new co-op challenge to help two adorable penguins, Bread and Fred, reach the top of the snowy summit. Time your jumps, cling to walls and swing across gaps to see how far you can make it before you tumble all the way back down the mountain.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Bread & Fred",
+"price": "$14.99",
+"release": "May 23, 2023",
+"ts": "2026-11-26T22:03:42.781853+00:00"
+},
 "1608640": {
 "desc": "Enter an inexplicable, abstract mansion to rescue a loved one in this fast-paced, brutal, and dark roguelite filled with precise but savage gunplay and time-bending slow motion. Face your inner demons and unveil the secrets of the Mansion.",
 "descriptors": [
@@ -2142,6 +2156,20 @@
 "price": "$24.89",
 "release": "Nov 3, 2026",
 "ts": "2026-11-04T16:45:15.294656+00:00"
+},
+"2321960": {
+"desc": "From the makers of Cozy Grove: Glide through pastel clouds, help lost spirits along the way, and design your own home nestled high on a mountain peak. Befriend strangers around a warm campfire, or share memories while lazily fishing in the sky with a friend. Welcome to your strange new home. \ud83c\udfe0\ud83c\udfd4\ufe0f",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Massively Multiplayer"
+],
+"name": "Spirit Crossing",
+"price": "$29.99",
+"release": "Nov 16, 2026",
+"ts": "2026-11-26T22:05:25.002677+00:00"
 },
 "233150": {
 "desc": "The skies are aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Take to the skies in customized fighter planes to battle battleships, submarines, and rival aces for glory, honor, and high scores.",
@@ -12002,6 +12030,19 @@
 "ts": "2026-10-08T15:59:32.453278+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"4193300": {
+"desc": "A short incremental game where you are tasked to clean a lab from fleshy growths using your flamethrower. Collect resources and spend them in a vast upgrade tree to unlock new abilities.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Simulation",
+"Strategy"
+],
+"name": "Fleshborn",
+"price": "$6.29",
+"release": "Nov 25, 2026",
+"ts": "2026-11-26T22:05:18.041886+00:00"
+},
 "4195110": {
 "desc": "The pool bar is always open! Ultrapool is a colorful roguelike about playing pool with a bunch of wacky balls with crazy effects. Carefully craft a perfect build and get the craziest trickshots!",
 "descriptors": [],
@@ -12391,6 +12432,17 @@
 "ts": "2026-09-17T14:02:09.265885+00:00",
 "verdict": "Very Positive"
 },
+"4244180": {
+"desc": "Train your timing skills to stop the clock close to zero, collect shards, and spend them on a massive skill tree in this short arcade-ish incremental game. Struggle with glitching displays, hidden timers, chaotic multi-stops, and other hazards as you improve your accuracy.",
+"descriptors": [],
+"genres": [
+"Casual"
+],
+"name": "No Blink Allowed",
+"price": "$4.49",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T22:05:11.224988+00:00"
+},
 "4246520": {
 "desc": "A unique card-based turn-based battle system set in a universe of cosmic opera.",
 "descriptors": [],
@@ -12503,6 +12555,19 @@
 "total": 78,
 "ts": "2026-09-11T13:11:17.464162+00:00",
 "verdict": "Very Positive"
+},
+"4253570": {
+"desc": "Gently restore old objects by cleaning away layers of dust, rust, and time. Reshine is a minimalistic, relaxing experience: use a range of tools to watch years of grime disappear before your eyes. No management, no pressure - just you and the satisfaction of bringing vintage treasures back to life.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Reshine",
+"price": "$7.99",
+"release": "Nov 26, 2026",
+"ts": "2026-11-26T22:05:04.268983+00:00"
 },
 "4255640": {
 "desc": "Celebrate love with Ellie and Lucien in MyDear.exe. A short and cute game that takes place in the folders of an old PC. In the shoes of Ellie, play the game offered by Lucien after a long life together. Humor, memories and love are on the menu of this short ~2 hours experience.",
@@ -13317,20 +13382,18 @@
 "verdict": "Very Positive"
 },
 "4339280": {
-"desc": "ShipShaper is a creative game about the simple joy of designing ships. Nothing more. Nothing less. Export to Bulwark, 3D print, or use in your own games with a free commercial license.",
+"desc": "Build your dream ship! From a racing yacht to a massive battleship, test if it actually floats. Sail it, watch it sink, or accidentally invent a submarine. Share your creations on Steam Workshop, then put them to the test when multiplayer battles and racing arrives November 19!",
 "descriptors": [],
 "genres": [
 "Casual",
 "Indie",
+"Simulation",
 "Early Access"
 ],
-"name": "ShipShaper: Falconeer Chronicles",
-"pct": 99,
-"price": "$8.09",
+"name": "ShipShaper",
+"price": "$9.59",
 "release": "Sep 2, 2026",
-"total": 92,
-"ts": "2026-09-04T13:05:03.676392+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-26T22:03:05.110616+00:00"
 },
 "4341400": {
 "desc": "TUNG is a NICHE and TUFF first person horror game where you explore a hedge maze and become friends with TRIPLE T",
@@ -14657,6 +14720,20 @@
 "total": 58,
 "ts": "2026-07-19T04:21:05.241012+00:00",
 "verdict": "Very Positive"
+},
+"4526450": {
+"desc": "Semi-idle incremental RTS. You don\u2019t micro units. You build factories, pick upgrades and let your army flood the battlefield. Start with nothing, research tanks, artillery, flankers and mega units. Scale and survive enemy surges. Pure auto-battle chaos.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Incremental RTS",
+"price": "$4.92",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T22:05:14.629140+00:00"
 },
 "4529120": {
 "desc": "&quot;Alice's Gaze&quot; is a dark fairy-tale clicker and idle game. Accompany Alice as she awakens in a strange mansion, gaze upon the cat god's altar, delve into the abyss of terror, revive the slumbering rooms one by one, and search for a way to escape.",
@@ -18443,6 +18520,19 @@
 "ts": "2026-09-26T13:33:54.431389+00:00",
 "verdict": "Very Positive"
 },
+"5066010": {
+"desc": "Here Comes the Horde is an incremental auto-battler where your vast armies defend your castle against hordes of undead enemies. Survive the attacks, unlock new units, obtain powerful abilities, and fill the screen with thousands of troops.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"RPG"
+],
+"name": "Here Comes the Horde",
+"price": "$4.89",
+"release": "Nov 16, 2026",
+"ts": "2026-11-26T22:05:21.463722+00:00"
+},
 "5067360": {
 "desc": "Take on the role of a town\u2019s rules-driven (and reckless) bus driver in Thank You Bus Driver! Drive fast, slap faster, and toss any rulebreakers out of your bus to reach true victory: being appreciated.",
 "descriptors": [],
@@ -19642,6 +19732,17 @@
 "price": "$6.79",
 "release": "Nov 12, 2026",
 "ts": "2026-11-17T23:45:46.058372+00:00"
+},
+"5391260": {
+"desc": "Fish It!: Sort the Aquarium Shop is a cozy organizing simulator where you put back over 4,100 unique fish into their aquariums. Fill the tanks, unlock helpful abilities, and enjoy the satisfying loop of turning total aquatic chaos into a clean, well-organized shop at your own pace.",
+"descriptors": [],
+"genres": [
+"Simulation"
+],
+"name": "Fish It!: Sort the Aquarium Shop",
+"price": "$5.09",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T22:05:07.772817+00:00"
 },
 "5394070": {
 "desc": "A short horror cooking game. Run your dead uncle's burger cart on a foggy harbour pier in the 1970s. Cook for the locals, spot the drowned before they reach your window, and find out who really killed your uncle.",
