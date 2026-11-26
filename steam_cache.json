@@ -1962,6 +1962,20 @@
 "ts": "2026-09-13T13:34:17.707912+00:00",
 "verdict": "Very Positive"
 },
+"2244030": {
+"desc": "RUBATO, an experimental, 2D physics-based take on the collect-a-thon genre!",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie",
+"RPG"
+],
+"name": "RUBATO",
+"price": "$19.99",
+"release": "Mar 20, 2026",
+"ts": "2026-11-26T00:48:13.056277+00:00"
+},
 "2251220": {
 "desc": "Manage your own cafe and become a donut therapist in this cozy dating/cooking sim. Cook mood-changing donuts, decorate your shop, and help customers navigate life, love, and heartbreak\u2014one bite at a time.",
 "descriptors": [],
@@ -6009,6 +6023,21 @@
 "ts": "2026-07-22T04:15:25.115471+00:00",
 "verdict": "Very Positive"
 },
+"3280350": {
+"desc": "Sam \u2013 with companions by his side \u2013 sets out on a new journey to save humanity from extinction. Join them as they traverse a world beset by otherworldly enemies, obstacles and a haunting question: should we have connected?",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure"
+],
+"name": "DEATH STRANDING 2: ON THE BEACH",
+"price": "$46.89",
+"release": "Mar 19, 2026",
+"ts": "2026-11-26T00:48:16.706811+00:00"
+},
 "3282420": {
 "desc": "Build the ultimate Zoo in this number-go-up roguelike deckbuilder. Find powerful mythical animals, boost them with snacks, and even manipulate the board itself. Break the game by scoring millions (and more) with insane combos.",
 "descriptors": [],
@@ -9296,6 +9325,19 @@
 "ts": "2026-09-25T14:22:38.876477+00:00",
 "verdict": "Very Positive"
 },
+"3861740": {
+"desc": "A chill, exploration-based incremental game about harvesting and cleansing an alien planet of its radiation with a swarm of high-tech toasters.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "A Thousand Cloys",
+"price": "$7.19",
+"release": "Nov 23, 2026",
+"ts": "2026-11-26T00:51:00.200065+00:00"
+},
 "3861870": {
 "desc": "Future? No Thanks! is a narrative-driven, open-world adventure set in an ecosocialist utopia. You're old, bitter, and scheduled for euthanasia. Enjoy your last day in a future that works for everyone but you.",
 "descriptors": [
@@ -9479,6 +9521,19 @@
 "total": 92,
 "ts": "2026-07-14T17:21:58.280561+00:00",
 "verdict": "Very Positive"
+},
+"3883050": {
+"desc": "A romanti-slapstick comedy visual novel from the creative team at HARUKAZE. Saruyoshi, the world's greatest delinquent, must infiltrate the world's most prestigious school for ladies in order to save his boys'-school comrades!",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Simulation"
+],
+"name": "Monkeys!\u00a1",
+"price": "$19.99",
+"release": "Nov 16, 2026",
+"ts": "2026-11-26T00:50:45.689723+00:00"
 },
 "3883290": {
 "desc": "Ascend the sunken labyrinth called the Tower and choose your path to escape to the surface. Battle foes, forge relationships, and find power in this roguelite dark fantasy RPG.",
@@ -10243,6 +10298,17 @@
 "ts": "2026-10-07T15:59:08.451616+00:00",
 "verdict": "Very Positive"
 },
+"3972980": {
+"desc": "You've been exiled to The Mirk - an unforgiving swampland where every step could be your last. You must constantly make choices: what paths to take, which tree to shelter under, what beasts to engage or avoid, what items to bring into the darkness of dungeons, and what treasures to leave behind.",
+"descriptors": [],
+"genres": [
+"RPG"
+],
+"name": "Mirklurk: Every Step Matters",
+"price": "$11.24",
+"release": "Nov 25, 2026",
+"ts": "2026-11-26T00:50:34.814551+00:00"
+},
 "3975470": {
 "desc": "Are you ready for the session? Let yourself be hypnotized and immerse yourself in the dazzling world of Moka Efti, known from the series Babylon Berlin. As a journalist, you follow the clues to a mysterious case at the famous nightclub. But can you trust your memories?",
 "descriptors": [
@@ -10615,6 +10681,22 @@
 "total": 59,
 "ts": "2026-08-11T14:17:04.030949+00:00",
 "verdict": "Very Positive"
+},
+"4014680": {
+"desc": "Aqua Catholicism; Explore Man's Original Sin Under The Sea",
+"descriptors": [
+5
+],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Free To Play"
+],
+"name": "Water Womb World",
+"price": "Free",
+"release": "Feb 24, 2026",
+"ts": "2026-11-26T00:48:20.342817+00:00"
 },
 "4018550": {
 "desc": "Catch a train to Cat Isle! In this cozy pixel art management game, build restaurants, expand and decorate the town. Figure out your cats needs as they dine, shop, explore and turn the island into their purfect home.",
@@ -11560,6 +11642,20 @@
 "total": 115,
 "ts": "2026-09-12T12:34:47.473376+00:00",
 "verdict": "Very Positive"
+},
+"4156500": {
+"desc": "Rekindled is a co-op tavern game with a twist - there's no stress! Forage, Fish, Farm and Cook at your own pace, then decorate your dishes and tavern before welcoming your customers in.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Rekindled: Cozy Tavern Life",
+"price": "$13.49",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T00:50:38.395016+00:00"
 },
 "4156580": {
 "desc": "Weed Supermarket Simulator is a chill store sim where you grow weed, develop new strains, set prices, and keep your shelves stocked. Expand your business and optimize it for maximum profit. Manage employees, handle inventory, and turn your shop into a high-performing business.",
@@ -12956,6 +13052,19 @@
 "release": "Oct 26, 2026",
 "ts": "2026-10-27T15:09:27.735104+00:00"
 },
+"4312850": {
+"desc": "FISH is a Platformer Run &amp; Gun Shooter where you play as an armed FISH violently exploring through multiple levels. The game features a funny, unique stylized artstyle that could get a chuckle out of you!",
+"descriptors": [],
+"genres": [
+"Action",
+"Indie",
+"Early Access"
+],
+"name": "FISH",
+"price": "$9.99",
+"release": "Jun 22, 2026",
+"ts": "2026-11-26T00:48:23.976283+00:00"
+},
 "4315040": {
 "desc": "Start with a campfire. Build a kingdom. Hearth and Hamlet is a medieval citybuilder clicker that blends resource management, in-depth upgrade trees and relaxing idle gameplay. Build your empire by researching new technologies, passing new laws, trading with far-off lands, and more.",
 "descriptors": [],
@@ -14020,6 +14129,23 @@
 "total": 53,
 "ts": "2026-08-28T22:52:36.347931+00:00",
 "verdict": "Very Positive"
+},
+"4450600": {
+"desc": "Explore the marvelous world of Crackheads alone or with up to 50 players. Team up, turn on your friends, make money, build your empire, scavenge trash for questionable meals, and stay high through all of it.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Crackheads",
+"price": "$3.74",
+"release": "Nov 18, 2026",
+"ts": "2026-11-26T00:50:42.065047+00:00"
 },
 "4450620": {
 "desc": "A horror co-op extraction builder set in a scorched wasteland where everything burns. Descend with your friends into shifting ruins, rip out furniture, and scavenge for loot before the Corrupted close in. Make it back alive, then rebuild the Outpost to better your chances for the next run.",
@@ -17863,19 +17989,16 @@
 "ts": "2026-11-14T01:11:30.534329+00:00"
 },
 "4995030": {
-"desc": "Unwind in a relaxing first-person Tidy Up game where you'll sort and arrange 5,648 treasures in a papercraft world. Level up, unlock new skills, and tally every coin. Play solo or tidy up together with friends. Supports up to 16 players in online co-op.",
+"desc": "Unwind in a relaxing first-person Tidy Up game where you'll sort and arrange 5,648 treasures in a papercraft world. Level up, unlock new skills, and tally every coin. Play solo or tidy up together with friends. Supports up to 32 players in online co-op.",
 "descriptors": [],
 "genres": [
 "Casual",
 "Simulation"
 ],
 "name": "Folded Fables: Tidy Up The Dragon Hoard",
-"pct": 98,
-"price": "$5.39",
+"price": "$4.79",
 "release": "Oct 15, 2026",
-"total": 97,
-"ts": "2026-10-18T12:56:37.788733+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-26T00:48:27.646147+00:00"
 },
 "4996190": {
 "desc": "Package Chaos is a cozy package sorting game where you turn a messy warehouse into a perfectly organized delivery center. Pick up, inspect, sort thousands of unique packages and enjoy the satisfying feeling of a perfectly organized warehouse.",
@@ -17891,6 +18014,19 @@
 "total": 54,
 "ts": "2026-09-02T13:10:05.497462+00:00",
 "verdict": "Very Positive"
+},
+"5000170": {
+"desc": "A survival horror game for 1\u20134 players. Operate a giant drilling machine. Explore caves, collect valuables, and escape the creatures below. Return to the surface to sell what you found and buy upgrades and equipment. Play solo or in online co-op.",
+"descriptors": [],
+"genres": [
+"Action",
+"Adventure",
+"Indie"
+],
+"name": "BORE",
+"price": "$4.79",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T00:50:31.187186+00:00"
 },
 "5001630": {
 "desc": "Sit tight: a coronation for the annals of the Hao realm. I\u2019m Jiahao, your desktop pet\u2014its absolute strongest, stock investing\u2019s uncrowned king and fashion\u2019s highest peak. What has this loneliness taught you to love? \u201cYou misunderstand. Let me enlighten you.\u201d \u201cYou are the challenger.\u201d",
@@ -18115,6 +18251,21 @@
 "total": 57,
 "ts": "2026-08-31T16:37:01.985561+00:00",
 "verdict": "Very Positive"
+},
+"5031150": {
+"desc": "2030: AI companions reshape romance. As an emotion engineer with missing memories, you awaken in a tangled love affair. A commanding boss, an awakened AI, an anti-AI rebel, and a mysterious system enter your life. Each choice rewrites fate. Is algorithmic love still love?",
+"descriptors": [
+1,
+5
+],
+"genres": [
+"Casual",
+"Simulation"
+],
+"name": "HelloLove2:Binary",
+"price": "$14.39",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T00:50:49.419322+00:00"
 },
 "5033210": {
 "desc": "Turn your desktop into a living racetrack with this idle racing management game. Acquire cars, equip parts, and compete online against other players. Win championships and expand your garage through Mastery, Collections, and new rewards.",
@@ -19614,6 +19765,19 @@
 "release": "Nov 13, 2026",
 "ts": "2026-11-15T00:36:59.885327+00:00"
 },
+"5472080": {
+"desc": "SHRED A BILLION is a first-person incremental game about a mountain of money! Grab bills by hand, scoop them with a bucket, level up and feed a billion dollars to the shredder. Only 999,999,999 bills left to go!",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "SHRED A BILLION",
+"price": "$5.59",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T00:48:31.321242+00:00"
+},
 "5475960": {
 "desc": "An incremental logistics game where traffic becomes a challenge. Haul goods from fields, forests and quarries through a procedurally generated town, earn money with every delivery and buy more trucks, until your own fleet jams the streets. Then fix it with traffic rules.",
 "descriptors": [],
@@ -19652,6 +19816,18 @@
 "release": "Nov 19, 2026",
 "ts": "2026-11-24T19:53:11.814946+00:00"
 },
+"5508060": {
+"desc": "One Last Cast &quot;is a tabletop game. Place the scenery of lakes and mountains in a corner of the screen, and let your friends accompany you to leisurely fish and collect fish species from various places. Encounter rare and exotic fish, complete local commissions, and upgrade fishing equipment",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie"
+],
+"name": "One Last Cast",
+"price": "$3.49",
+"release": "Nov 23, 2026",
+"ts": "2026-11-26T00:50:56.580620+00:00"
+},
 "5524170": {
 "desc": "Return to the flower shop for a Christmas tidy-up. Sort 16 festive flower varieties, stock gifts, decorate the tree, and discover the notes left behind.",
 "descriptors": [],
@@ -19663,6 +19839,19 @@
 "price": "$5.39",
 "release": "Nov 20, 2026",
 "ts": "2026-11-24T19:53:15.261994+00:00"
+},
+"5527800": {
+"desc": "An asteroid will hit Earth in 90 days. The government held a tender, and one miner came with his own pickaxe. He asked for no money and said the asteroid would pay for itself. Dig 5,000,000 m\u00b3 in first person, solo or in online co-op for up to 8. Sell the ore and buy ship guns that fire as you dig.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "No Asteroids",
+"price": "$6.39",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T00:50:52.983347+00:00"
 },
 "5532770": {
 "desc": "The best-looking flight sim the 90s never had. Pick a job at a real airport, watch your plane fly it in real time, and get paid when it lands. A relaxed flight career over the real world, with live weather, thousands of airports and pilots from everywhere sharing one sky.",
@@ -19677,6 +19866,18 @@
 "price": "Free",
 "release": "Nov 17, 2026",
 "ts": "2026-11-24T19:53:22.097984+00:00"
+},
+"5568320": {
+"desc": "How much do you remember from school? Start with pinyin and arithmetic, then work your way up to China's university entrance exam in this single-player exam simulator. Write essays, show your work in math, and open your marked papers to see where you earned or lost points.",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "Chinese-Style Exams",
+"price": "$0.79",
+"release": "Nov 24, 2026",
+"ts": "2026-11-26T00:50:27.611416+00:00"
 },
 "564940": {
 "desc": "Alone With You is a bittersweet sci-fi adventure game that goes right for the heart. Escape a doomed space colony with the help of your troubled AI companion and four chatty holograms in this unique blend of adventure &amp; visual novel storytelling.",
