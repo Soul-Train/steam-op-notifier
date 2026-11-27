@@ -800,6 +800,20 @@
 "ts": "2026-08-30T19:35:58.753668+00:00",
 "verdict": "Overwhelmingly Positive"
 },
+"1622130": {
+"desc": "A paper airplane, two new neighbors, four autumns, and a one of a kind life. Create an experience that\u2019s all your own in this near-fully customizable, choice-heavy story where you grow from childhood to adulthood.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation",
+"Free To Play"
+],
+"name": "Our Life: Now & Forever",
+"price": "Free",
+"release": "Nov 27, 2026",
+"ts": "2026-11-27T21:47:57.867144+00:00"
+},
 "1622400": {
 "desc": "Choose your champion. Predict, then outwit. Every move resolves simultaneously in a charming storybook universe. Wyldernook is a free-to-play trading card game with roguelike campaign, 1v1 and multiplayer PvP, and a custom card creator.",
 "descriptors": [],
@@ -5217,6 +5231,21 @@
 "ts": "2026-08-27T00:24:41.986630+00:00",
 "verdict": "Very Positive"
 },
+"3129360": {
+"desc": "A hack &amp; slash roguelite rooted in Korean shamanism. Descend into the dark depths of Aksun, wield weapons bound to the Wardens of Ordeal, and gather artifacts to unleash devastating synergies. Only creative play will uncover the secrets of Aksun.",
+"descriptors": [
+5
+],
+"genres": [
+"Action",
+"Indie",
+"RPG"
+],
+"name": "Aksun",
+"price": "$14.99",
+"release": "Nov 27, 2026",
+"ts": "2026-11-27T21:48:22.459161+00:00"
+},
 "3129420": {
 "desc": "ASPIS is a story-driven first-person horror game set in the late-1980s USSR. Engineer Andrey enters an experimental system to see his deceased family again. But the machine opens worlds it was never meant to find. Explore the institute and step beyond reality.",
 "descriptors": [
@@ -6212,6 +6241,19 @@
 "total": 60,
 "ts": "2026-09-11T13:11:50.817270+00:00",
 "verdict": "Very Positive"
+},
+"3309160": {
+"desc": "Build a unique civilization in a flat world! Explore, extract resources, expand, and battle enemies. Use your time management skills to fend off attacks and face a mysterious threat. Are you ready to create a world that can survive?",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation",
+"Strategy"
+],
+"name": "Chronocracy",
+"price": "$13.49",
+"release": "Nov 26, 2026",
+"ts": "2026-11-27T21:48:19.054180+00:00"
 },
 "3309750": {
 "desc": "What if you lost all your memories? An emotional family drama seen through the eyes of a woman with Alzheimer's disease. As Annie\u2019s life slowly unravels, uncover memories of her deceased brother as her past bleeds into the present.",
@@ -15128,12 +15170,9 @@
 "Free To Play"
 ],
 "name": "ASTRAL COURT DX",
-"pct": 96,
 "price": "Free",
 "release": "Aug 25, 2026",
-"total": 89,
-"ts": "2026-08-26T02:23:48.981492+00:00",
-"verdict": "Very Positive"
+"ts": "2026-11-27T21:46:11.066390+00:00"
 },
 "4570720": {
 "desc": "Explore the anime-style open world of the Continent of Orbis, brought to life with Unreal Engine 5! Recruit unique companions, unleash spectacular Status Ailment tag-team action, and embark on an epic journey to save the world from the threat of a Dragon reawakened after 60 years.",
@@ -16273,6 +16312,19 @@
 "ts": "2026-07-26T04:24:46.873578+00:00",
 "verdict": "Very Positive"
 },
+"4704000": {
+"desc": "Shark Mart is a crazy co-op simulator about sharks undercover disguised as friendly dolphins. Run the shop, and scrub whales to secretly kidnap unsuspecting fish and cook up tasty delicacies! But beware - the Fish Police are out to expose your toothy secret...",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Shark Mart",
+"price": "$9.59",
+"release": "Nov 26, 2026",
+"ts": "2026-11-27T21:48:26.034744+00:00"
+},
 "4705510": {
 "desc": "Choose your inadequately prepared racer, and disregard severe consequences in your desperate pursuit of short-lived victory.",
 "descriptors": [
@@ -16642,6 +16694,18 @@
 "total": 73,
 "ts": "2026-10-17T16:05:49.304609+00:00",
 "verdict": "Very Positive"
+},
+"4773720": {
+"desc": "A 30 minute photographed social disaster. And you're invited!",
+"descriptors": [],
+"genres": [
+"Indie",
+"Simulation"
+],
+"name": "A Real Life Party",
+"price": "$3.74",
+"release": "Nov 26, 2026",
+"ts": "2026-11-27T21:48:01.327937+00:00"
 },
 "4774170": {
 "desc": "Aerolicious is a short and relaxing brick-breaking game about clearing a big chunk of 3,757 blocks.",
@@ -17697,6 +17761,19 @@
 "total": 92,
 "ts": "2026-08-26T02:23:59.535392+00:00",
 "verdict": "Very Positive"
+},
+"4933500": {
+"desc": "Me and You is a co-op puzzle game inspired by the acclaimed \u201cBaba Is You\u201d. Create, change and break the rules of each level to solve it together.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Casual",
+"Indie"
+],
+"name": "Me and You",
+"price": "$8.49",
+"release": "Nov 25, 2026",
+"ts": "2026-11-27T21:48:04.846894+00:00"
 },
 "4935510": {
 "desc": "Cellar Keeper is a cozy single-player organizing simulator where you sort 2,448 scattered bottles throughout a forgotten cellar. Return every bottle to its proper shelf, organize collections by type, unlock helpful abilities, and restore perfect order as efficiently as possible.",
@@ -19546,6 +19623,19 @@
 "release": "Nov 13, 2026",
 "ts": "2026-11-15T21:28:22.626210+00:00"
 },
+"5303520": {
+"desc": "A short kinetic visual novel about nationality, prejudice, and doomed love. Set in the Free City of Danzig in the 30s, Amber Eyes tells the story of a Polish taxi driver hopelessly in love with a German man.",
+"descriptors": [],
+"genres": [
+"Adventure",
+"Indie",
+"Free To Play"
+],
+"name": "Amber Eyes",
+"price": "Free",
+"release": "Nov 24, 2026",
+"ts": "2026-11-27T21:48:08.386130+00:00"
+},
 "5316540": {
 "desc": "Something has made a spectacular mess of this cozy Halloween shop. Put pumpkins, potions and sweets back where they belong, uncover curious clues, and meet a mysterious new friend. A relaxing first-person tidy-up, with a little mischief.",
 "descriptors": [],
@@ -19929,6 +20019,22 @@
 "release": "Nov 23, 2026",
 "ts": "2026-11-26T00:50:56.580620+00:00"
 },
+"5513420": {
+"desc": "A Brazilian top-down crime sandbox inspired by GTA 1, GTA 2 and Chinatown Wars. Steal cars, turn intersections into police pileups and switch between two protagonists. Take jobs, race illegally or grab a helicopter and explore a freshly generated island.",
+"descriptors": [
+2,
+5
+],
+"genres": [
+"Action",
+"Adventure",
+"Early Access"
+],
+"name": "C.L.T.",
+"price": "$6.99",
+"release": "Nov 24, 2026",
+"ts": "2026-11-27T21:48:11.908704+00:00"
+},
 "5524170": {
 "desc": "Return to the flower shop for a Christmas tidy-up. Sort 16 festive flower varieties, stock gifts, decorate the tree, and discover the notes left behind.",
 "descriptors": [],
@@ -19953,6 +20059,19 @@
 "price": "$6.39",
 "release": "Nov 24, 2026",
 "ts": "2026-11-26T00:50:52.983347+00:00"
+},
+"5531790": {
+"desc": "Tidy up the oasis! Scoop the desert into your backpack, turn sand into gold and upgrade from a cotton glove to a full-blown sandstorm. Uncover a green oasis, hidden treasure and helpful robots, alone or with up to 3 friends in online co-op.",
+"descriptors": [],
+"genres": [
+"Casual",
+"Indie",
+"Simulation"
+],
+"name": "Desert Cleaner",
+"price": "$2.99",
+"release": "Nov 20, 2026",
+"ts": "2026-11-27T21:48:15.449801+00:00"
 },
 "5532770": {
 "desc": "The best-looking flight sim the 90s never had. Pick a job at a real airport, watch your plane fly it in real time, and get paid when it lands. A relaxed flight career over the real world, with live weather, thousands of airports and pilots from everywhere sharing one sky.",
